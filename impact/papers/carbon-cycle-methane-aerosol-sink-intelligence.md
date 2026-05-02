@@ -237,7 +237,7 @@ The Global Carbon Project publishes the annual Global Carbon Budget — the inte
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 ### Phase 0 — Benchmark and Validation (0–12 Months)
 

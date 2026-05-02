@@ -17,8 +17,8 @@ registry_ids:
   - "I.D72"
   - "I.P30"
   - "I.T33"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/InterfaceWidth.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-spectrum-interface-width/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/InterfaceWidth.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-spectrum-interface-width/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/InterfaceWidth.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/InterfaceWidth.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Spectrum/InterfaceWidth.lean`
 - SHA-256: `d13f8b030ac06453f72b23fb995a4d3042221536ff22558575f13652cf6bc096`

@@ -31,9 +31,9 @@ layout: default
     <div class="filter-group" data-filter-group="status">
       <span class="filter-label">Status</span>
       <div class="filter-chips">
-        <button class="filter-chip chip-status-confirmed" data-filter="status" data-value="confirmed" type="button">Confirmed</button>
-        <button class="filter-chip chip-status-consistent" data-filter="status" data-value="consistent" type="button">Consistent</button>
-        <button class="filter-chip chip-status-testable" data-filter="status" data-value="testable" type="button">Testable</button>
+        <button class="filter-chip chip-status-confirmed" data-filter="status" data-value="confirmed" type="button">Internally matched</button>
+        <button class="filter-chip chip-status-consistent" data-filter="status" data-value="consistent" type="button">Consistent with data</button>
+        <button class="filter-chip chip-status-testable" data-filter="status" data-value="testable" type="button">Committed test path</button>
       </div>
     </div>
 
@@ -64,6 +64,13 @@ layout: default
       {%- if fals.current_status == "confirmed" -%}{%- assign status_rank = 1 -%}
       {%- elsif fals.current_status == "consistent" -%}{%- assign status_rank = 2 -%}
       {%- endif -%}
+      {%- assign fals_status_label = fals.current_status | capitalize -%}
+      {%- if fals.current_status == "confirmed" -%}{%- assign fals_status_label = "Internally matched" -%}
+      {%- elsif fals.current_status == "consistent" -%}{%- assign fals_status_label = "Consistent with data" -%}
+      {%- elsif fals.current_status == "testable" -%}{%- assign fals_status_label = "Committed test path" -%}
+      {%- endif -%}
+      {%- assign fals_title = fals.title -%}
+      {%- if fals.id == "N23" -%}{%- assign fals_title = "N23 — Dark-matter detection non-observation commitment" -%}{%- endif -%}
       <li class="falsification-card"
           data-domain="{{ fals.domain }}"
           data-status="{{ fals.current_status }}"
@@ -75,10 +82,10 @@ layout: default
           <div class="falsification-card-top">
             <span class="chip chip-small chip-fals-id">{{ fals.id }}</span>
             <span class="chip chip-small">{{ fals.domain_display }}</span>
-            <span class="chip chip-small chip-status-{{ fals.current_status }}">{{ fals.current_status | capitalize }}</span>
+            <span class="chip chip-small chip-status-{{ fals.current_status }}">{{ fals_status_label }}</span>
             {% if fals.seam %}<span class="chip chip-small chip-seam" title="Falsifiable seam — τ vs orthodox, structurally incompatible claim">{{ site.data.seams[fals.seam] | default: fals.seam }}</span>{% endif %}
           </div>
-          <h3 class="falsification-card-title">{{ fals.title }}</h3>
+          <h3 class="falsification-card-title">{{ fals_title }}</h3>
           <div class="falsification-card-meta">
             <span class="falsification-experiment">{{ fals.experiment }}</span>
             {% if fals.timeline and fals.timeline != "" %}

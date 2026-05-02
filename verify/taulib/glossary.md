@@ -3,6 +3,9 @@ layout: program-doc
 title: "TauLib Glossary"
 permalink: /verify/taulib/glossary/
 lane: verify
+v2_lane: verify
+type: "TauLib Reference"
+status: "Canonical"
 summary_short: "Key terms, symbols, constants, and structures used throughout TauLib."
 right_rail:
   related:

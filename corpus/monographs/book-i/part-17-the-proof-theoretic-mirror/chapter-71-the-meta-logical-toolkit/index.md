@@ -20,7 +20,7 @@ prev_chapter_url: "/corpus/monographs/book-i/part-16-the-presheaf-essence/chapte
 prev_chapter_title: "Chapter 70: The Holomorphy Bi-Square"
 next_chapter_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-72-diagonal-discipline-as-linear-logic/"
 next_chapter_title: "Chapter 72: Diagonal Discipline as Linear Logic"
-summary_short: "Book I's sixty-seven chapters build Category τ from five generators and seven axioms. Every object, operation, and theorem is earned. But the proofs…"
+summary_short: "Book I's seventy-nine chapters build Category τ from five generators and seven axioms. Every object, operation, and theorem is earned. But the proofs…"
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
@@ -53,7 +53,7 @@ canonical_source: "corpus/monograph-projections"
 do_not_edit: true
 ---
 
-Book I's sixty-seven chapters build Category τ
+Book I's seventy-nine chapters build Category τ
 from five generators and seven axioms.
 Every object, operation, and theorem is earned.
 But the proofs themselves were written

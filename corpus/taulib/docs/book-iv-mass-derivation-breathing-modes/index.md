@@ -24,8 +24,8 @@ registry_ids:
   - "IV.R338"
   - "IV.T114"
   - "IV.T115"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/MassDerivation/BreathingModes.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-mass-derivation-breathing-modes/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/MassDerivation/BreathingModes.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-mass-derivation-breathing-modes/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -52,6 +52,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/MassDerivation/BreathingModes.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/MassDerivation/BreathingModes.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/MassDerivation/BreathingModes.lean`
 - SHA-256: `e9960036c3f02b3146e9eea0b30e47e8ca1d093a7b4c26176015a645aa6d49a2`

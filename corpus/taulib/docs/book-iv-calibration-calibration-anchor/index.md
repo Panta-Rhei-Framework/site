@@ -18,8 +18,8 @@ registry_ids:
   - "IV.R07"
   - "IV.T05"
   - "IV.T06"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/CalibrationAnchor.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-calibration-calibration-anchor/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/CalibrationAnchor.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-calibration-calibration-anchor/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/CalibrationAnchor.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/CalibrationAnchor.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Calibration/CalibrationAnchor.lean`
 - SHA-256: `3baf56728d6f5c15791545ab545bc4165adb45baaa5456ce0fa5ac0c0915d279`

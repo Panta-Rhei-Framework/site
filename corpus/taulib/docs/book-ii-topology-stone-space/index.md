@@ -17,8 +17,8 @@ registry_ids:
   - "II.T07"
   - "II.T08"
   - "II.T09"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Topology/StoneSpace.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-topology-stone-space/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Topology/StoneSpace.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-topology-stone-space/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Topology/StoneSpace.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Topology/StoneSpace.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Topology/StoneSpace.lean`
 - SHA-256: `f5ca723fb6e914119ae24eed4a860b62003290c2b15bb31d92d1a8c67999915c`

@@ -62,3 +62,5 @@ fragmentation as predictable structural outcomes of cover failure
 — too many patches, not enough gluing — rather than as purely
 individual defects. The Fragmentation Proposition (VII.P24)
 formalizes the link between cover complexity and coherence loss.
+
+<div class="notice note"><strong>Mental-health boundary.</strong> This chapter uses "schizophrenia" as a book-internal metaphor for social and semantic fragmentation under overload. It is not a clinical account, diagnostic model, treatment recommendation, or claim about the causes of schizophrenia as a medical condition.</div>

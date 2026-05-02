@@ -15,8 +15,8 @@ line_count: 91
 registry_ids:
   - "VI.D51"
   - "VI.T28"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Consumer/Immune.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-consumer-immune/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Consumer/Immune.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-consumer-immune/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Consumer/Immune.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Consumer/Immune.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Consumer/Immune.lean`
 - SHA-256: `ff02f6b97048a9df6319469f2c4317c1c6031f53dcab78a354b95de72059c336`

@@ -28,8 +28,8 @@ registry_ids:
   - "IV.T60"
   - "IV.T61"
   - "IV.T62"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/EWMixing.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-electroweak-ewmixing/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/EWMixing.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-electroweak-ewmixing/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -54,6 +54,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/EWMixing.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/EWMixing.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Electroweak/EWMixing.lean`
 - SHA-256: `597b05ced6e677f7b550cbdfb14c6c9e7339b3201b32fa67230e6752c75c29fe`

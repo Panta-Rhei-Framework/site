@@ -3,6 +3,9 @@ layout: program-doc
 title: "Filter Rules — Which Count Means What"
 permalink: /verify/filter-rules/
 lane: verify
+v2_lane: verify
+type: "Filter-Rule Manifest"
+status: "Canonical"
 summary_short: "Authoritative manifest of the filter rules applied by every count claim on this site. When the registry root, the per-book dashboard, and the TauLib status page show different numbers for the same book, this page names the rule each surface applies and what it counts — so apparent drift becomes legible as a filter choice, not a data-integrity bug."
 right_rail:
   related:

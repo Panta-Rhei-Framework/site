@@ -29,8 +29,8 @@ registry_ids:
   - "V.T35"
   - "V.T36"
   - "V.T37"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/NonlinearEinstein.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-field-nonlinear-einstein/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/NonlinearEinstein.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-field-nonlinear-einstein/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -55,6 +55,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/NonlinearEinstein.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/NonlinearEinstein.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/GravityField/NonlinearEinstein.lean`
 - SHA-256: `28df1aa3267845871d41d272e445a9a99d3b6b0dcbeac7c6da68da1150fe0c16`

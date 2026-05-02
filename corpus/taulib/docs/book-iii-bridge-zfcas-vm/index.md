@@ -16,8 +16,8 @@ registry_ids:
   - "III.D67"
   - "III.D68"
   - "III.D70"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Bridge/ZFCasVM.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-bridge-zfcas-vm/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Bridge/ZFCasVM.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-bridge-zfcas-vm/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Bridge/ZFCasVM.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Bridge/ZFCasVM.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Bridge/ZFCasVM.lean`
 - SHA-256: `1a64f8f4634f892864efe5df574b16ca77d0a2ca078b053bb4dd71cc67ae3f9b`

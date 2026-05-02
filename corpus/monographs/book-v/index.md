@@ -107,4 +107,4 @@ that connects them.
 
 - **Registry**: [58 chapters mapped to registry objects]({{ '/registry/books/book-v/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-v/' | relative_url }})
-- **Formalization**: [TauLib BookV](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookV](/corpus/taulib/docs/) — Lean 4 verification

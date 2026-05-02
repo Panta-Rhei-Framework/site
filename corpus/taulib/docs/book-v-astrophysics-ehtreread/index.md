@@ -33,8 +33,8 @@ registry_ids:
   - "V.T230"
   - "V.T95"
   - "V.T96"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/EHTReread.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-astrophysics-ehtreread/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/EHTReread.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-astrophysics-ehtreread/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -59,6 +59,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/EHTReread.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/EHTReread.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Astrophysics/EHTReread.lean`
 - SHA-256: `c805ae9b57b8ed73e26fcfc14162d4ce4862699de00bb005a1deceefb1f0c2c6`

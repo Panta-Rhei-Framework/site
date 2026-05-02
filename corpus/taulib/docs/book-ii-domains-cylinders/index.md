@@ -17,8 +17,8 @@ registry_ids:
   - "II.D10"
   - "II.D11"
   - "II.T04"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Domains/Cylinders.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-domains-cylinders/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Domains/Cylinders.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-domains-cylinders/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Domains/Cylinders.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Domains/Cylinders.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Domains/Cylinders.lean`
 - SHA-256: `980d0e163fd030044eaa9af9d5a153c9467c92286679dcc5ed2b04f3070c4216`

@@ -41,7 +41,7 @@ This paper adopts a deliberate conditional stance:
 2. **Ask what practical and public-good consequences would follow if those capabilities were integrated into health facilities, schools, camps, and climate-vulnerable settlements.**
 3. **Separate clearly:** what official institutions already know and already want; what τ would newly provide under the assumption; and what impact scenarios are reasoned planning inferences rather than official forecasts.
 
-This is a **yellow paper**. It is assumption-led, deployment-oriented, and public-good framed. It does not claim that external institutions have accepted the strongest τ assumptions. It asks what follows **if** those assumptions are true enough to matter operationally.
+This is a **yellow paper**. It is assumption-led, translation-oriented, and public-good framed. It does not claim that external institutions have accepted the strongest τ assumptions. It asks what follows **if** those assumptions are true enough to matter operationally.
 
 ### 1.2 Scope of Paper 5
 
@@ -304,7 +304,7 @@ Taken together, the existing tool ecosystem is strong on assessment, monitoring,
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 A credible deployment pathway for τ WASH in critical-service and vulnerable-settlement settings should progress through four stages, with each stage building on evidence from the previous.
 

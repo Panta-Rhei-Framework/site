@@ -27,8 +27,8 @@ registry_ids:
   - "V.T82"
   - "V.T83"
   - "V.T84"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-astrophysics-kepler-solar-system/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-astrophysics-kepler-solar-system/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean`
 - SHA-256: `d2d3a4810e724d1966d23645c61fab7169ae3bb11f4c08d1893811609e51470e`

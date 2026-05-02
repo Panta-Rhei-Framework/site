@@ -17,8 +17,8 @@ registry_ids:
   - "II.D13"
   - "II.P04"
   - "II.T05"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Domains/Ultrametric.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-domains-ultrametric/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Domains/Ultrametric.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-domains-ultrametric/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Domains/Ultrametric.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Domains/Ultrametric.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Domains/Ultrametric.lean`
 - SHA-256: `bccbdbc7c962bfa4c9c2b320de1f77cfe5356dd134996068a7997841aac1399c`

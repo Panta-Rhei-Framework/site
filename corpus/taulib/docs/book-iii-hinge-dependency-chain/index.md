@@ -16,8 +16,8 @@ registry_ids:
   - "III.D66"
   - "III.P29"
   - "III.P30"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Hinge/DependencyChain.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-hinge-dependency-chain/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Hinge/DependencyChain.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-hinge-dependency-chain/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Hinge/DependencyChain.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Hinge/DependencyChain.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Hinge/DependencyChain.lean`
 - SHA-256: `018f8c7ab3ec4d1a32ecf6809d3d050d99b7cca538ac611afae9f9dc97624333`

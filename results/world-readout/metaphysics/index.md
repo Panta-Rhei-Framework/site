@@ -3,6 +3,9 @@ layout: program-doc
 title: "Metaphysics World-Readout"
 permalink: /results/world-readout/metaphysics/
 lane: results
+v2_lane: results
+type: "World Readout"
+status: "Canonical"
 section: "Results · Metaphysics World Readout"
 nav_order: 1
 summary_short: "The metaphysics world-readout cluster of the Results lane."

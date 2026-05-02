@@ -16,8 +16,8 @@ registry_ids:
   - "I.D73"
   - "I.P31"
   - "I.P32"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/ThreeSAT.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-spectrum-three-sat/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/ThreeSAT.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-spectrum-three-sat/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/ThreeSAT.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/ThreeSAT.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Spectrum/ThreeSAT.lean`
 - SHA-256: `869faf2047d267e263f34b57643b7f48d416e1ffb63838af1daf82d710bf0a72`

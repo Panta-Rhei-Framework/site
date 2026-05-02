@@ -8,9 +8,9 @@ layout: default
 <header class="hero-card">
   <div class="module-eyebrow-row">
     {% if page.projection_kind == "taulib_declaration" %}
-    <span class="eyebrow">Verify · TauLib · Declaration Projection</span>
+    <span class="eyebrow">Corpus · TauLib · Declaration Projection</span>
     {% else %}
-    <span class="eyebrow">Verify · TauLib · Module Projection</span>
+    <span class="eyebrow">Corpus · TauLib · Module Projection</span>
     {% endif %}
     {% if page.book %}<span class="chip">Book {{ page.book }}</span>{% endif %}
     {% if page.kind %}<span class="chip">{{ page.kind }}</span>{% endif %}
@@ -55,6 +55,13 @@ layout: default
   {% if page.upstream_url %}
   <p><a href="{{ page.upstream_url }}" target="_blank" rel="noopener">Open pinned upstream source</a></p>
   {% endif %}
+</section>
+{% endif %}
+
+{% if page.module == "TauLib.Tour.VerifyItYourself" or page.title == "TauLib.Tour.VerifyItYourself" %}
+<section class="content-card taulib-formal-scope-note" aria-labelledby="taulib-formal-scope-note-heading">
+  <h2 id="taulib-formal-scope-note-heading">Formal scope note</h2>
+  <p>TauLib lets a reader reproduce the Lean-side checks for formalized statements in this module neighborhood. It does not by itself verify empirical truth, bridge adequacy, semantic correspondence, domain interpretation, or external acceptance.</p>
 </section>
 {% endif %}
 

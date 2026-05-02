@@ -112,10 +112,10 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
   <h2>One Corpus, several public projections</h2>
   <p>Corpus truth lives in the Corpus and Registry. Publications crystallize the Corpus into citable artifacts. Results present current consequence surfaces. Verify exposes formal, empirical, and review routes. TauLib provides the Lean&nbsp;4 formalization projection.</p>
   <div class="v2-system-strip">
-    <div class="v2-system-node"><strong>Kernel</strong>Five generators, one primitive progression operator, K0–K6, and the foundational-hinge route.</div>
+    <div class="v2-system-node"><strong>Kernel</strong>Five generators, one operator, and K0-K6 axioms, with the foundational-hinge route.</div>
     <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects, monograph drilldowns, construction spine, foundational hinges, and dependency graph.</div>
     <div class="v2-system-node"><strong>TauLib</strong>Pinned Lean&nbsp;4 formalization with 522 modules, 0 sorry, and 3 custom axioms in Book&nbsp;III bridge territory.</div>
-    <div class="v2-system-node"><strong>Results</strong>Typed result pages, 67 quantitative predictions, and 30 falsification tests.</div>
+    <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</div>
     <div class="v2-system-node"><strong>Verify</strong>Release Manifest, audit routes, prediction timing, falsification pack, and TCB disclosure.</div>
     <div class="v2-system-node"><strong>Publications</strong>Research Monographs, research papers, supplements, notes, briefings, white papers, release artifacts, and errata.</div>
   </div>

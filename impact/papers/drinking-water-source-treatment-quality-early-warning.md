@@ -219,7 +219,7 @@ The equity dimension is acute: the populations most dependent on at-risk tube we
 
 ---
 
-## §10 Deployment Ladder
+## §10 Evidence and Translation Ladder
 
 The deployment ladder for Paper 1 is organized around four phases that progress from shadow-mode validation through full climate-resilient integration. Each phase has explicit deliverables and goals that build on the preceding phase.
 

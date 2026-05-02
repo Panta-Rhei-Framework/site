@@ -14,8 +14,8 @@ family: "Coda"
 line_count: 267
 registry_ids:
   - "IV.R190"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Coda/SelfDescribing.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-coda-self-describing/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Coda/SelfDescribing.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-coda-self-describing/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -40,6 +40,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Coda/SelfDescribing.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Coda/SelfDescribing.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Coda/SelfDescribing.lean`
 - SHA-256: `72e857d909e4fbc50694543d7b125abde91176e52e5c1bacf23e9ace7f122a27`

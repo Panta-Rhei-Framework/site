@@ -14,7 +14,7 @@ right_rail:
     - title: "Recovery Requirements"
       url: /program/research-agenda/recovery-requirements/
     - title: "Results Mirror"
-      url: /results/problem-ledger/
+      url: /results/problem-ledger-answers/
   meta:
     type: "Source Policy"
     scope: "Problem Ledger"

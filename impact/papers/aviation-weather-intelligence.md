@@ -67,7 +67,7 @@ The **intended audience** for this paper spans airlines and airline operational 
 
 **Regulatory framing:** The paper is oriented around ICAO Annex 3, which governs meteorological service for international air navigation and mandates SIGMET and AIRMET information products, WAFS wind/temperature forecasts, and volcanic ash and tropical cyclone advisory services.[18] τ-grade improvements to the physical substrate underlying these products are entirely within the institutional framework already established by ICAO. The paper treats τ as a next-generation physical engine for ICAO-mandated meteorological products, not as a replacement of the regulatory infrastructure those products operate within.
 
-**Yellow paper caveat:** This paper is assumption-led and deployment-oriented. It does not assert that the broader scientific community has accepted the τ framework. It asks what would follow, for aviation weather intelligence, if those assumptions were sound enough to matter operationally.
+**Yellow paper caveat:** This paper is assumption-led and translation-oriented. It does not assert that the broader scientific community has accepted the τ framework, that any aviation authority has validated it, or that operational readiness has been established. It asks what would follow, for aviation weather intelligence, if those assumptions were sound enough to matter operationally.
 
 ---
 
@@ -403,9 +403,9 @@ A regional airspace system covering 2–4 million flights per year (comparable t
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
-Deployment of τ aviation weather intelligence proceeds through four phases, each building the evidence base and institutional trust required for the next.
+Evaluation of τ aviation weather intelligence proceeds through four phases, each building the evidence base and institutional trust required for the next. This is a conditional translation ladder, not a statement that any aviation authority has adopted or validated the system.
 
 ### Phase 1 — Shadow Mode (0–18 Months)
 
@@ -421,7 +421,7 @@ Deployment of τ aviation weather intelligence proceeds through four phases, eac
 - Quantified performance comparison against WAFS and leading commercial weather products on the benchmark tasks
 - Documented error bounds and uncertainty product comparisons
 - Institutional trust-building scorecards shared openly with FAA/NOAA/EUROCONTROL research communities
-- Identification of highest-value deployment clusters for Phase 2
+- Identification of highest-value evaluation clusters for Phase 2
 
 **Institutional partners for Phase 1:** NCAR (National Center for Atmospheric Research), NOAA/ESRL, DLR (German Aerospace Center), EUROCONTROL MUAC research arm, FAA Technical Center
 
@@ -513,13 +513,13 @@ Aviation is one of the most gender-imbalanced industries in the global economy. 
 
 Weather delays and cancellations are not equitably distributed. Remote communities dependent on aviation for basic connectivity — many Alaskan communities, Pacific island communities, communities in northern Canada and Greenland, highland communities in Papua New Guinea, and remote communities in Sub-Saharan Africa — bear disproportionate harm from weather-driven service disruption because aviation is their only access to medical care, food supply, and economic connection. These communities also have the least leverage over the aviation weather intelligence systems that govern the reliability of their connections.
 
-τ aviation weather intelligence has a specific equity obligation: not only to improve commercial airline operations in major hub markets, but to improve the reliability of thin aviation connections in climate-vulnerable and remote communities. The deployment ladder in Section 10 should include an explicit track for public-good deployment in high-vulnerability, low-commercial-viability settings, funded through development finance mechanisms rather than commercial ROI alone.
+τ aviation weather intelligence has a specific equity obligation: not only to improve commercial airline operations in major hub markets, but to improve the reliability of thin aviation connections in climate-vulnerable and remote communities. The evidence and translation ladder in Section 10 should include an explicit track for public-good evaluation in high-vulnerability, low-commercial-viability settings, funded through development finance mechanisms rather than commercial ROI alone.
 
 ### 12.3 Labor Dimension
 
 τ aviation weather intelligence is an augmentation technology, not a workforce displacement technology. The operational meteorologists who currently produce SIGMETs, AIRMETs, and aviation weather advisories exercise skilled professional judgment calibrated on years of operational experience. τ makes their tools better, not their jobs redundant. This framing is both accurate and important for stakeholder acceptance.
 
-A realistic Phase 2 deployment will create new work — integration engineering, shadow-mode validation, benchmark protocol development, regulatory documentation — while not reducing the meteorologist headcount required to produce ICAO-mandated products. Phase 3, when τ begins to improve the physical engine underlying automated WAFS products, may reduce manual SIGWX analyst workload at WAFC centres. This transition should be managed with full respect for existing workforce agreements and with retraining pathways for personnel whose roles change.
+A realistic Phase 2 evaluation would create new work — integration engineering, shadow-mode validation, benchmark protocol development, regulatory documentation — while not reducing the meteorologist headcount required to produce ICAO-mandated products. Phase 3, if τ begins to improve the physical engine underlying automated WAFS products, may reduce manual SIGWX analyst workload at WAFC centres. This transition should be managed with full respect for existing workforce agreements and with retraining pathways for personnel whose roles change.
 
 ### 12.4 Access Equity in Weather Intelligence Infrastructure
 

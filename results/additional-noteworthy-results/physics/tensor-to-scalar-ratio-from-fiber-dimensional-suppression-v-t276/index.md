@@ -43,7 +43,7 @@ related_public_surfaces:
   -
     surface_type: "falsification_facet"
     surface_id: "N9"
-    title: "N9 — Tensor-to-scalar ratio $r = _^4 0.0136$"
+    title: "N9 — Tensor-to-scalar ratio $r = ι_τ^4 = 0.0136$"
     url: "/falsifications/n9-tensor-to-scalar-ratio-r-4-00136/"
     match_basis: "facet_title_summary"
     match_confidence: "medium"
@@ -94,7 +94,7 @@ r = iota_tau^(2*dim(T^2)) = iota_tau^4 ~ 0.01357. Exponent 4 = 2x2: fiber dimens
 
 - [Primordial Gravitational Waves](/results/problem/primordial-gravitational-waves/)
 - [Tensor-to-Scalar Ratio r = ιτ⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/)
-- [N9 — Tensor-to-scalar ratio $r = _^4 0.0136$](/falsifications/n9-tensor-to-scalar-ratio-r-4-00136/)
+- [N9 — Tensor-to-scalar ratio $r = ι_τ^4 = 0.0136$](/falsifications/n9-tensor-to-scalar-ratio-r-4-00136/)
 - [Tensor-to-Scalar Ratio r = ιτ⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/)
 - [Tensor-to-Scalar Ratio r](/predictions/r/)
 

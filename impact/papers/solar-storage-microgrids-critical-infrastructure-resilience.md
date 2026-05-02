@@ -270,7 +270,7 @@ The competitive gap τ is positioned to address is the absence of a **physics-fa
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 ### Phase 1 — 0 to 24 months: site-level twins for critical facilities
 

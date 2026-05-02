@@ -104,6 +104,11 @@ for (const [path, target] of [
     "/publications/books/book-i/part-01-the-coherence-kernel/chapter-02-the-five-generators/",
     "/corpus/monographs/book-i/part-01-the-coherence-kernel/chapter-02-the-five-generators/"
   ],
+  ["/verify/taulib/docs/book-i/", "/corpus/taulib/docs/book-i/"],
+  [
+    "/verify/taulib/docs/book-iii-arithmetic-abcconjecture/",
+    "/corpus/taulib/docs/book-iii-arithmetic-abcconjecture/"
+  ],
   ["/framework", "/corpus/"],
   ["/framework/about/", "/corpus/"],
   ["/framework/mathematics-coherence-kernel/", "/corpus/"],
@@ -120,5 +125,6 @@ for (const [path, target] of [
 
 assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/monograph-supplements/numerical-physics-ledger/"), null);
 assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/books/book-i/"), null);
+assert.equal(edgeRedirectFor("https://panta-rhei.site/verify/taulib/docs/"), null);
 
-console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, and 13 redirect cases passed`);
+console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, and 15 redirect cases passed`);

@@ -409,7 +409,7 @@ Operational agrometeorological advisory services qualify as climate adaptation i
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The deployment architecture proposed here is designed to minimize institutional risk, build the evidence base progressively, and create natural decision gates before major financing commitments.
 

@@ -15,8 +15,8 @@ line_count: 144
 registry_ids:
   - "V.L4"
   - "V.L5"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/TauSchwarzschildScale.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-field-tau-schwarzschild-scale/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/TauSchwarzschildScale.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-field-tau-schwarzschild-scale/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/TauSchwarzschildScale.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/TauSchwarzschildScale.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/GravityField/TauSchwarzschildScale.lean`
 - SHA-256: `21e7fc01d37d80856922c39464ec004ef5f1576ddf5a65930d8ad08513571084`

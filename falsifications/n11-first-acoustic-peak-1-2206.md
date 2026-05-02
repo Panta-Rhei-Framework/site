@@ -1,6 +1,6 @@
 ---
 layout: "falsification-page"
-title: "N11 — First acoustic peak $_1 = 220.6$"
+title: "N11 — First acoustic peak ℓ₁ = 220.6"
 permalink: "/falsifications/n11-first-acoustic-peak-1-2206/"
 lane: "results"
 falsification_id: "N11"
@@ -8,14 +8,14 @@ n_num: 11
 tier: "B"
 domain: "particle-physics"
 domain_display: "Particle Physics"
-prediction: "ell-1 = 220.6. acoustic peaks!prediction pred:n11 M3h holonomy (V.T190), where $_b$ undershoot ($-1.2%$) compensates $_m$ overshoot ($+4.1%$) in the sound horizon."
+prediction: "ell-1 = 220.6. Acoustic peak prediction: M3h holonomy (V.T190), where $ω_b$ undershoot ($-1.2%$) compensates $ω_m$ overshoot ($+4.1%$) in the sound horizon."
 experiment: "Planck legacy, CMB-S4"
 timeline: "confirmed at $+0.28%$."
 current_status: "confirmed"
 registry_id: "V.T190"
 canonical_books:
   - "V"
-summary_short: "N11: First acoustic peak $_1 = 220.6$. Planck legacy, CMB-S4."
+summary_short: "N11: First acoustic peak ℓ₁ = 220.6. Planck legacy, CMB-S4."
 right_rail:
   toc: false
   related:

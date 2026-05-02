@@ -44,22 +44,22 @@ related_registry_items:
 related_taulib_modules:
   -
     title: "TauLib.BookI.Denotation.Arithmetic"
-    url: "/verify/taulib/docs/book-i-denotation-arithmetic/"
+    url: "/corpus/taulib/docs/book-i-denotation-arithmetic/"
   -
     title: "TauLib.BookII.Geometry.Betweenness"
-    url: "/verify/taulib/docs/book-ii-geometry-betweenness/"
+    url: "/corpus/taulib/docs/book-ii-geometry-betweenness/"
   -
     title: "TauLib.BookII.Geometry.Congruence"
-    url: "/verify/taulib/docs/book-ii-geometry-congruence/"
+    url: "/corpus/taulib/docs/book-ii-geometry-congruence/"
   -
     title: "TauLib.BookII.Geometry.PaschParallel"
-    url: "/verify/taulib/docs/book-ii-geometry-pasch-parallel/"
+    url: "/corpus/taulib/docs/book-ii-geometry-pasch-parallel/"
   -
     title: "TauLib.BookI.Boundary.Iota"
-    url: "/verify/taulib/docs/book-i-boundary-iota/"
+    url: "/corpus/taulib/docs/book-i-boundary-iota/"
   -
     title: "TauLib.BookI.Boundary.NumberTower"
-    url: "/verify/taulib/docs/book-i-boundary-number-tower/"
+    url: "/corpus/taulib/docs/book-i-boundary-number-tower/"
 related_books:
   -
     title: "Book I"
@@ -109,13 +109,13 @@ verification:
   taulib_modules:
     -
       title: "TauLib.BookI.Denotation.Arithmetic"
-      url: "/verify/taulib/docs/book-i-denotation-arithmetic/"
+      url: "/corpus/taulib/docs/book-i-denotation-arithmetic/"
     -
       title: "TauLib.BookI.Boundary.Iota"
-      url: "/verify/taulib/docs/book-i-boundary-iota/"
+      url: "/corpus/taulib/docs/book-i-boundary-iota/"
     -
       title: "TauLib.BookI.Boundary.NumberTower"
-      url: "/verify/taulib/docs/book-i-boundary-number-tower/"
+      url: "/corpus/taulib/docs/book-i-boundary-number-tower/"
   bridge_check_status: "pending_bridge_verification"
   bridge_checks:
     - "Check that recovered mathematics is explicit about what transfers to standard mathematics and what remains τ-effective, qualified, refused, or conjectural."
@@ -306,12 +306,12 @@ Downstream consequence: if this hinge fails, the numerical physics ledger loses 
 
 ## TauLib modules
 
-- [TauLib.BookI.Denotation.Arithmetic](/verify/taulib/docs/book-i-denotation-arithmetic/)
-- [TauLib.BookII.Geometry.Betweenness](/verify/taulib/docs/book-ii-geometry-betweenness/)
-- [TauLib.BookII.Geometry.Congruence](/verify/taulib/docs/book-ii-geometry-congruence/)
-- [TauLib.BookII.Geometry.PaschParallel](/verify/taulib/docs/book-ii-geometry-pasch-parallel/)
-- [TauLib.BookI.Boundary.Iota](/verify/taulib/docs/book-i-boundary-iota/)
-- [TauLib.BookI.Boundary.NumberTower](/verify/taulib/docs/book-i-boundary-number-tower/)
+- [TauLib.BookI.Denotation.Arithmetic](/corpus/taulib/docs/book-i-denotation-arithmetic/)
+- [TauLib.BookII.Geometry.Betweenness](/corpus/taulib/docs/book-ii-geometry-betweenness/)
+- [TauLib.BookII.Geometry.Congruence](/corpus/taulib/docs/book-ii-geometry-congruence/)
+- [TauLib.BookII.Geometry.PaschParallel](/corpus/taulib/docs/book-ii-geometry-pasch-parallel/)
+- [TauLib.BookI.Boundary.Iota](/corpus/taulib/docs/book-i-boundary-iota/)
+- [TauLib.BookI.Boundary.NumberTower](/corpus/taulib/docs/book-i-boundary-number-tower/)
 
 ## Book locations
 

@@ -15,8 +15,8 @@ line_count: 157
 registry_ids:
   - "I.D01"
   - "I.D28"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/Iota.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-boundary-iota/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/Iota.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-boundary-iota/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/Iota.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/Iota.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Boundary/Iota.lean`
 - SHA-256: `9ff3d7baa03d3c0c90706b131b8471b121a190cc15de25399d0830a35a04d4ed`

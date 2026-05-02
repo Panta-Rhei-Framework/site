@@ -3,6 +3,9 @@ layout: program-doc
 title: "How to Audit — Prior-Art Specialist Route"
 permalink: /verify/how-to-audit/prior-art-specialist/
 lane: verify
+v2_lane: verify
+type: "Inspection Route"
+status: "Canonical"
 summary_short: "For specialists in Fueter-regular analysis, Hilbert-Pólya / Connes spectral programs, Furey / octonionic Standard Model, autopoiesis / IIT / FEP, or MOND / Verlinde / entropic gravity. The load-bearing question is whether τ's claims in your zone are genuinely new or isomorphic relabelings of existing work."
 plain_language_summary: "If you've spent a career inside one of the framework's adjacent programs — Fueter regular analysis, Hilbert-Pólya, Connes spectral triples, Furey's octonionic Standard Model, autopoiesis / IIT / FEP for life, MOND / Verlinde for gravity — you're best positioned to answer one specific question: are τ's claims in your zone *genuinely new structural results*, or are they *isomorphic relabelings* of work already in your literature? The page below names the τ-claims most adjacent to each of those programs and routes you to the specific construction so you can compare directly."
 right_rail:

@@ -77,8 +77,8 @@ The research paper develops a countable profinite construction, a canonical uniq
 
 ## TauLib evidence
 
-- [TauLib.BookI.Boundary.SplitComplex](/verify/taulib/docs/book-i-boundary-split-complex/)
-- [TauLib.BookI.Boundary.Ring](/verify/taulib/docs/book-i-boundary-ring/)
+- [TauLib.BookI.Boundary.SplitComplex](/corpus/taulib/docs/book-i-boundary-split-complex/)
+- [TauLib.BookI.Boundary.Ring](/corpus/taulib/docs/book-i-boundary-ring/)
 
 ## Failure consequence
 

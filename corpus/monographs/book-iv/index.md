@@ -85,4 +85,4 @@ and the E₁ export contracts—so that nothing need be re-derived.
 
 - **Registry**: [73 chapters mapped to registry objects]({{ '/registry/books/book-iv/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-iv/' | relative_url }})
-- **Formalization**: [TauLib BookIV](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookIV](/corpus/taulib/docs/) — Lean 4 verification

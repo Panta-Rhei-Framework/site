@@ -32,7 +32,7 @@ The underlying burden is large, well-documented, and institutionally acknowledge
 
 **Key Finding 5.** The finance ecosystem for this domain is substantial and growing: the World Bank's One Health Platform has committed approximately USD 2 billion across IDA and IBRD lending; GCF's anticipatory-action window is open to national-level biosecurity applications; FAO's Emergency and Resilience Trust Fund supports early-action deployments; and WOAH's Global Health Emergency Fund specifically targets animal-disease preparedness. Cost scenarios of USD 5–12 million per country and USD 30–60 million for a regional East Africa/Sahel corridor platform are consistent with this funding landscape.
 
-This is a yellow paper: assumption-led, deployment-oriented, and public-good framed. It does not claim that the agricultural, veterinary, or scientific communities have accepted the τ assumptions. It asks what would follow — institutionally, financially, and operationally — if those assumptions hold well enough to matter.
+This is a yellow paper: assumption-led, translation-oriented, and public-good framed. It does not claim that the agricultural, veterinary, or scientific communities have accepted the τ assumptions. It asks what would follow — institutionally, financially, and operationally — if those assumptions hold well enough to matter.
 
 ---
 
@@ -372,7 +372,7 @@ The analogous case for animal disease is less precisely documented at the system
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1: Shadow Mode Against Current Public Systems (0–18 months)
 

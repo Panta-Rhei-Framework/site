@@ -8,7 +8,7 @@ n_num: 21
 tier: "B"
 domain: "particle-physics"
 domain_display: "Particle Physics"
-prediction: "h = 0.6735. Hubble constant!prediction pred:n21 $$-native $H_0 = 67.35$~km/s/Mpc (V.T196), matching Planck but not SH0ES. If future concordance settles on $H_0 > 70$, $$ is in tension."
+prediction: "h = 0.6735. Hubble constant prediction: τ-native $H_0 = 67.35$~km/s/Mpc (V.T196), matching Planck but not SH0ES. If future concordance settles on $H_0 > 70$, $$ is in tension."
 experiment: "DESI, JWST, gravitational wave standard sirens"
 timeline: "2025–2035."
 current_status: "consistent"

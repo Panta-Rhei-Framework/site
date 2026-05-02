@@ -29,18 +29,30 @@ right_rail:
 
 Not all results make the same kind of claim. Some are formal results, some are bridge claims, some are numerical predictions, and some are interpretive world readouts.
 
-v2.2 makes those differences explicit through frontmatter, badges, right-rail metadata, and search filters.
+The current Results surface makes those differences explicit through frontmatter, badges, right-rail metadata, and search filters.
 
 ## Classification families
 
-<div class="v2-grid">
+{% assign type_descriptions = "consequence::Domain-facing consequences and answer surfaces that read from the constructed Corpus.;foundational_math::Mathematical spine results that carry kernel, self-enrichment, and formal-structure burdens.;frontier_problem::Problem-ledger answer routes that classify public stress-test problems without implying external settlement.;structural_readout::Interpretive world-readout or cross-domain consequences that depend on the Corpus architecture." | split: ";" %}
+
+<ul class="v2-grid v2-card-list">
   {% for group in type_groups %}
-  <div class="v2-tile" id="{{ group.name | slugify }}">
-    <strong>{{ group.name | replace: "_", " " | capitalize }}</strong>
-    <span>{{ group.size }} result pages currently use this type.</span>
-  </div>
+  {% assign description = "" %}
+  {% for entry in type_descriptions %}
+    {% assign parts = entry | split: "::" %}
+    {% if parts[0] == group.name %}
+      {% assign description = parts[1] %}
+    {% endif %}
   {% endfor %}
-</div>
+  <li>
+    <article class="v2-tile" id="{{ group.name | slugify }}">
+      <h3>{{ group.name | replace: "_", " " | capitalize }}</h3>
+      <p>{{ description | default: "A typed result family in the current public catalogue." }}</p>
+      <p class="hero-meta">{{ group.size }} result pages currently use this type.</p>
+    </article>
+  </li>
+  {% endfor %}
+</ul>
 
 ## Status grammar
 

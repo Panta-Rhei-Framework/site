@@ -17,8 +17,8 @@ registry_ids:
   - "II.D43"
   - "II.D44"
   - "II.T30"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Hartogs/LaurentResidue.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-hartogs-laurent-residue/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Hartogs/LaurentResidue.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-hartogs-laurent-residue/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Hartogs/LaurentResidue.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Hartogs/LaurentResidue.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Hartogs/LaurentResidue.lean`
 - SHA-256: `7d410631bdc256369995428e93136e630d42c9e2718e29d5802832564294236e`

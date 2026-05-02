@@ -504,7 +504,7 @@ Beyond grant and concessional finance, three sustainability models are viable at
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow mode on existing systems (0–18 months)
 

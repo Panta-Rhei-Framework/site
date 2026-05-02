@@ -18,8 +18,8 @@ registry_ids:
   - "I.D114"
   - "I.D84"
   - "I.P49"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/TauRealInv.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-boundary-tau-real-inv/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/TauRealInv.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-boundary-tau-real-inv/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -51,6 +51,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/TauRealInv.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/TauRealInv.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Boundary/TauRealInv.lean`
 - SHA-256: `2fa7dc16297ab0a20364eef7cd008c9a6effe114444d1336ef1d9a6618f6809c`

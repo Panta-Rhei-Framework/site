@@ -27,6 +27,8 @@ right_rail:
 
 Three frontier-LLM first-pass assessments were run on the public Panta Rhei Research surface in April 2026. Their red-team question lists converged on roughly the same ten questions. This page answers them directly, with pointers to the load-bearing evidence. No question has been softened or reframed; where the honest answer is "partial" or "not yet," that is what this page says.
 
+The assessment workflow itself is inspectable through [Assessment Protocols]({{ '/verify/assessments/' | relative_url }}), the [reviewer workflow]({{ '/verify/assessments/reviewer-workflow/' | relative_url }}), the [dossier schema]({{ '/verify/assessments/dossier-schema/' | relative_url }}), the [three-gate rubric]({{ '/verify/assessments/three-gate-rubric/' | relative_url }}), and the pinned [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}). These links document the current public evidence surface; they are not a substitute for external expert review.
+
 The accountability posture behind this FAQ is stated in [Independence, Scope, and Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}): independence increases the duty to expose evidence, status, and failure surfaces.
 
 ## 1. Is ι<sub>τ</sub> = 2/(π+e) forced or fitted? {#is-iota-tau-fitted-or-forced}
@@ -41,7 +43,7 @@ Primary review artifact: [Hinge 3 — The Master Constant iota_tau]({{ '/corpus/
 
 **Answer: structurally a priori; historically category-mixed.**
 
-All 67 predictions are *structurally* a priori because they flow algebraically from ι<sub>τ</sub>, which is kernel-fixed. *Historically*, they split into three categories: ~50 are post-dictions of pre-existing measured constants (retro-consistency surface), ~10 are forward commitments on open empirical tensions (Hubble, W mass, muon g−2), and ~7 are genuine forward predictions on not-yet-measured quantities (CMB-S4 r, neutrino mass sum, proton stability, 0νββ at τ-predicted half-life, no monopoles, no SUSY). The framework does not claim per-prediction pre-registration — it does not have dated archival records for pre-framework publication. **The honest accounting is on the [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}).**
+As of the April 2026 public release manifest, the 67 predictions are *structurally* a priori because they flow algebraically from ι<sub>τ</sub>, which is kernel-fixed. *Historically*, they split into three categories: ~50 are post-dictions of pre-existing measured constants (retro-consistency surface), ~10 are forward commitments on open empirical tensions (Hubble, W mass, muon g−2), and ~7 are genuine forward predictions on not-yet-measured quantities (CMB-S4 r, neutrino mass sum, proton stability, 0νββ at τ-predicted half-life, no monopoles, no SUSY). The framework does not claim per-prediction pre-registration — it does not have dated archival records for pre-framework publication. **The honest accounting is on the [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}).**
 
 ## 3. Does TauLib introduce custom `axiom` declarations beyond Mathlib's trusted base?
 
@@ -83,7 +85,7 @@ Every claim page on the site carries a **registry ID** (e.g., `II.T40`, `VI.D44`
 
 **Answer: no. The typing discipline exposes rather than hides.**
 
-The current catalogue is 234 claim pages (exact count, per `_data/results/results.json`). Grouped by bridge status:
+As of the April 2026 public release manifest, the current catalogue is 234 claim pages (exact count, per `_data/results/results.json`). Grouped by bridge status:
 
 - **130 are status Internally addressed (R)** — full τ-internal theorem with formal proof chain closed to the orthodox public formulation
 - **72 are status Internal** — τ-internal structural readout (no external bridge target; most metaphysics + many biology entries)
@@ -97,7 +99,7 @@ The typing discipline *surfaces* Partial, Qualitative, Contradicted, and Not-Add
 
 **Answer: CMB-S4 measurement of r inconsistent with ι<sub>τ</sub><sup>4</sup> ≈ 0.0136 at ≥5σ.**
 
-The framework commits in writing to r = ι<sub>τ</sub><sup>4</sup> = (2/(π+e))<sup>4</sup> ≈ 0.01363. CMB-S4 targets σ(r) ≈ 0.001 over the 2028–2035 observing window, giving 14σ discriminant power. **If the measured value is inconsistent with 0.01363 at ≥5σ, the framework's cosmological sector fails.** This is the principal falsification seam and is documented as entry N1 in the [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}).
+The framework commits in writing to r = ι<sub>τ</sub><sup>4</sup> = (2/(π+e))<sup>4</sup> ≈ 0.01363. CMB-S4 targets σ(r) ≈ 0.001 over the 2028–2035 observing window, giving 14σ discriminant power. **If the measured value is inconsistent with 0.01363 at ≥5σ, the framework's cosmological sector fails.** This is the principal falsification seam and is documented as entry N9 in the [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}).
 
 Other single-result falsifiers, each with 5σ thresholds and named experiments:
 
@@ -112,7 +114,7 @@ The framework does **not** treat any single result as sufficient to validate it 
 
 ## Framing note
 
-These ten questions are not the framework's own marketing pitch. They were reconstructed from the red-team question lists in three independent frontier-LLM first-pass assessments (Compass, Deep Research, and the Gate-1/2/3 assessment dossier). They represent the questions a fair-minded skeptical reviewer would ask first. The framework earns its review-readiness not by having comfortable answers to them but by having *testable* answers with load-bearing evidence. Every pointer in this FAQ leads to that evidence.
+These ten questions are not the framework's own marketing pitch. They were reconstructed from the red-team question lists in three independent frontier-LLM first-pass assessments (Compass, Deep Research, and the Gate-1/2/3 assessment dossier), using the public [assessment protocol surfaces]({{ '/verify/assessments/' | relative_url }}) as the review frame. They represent the questions a fair-minded skeptical reviewer would ask first. The framework earns its review-readiness not by having comfortable answers to them but by having *testable* answers with load-bearing evidence. Every pointer in this FAQ leads to that evidence.
 
 A reader who finds an answer insufficient is exactly the reader this FAQ is written for. The framework's response to "insufficient" is the invitation to inspect the Lean proof, follow the registry chain, or bring the question to formal review — not to refine the marketing copy.
 

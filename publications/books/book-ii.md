@@ -34,8 +34,7 @@ right_rail:
   - title: Registry Dashboard
     url: /registry/dashboards/book-ii/
   - title: TauLib (frozen)
-    url: https://github.com/Panta-Rhei-Research/formalization
-    external: true
+    url: /corpus/taulib/docs/
   meta:
     type: Canonical Book
     layer: "E₀ Mathematics"
@@ -114,4 +113,4 @@ Welcome to the holomorphic interior.
 
 - **Registry**: [68 chapters mapped to registry objects]({{ '/registry/books/book-ii/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-ii/' | relative_url }})
-- **Formalization**: [TauLib BookII](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookII](/corpus/taulib/docs/) — Lean 4 verification

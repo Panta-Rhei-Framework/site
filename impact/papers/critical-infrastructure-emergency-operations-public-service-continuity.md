@@ -366,7 +366,7 @@ For critical infrastructure continuity specifically, the LBNL estimate of USD 28
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow-Mode Continuity Benchmarking (Months 0–18)
 

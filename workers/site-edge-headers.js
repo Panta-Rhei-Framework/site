@@ -71,6 +71,10 @@ function dynamicRedirectFor(pathname) {
     return pathname.replace("/publications/books/", "/corpus/monographs/");
   }
 
+  if (pathname.startsWith("/verify/taulib/docs/") && pathname !== "/verify/taulib/docs/") {
+    return pathname.replace("/verify/taulib/docs/", "/corpus/taulib/docs/");
+  }
+
   if (pathname === "/framework" || pathname === "/framework/") {
     return "/corpus/";
   }

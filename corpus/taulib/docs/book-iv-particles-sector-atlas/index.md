@@ -23,8 +23,8 @@ registry_ids:
   - "IV.T80"
   - "IV.T81"
   - "IV.T82"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Particles/SectorAtlas.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-particles-sector-atlas/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Particles/SectorAtlas.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-particles-sector-atlas/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Particles/SectorAtlas.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Particles/SectorAtlas.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Particles/SectorAtlas.lean`
 - SHA-256: `4c2fbc774b1a86e0867539b5d86c05e75cde32bb947a5340ce3f5dd3f470bf55`

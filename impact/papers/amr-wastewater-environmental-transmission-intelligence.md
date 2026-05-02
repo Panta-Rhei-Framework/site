@@ -399,7 +399,7 @@ The more relevant economic framing for environmental AMR surveillance is not epi
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The deployment path for a τ-grade AMR and wastewater intelligence system follows a four-phase ladder from targeted pilots to full national and multilateral integration. Each phase is designed to be self-justifying — generating demonstrated value that supports the next phase — rather than requiring front-loaded commitments to the full system.
 

@@ -25,8 +25,8 @@ registry_ids:
   - "IV.P15"
   - "IV.R14"
   - "IV.R15"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-quantum-mechanics-quantum-characters/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-quantum-mechanics-quantum-characters/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -52,6 +52,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean`
 - SHA-256: `5b9e4bb84a71a670dcdfa2761300786e25052ed05064c76c2e8e81454c35c2b9`

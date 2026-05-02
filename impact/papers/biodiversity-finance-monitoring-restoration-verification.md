@@ -415,7 +415,7 @@ TNFD adoption by financial institutions creates an additional pull signal. As na
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The transition from current biodiversity monitoring practice to integrated τ-grade biodiversity finance and MRV intelligence is best structured as a three-phase ladder. Each phase produces independent value while building the infrastructure for the next.
 

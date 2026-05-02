@@ -386,7 +386,7 @@ More importantly, the **collection efficiency gain** provides direct operational
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Diagnostics and Shadow-Mode Operation (Months 0–24)
 

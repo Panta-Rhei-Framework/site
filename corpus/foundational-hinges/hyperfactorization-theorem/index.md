@@ -67,7 +67,7 @@ The paper presents a unique tower-atom decomposition and connects that decomposi
 
 ## TauLib evidence
 
-- [TauLib.BookIII.Spectrum.KernelHinge](/verify/taulib/docs/book-iii-spectrum-kernel-hinge/)
+- [TauLib.BookIII.Spectrum.KernelHinge](/corpus/taulib/docs/book-iii-spectrum-kernel-hinge/)
 - Dedicated H1 theorem documentation (pending explicit TauLib docs mapping)
 
 ## Failure consequence

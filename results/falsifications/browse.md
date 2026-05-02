@@ -20,7 +20,7 @@ right_rail:
     updated: April 2026
 ---
 
-The **30-Prediction Falsification Pack** identifies the sharpest points where Category τ makes specific, testable claims that named experiments can verify or refute. Each prediction carries an ID (N1–N30), a domain, a named experiment, a timeline, and a current observational status (4 confirmed, 26 consistent-and-testable as of April 2026). The full 30-card grid, filterable by domain and status, sits below.
+The **30-Prediction Falsification Pack** identifies the sharpest points where Category τ makes specific, testable claims that named experiments can verify or refute. Each prediction carries an ID (N1–N30), a domain, a named experiment, a timeline, and a current program-side tracking status (4 internally matched to current public data, 26 consistent-and-testable as of April 2026). The full 30-card grid, filterable by domain and status, sits below.
 
 ## Three falsification tiers
 
@@ -70,7 +70,7 @@ Each card below carries:
 - **N-ID** (N1–N30) and **domain** tag (particle physics, CMB/inflation, dark sector, collective dynamics, BBN, black holes)
 - **Tier** — *A* (calibration-class, ~0.025 ppm), *B* (closing-identity, ~3 ppm), or *binary* (yes/no structural falsifier); see the three-tier explanation above for what each tier commits the framework to
 - **Named experiment(s)** responsible for the test, with a 2025–2035 timeline (plus or minus — some extend through 2040+)
-- **Current status** — *confirmed* (already falsified-or-confirmed at ≥3σ), *consistent* (present data matches τ-derived value within uncertainty; decisive test awaits the named experiment), or *testable* (committed but not yet live)
+- **Current status** — *internally matched to current public data* (program-side match to an existing public measurement), *consistent with current public data* (present data does not break the τ-derived value; decisive test awaits the named experiment), or *committed test path* (published commitment, not yet live). These are program tracking labels, not external acceptance labels.
 - **Scope label** — all 30 pack entries are **τ-effective** (quantitative τ-derivation with a measurable discriminant); a small number carry **conjectural** flags where the derivation requires an axiom still in compute-then-axiomatize status (see [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}))
 
 The complete typeset document (209 pp) with full derivations, tables, experimental timelines, and falsification logic per test is available as a free download: [**Numerical Physics Ledger (PDF, 1.11 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).

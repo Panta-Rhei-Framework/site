@@ -447,7 +447,7 @@ A consortium of port authorities, shipping associations, or a green-corridor coa
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 A realistic phased deployment path for τ-grade climate-smart shipping intelligence would proceed as follows.
 

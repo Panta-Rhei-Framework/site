@@ -417,7 +417,7 @@ In the EU context, the European Soil Strategy 2030 and associated LIFE+ remediat
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — 0 to 24 months: Retrospective validation and shadow-mode operation
 

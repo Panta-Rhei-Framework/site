@@ -544,7 +544,7 @@ To make the paper concrete and testable, five plausible lighthouse pilots are pr
 
 ---
 
-## 11. Deployment Ladder
+## 11. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow-Planning Mode
 

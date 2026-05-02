@@ -22,8 +22,8 @@ registry_ids:
   - "III.T69"
   - "III.T70"
   - "III.T71"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectral/GoldbachDeep.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-spectral-goldbach-deep/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectral/GoldbachDeep.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-spectral-goldbach-deep/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectral/GoldbachDeep.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectral/GoldbachDeep.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Spectral/GoldbachDeep.lean`
 - SHA-256: `f846b2fc3851bff3bc0b51da2255da411c10d91b0763d42dfb9a1be8a2473d2b`

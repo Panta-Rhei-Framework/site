@@ -34,8 +34,7 @@ right_rail:
   - title: Registry Dashboard
     url: /registry/dashboards/book-iii/
   - title: TauLib (frozen)
-    url: https://github.com/Panta-Rhei-Research/formalization
-    external: true
+    url: /corpus/taulib/docs/
   meta:
     type: Canonical Book
     layer: "E₀ Mathematics (Hinge)"
@@ -70,4 +69,4 @@ Physics *is* E₁.
 
 - **Registry**: [76 chapters mapped to registry objects]({{ '/registry/books/book-iii/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-iii/' | relative_url }})
-- **Formalization**: [TauLib BookIII](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookIII](/corpus/taulib/docs/) — Lean 4 verification

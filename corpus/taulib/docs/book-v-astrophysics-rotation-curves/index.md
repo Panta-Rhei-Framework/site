@@ -67,8 +67,8 @@ registry_ids:
   - "V.T209"
   - "V.T210"
   - "V.T85"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/RotationCurves.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-astrophysics-rotation-curves/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/RotationCurves.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-astrophysics-rotation-curves/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -93,6 +93,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/RotationCurves.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/RotationCurves.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Astrophysics/RotationCurves.lean`
 - SHA-256: `6248cfa71df9d3843fc031ea9e3b499866174ddb57c2cd59773840c2c5cbe9a7`

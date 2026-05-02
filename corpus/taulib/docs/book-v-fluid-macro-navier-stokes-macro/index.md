@@ -34,8 +34,8 @@ registry_ids:
   - "V.T254"
   - "V.T70"
   - "V.T71"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/FluidMacro/NavierStokesMacro.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-fluid-macro-navier-stokes-macro/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/FluidMacro/NavierStokesMacro.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-fluid-macro-navier-stokes-macro/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -60,6 +60,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/FluidMacro/NavierStokesMacro.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/FluidMacro/NavierStokesMacro.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/FluidMacro/NavierStokesMacro.lean`
 - SHA-256: `1742b34a5558084801ed38dece63f1a63c57bf3b96029f60cc68a4a97b0a46fa`

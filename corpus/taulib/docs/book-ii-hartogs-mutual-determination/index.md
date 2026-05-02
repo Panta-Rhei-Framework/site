@@ -18,8 +18,8 @@ registry_ids:
   - "II.L04"
   - "II.L05"
   - "II.T27"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Hartogs/MutualDetermination.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-hartogs-mutual-determination/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Hartogs/MutualDetermination.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-hartogs-mutual-determination/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Hartogs/MutualDetermination.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Hartogs/MutualDetermination.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Hartogs/MutualDetermination.lean`
 - SHA-256: `8c9eccf216b6af50bb492025c165ca4a84d3f3903269223df6018dc7870fed88`

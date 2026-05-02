@@ -451,7 +451,7 @@ Similarly, reinsurers active in marine pollution lines have direct financial inc
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The deployment architecture follows a staged risk management logic: begin with shadow validation (no operational role, no risk), progress to co-pilot decision support (parallel role with existing system as primary), and advance to operational integration only after demonstrated performance.
 

@@ -15,8 +15,8 @@ line_count: 178
 registry_ids:
   - "I.D74"
   - "I.T34"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/KernelHinge.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-spectrum-kernel-hinge/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/KernelHinge.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-spectrum-kernel-hinge/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/KernelHinge.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/KernelHinge.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Spectrum/KernelHinge.lean`
 - SHA-256: `6ac0fae4ac25d727dff5d8f737f6afc114b7e53f70507c6ffa1fda97cfa4d5b3`

@@ -76,4 +76,4 @@ that connects Book I to the rest of the series.
 
 - **Registry**: [79 chapters mapped to registry objects]({{ '/registry/books/book-i/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-i/' | relative_url }})
-- **Formalization**: [TauLib BookI](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookI](/corpus/taulib/docs/) — Lean 4 verification

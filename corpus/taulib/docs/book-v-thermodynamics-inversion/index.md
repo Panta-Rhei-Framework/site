@@ -29,8 +29,8 @@ registry_ids:
   - "V.R117"
   - "V.R118"
   - "V.T55"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Thermodynamics/Inversion.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-thermodynamics-inversion/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Thermodynamics/Inversion.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-thermodynamics-inversion/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -55,6 +55,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Thermodynamics/Inversion.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Thermodynamics/Inversion.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Thermodynamics/Inversion.lean`
 - SHA-256: `7e99d0ee1537c1e422b022b3d323d3c60b5104d07bd5e3c3bd9d2cb5b53602b9`

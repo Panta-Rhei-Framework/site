@@ -17,8 +17,8 @@ registry_ids:
   - "III.D54"
   - "III.P21"
   - "III.T31"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Computation/Admissibility.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-computation-admissibility/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Computation/Admissibility.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-computation-admissibility/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Computation/Admissibility.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Computation/Admissibility.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Computation/Admissibility.lean`
 - SHA-256: `dc1b475ca3f304f003ca96dc1f391cf308c43f428b1c5b6d3cf866de44add40b`

@@ -3,6 +3,9 @@ layout: program-doc
 title: "Trust Budget and TCB Disclosure"
 permalink: /verify/tcb/
 lane: verify
+v2_lane: verify
+type: "Trust Disclosure"
+status: "Canonical"
 summary_short: "The trust budget: what Lean's kernel trusts, and what TauLib extends it by. TauLib uses `native_decide` in approximately 1,800 places — including the Book II Central Theorem — which extends the trusted computing base beyond Lean's kernel to include `Lean.ofReduceBool` and `Lean.trustCompiler`. This page discloses that cost, locates it, and explains why it is accepted."
 plain_language_summary: "Every formal verification system trusts *something*. Lean trusts its own kernel; Coq, Agda, Isabelle, and Mathlib all do the same. The honest question is: what *additional* things does TauLib trust beyond Lean's kernel, and does the program disclose them clearly? The answer: TauLib uses Lean's `native_decide` tactic in about 1,800 places (including Book II's Central Theorem). That tactic trusts the Lean compiler itself, on top of the kernel — a wider trust base than purely kernel-checked proofs. This page is the explicit accounting of that cost: what's in the trusted computing base (TCB), what enters and leaves it, and why the program accepts this trade-off rather than hides it."
 right_rail:

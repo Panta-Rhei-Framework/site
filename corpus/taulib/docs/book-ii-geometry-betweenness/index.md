@@ -15,8 +15,8 @@ line_count: 118
 registry_ids:
   - "II.D19"
   - "II.T15"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Geometry/Betweenness.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-geometry-betweenness/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Geometry/Betweenness.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-geometry-betweenness/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Geometry/Betweenness.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Geometry/Betweenness.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Geometry/Betweenness.lean`
 - SHA-256: `18ad4a22e05e1cf38adbf7674968c8fe4ebf4399b8bf83946f4d2365cbe0fa0b`

@@ -484,7 +484,7 @@ The USD 5–15 million investment to unlock a USD 5–20 billion market represen
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow Advisory Services (0–24 months)
 

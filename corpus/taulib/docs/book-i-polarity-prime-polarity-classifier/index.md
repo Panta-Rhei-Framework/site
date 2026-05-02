@@ -16,8 +16,8 @@ registry_ids:
   - "I.D130"
   - "I.D27"
   - "I.T87"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/PrimePolarityClassifier.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-polarity-prime-polarity-classifier/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/PrimePolarityClassifier.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-polarity-prime-polarity-classifier/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/PrimePolarityClassifier.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/PrimePolarityClassifier.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Polarity/PrimePolarityClassifier.lean`
 - SHA-256: `534c1da41b9be97ea268940291077014a2d65119ae889ed0dc4c1be0154ad09b`

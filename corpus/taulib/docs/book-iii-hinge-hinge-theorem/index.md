@@ -15,8 +15,8 @@ line_count: 407
 registry_ids:
   - "III.T41"
   - "III.T42"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Hinge/HingeTheorem.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-hinge-hinge-theorem/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Hinge/HingeTheorem.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-hinge-hinge-theorem/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Hinge/HingeTheorem.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Hinge/HingeTheorem.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Hinge/HingeTheorem.lean`
 - SHA-256: `e888d5e2042a9a16d3edd22538b68c93e474e2e5b2496562a754ed5e291eadef`

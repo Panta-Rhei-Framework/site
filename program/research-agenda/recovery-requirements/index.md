@@ -15,6 +15,8 @@ hero_ctas:
     url: /program/research-agenda/recovery-requirements/physics/
   - label: "Life"
     url: /program/research-agenda/recovery-requirements/life/
+  - label: "Metaphysics"
+    url: /program/research-agenda/recovery-requirements/metaphysics/
 right_rail:
   related:
     - title: "Problem Ledger"

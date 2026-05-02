@@ -37,19 +37,19 @@ related_registry_items:
 related_taulib_modules:
   -
     title: "TauLib.BookI.Topos.InternalHom"
-    url: "/verify/taulib/docs/book-i-topos-internal-hom/"
+    url: "/corpus/taulib/docs/book-i-topos-internal-hom/"
   -
     title: "TauLib.BookI.Topos.Functors"
-    url: "/verify/taulib/docs/book-i-topos-functors/"
+    url: "/corpus/taulib/docs/book-i-topos-functors/"
   -
     title: "TauLib.BookI.Topos.EarnedTopos"
-    url: "/verify/taulib/docs/book-i-topos-earned-topos/"
+    url: "/corpus/taulib/docs/book-i-topos-earned-topos/"
   -
     title: "TauLib.BookII.Enrichment.SelfEnrichment"
-    url: "/verify/taulib/docs/book-ii-enrichment-self-enrichment/"
+    url: "/corpus/taulib/docs/book-ii-enrichment-self-enrichment/"
   -
     title: "TauLib.BookII.Enrichment.SelfDescribing"
-    url: "/verify/taulib/docs/book-ii-enrichment-self-describing/"
+    url: "/corpus/taulib/docs/book-ii-enrichment-self-describing/"
 related_books:
   -
     title: "Book I"
@@ -93,10 +93,10 @@ verification:
   taulib_modules:
     -
       title: "TauLib.BookI.Topos.InternalHom"
-      url: "/verify/taulib/docs/book-i-topos-internal-hom/"
+      url: "/corpus/taulib/docs/book-i-topos-internal-hom/"
     -
       title: "TauLib.BookII.Enrichment.SelfEnrichment"
-      url: "/verify/taulib/docs/book-ii-enrichment-self-enrichment/"
+      url: "/corpus/taulib/docs/book-ii-enrichment-self-enrichment/"
   bridge_check_status: "partial"
   bridge_checks:
     - "Check that internal logical operations and enrichment remain faithful to the kernel discipline and do not silently import external proof power."
@@ -251,11 +251,11 @@ This is where [Hinge 6](/corpus/foundational-hinges/tau-topos-four-valued-intern
 
 ## TauLib modules
 
-- [TauLib.BookI.Topos.InternalHom](/verify/taulib/docs/book-i-topos-internal-hom/)
-- [TauLib.BookI.Topos.Functors](/verify/taulib/docs/book-i-topos-functors/)
-- [TauLib.BookI.Topos.EarnedTopos](/verify/taulib/docs/book-i-topos-earned-topos/)
-- [TauLib.BookII.Enrichment.SelfEnrichment](/verify/taulib/docs/book-ii-enrichment-self-enrichment/)
-- [TauLib.BookII.Enrichment.SelfDescribing](/verify/taulib/docs/book-ii-enrichment-self-describing/)
+- [TauLib.BookI.Topos.InternalHom](/corpus/taulib/docs/book-i-topos-internal-hom/)
+- [TauLib.BookI.Topos.Functors](/corpus/taulib/docs/book-i-topos-functors/)
+- [TauLib.BookI.Topos.EarnedTopos](/corpus/taulib/docs/book-i-topos-earned-topos/)
+- [TauLib.BookII.Enrichment.SelfEnrichment](/corpus/taulib/docs/book-ii-enrichment-self-enrichment/)
+- [TauLib.BookII.Enrichment.SelfDescribing](/corpus/taulib/docs/book-ii-enrichment-self-describing/)
 
 ## Book locations
 

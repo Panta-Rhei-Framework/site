@@ -35,8 +35,8 @@ registry_ids:
   - "V.T143"
   - "V.T144"
   - "V.T158"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Coda/BridgeToLife.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-coda-bridge-to-life/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Coda/BridgeToLife.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-coda-bridge-to-life/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -61,6 +61,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Coda/BridgeToLife.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Coda/BridgeToLife.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Coda/BridgeToLife.lean`
 - SHA-256: `099fec0fb836139dc29c940db135243d15a6fc2b4ceb3081bb1ab955614719e7`

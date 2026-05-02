@@ -16,8 +16,8 @@ registry_ids:
   - "II.D51"
   - "II.D52"
   - "II.T35"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Regularity/CodeDecode.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-regularity-code-decode/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Regularity/CodeDecode.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-regularity-code-decode/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Regularity/CodeDecode.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Regularity/CodeDecode.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Regularity/CodeDecode.lean`
 - SHA-256: `2ec569a740febe67b1ca9c045fbc5f9e89a617aae04ea012f957ab44023c34b0`

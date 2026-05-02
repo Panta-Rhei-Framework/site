@@ -23,8 +23,8 @@ registry_ids:
   - "V.T65"
   - "V.T66"
   - "V.T67"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-thermodynamics-vacuum-no-void/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-thermodynamics-vacuum-no-void/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean`
 - SHA-256: `2768b03763a811c4f7df734bcebe42f8847f789973767b851cb24343e6bfebdc`

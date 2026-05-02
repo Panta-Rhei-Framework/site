@@ -235,7 +235,7 @@ The common gap across all six tools is the absence of a **physics-faithful causa
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 ### Phase 1 — Add τ as an asset-protection and triage layer on existing fleets
 

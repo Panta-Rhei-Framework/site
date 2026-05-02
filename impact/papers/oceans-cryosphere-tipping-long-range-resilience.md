@@ -301,7 +301,7 @@ A number of existing programmes and services address parts of the ocean-cryosphe
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 ### Phase 1 — Overlay Mode on Existing Ocean and Coastal Services (0–12 months)
 

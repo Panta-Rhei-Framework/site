@@ -21,8 +21,8 @@ registry_ids:
   - "IV.P228"
   - "IV.T208"
   - "IV.T209"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/ManyBody/Magnetism.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-many-body-magnetism/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/ManyBody/Magnetism.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-many-body-magnetism/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -47,6 +47,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/ManyBody/Magnetism.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/ManyBody/Magnetism.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/ManyBody/Magnetism.lean`
 - SHA-256: `da2c534166f5f6189735ab40b951c63a26381350acec10ad24c9f9b39682e961`

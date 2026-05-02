@@ -475,7 +475,7 @@ The USD 50–100 per person protected per pre-crisis cycle (WFP's approximate co
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 0: Benchmark and Validation (Months 0–12)
 

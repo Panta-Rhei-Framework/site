@@ -19,8 +19,8 @@ registry_ids:
   - "VII.P29"
   - "VII.T46"
   - "VII.T47"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVII/Final/Boundary.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vii-final-boundary/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVII/Final/Boundary.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vii-final-boundary/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVII/Final/Boundary.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVII/Final/Boundary.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVII/Final/Boundary.lean`
 - SHA-256: `19a028b155d5e69c1a5c17fe0e91e59cdbfb0ba82347036b392755f8f44173b6`

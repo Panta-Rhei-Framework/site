@@ -17,8 +17,8 @@ registry_ids:
   - "V.D02"
   - "V.P01"
   - "V.T01"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/GravitationalConstant.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-gravitational-constant/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/GravitationalConstant.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-gravitational-constant/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/GravitationalConstant.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/GravitationalConstant.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Gravity/GravitationalConstant.lean`
 - SHA-256: `2f671b06efd8e6ec87ae94f90fff3ea92f421d759e84e27371e8fbe8613be922`

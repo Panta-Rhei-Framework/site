@@ -18,8 +18,8 @@ registry_ids:
   - "I.T04"
   - "I.T56"
   - "I.T59"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Coordinates/HyperfactIsomorphism.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-coordinates-hyperfact-isomorphism/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Coordinates/HyperfactIsomorphism.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-coordinates-hyperfact-isomorphism/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Coordinates/HyperfactIsomorphism.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Coordinates/HyperfactIsomorphism.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Coordinates/HyperfactIsomorphism.lean`
 - SHA-256: `b9caeade14865f810d85d9b43a445f7f040324a2028c3dd0aa1e1abe0ff841cc`

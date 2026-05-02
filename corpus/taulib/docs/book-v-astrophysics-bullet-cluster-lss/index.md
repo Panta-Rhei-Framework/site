@@ -31,8 +31,8 @@ registry_ids:
   - "V.T240"
   - "V.T97"
   - "V.T98"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/BulletClusterLSS.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-astrophysics-bullet-cluster-lss/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/BulletClusterLSS.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-astrophysics-bullet-cluster-lss/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -57,6 +57,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/BulletClusterLSS.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/BulletClusterLSS.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Astrophysics/BulletClusterLSS.lean`
 - SHA-256: `a7ad6d71b2f8b7394465abd48f882320cf68d1a0e71489f7555bc3007bb961a8`

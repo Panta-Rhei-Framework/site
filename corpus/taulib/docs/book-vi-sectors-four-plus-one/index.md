@@ -21,8 +21,8 @@ registry_ids:
   - "VI.D20"
   - "VI.L05"
   - "VI.T07"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Sectors/FourPlusOne.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-sectors-four-plus-one/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Sectors/FourPlusOne.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-sectors-four-plus-one/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -47,6 +47,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Sectors/FourPlusOne.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Sectors/FourPlusOne.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Sectors/FourPlusOne.lean`
 - SHA-256: `ba72c148e554ee3f3b8fb097f97a87596d786299c2f5a33c831dbb14169faedc`

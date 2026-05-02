@@ -26,8 +26,8 @@ registry_ids:
   - "IV.P164"
   - "IV.R247"
   - "IV.R248"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/DimensionlessCouplings.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-calibration-dimensionless-couplings/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/DimensionlessCouplings.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-calibration-dimensionless-couplings/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/DimensionlessCouplings.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/DimensionlessCouplings.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Calibration/DimensionlessCouplings.lean`
 - SHA-256: `a5aa33f3fc0bede6e02d7d93efd7d3a94df4ad7237a7a214c77edbdab6db8396`

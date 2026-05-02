@@ -16,8 +16,8 @@ registry_ids:
   - "I.D27"
   - "I.D28"
   - "I.T10"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/BipolarAlgebra.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-polarity-bipolar-algebra/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/BipolarAlgebra.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-polarity-bipolar-algebra/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/BipolarAlgebra.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/BipolarAlgebra.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Polarity/BipolarAlgebra.lean`
 - SHA-256: `39f08922009110d77f82868c8d66eca08ea5fd27060947591cf975d7e474fd8e`

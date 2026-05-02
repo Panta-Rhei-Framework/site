@@ -34,8 +34,8 @@ registry_ids:
   - "V.T250"
   - "V.T251"
   - "V.T72"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/FluidMacro/Turbulence.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-fluid-macro-turbulence/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/FluidMacro/Turbulence.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-fluid-macro-turbulence/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -60,6 +60,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/FluidMacro/Turbulence.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/FluidMacro/Turbulence.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/FluidMacro/Turbulence.lean`
 - SHA-256: `d181fd77929452355641117e25ff12860749acd5aad569e8f120ebd79cabb7c8`

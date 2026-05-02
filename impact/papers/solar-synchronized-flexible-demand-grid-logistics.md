@@ -514,7 +514,7 @@ The B:C ratio improves further when indirect benefits are included: lower capita
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Forecast-Aware Control at the Device and Site Level
 

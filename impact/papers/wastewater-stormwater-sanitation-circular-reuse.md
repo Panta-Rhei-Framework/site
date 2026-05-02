@@ -53,7 +53,7 @@ Three categories of claim are kept strictly distinct throughout:
 - **What τ would newly provide under the assumption** — the planning inference layer, clearly labeled as such throughout.
 - **What impact estimates are planning inferences rather than official forecasts** — quantified with conservative public-value anchors wherever possible and flagged explicitly.
 
-This is a **yellow paper**. It is assumption-led, deployment-oriented, and public-good framed. It does not claim operational validation on real wastewater systems has occurred. That validation is precisely the purpose of the benchmark suite and pilot structure described in Sections 7 and 8.
+This is a **yellow paper**. It is assumption-led, translation-oriented, and public-good framed. It does not claim operational validation on real wastewater systems has occurred. That validation is precisely the purpose of the benchmark suite and pilot structure described in Sections 7 and 8.
 
 ### Scope of This Paper
 
@@ -223,7 +223,7 @@ Understanding where τ fits in the existing commercial and institutional landsca
 
 ---
 
-## 7. Phased Deployment Ladder
+## 7. Phased Evidence and Translation Ladder
 
 ### Phase 1 — Observational Shadow Mode
 

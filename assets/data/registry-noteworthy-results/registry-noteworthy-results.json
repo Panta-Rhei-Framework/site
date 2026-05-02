@@ -10558,7 +10558,7 @@
       {
         "surface_type": "falsification_facet",
         "surface_id": "N11",
-        "title": "N11 — First acoustic peak $_1 = 220.6$",
+        "title": "N11 — First acoustic peak ℓ₁ = 220.6",
         "url": "/falsifications/n11-first-acoustic-peak-1-2206/",
         "match_basis": "facet_title_summary",
         "match_confidence": "high",
@@ -14592,7 +14592,7 @@
       {
         "surface_type": "falsification_facet",
         "surface_id": "N9",
-        "title": "N9 — Tensor-to-scalar ratio $r = _^4 0.0136$",
+        "title": "N9 — Tensor-to-scalar ratio $r = ι_τ^4 = 0.0136$",
         "url": "/falsifications/n9-tensor-to-scalar-ratio-r-4-00136/",
         "match_basis": "facet_title_summary",
         "match_confidence": "medium",
@@ -16276,7 +16276,7 @@
       {
         "surface_type": "falsification_facet",
         "surface_id": "N11",
-        "title": "N11 — First acoustic peak $_1 = 220.6$",
+        "title": "N11 — First acoustic peak ℓ₁ = 220.6",
         "url": "/falsifications/n11-first-acoustic-peak-1-2206/",
         "match_basis": "facet_title_summary",
         "match_confidence": "medium",
@@ -17416,7 +17416,7 @@
       {
         "surface_type": "falsification_facet",
         "surface_id": "N11",
-        "title": "N11 — First acoustic peak $_1 = 220.6$",
+        "title": "N11 — First acoustic peak ℓ₁ = 220.6",
         "url": "/falsifications/n11-first-acoustic-peak-1-2206/",
         "match_basis": "facet_title_summary",
         "match_confidence": "medium",
@@ -17486,7 +17486,7 @@
       {
         "surface_type": "falsification_facet",
         "surface_id": "N16",
-        "title": "N16 — Deuterium abundance from $$-native $_B$",
+        "title": "N16 — Deuterium abundance from τ-native η_B",
         "url": "/falsifications/n16-deuterium-abundance-from-native-b/",
         "match_basis": "facet_title_summary",
         "match_confidence": "medium",

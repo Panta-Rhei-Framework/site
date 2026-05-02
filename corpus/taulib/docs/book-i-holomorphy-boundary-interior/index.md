@@ -16,8 +16,8 @@ registry_ids:
   - "I.C02"
   - "I.D68"
   - "I.P29"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Holomorphy/BoundaryInterior.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-holomorphy-boundary-interior/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Holomorphy/BoundaryInterior.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-holomorphy-boundary-interior/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Holomorphy/BoundaryInterior.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Holomorphy/BoundaryInterior.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Holomorphy/BoundaryInterior.lean`
 - SHA-256: `c5d2851cfa4271174d59ff78302a041421fb02a7973c29a5e96d4e83afe90387`

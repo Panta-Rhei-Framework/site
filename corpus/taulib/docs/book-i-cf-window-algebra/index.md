@@ -13,8 +13,8 @@ book: "BookI"
 family: "CF"
 line_count: 161
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/CF/WindowAlgebra.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-cf-window-algebra/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/CF/WindowAlgebra.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-cf-window-algebra/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -39,6 +39,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/CF/WindowAlgebra.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/CF/WindowAlgebra.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/CF/WindowAlgebra.lean`
 - SHA-256: `4db6f9604652af8e07817e64a80d21c9653e8910cdabf8cb69b07dab19535871`

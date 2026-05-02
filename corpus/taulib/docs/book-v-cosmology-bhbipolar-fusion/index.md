@@ -24,8 +24,8 @@ registry_ids:
   - "V.R225"
   - "V.T111"
   - "V.T112"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Cosmology/BHBipolarFusion.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-cosmology-bhbipolar-fusion/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Cosmology/BHBipolarFusion.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-cosmology-bhbipolar-fusion/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -50,6 +50,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Cosmology/BHBipolarFusion.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Cosmology/BHBipolarFusion.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Cosmology/BHBipolarFusion.lean`
 - SHA-256: `e70cc8f6bb3d1623c511a96e8b8d9a3a28f29d0f1d454f0358ae4fbc62fda8ef`

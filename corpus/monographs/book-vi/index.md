@@ -71,4 +71,4 @@ organizes all of biology by structural role.
 
 - **Registry**: [53 chapters mapped to registry objects]({{ '/registry/books/book-vi/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-vi/' | relative_url }})
-- **Formalization**: [TauLib BookVI](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookVI](/corpus/taulib/docs/) — Lean 4 verification

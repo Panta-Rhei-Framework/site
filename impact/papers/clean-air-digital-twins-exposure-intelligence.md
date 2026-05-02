@@ -86,7 +86,7 @@ Three categories of claim are kept strictly distinct throughout:
 - **What τ would newly provide under the assumption** — the planning inference layer, clearly labeled as such throughout.
 - **What impact estimates are planning inferences rather than official forecasts** — quantified with conservative public-value anchors wherever possible and flagged explicitly.
 
-This is a **yellow paper**. It is assumption-led, deployment-oriented, and public-good framed. It does not claim that operational validation of the τ framework on real atmospheric systems has occurred. That validation is precisely the purpose of the benchmark suite and pilot structure described in Sections 10 and 13.
+This is a **yellow paper**. It is assumption-led, translation-oriented, and public-good framed. It does not claim that operational validation of the τ framework on real atmospheric systems has occurred. That validation is precisely the purpose of the benchmark suite and pilot structure described in Sections 10 and 13.
 
 ### Scope of This Paper
 
@@ -454,7 +454,7 @@ The following named finance windows are actively engaged in clean-air, health, a
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — 0 to 24 Months: Shadow-Mode Integration
 

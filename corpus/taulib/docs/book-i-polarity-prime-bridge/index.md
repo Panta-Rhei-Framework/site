@@ -13,8 +13,8 @@ book: "BookI"
 family: "Polarity"
 line_count: 196
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/PrimeBridge.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-polarity-prime-bridge/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/PrimeBridge.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-polarity-prime-bridge/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -39,6 +39,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/PrimeBridge.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/PrimeBridge.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Polarity/PrimeBridge.lean`
 - SHA-256: `4ec2493d3c689a8ad057c03edb075c0d89923153fafb6cc4a91fc71a33afd039`

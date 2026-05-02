@@ -13,8 +13,8 @@ book: "BookI"
 family: "Boundary"
 line_count: 155
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/TauRealAnalyticalHelpers.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-boundary-tau-real-analytical-helpers/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/TauRealAnalyticalHelpers.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-boundary-tau-real-analytical-helpers/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/TauRealAnalyticalHelpers.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/TauRealAnalyticalHelpers.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Boundary/TauRealAnalyticalHelpers.lean`
 - SHA-256: `2f6e57610b0f7c93678dbb10e11651aaec116897e03658242f69955bcbb29178`

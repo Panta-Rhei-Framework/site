@@ -3,6 +3,9 @@ layout: program-doc
 title: "Scope Labels"
 permalink: /verify/taulib/scope-labels/
 lane: verify
+v2_lane: verify
+type: "TauLib Reference"
+status: "Canonical"
 summary_short: "The 4-tier scope discipline classifying every mathematical claim in TauLib."
 right_rail:
   related:

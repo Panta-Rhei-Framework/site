@@ -20,7 +20,7 @@ right_rail:
 
 The world's freshwater systems are entering a structural governance crisis. UN-Water's 2025 water facts report that **more than 2 billion people** live in countries experiencing water stress and **3.6 billion** face inadequate water access for at least one month every year.[^1] Agriculture still accounts for **72% of global freshwater withdrawals** while covering only 22.5% of cropland as irrigated area — yet that irrigated land generates **48% of global crop value**.[^2][^3] FAO projects that global freshwater demand will exceed supply by **40% by 2030** under business-as-usual trajectories.[^14] The World Bank estimates that water scarcity could reduce GDP by **up to 6%** in the most exposed regions by 2050, with effects cascading across food, energy, manufacturing, and export sectors.[^7] Meanwhile, WMO's **State of Global Water Resources 2024** shows that only **one third of river basins** experienced normal conditions in 2024 — the sixth consecutive year of global hydrological imbalance.[^6]
 
-This dossier examines what would change — in practical, institutional, and financial terms — if the τ categorical framework provides a physically faithful, bounded-error, coarse-grainable discrete twin of basin hydrology, groundwater behavior, drought–flood dynamics, and water-productivity relationships. The framing is deliberate. This is a yellow paper: assumption-led, deployment-oriented, and public-good framed. It does not claim that basin authorities or the broader water community have accepted the τ assumptions. It asks what class of public good would be unlocked if those assumptions were true enough to matter operationally.
+This dossier examines what would change — in practical, institutional, and financial terms — if the τ categorical framework provides a physically faithful, bounded-error, coarse-grainable discrete twin of basin hydrology, groundwater behavior, drought–flood dynamics, and water-productivity relationships. The framing is deliberate. This is a yellow paper: assumption-led, translation-oriented, and public-good framed. It does not claim that basin authorities or the broader water community have accepted the τ assumptions. It asks what class of public good would be unlocked if those assumptions were true enough to matter operationally.
 
 **The five core findings are:**
 
@@ -323,7 +323,7 @@ A τ basin twin, properly deployed, would be expected to materially exceed these
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Stage 1 — Shadow mode in high-stress basins
 

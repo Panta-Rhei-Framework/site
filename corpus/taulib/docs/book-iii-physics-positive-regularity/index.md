@@ -17,8 +17,8 @@ registry_ids:
   - "III.P14"
   - "III.P15"
   - "III.T25"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Physics/PositiveRegularity.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-physics-positive-regularity/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Physics/PositiveRegularity.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-physics-positive-regularity/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Physics/PositiveRegularity.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Physics/PositiveRegularity.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Physics/PositiveRegularity.lean`
 - SHA-256: `2be729bb59231490c27339f7532e235d66412fec1abffa7d33ebd78216872338`

@@ -13,8 +13,8 @@ book: "Tour"
 family: ""
 line_count: 232
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/LifeFromPhysics.lean"
-legacy_verify_url: "/verify/taulib/docs/tour-life-from-physics/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/LifeFromPhysics.lean"
+legacy_verify_url: "/corpus/taulib/docs/tour-life-from-physics/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/LifeFromPhysics.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/LifeFromPhysics.lean)
 - Corpus source path: `taulib-sources/project/TauLib/Tour/LifeFromPhysics.lean`
 - SHA-256: `4ade5c3a18cce7aa5b91de70b1191e67edbcc7f21131923792069e36ce4c5b10`

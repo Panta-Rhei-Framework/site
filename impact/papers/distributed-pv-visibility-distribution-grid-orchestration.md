@@ -266,7 +266,7 @@ The common pattern across incumbents is a gap between the data/communication lay
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 ### Phase 0 — Data and Benchmark Curation
 

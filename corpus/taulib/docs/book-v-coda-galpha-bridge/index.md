@@ -17,8 +17,8 @@ registry_ids:
   - "V.P116"
   - "V.T154"
   - "V.T155"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Coda/GAlphaBridge.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-coda-galpha-bridge/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Coda/GAlphaBridge.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-coda-galpha-bridge/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Coda/GAlphaBridge.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Coda/GAlphaBridge.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Coda/GAlphaBridge.lean`
 - SHA-256: `07b790fcec0d7bc3b47a4562d8802ba1a4a1fdeddd138a89ec704cbf72a3d670`

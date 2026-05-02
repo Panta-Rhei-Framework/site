@@ -84,7 +84,7 @@ The program's public surfaces must make room for:
 
 without collapsing them into one undifferentiated page.
 
-That is why the later [framework lanes]({{ '/corpus/' | relative_url }}) matter so much. The site must be able to show not only scientific content, but how the architecture attempts to carry coherence across different levels of reality and thought.
+That is why the later [Corpus construction surfaces]({{ '/corpus/' | relative_url }}) matter so much. The site must be able to show not only scientific content, but how the architecture attempts to carry coherence across different levels of reality and thought.
 
 ## The wager
 

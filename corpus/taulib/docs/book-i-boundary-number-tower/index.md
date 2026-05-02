@@ -16,8 +16,8 @@ registry_ids:
   - "I.D14"
   - "I.D15"
   - "I.D16"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/NumberTower.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-boundary-number-tower/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/NumberTower.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-boundary-number-tower/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/NumberTower.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/NumberTower.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Boundary/NumberTower.lean`
 - SHA-256: `6b9e18b32208095c80cd5a1957a0c97b7d089c6d890fc64f8375fadeb6895e73`

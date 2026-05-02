@@ -16,8 +16,8 @@ registry_ids:
   - "I.D87"
   - "I.R22"
   - "I.T44"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/Quaternions.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-boundary-quaternions/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/Quaternions.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-boundary-quaternions/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Boundary/Quaternions.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Boundary/Quaternions.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Boundary/Quaternions.lean`
 - SHA-256: `186adf0fe169aa6044606f7aec488f690e2a0cc8dd654c870a36196fe93ac870`

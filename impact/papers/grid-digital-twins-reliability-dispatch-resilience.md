@@ -52,7 +52,7 @@ Three categories of claim are kept distinct throughout:
 - **What τ would newly provide under the assumption** — this is the planning inference layer, clearly labeled as such.
 - **What impact scenarios are planning estimates rather than official forecasts** — these are labeled as scenarios and quantified with conservative public-value anchors wherever possible.
 
-This is a **yellow paper**. It is assumption-led, deployment-oriented, and public-good framed. It belongs to a five-paper energy portfolio. Papers 2 through 5 address complementary domains: distributed energy resources and storage (Paper 2), fusion digital twins and plasma control (Paper 3), advanced fission safety and operations (Paper 4), and integrated energy-system planning, market design, and international coordination (Paper 5). Paper 1 focuses exclusively on bulk-power digital twins, weather-aware reliability analysis, security-constrained dispatch and reserve logic, cascading-failure prevention, outage restoration and black-start planning, and public-good deployment pathways for grid resilience.
+This is a **yellow paper**. It is assumption-led, translation-oriented, and public-good framed. It belongs to a five-paper energy portfolio. Papers 2 through 5 address complementary domains: distributed energy resources and storage (Paper 2), fusion digital twins and plasma control (Paper 3), advanced fission safety and operations (Paper 4), and integrated energy-system planning, market design, and international coordination (Paper 5). Paper 1 focuses exclusively on bulk-power digital twins, weather-aware reliability analysis, security-constrained dispatch and reserve logic, cascading-failure prevention, outage restoration and black-start planning, and public-good deployment pathways for grid resilience.
 
 The intended audience spans utility regulators, energy ministers, transmission system operators (TSOs), grid operators, independent system operators (ISOs) and regional transmission organizations (RTOs), reliability coordinators, emergency management agencies, and infrastructure investors — any institution for which grid reliability is a core accountability and for which better simulation would change decisions.
 
@@ -144,7 +144,7 @@ The common structural ceiling across all six incumbents is the same: none provid
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 A credible deployment pathway avoids "big bang replacement" of operational systems and instead moves through escalating value layers, each of which builds institutional confidence before the next. The ladder has five phases.
 

@@ -3,6 +3,9 @@ layout: program-doc
 title: "How to Audit — Journalist / Skeptic / Generalist Route"
 permalink: /verify/how-to-audit/journalist-skeptic/
 lane: verify
+v2_lane: verify
+type: "Inspection Route"
+status: "Canonical"
 summary_short: "For journalists, science writers, skeptics, and generalist readers without deep domain expertise. A 15-minute scan that lets you decide whether the program is serious enough to warrant coverage or closer inspection — and what to ask a specialist if you go deeper."
 plain_language_summary: "You don't need to be a Lean specialist or a particle physicist to evaluate whether this program is worth your attention. In 15 minutes you can answer: does it ship machine-checkable code? (yes — TauLib in public Lean 4). Does it commit to specific empirical predictions on a fixed timeline? (yes — 67 Numerical Predictions + 30 Falsifications, with named experiments for 2025–2035). Does it disclose its trust budget? (yes — three custom axioms named, zero sorries, TCB explicitly walled). Does it survive its own announced failure modes? (the Falsification Pack is the answer in 5 years). The page below is the 15-minute checklist plus a script of questions to put to a specialist if you decide to go deeper."
 right_rail:

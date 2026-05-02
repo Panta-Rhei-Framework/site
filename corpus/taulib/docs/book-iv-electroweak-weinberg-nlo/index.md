@@ -27,8 +27,8 @@ registry_ids:
   - "IV.T135"
   - "IV.T139"
   - "IV.T140"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/WeinbergNLO.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-electroweak-weinberg-nlo/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/WeinbergNLO.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-electroweak-weinberg-nlo/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -55,6 +55,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/WeinbergNLO.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/WeinbergNLO.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Electroweak/WeinbergNLO.lean`
 - SHA-256: `8b47e1a57864c18c2f6b676f94e2c3f866522cc0dbf0879f353a7c5a4ecd46ed`

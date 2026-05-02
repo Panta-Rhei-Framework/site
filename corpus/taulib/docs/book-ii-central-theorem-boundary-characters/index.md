@@ -15,8 +15,8 @@ line_count: 419
 registry_ids:
   - "II.D59"
   - "II.P14"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-central-theorem-boundary-characters/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-central-theorem-boundary-characters/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean`
 - SHA-256: `037bf20172937ecc178274d017d00dfabf874db2c9ff02d09f335cc609d5f736`

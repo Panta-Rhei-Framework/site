@@ -16,8 +16,8 @@ registry_ids:
   - "VI.D46"
   - "VI.L07"
   - "VI.T25"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Consumer/ConsumerMixer.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-consumer-consumer-mixer/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Consumer/ConsumerMixer.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-consumer-consumer-mixer/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Consumer/ConsumerMixer.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Consumer/ConsumerMixer.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Consumer/ConsumerMixer.lean`
 - SHA-256: `c672502bb9906fa324013f373c716cca2f66ff40778390ce2f35fea20c0f9d10`

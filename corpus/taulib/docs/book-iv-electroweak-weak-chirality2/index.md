@@ -24,8 +24,8 @@ registry_ids:
   - "IV.R383"
   - "IV.T122"
   - "IV.T123"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/WeakChirality2.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-electroweak-weak-chirality2/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/WeakChirality2.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-electroweak-weak-chirality2/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -50,6 +50,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/WeakChirality2.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/WeakChirality2.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Electroweak/WeakChirality2.lean`
 - SHA-256: `e9212c293502a64af605876c87ceb25ca08dd0cb5b5b424409d8e6d95201688d`

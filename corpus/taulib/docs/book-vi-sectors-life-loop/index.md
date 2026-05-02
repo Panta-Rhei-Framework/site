@@ -22,8 +22,8 @@ registry_ids:
   - "VI.P07"
   - "VI.T05"
   - "VI.T06"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Sectors/LifeLoop.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-sectors-life-loop/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Sectors/LifeLoop.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-sectors-life-loop/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -48,6 +48,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Sectors/LifeLoop.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Sectors/LifeLoop.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Sectors/LifeLoop.lean`
 - SHA-256: `487c7ba1127ddd6bdf7c2466a6831c239e0a4dc27c124ca8a82243a68f4d7bf3`

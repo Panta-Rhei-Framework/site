@@ -15,8 +15,8 @@ line_count: 328
 registry_ids:
   - "I.D69"
   - "I.D70"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/TTM.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-spectrum-ttm/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/TTM.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-spectrum-ttm/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectrum/TTM.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectrum/TTM.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Spectrum/TTM.lean`
 - SHA-256: `783c0fddb723baccd32d50681a47ecd480a72490228cf8454f0011720896d2ef`

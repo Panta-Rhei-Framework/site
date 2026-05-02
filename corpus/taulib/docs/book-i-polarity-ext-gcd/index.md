@@ -13,8 +13,8 @@ book: "BookI"
 family: "Polarity"
 line_count: 140
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/ExtGCD.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-polarity-ext-gcd/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/ExtGCD.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-polarity-ext-gcd/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/ExtGCD.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/ExtGCD.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Polarity/ExtGCD.lean`
 - SHA-256: `261df7d3ec661844259ebc176b298d52ae89ebad3c1561e67cb8d71fc9d47473`

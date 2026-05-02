@@ -30,5 +30,5 @@ A 10-module parallel preflight audit swept all ~7,250 content files. The audit s
 3. **TauLib build pin** (M07): created `_data/verify/build.yml` with commit SHA, Lean version, Mathlib rev, license. Surfaced on `/verify/taulib/status/` Build Pin table + every API doc page footer. Reproducibility gap closed.
 4. **Publications data cleanup** (M05): re-cleaned `_data/publications/parts.json` + `chapters.json` — 7 + 13 LaTeX backslash escapes resolved to UTF-8 (Schrodinger→Schr&ouml;dinger, G&ouml;del, Poincar&eacute;, etc.).
 5. **Bibliography overrides cleanup** (M06): fixed LaTeX residue in `_data/bibliography/overrides.yml` (`G\"odel`→G&ouml;del, `L\"ob`→L&ouml;b, `Weizs\"acker`→Weizs&auml;cker, etc.) affecting 9 rendered pages. Rewrote 1 tabular-debris excerpt.
-6. **Changelog catch-up** (M09): this entry + 5 preceding entries covering world-readout clusters, bibliography pipeline, framework diagrams, Books Lane sign-off, and the SEO sprint.
+6. **Changelog catch-up** (M09): this entry + 5 preceding entries covering world-readout clusters, bibliography pipeline, legacy diagram projection work, Books Lane sign-off, and the SEO sprint.
 7. **Impact layout enrichment** (M08): pending — queued as next mini-sprint.

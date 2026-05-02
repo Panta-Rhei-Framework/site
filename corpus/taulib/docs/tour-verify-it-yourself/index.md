@@ -13,8 +13,8 @@ book: "Tour"
 family: ""
 line_count: 251
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/VerifyItYourself.lean"
-legacy_verify_url: "/verify/taulib/docs/tour-verify-it-yourself/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/VerifyItYourself.lean"
+legacy_verify_url: "/corpus/taulib/docs/tour-verify-it-yourself/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/VerifyItYourself.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/VerifyItYourself.lean)
 - Corpus source path: `taulib-sources/project/TauLib/Tour/VerifyItYourself.lean`
 - SHA-256: `9029498440cb826cacb5fbdaaccc418c40a39335d0acd9b52a367b99a4c4d1da`

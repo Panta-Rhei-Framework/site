@@ -45,11 +45,11 @@ The Panta Rhei Research Program is an independent open research program developi
 
 ## What this is
 
-This page gathers public materials for journalists, podcast hosts, public communicators, reviewers, and institutional readers. It is an entry surface into the v2 site, not a replacement for the canonical lanes.
+This page gathers public materials for journalists, podcast hosts, public communicators, reviewers, and institutional readers. It is an entry surface into the current public site, not a replacement for the canonical lanes.
 
 {% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign chapter_count = site.data.publications.chapters | size %}The program's canonical release (April 2026) includes:
 - A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
-- A **Lean 4 formalization library** (TauLib, 522 modules, 0 sorry across all 7 books of TauLib Lean source; Book VI registry-planned, not yet Lean-formalized — see [filter rules]({{ '/verify/filter-rules/' | relative_url }}))
+- A **Lean 4 formalization library** (TauLib, 522 modules; the published formalized modules are built without `sorry`, while Book VI remains registry-planned and not yet fully Lean-formalized — see [filter rules]({{ '/verify/filter-rules/' | relative_url }}))
 - This **research website** ({{ result_count }} key results, {{ registry_count }} registry objects)
 - **Guided tours** and **structural falsification whitepapers**
 
@@ -64,9 +64,9 @@ This media kit is not a peer-review certificate, not a claim that every result i
 - **Master constant**: ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413
 - **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters
 - **Results**: {{ result_count }} key results across 4 domains
-- **Formalization**: 142,406 lines of Lean 4, 4,863 theorems, zero sorry across all 7 books
+- **Formalization**: 142,406 lines of Lean 4 and 4,863 theorem records in the current public projection; published formalized modules are built without `sorry`
 - **Registry**: {{ registry_count }} mathematical objects with dependency graphs
-- **Falsification**: 220+ quantitative predictions with precision claims
+- **Predictions and falsification**: 67 quantitative prediction records plus 30 named falsification tests in the current public projection
 - **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι<sub>τ</sub>⁴ ≈ 0.0136
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 
@@ -137,9 +137,9 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 | Lean 4 modules | 445 |
 | Lines of Lean 4 | 142,406 |
 | Machine-checked theorems | 4,863 |
-| Sorry (unproven) | 0 (across all 7 books) |
+| Sorry (unproven) | 0 in the published formalized modules; Book VI remains registry-planned and not yet fully Lean-formalized |
 | Free parameters | 0 |
-| Quantitative predictions | 220+ |
+| Quantitative predictions | 67 prediction records plus 30 named falsification tests |
 
 ### Author Bios
 

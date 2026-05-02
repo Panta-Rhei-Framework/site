@@ -493,7 +493,7 @@ This programme maps most directly to the following Sustainable Development Goals
 
 ---
 
-## 12. Deployment Ladder
+## 12. Evidence and Translation Ladder
 
 ### Phase 0 — Assumption Clarification and Public-Good Framing (0–6 months)
 **Goal:** Frame τ not as a generalized grand theory, but as a candidate public-good engine for a specific class of Earth-system problems, with an explicit sub-focus on aviation weather and aerial logistics.

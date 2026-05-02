@@ -14,8 +14,8 @@ family: "Enrichment"
 line_count: 338
 registry_ids:
   - "II.D58"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Enrichment/EnrichmentLadder.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-enrichment-enrichment-ladder/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Enrichment/EnrichmentLadder.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-enrichment-enrichment-ladder/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -40,6 +40,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Enrichment/EnrichmentLadder.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Enrichment/EnrichmentLadder.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Enrichment/EnrichmentLadder.lean`
 - SHA-256: `5f3662ad75dc44cb294aedc7b7d152878ba5b34db7cc21bec45c910a9d56b5e8`

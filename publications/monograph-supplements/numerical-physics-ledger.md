@@ -56,6 +56,8 @@ It does not imply external validation, scientific acceptance, or independent con
 
 <div class="notice note"><strong>Artifact status.</strong> This page is the stable publication home for the PDF artifact. The [Results prediction surfaces]({{ '/results/predictions/browse/' | relative_url }}) carry world-facing interpretation; [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}) carries the verification and failure-condition handoff.</div>
 
+<div class="notice note"><strong>Comparison-basis note.</strong> Public result mirrors and older prediction tables may use different comparison baselines while preserving the same route and artifact history. The ledger page states the current publication artifact status; generated Results and Verify surfaces remain the canonical place to inspect per-record status, precision, and external-evidence boundaries.</div>
+
 ## The calibration cascade (the architectural spine)
 
 The entire numerical scorecard rests on **two inputs**:
@@ -165,7 +167,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 </div>
 
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
-  <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 8px;">Chapters 8–10</span>
+  <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 8px;">Chapters 8–12</span>
   <h3 style="font-size: 0.95rem; margin: 0 0 6px;">Foundations & Falsification</h3>
   <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">Measurement problem, why unification failed, the complete inventory + N1–N30</p>
 </div>
@@ -230,7 +232,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
         <li><strong>2029–2033</strong> — ngEHT, BICEP Array, SKA</li>
         <li><strong>2032–2035</strong> — Einstein Telescope, LISA</li>
       </ul>
-      <p style="font-size: 0.82rem; color: #5b6772; margin: 16px 0 0;">Current score (falsification pack, from <code>_data/falsifications/falsifications.json</code>): 4 confirmed, 26 consistent, 0 falsified. 30 total.</p>
+      <p style="font-size: 0.82rem; color: #5b6772; margin: 16px 0 0;">Current score (falsification pack, from <code>_data/falsifications/falsifications.json</code>): 4 internally matched to current public data, 26 consistent with current public data, 0 falsified. 30 total. These are program tracking labels, not external acceptance labels.</p>
     </div>
   </div>
 </div>

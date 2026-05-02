@@ -6,7 +6,8 @@
   <nav class="toc" id="toc" aria-label="On this page">
     {% for part in toc_parts offset:1 %}
     {% assign heading_raw = part | split: '</h2>' | first %}
-    {% assign heading_text = heading_raw | split: '>' | last | strip_html | strip %}
+    {% assign heading_without_anchor = heading_raw | split: '</a>' | first %}
+    {% assign heading_text = heading_without_anchor | split: '>' | last | strip_html | strip %}
     {% assign heading_id = heading_text | slugify %}
     {% if heading_text != "" %}
     <a href="#{{ heading_id }}" class="toc-link">{{ heading_text }}</a>

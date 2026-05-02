@@ -25,8 +25,8 @@ registry_ids:
   - "IV.R222"
   - "IV.T96"
   - "IV.T97"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Arena/BoundaryHolonomy.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-arena-boundary-holonomy/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Arena/BoundaryHolonomy.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-arena-boundary-holonomy/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -51,6 +51,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Arena/BoundaryHolonomy.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Arena/BoundaryHolonomy.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Arena/BoundaryHolonomy.lean`
 - SHA-256: `7492b2621b4ce37e2e4530d231b15bd9b9adfb7189c6dd8505dceff7481e22ce`

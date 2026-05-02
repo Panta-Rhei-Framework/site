@@ -18,8 +18,8 @@ registry_ids:
   - "VII.T41"
   - "VII.T43"
   - "VII.T47"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/GuidedTour/BookVII.lean"
-legacy_verify_url: "/verify/taulib/docs/tour-guided-tour-book-vii/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/GuidedTour/BookVII.lean"
+legacy_verify_url: "/corpus/taulib/docs/tour-guided-tour-book-vii/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/GuidedTour/BookVII.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/GuidedTour/BookVII.lean)
 - Corpus source path: `taulib-sources/project/TauLib/Tour/GuidedTour/BookVII.lean`
 - SHA-256: `3bd39a122eace3c93e4524ef7265e56deca2664a508b06f87b165070020d2f3a`

@@ -305,7 +305,7 @@ The implied benefit-to-cost ratio across these financing scenarios, using NREL's
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The path from τ development to operational integration follows a well-defined ladder that matches existing regulatory and operational frameworks.
 

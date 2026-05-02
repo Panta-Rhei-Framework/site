@@ -25,8 +25,8 @@ registry_ids:
   - "V.R258"
   - "V.R259"
   - "V.T121"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Orthodox/CorrespondenceMap.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-orthodox-correspondence-map/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Orthodox/CorrespondenceMap.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-orthodox-correspondence-map/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -51,6 +51,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Orthodox/CorrespondenceMap.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Orthodox/CorrespondenceMap.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Orthodox/CorrespondenceMap.lean`
 - SHA-256: `2740558c3108d71aafb0d8d6bc3cf755a7844cee3207430d0098413714ed75c3`

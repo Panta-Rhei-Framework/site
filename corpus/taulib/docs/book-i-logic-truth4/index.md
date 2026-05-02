@@ -14,8 +14,8 @@ family: "Logic"
 line_count: 361
 registry_ids:
   - "I.D21"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Logic/Truth4.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-logic-truth4/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Logic/Truth4.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-logic-truth4/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -40,6 +40,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Logic/Truth4.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Logic/Truth4.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Logic/Truth4.lean`
 - SHA-256: `168260b726d78a310c50c93dcd17383c6204afbccb15d16a7ce9858a4d405ff6`

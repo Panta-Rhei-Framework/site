@@ -110,7 +110,7 @@ New lemmas supporting existing theorems, alternative proofs that do not introduc
 
 ### Large change — discussion first
 
-New axioms, scope-label changes (e.g. promoting a `conjectural` entry to `tau-effective`), `BookI/Kernel` refactors, anything that changes the public API of the core generators or the `TauLib.Main` surface. Start in [Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) with the proposal and rationale. Once the proposal becomes a concrete defect, scoped task, or agreed implementation path, move the actionable work into a GitHub issue or pull request. Large changes are not rejected as a category — they are just discussed in public before the PR is written.
+New axioms, scope-label changes (e.g. promoting a `conjectural` entry to `tau-effective`), `BookI/Kernel` refactors, anything that changes the public API of the core generators or the `TauLib.Main` surface. Start in [Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) with the proposal and rationale. Do not open a large-change PR as the first move; Issues are for concrete scoped implementation tasks, not first-pass architecture debate. Once the proposal becomes a concrete defect, scoped task, or agreed implementation path, move the actionable work into a GitHub issue or pull request. Large changes are not rejected as a category — they are just discussed in public before the PR is written.
 
 ## What NOT to PR
 

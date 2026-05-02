@@ -17,8 +17,8 @@ registry_ids:
   - "III.T32"
   - "III.T33"
   - "III.T34"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Computation/CompBiSquare.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-computation-comp-bi-square/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Computation/CompBiSquare.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-computation-comp-bi-square/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Computation/CompBiSquare.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Computation/CompBiSquare.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Computation/CompBiSquare.lean`
 - SHA-256: `e893107af4327b0434c4566e4f1eede63dba319e9272fe32b32953a9a4bb3d7c`

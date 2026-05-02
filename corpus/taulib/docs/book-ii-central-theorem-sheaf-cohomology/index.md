@@ -17,8 +17,8 @@ registry_ids:
   - "II.D87"
   - "II.P20"
   - "II.T55"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/CentralTheorem/SheafCohomology.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-central-theorem-sheaf-cohomology/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/CentralTheorem/SheafCohomology.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-central-theorem-sheaf-cohomology/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/CentralTheorem/SheafCohomology.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/CentralTheorem/SheafCohomology.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/CentralTheorem/SheafCohomology.lean`
 - SHA-256: `486dfb17972a215c7a5680f74ccdc0d3633849fb14ca47bf4ac965b989dc229c`

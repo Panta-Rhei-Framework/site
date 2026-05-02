@@ -16,8 +16,8 @@ registry_ids:
   - "II.D53"
   - "II.D54"
   - "II.P12"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Enrichment/SelfEnrichment.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-enrichment-self-enrichment/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Enrichment/SelfEnrichment.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-enrichment-self-enrichment/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Enrichment/SelfEnrichment.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Enrichment/SelfEnrichment.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Enrichment/SelfEnrichment.lean`
 - SHA-256: `6c667846ae9e7a9c41270e64b02efa22614e5753fa096345624e8c6e08cce67d`

@@ -61,6 +61,8 @@ right_rail:
 
 ## Four domains, one cascade
 
+Results is where the built Corpus becomes a world. The public domain labels include Mathematics, Physics, Life-facing results, and Metaphysics / Philosophy-facing results, with every surface kept under the site’s internal-status / verification / external-acceptance grammar.
+
 The τ-framework's results organize naturally into four domains, each with its own calibration cascade or categorical architecture:
 
 <div class="v2-grid v2-grid-large">
@@ -110,6 +112,19 @@ The τ-framework's results organize naturally into four domains, each with its o
 The Agenda states the burden. The Corpus carries the build. Results shows the current consequences and world-readouts. Verify exposes the inspection routes.
 
 Every result should be read with its status markers. An internally addressed result is not the same as external verification or scientific acceptance.
+
+## The consequence layer at a glance
+
+{% include scientific-plate.html id="plate-05-results-world-readout" loading="lazy" caption="Results are not isolated claims. They are consequences of the built Corpus, organized through Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda, with internal status labels separated from external acceptance." %}
+
+**The Results World Readout** frames Results as a status-marked consequence layer. Results are not isolated claims. They are consequences of the built Corpus, organized through status-marked result surfaces and routed toward inspection.
+
+<ul class="v2-grid v2-card-list">
+  <li><article class="v2-tile"><h3><a href="{{ '/results/landmark-results/' | relative_url }}">Explore Landmark Results</a></h3><p>Start with the high-interpretive-force results that orient the current public readout.</p></article></li>
+  <li><article class="v2-tile"><h3><a href="{{ '/results/world-readout/' | relative_url }}">Open World Readouts</a></h3><p>Read the four domain-facing world interpretations as consequences of the Corpus.</p></article></li>
+  <li><article class="v2-tile"><h3><a href="{{ '/results/problem-ledger-answers/' | relative_url }}">Read Problem Ledger Answers</a></h3><p>Inspect the Results-side mirror of current stances against agenda obligations.</p></article></li>
+  <li><article class="v2-tile"><h3><a href="{{ '/results/progress-against-agenda/' | relative_url }}">Track Progress Against Agenda</a></h3><p>Browse current public progress while keeping internal status separate from external acceptance.</p></article></li>
+</ul>
 
 ## New to the framework? Start here
 

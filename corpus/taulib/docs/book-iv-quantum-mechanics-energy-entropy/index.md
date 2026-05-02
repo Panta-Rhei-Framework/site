@@ -26,8 +26,8 @@ registry_ids:
   - "IV.T30"
   - "IV.T31"
   - "IV.T32"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-quantum-mechanics-energy-entropy/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-quantum-mechanics-energy-entropy/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean`
 - SHA-256: `b00362f5c4e2251a71589dd83a6782517a997c492458d8110877c44dd69dfe56`

@@ -16,8 +16,8 @@ registry_ids:
   - "IV.D28"
   - "IV.D29"
   - "IV.P05"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-calibration-dimensionless-near-match/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-calibration-dimensionless-near-match/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean`
 - SHA-256: `142a78a524fd33fe11709f2ad3db307a52aedaf310240df61ee6dd83f3dd2abe`

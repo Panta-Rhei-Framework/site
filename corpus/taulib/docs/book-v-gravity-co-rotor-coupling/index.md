@@ -19,8 +19,8 @@ registry_ids:
   - "V.R03"
   - "V.T04"
   - "V.T05"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/CoRotorCoupling.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-co-rotor-coupling/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/CoRotorCoupling.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-co-rotor-coupling/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -47,6 +47,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/CoRotorCoupling.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/CoRotorCoupling.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Gravity/CoRotorCoupling.lean`
 - SHA-256: `42d8cf07fee7bf9ff7184030d98b6da7a590e159fb82f9890ad0f4ab469b7b05`

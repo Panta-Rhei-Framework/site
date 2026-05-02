@@ -26,8 +26,8 @@ registry_ids:
   - "V.T52"
   - "V.T53"
   - "V.T54"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/ClosingIdentity.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-field-closing-identity/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/ClosingIdentity.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-field-closing-identity/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/ClosingIdentity.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/ClosingIdentity.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/GravityField/ClosingIdentity.lean`
 - SHA-256: `919feea70997369f6cdf4a6d802fcee0fa0cb81e9018609b91513a730c938151`

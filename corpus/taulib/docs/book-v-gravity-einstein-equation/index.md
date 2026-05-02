@@ -19,8 +19,8 @@ registry_ids:
   - "V.D06"
   - "V.R01"
   - "V.T02"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/EinsteinEquation.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-einstein-equation/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/EinsteinEquation.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-einstein-equation/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/EinsteinEquation.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/EinsteinEquation.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Gravity/EinsteinEquation.lean`
 - SHA-256: `0d3f83b9b3dbff4e31319ac352478c84ac28eae84b761122d731b2378b2c1564`

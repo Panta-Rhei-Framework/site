@@ -404,7 +404,7 @@ A τ-grade flood forecast that extends the actionable warning window from 3 days
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow-mode insertion and technical benchmarking (0–24 months)
 

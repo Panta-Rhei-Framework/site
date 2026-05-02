@@ -15,8 +15,8 @@ line_count: 341
 registry_ids:
   - "II.L14"
   - "II.T39"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/CentralTheorem/YonedaApplied.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-central-theorem-yoneda-applied/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/CentralTheorem/YonedaApplied.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-central-theorem-yoneda-applied/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -41,6 +41,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/CentralTheorem/YonedaApplied.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/CentralTheorem/YonedaApplied.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/CentralTheorem/YonedaApplied.lean`
 - SHA-256: `e660cc99dcf5e782747290c6168783bd77857af15f15b1fd1ff41d7b0cbff987`

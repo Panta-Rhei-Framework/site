@@ -82,8 +82,9 @@ def main() -> int:
 
     require(
         "/results/problem-ledger-answers/",
-        "Partially addressed 7",
-        "Not yet touched 232",
+        "Internally addressed 32",
+        "Partially addressed 8",
+        "Structurally constrained 141",
     )
     require(
         "/program/research-agenda/problem-ledger/",

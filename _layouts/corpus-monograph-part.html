@@ -3,6 +3,10 @@ layout: default
 ---
 
 {% include breadcrumb-nav.html %}
+{% assign construction_parts = site.data.construction_map["construction-map"] %}
+{% assign construction_part_record = construction_parts | where: "url", page.url | first %}
+{% assign previous_part = page.previous_part | default: construction_part_record.previous_part %}
+{% assign next_part = page.next_part | default: construction_part_record.next_part %}
 
 <article class="part-article corpus-monograph-article corpus-construction-unit">
 <header class="hero-card">
@@ -102,7 +106,15 @@ layout: default
 </section>
 
 <nav class="content-card sequence-nav" aria-label="Construction Map previous and next part">
-  <a class="btn-ghost" href="{{ page.previous_part.url | relative_url }}">Previous: {{ page.previous_part.title }}</a>
-  <a class="btn-secondary" href="{{ page.next_part.url | relative_url }}">Next: {{ page.next_part.title }}</a>
+  {% if previous_part and previous_part.url %}
+  <a class="btn-ghost" href="{{ previous_part.url | relative_url }}">Previous: {{ previous_part.title }}</a>
+  {% else %}
+  <a class="btn-ghost" href="{{ '/corpus/construction-map/' | relative_url }}">Previous: Construction Map overview</a>
+  {% endif %}
+  {% if next_part and next_part.url %}
+  <a class="btn-secondary" href="{{ next_part.url | relative_url }}">Next: {{ next_part.title }}</a>
+  {% else %}
+  <a class="btn-secondary" href="{{ '/corpus/construction-map/' | relative_url }}">Next: Construction Map overview</a>
+  {% endif %}
 </nav>
 </article>

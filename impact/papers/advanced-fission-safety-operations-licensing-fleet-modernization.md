@@ -276,7 +276,7 @@ Limitations relative to τ: this suite is the gold standard for regulatory-accep
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow twins and evidence pilots (0–2 years)
 

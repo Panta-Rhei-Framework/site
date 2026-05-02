@@ -413,7 +413,7 @@ Grid-edge resilience and DER orchestration investments qualify as climate adapta
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The deployment architecture proposed here is designed to minimize institutional risk, build the evidence base progressively, and create clear decision gates before major financing commitments.
 

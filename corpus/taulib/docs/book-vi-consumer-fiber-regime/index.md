@@ -17,8 +17,8 @@ registry_ids:
   - "VI.D48"
   - "VI.P18"
   - "VI.R19"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Consumer/FiberRegime.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-consumer-fiber-regime/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Consumer/FiberRegime.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-consumer-fiber-regime/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Consumer/FiberRegime.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Consumer/FiberRegime.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Consumer/FiberRegime.lean`
 - SHA-256: `0cf4806c9c337bed93ed3f18b743db72ee92f90bcc4aeeaa5f710bb5bfc2e830`

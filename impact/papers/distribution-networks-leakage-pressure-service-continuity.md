@@ -48,7 +48,7 @@ This paper adopts a deliberate and explicitly caveated planning stance:
    - what τ would newly provide under that assumption;
    - and what impact estimates are reasoned planning inferences rather than official forecasts.
 
-This is a yellow paper. It is assumption-led, deployment-oriented, and public-good framed. It does not claim that the water community has accepted the τ assumptions. It asks what follows if those assumptions are true enough to matter operationally.
+This is a yellow paper. It is assumption-led, translation-oriented, and public-good framed. It does not claim that the water community has accepted the τ assumptions. It asks what follows if those assumptions are true enough to matter operationally.
 
 ### 1.2 Scope of this paper
 
@@ -378,7 +378,7 @@ IWA estimates that **$1 invested in leakage management returns $4–8 in avoided
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow-Mode Network Twin and DMA Intelligence
 

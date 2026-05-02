@@ -17,8 +17,8 @@ registry_ids:
   - "I.D24"
   - "I.P08"
   - "I.P09"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Coordinates/ABCD.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-coordinates-abcd/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Coordinates/ABCD.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-coordinates-abcd/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Coordinates/ABCD.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Coordinates/ABCD.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Coordinates/ABCD.lean`
 - SHA-256: `b69aea2f4934ea2182e0d2385904cfdcf24941a9e4ec5f23007c9ddca9eec334`

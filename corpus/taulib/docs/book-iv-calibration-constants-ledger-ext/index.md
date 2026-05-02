@@ -21,8 +21,8 @@ registry_ids:
   - "IV.R285"
   - "IV.R286"
   - "IV.R287"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-calibration-constants-ledger-ext/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-calibration-constants-ledger-ext/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -48,6 +48,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean`
 - SHA-256: `81bdeb6a11a5843c41d567984a23ca21e830b3618b832c607bbe4acef709e21f`

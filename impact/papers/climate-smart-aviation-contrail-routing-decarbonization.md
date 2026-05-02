@@ -453,7 +453,7 @@ At a τ routing system implementation cost of USD 2–5M per carrier (see Sectio
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow-Mode Climate Advisory (Months 0–18)
 

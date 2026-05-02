@@ -19,8 +19,8 @@ registry_ids:
   - "I.D13"
   - "I.P05"
   - "I.P06"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Denotation/Arithmetic.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-denotation-arithmetic/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Denotation/Arithmetic.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-denotation-arithmetic/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Denotation/Arithmetic.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Denotation/Arithmetic.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Denotation/Arithmetic.lean`
 - SHA-256: `1303e6ed0bf06c1293f7ac730240b6d558e632886f4f8a6282c42010c665573c`

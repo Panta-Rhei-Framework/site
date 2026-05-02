@@ -17,8 +17,8 @@ registry_ids:
   - "IV.D17"
   - "IV.D18"
   - "IV.D19"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Physics/DefectFunctional.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-physics-defect-functional/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Physics/DefectFunctional.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-physics-defect-functional/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Physics/DefectFunctional.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Physics/DefectFunctional.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Physics/DefectFunctional.lean`
 - SHA-256: `5e04ea090f238c24766753acae81fca270a074f5603dde7d9a4eea1d6f6e9d3f`

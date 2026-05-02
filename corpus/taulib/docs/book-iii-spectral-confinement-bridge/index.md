@@ -19,8 +19,8 @@ registry_ids:
   - "III.T53"
   - "III.T54"
   - "III.T55"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectral/ConfinementBridge.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-spectral-confinement-bridge/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectral/ConfinementBridge.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-spectral-confinement-bridge/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Spectral/ConfinementBridge.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Spectral/ConfinementBridge.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Spectral/ConfinementBridge.lean`
 - SHA-256: `c71fbd56403fa516e0cf3f78f97b12d3ab1c2f4a70c1feec3de3d8770a270c38`

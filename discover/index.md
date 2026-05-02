@@ -53,9 +53,7 @@ right_rail:
 
 Panta Rhei is an independent open research program asking whether one constrained formal kernel can support a unified model across mathematics, physics, life, and metaphysics.
 
-The website is a structured public interface to that research system. Discover is the entry layer: deeper than the homepage, but still built for orientation rather than exhaustive explanation.
-
-Discover is the entry layer. It helps readers move from orientation into the research spine: Agenda, Corpus, Results, and Verify.
+The website is a structured public interface to that research system. Discover is the entry layer: deeper than the homepage, but still built for orientation rather than exhaustive explanation. It helps readers move from orientation into the research spine: Agenda, Corpus, Results, and Verify.
 
 ## How the observatory fits together
 

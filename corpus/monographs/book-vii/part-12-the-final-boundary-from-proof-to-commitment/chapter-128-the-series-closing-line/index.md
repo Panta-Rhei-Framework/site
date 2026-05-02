@@ -53,7 +53,8 @@ do_not_edit: true
 
 The final chapter of the formal argument. Seven books. Twelve Parts
 in this volume alone. Four enrichment layers. One hundred and
-forty-one chapters of diagrammatic, empirical, practical, and
+twenty-eight chapters in this volume, and five hundred and
+thirty-five chapters across the series, of diagrammatic, empirical, practical, and
 structural reasoning. The framework stops where it must: not from
 exhaustion but from precision. The clean stopping rule delivers the
 landscape and releases the reader. What remains is yours.

@@ -6,7 +6,7 @@ summary_short: "Handcrafted SEO metadata across every lane: JSON-LD structured d
 affected_lanes:
   - global
   - publications
-  - framework
+  - corpus
   - results
   - bibliography
   - registry

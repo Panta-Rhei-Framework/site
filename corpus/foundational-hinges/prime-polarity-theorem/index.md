@@ -67,7 +67,7 @@ The research paper develops prime polarity, the Legendre classifier, and the τ-
 
 ## TauLib evidence
 
-- [TauLib.BookIII.Sectors.BoundaryCharacters](/verify/taulib/docs/book-iii-sectors-boundary-characters/)
+- [TauLib.BookIII.Sectors.BoundaryCharacters](/corpus/taulib/docs/book-iii-sectors-boundary-characters/)
 - Dedicated H2 theorem documentation (pending explicit TauLib docs mapping)
 
 ## Failure consequence

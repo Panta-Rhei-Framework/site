@@ -31,7 +31,7 @@ This paper asks a single, carefully bounded question:
 
 The answer, argued in full below, is: **a great deal, with unusually high humanitarian leverage, across a domain where the institutional infrastructure to act already exists**.
 
-The τ framework is presented as an **assumption**, not a claim of validated consensus. This is a **yellow paper**: assumption-led, deployment-oriented, and public-good framed. What follows is a rigorous map of what would become operationally possible if the assumption held well enough to matter.
+The τ framework is presented as an **assumption**, not a claim of validated consensus. This is a **yellow paper**: assumption-led, translation-oriented, and public-good framed. What follows is a rigorous map of what would become operationally possible if the assumption held well enough to matter.
 
 Under the strongest τ assumption, the benefit is not simply better epidemiological statistics. It is a **law-faithful, cross-species, weather-linked, ecology-aware risk twin** that could deliver:
 
@@ -42,7 +42,7 @@ Under the strongest τ assumption, the benefit is not simply better epidemiologi
 - Fewer blanket interventions with low yield and high social cost;
 - And a more coherent path toward outbreak prevention rather than outbreak response.
 
-The paper proceeds through fifteen sections. The Opportunity Baseline (Section 3) documents the current burden with precision. The Working τ Assumptions (Section 4) state explicitly what is assumed. The Competitive Landscape (Section 6) names and critiques the six most important incumbent systems. The Geographic Case Studies (Section 8) ground the claims in real outbreak events with real numbers. The Finance and ROI section (Section 9) provides costed scenarios and names the most relevant climate-finance windows. The Deployment Ladder (Section 10) outlines a credible path from shadow-mode benchmarking to operational integration.
+The paper proceeds through fifteen sections. The Opportunity Baseline (Section 3) documents the current burden with precision. The Working τ Assumptions (Section 4) state explicitly what is assumed. The Competitive Landscape (Section 6) names and critiques the six most important incumbent systems. The Geographic Case Studies (Section 8) ground the claims in real outbreak events with real numbers. The Finance and ROI section (Section 9) provides costed scenarios and names the most relevant climate-finance windows. The Evidence and Translation Ladder (Section 10) outlines a credible path from shadow-mode benchmarking to operational integration.
 
 The institutional audience for this paper — WHO, ministries of health and agriculture, USAID global health, One Health coordination networks, and World Bank / GCF health teams — will find the framing deliberate: this is a planning document, not a journal submission. The τ assumption is stated. The leverage is real. The question is whether to begin building toward it.
 
@@ -452,7 +452,7 @@ Prevention is 500 times cheaper than response (McKinsey 2021). The threshold que
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The path from research concept to operational One Health intelligence must be built in phases that respect both the technical maturity of τ and the institutional trust requirements of public-health systems. The following four-phase ladder reflects operational realism.
 

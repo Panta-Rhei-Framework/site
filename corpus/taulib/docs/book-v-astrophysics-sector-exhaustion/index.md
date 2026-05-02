@@ -27,8 +27,8 @@ registry_ids:
   - "V.R204"
   - "V.T100"
   - "V.T99"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/SectorExhaustion.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-astrophysics-sector-exhaustion/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/SectorExhaustion.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-astrophysics-sector-exhaustion/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Astrophysics/SectorExhaustion.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Astrophysics/SectorExhaustion.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Astrophysics/SectorExhaustion.lean`
 - SHA-256: `4d9feb6e0d64ea9ffae9fe31ae4e89fa50e3d9fe6784e9c1e9df382ae8275aa4`

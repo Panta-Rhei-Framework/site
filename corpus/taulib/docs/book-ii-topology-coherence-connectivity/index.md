@@ -13,8 +13,8 @@ book: "BookII"
 family: "Topology"
 line_count: 211
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Topology/CoherenceConnectivity.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-topology-coherence-connectivity/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Topology/CoherenceConnectivity.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-topology-coherence-connectivity/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -40,6 +40,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Topology/CoherenceConnectivity.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Topology/CoherenceConnectivity.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Topology/CoherenceConnectivity.lean`
 - SHA-256: `2d2249f417bb6b064fee4f50d49f8eeb458c2c56962242880ca6af50982d99b8`

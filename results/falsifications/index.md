@@ -15,7 +15,7 @@ do_not_edit: false
 
 ## The 30-Prediction Falsification Pack
 
-The **Falsification Pack** identifies the sharpest points where the τ-framework makes specific, testable claims that named experiments can verify or refute. Each prediction (N1–N30) carries a domain, a named experiment, a timeline, and a current observational status.
+The **Falsification Pack** identifies the sharpest points where the τ-framework makes specific, testable claims that named experiments can verify or refute. Each prediction (N1–N30) carries a domain, a named experiment, a timeline, and a current program-side tracking status.
 
 <div class="notice note"><strong>Scope.</strong> Falsifications complement the broader <a href="{{ '/results/predictions/' | relative_url }}">Predictions</a> ledger. Predictions list every numerical comparison; falsifications name the specific experiments whose outcomes would refute or confirm key τ-categorical commitments on a fixed timeline.</div>
 
@@ -47,9 +47,9 @@ Each falsification page (`/results/falsifications/n01-…/` through `/results/fa
 - **The τ-framework prediction** — a specific quantitative or structural claim.
 - **The named experiment** — the actual measurement that adjudicates it.
 - **The timeline** — when results are expected (most fall in 2025–2035).
-- **Current status** — `Confirmed`, `Consistent and testable`, `Pending`, or `Contradicted`.
+- **Current status** — `Internally matched to current public data`, `Consistent with current public data`, `Committed test path`, or `Contradicted`.
 
-As of April 2026, **4 are Confirmed** and **26 are Consistent-and-testable** — none is currently Contradicted.
+As of April 2026, **4 are internally matched to current public data** and **26 are consistent-and-testable** — none is currently contradicted. These are program tracking labels, not external acceptance labels.
 
 ## Read next
 

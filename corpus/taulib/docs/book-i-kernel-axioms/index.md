@@ -22,8 +22,8 @@ registry_ids:
   - "I.K6"
   - "I.P01"
   - "I.P02"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Kernel/Axioms.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-kernel-axioms/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Kernel/Axioms.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-kernel-axioms/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -48,6 +48,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Kernel/Axioms.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Kernel/Axioms.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Kernel/Axioms.lean`
 - SHA-256: `f009556a4bfeafec4db79adc6c317e42a2ebb808e9dc7673257f6baa54eae61b`

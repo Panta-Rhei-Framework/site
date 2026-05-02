@@ -60,10 +60,9 @@ operator ρ.
 Nothing is borrowed.
 Every tool is earned in the order
 Category τ itself demands—and
-every result is machine-checked in the accompanying
-Lean 4 library TauLib
-(81 modules, zero `sorry`).
+the accompanying Lean 4 library TauLib exposes the
+formalized portion for inspection at the pinned public release.
 This Prologue explains what that means,
-previews the structure of the seventy-three chapters ahead,
+previews the structure of Book I's seventy-nine chapters,
 and offers guidance for readers approaching from
 different mathematical backgrounds.

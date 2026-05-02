@@ -13,8 +13,8 @@ book: "BookI"
 family: "Orbit"
 line_count: 160
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Orbit/TooMany.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-orbit-too-many/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Orbit/TooMany.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-orbit-too-many/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -40,6 +40,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Orbit/TooMany.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Orbit/TooMany.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Orbit/TooMany.lean`
 - SHA-256: `d7bdd50afd2c9cd792933b465e3fbd645cb09bd58aa91024340fbbb5887a1f17`

@@ -45,8 +45,9 @@ def count_json(path: Path) -> int:
 def main() -> int:
     for filename in ("problem-ledger.json", "problem-ledger.ndjson", "problem-ledger.csv"):
         assert_same_file(CORPUS_EXPORTS / filename, SITE_ROOT / "_data" / "problem_ledger" / filename)
+    assert_same_file(CORPUS_EXPORTS / "results.json", SITE_ROOT / "_data" / "results" / "results.json")
     for filename in ("results.json", "results.ndjson", "results.csv"):
-        assert_same_file(CORPUS_EXPORTS / filename, SITE_ROOT / "_data" / "results" / filename)
+        assert_same_file(CORPUS_EXPORTS / filename, SITE_ROOT / "assets" / "data" / "results" / filename)
     for filename in ("parts.json", "chapters.json"):
         assert_same_file(
             CORPUS_EXPORTS / "monograph-projections" / "data" / filename,

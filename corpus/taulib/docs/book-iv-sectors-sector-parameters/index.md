@@ -19,8 +19,8 @@ registry_ids:
   - "IV.D04"
   - "IV.D05"
   - "IV.D06"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Sectors/SectorParameters.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-sectors-sector-parameters/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Sectors/SectorParameters.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-sectors-sector-parameters/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Sectors/SectorParameters.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Sectors/SectorParameters.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Sectors/SectorParameters.lean`
 - SHA-256: `aaf5ac6254d50720f3edcd3c643fc89ac1e924d9ab6c15d1cfbf6605a48d7a28`

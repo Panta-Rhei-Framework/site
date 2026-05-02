@@ -21,8 +21,8 @@ registry_ids:
   - "VI.L09"
   - "VI.L10"
   - "VI.T30"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/CosmicLife/BHSelfDesc.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-cosmic-life-bhself-desc/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/CosmicLife/BHSelfDesc.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-cosmic-life-bhself-desc/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -48,6 +48,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/CosmicLife/BHSelfDesc.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/CosmicLife/BHSelfDesc.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/CosmicLife/BHSelfDesc.lean`
 - SHA-256: `14371520f81456af3fa9c9d9981e3b79f9a7ee233b519a6667f6e28a24906225`

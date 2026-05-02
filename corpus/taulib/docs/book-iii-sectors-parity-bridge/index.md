@@ -16,8 +16,8 @@ registry_ids:
   - "III.D18"
   - "III.T07"
   - "III.T08"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Sectors/ParityBridge.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-sectors-parity-bridge/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Sectors/ParityBridge.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-sectors-parity-bridge/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Sectors/ParityBridge.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Sectors/ParityBridge.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Sectors/ParityBridge.lean`
 - SHA-256: `033caed92178c1040aec7be8c6f1683fba258994c8dea5d9c1d23fd02aa14a84`

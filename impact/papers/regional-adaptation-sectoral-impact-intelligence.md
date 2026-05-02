@@ -328,7 +328,7 @@ The adaptation intelligence market is served by a growing set of institutional f
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow-Mode Regional Intelligence Overlays (0–12 Months)
 

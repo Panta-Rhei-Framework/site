@@ -16,8 +16,8 @@ registry_ids:
   - "I.D49"
   - "I.L07"
   - "I.T21"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Holomorphy/IdentityTheorem.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-holomorphy-identity-theorem/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Holomorphy/IdentityTheorem.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-holomorphy-identity-theorem/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Holomorphy/IdentityTheorem.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Holomorphy/IdentityTheorem.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Holomorphy/IdentityTheorem.lean`
 - SHA-256: `3effd54a2c87433ad5c4a60e82d972e33a5e340e5ee5bb77277ffde96b1dae72`

@@ -388,7 +388,7 @@ For the smoke-health avoided-cost framing in Scenario B: applying European stati
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 A realistic adoption path for τ-grade fire-smoke-heat intelligence would follow a staged progression from shadow-mode validation through operational integration to policy embedding.
 

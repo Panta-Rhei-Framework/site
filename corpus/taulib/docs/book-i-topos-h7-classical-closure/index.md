@@ -16,8 +16,8 @@ registry_ids:
   - "I.T148"
   - "I.T155"
   - "I.T167"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/H7ClassicalClosure.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-topos-h7-classical-closure/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/H7ClassicalClosure.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-topos-h7-classical-closure/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/H7ClassicalClosure.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/H7ClassicalClosure.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Topos/H7ClassicalClosure.lean`
 - SHA-256: `cc9cfbf738e238ee7ff2a7ccf48e86e58ab1593150987400e8a12209810cdec3`

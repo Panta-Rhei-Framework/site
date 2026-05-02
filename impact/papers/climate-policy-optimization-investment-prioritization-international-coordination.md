@@ -291,7 +291,7 @@ The finance architecture for a τ-enabled climate policy optimization platform s
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Stage 1 — Shadow Policy Engine
 

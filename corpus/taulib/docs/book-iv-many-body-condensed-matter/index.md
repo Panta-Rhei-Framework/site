@@ -19,8 +19,8 @@ registry_ids:
   - "IV.R178"
   - "IV.R179"
   - "IV.T94"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/ManyBody/CondensedMatter.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-many-body-condensed-matter/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/ManyBody/CondensedMatter.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-many-body-condensed-matter/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/ManyBody/CondensedMatter.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/ManyBody/CondensedMatter.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/ManyBody/CondensedMatter.lean`
 - SHA-256: `6521685deb44170ff8b1ac45120112df89e17f478c268cb378a4e98ca5f7403f`

@@ -16,8 +16,8 @@ registry_ids:
   - "II.C01"
   - "II.D60"
   - "II.T40"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/CentralTheorem.lean"
-legacy_verify_url: "/verify/taulib/docs/tour-central-theorem/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/CentralTheorem.lean"
+legacy_verify_url: "/corpus/taulib/docs/tour-central-theorem/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/Tour/CentralTheorem.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/Tour/CentralTheorem.lean)
 - Corpus source path: `taulib-sources/project/TauLib/Tour/CentralTheorem.lean`
 - SHA-256: `565dd9e7618981b2c730b2f39b9eb25661902105a197be048ab5c563e70a4c16`

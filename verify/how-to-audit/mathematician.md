@@ -3,6 +3,9 @@ layout: program-doc
 title: "How to Audit — Mathematician Route"
 permalink: /verify/how-to-audit/mathematician/
 lane: verify
+v2_lane: verify
+type: "Inspection Route"
+status: "Canonical"
 summary_short: "For specialists in category theory, model theory, analytic number theory, operator theory, several complex variables, or algebraic geometry. Three load-bearing theorems in Books I–III are where the framework's internal mathematics either holds or fails."
 plain_language_summary: "If you do mathematics professionally, three theorems in Books I–III carry the framework's mathematical weight: the Central Theorem (Book II) which establishes categoricity, the Yoneda-as-theorem result (Book II) which is the self-enrichment claim, and the Hyperfactorization Theorem (Book I) which is how all τ-objects are constructed. The page below routes you to those three, names what your specialization is best positioned to check, and tells you which Mathlib results the proofs depend on so you can verify the foundational moves use standard mathematics correctly."
 right_rail:

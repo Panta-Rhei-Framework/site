@@ -26,8 +26,8 @@ registry_ids:
   - "IV.R280"
   - "IV.R282"
   - "IV.T113"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/RunningRegime.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-calibration-running-regime/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/RunningRegime.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-calibration-running-regime/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Calibration/RunningRegime.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Calibration/RunningRegime.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Calibration/RunningRegime.lean`
 - SHA-256: `eae3dcb6782f5202c876b449d2b183a861f01d74ae4ab51805cc6ed739c3826c`

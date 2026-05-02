@@ -13,8 +13,8 @@ book: "BookI"
 family: "Polarity"
 line_count: 235
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/ModArith.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-polarity-mod-arith/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/ModArith.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-polarity-mod-arith/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -39,6 +39,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/ModArith.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/ModArith.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Polarity/ModArith.lean`
 - SHA-256: `e5c59d4c4b718db4c6223ef42b8648b8abb2e476ae32eb183db5a6e59ad93965`

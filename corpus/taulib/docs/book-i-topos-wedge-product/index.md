@@ -16,8 +16,8 @@ registry_ids:
   - "I.D62"
   - "I.D63"
   - "I.T27"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/WedgeProduct.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-topos-wedge-product/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/WedgeProduct.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-topos-wedge-product/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/WedgeProduct.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/WedgeProduct.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Topos/WedgeProduct.lean`
 - SHA-256: `1435b9c7bf54363e9c2b8ce4df942ceabfca680664a0e78375e834fae6bf3993`

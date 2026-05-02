@@ -14,7 +14,7 @@ part_number: 17
 part_display: "Part XVII"
 part_slug: "part-17-the-proof-theoretic-mirror"
 chapter_count: 9
-summary_short: "Part XVII closed the development: sixty-seven chapters, every object and theorem earned from five generators, one operator, and seven axioms K0–K6. The…"
+summary_short: "Part XVII closed the development: seventy-nine chapters, every object and theorem earned from five generators, one operator, and seven axioms K0–K6. The…"
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 publication_book_url: "/publications/books/book-i/"
@@ -43,7 +43,7 @@ do_not_edit: true
 ---
 
 Part XVII closed the development:
-sixty-seven chapters, every object and theorem
+seventy-nine chapters, every object and theorem
 earned from five generators, one operator,
 and seven axioms K0–K6.
 The Kernel Hinge Diagram traces each result

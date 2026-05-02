@@ -23,8 +23,8 @@ registry_ids:
   - "V.R102"
   - "V.T49"
   - "V.T50"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/CalibrationTriangle.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-field-calibration-triangle/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/CalibrationTriangle.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-field-calibration-triangle/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/CalibrationTriangle.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/CalibrationTriangle.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/GravityField/CalibrationTriangle.lean`
 - SHA-256: `2a7d8b76f3b6684049792f23efeafcf0a50fa2b1a8a7230f9e1e3278430b85d2`

@@ -26,8 +26,8 @@ registry_ids:
   - "V.T151"
   - "V.T179"
   - "V.T180"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Cosmology/BBNBaryogenesis.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-cosmology-bbnbaryogenesis/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Cosmology/BBNBaryogenesis.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-cosmology-bbnbaryogenesis/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -53,6 +53,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Cosmology/BBNBaryogenesis.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Cosmology/BBNBaryogenesis.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Cosmology/BBNBaryogenesis.lean`
 - SHA-256: `2c67b9add7260f5a6a60bbaa2fe5b4df5b9b8543ed17a80551c7dde638bbb215`

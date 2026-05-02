@@ -20,8 +20,8 @@ registry_ids:
   - "V.T160"
   - "V.T161"
   - "V.T162"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Coda/HermeticClosure.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-coda-hermetic-closure/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Coda/HermeticClosure.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-coda-hermetic-closure/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Coda/HermeticClosure.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Coda/HermeticClosure.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Coda/HermeticClosure.lean`
 - SHA-256: `598bd856ff4ca5dc4d6cc4d72a2049950ea7ed887e05d1c0e32a72c5ab510e33`

@@ -18,8 +18,8 @@ registry_ids:
   - "III.D07"
   - "III.D08"
   - "III.D09"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Enrichment/LayerTemplate.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-enrichment-layer-template/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Enrichment/LayerTemplate.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-enrichment-layer-template/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -45,6 +45,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Enrichment/LayerTemplate.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Enrichment/LayerTemplate.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Enrichment/LayerTemplate.lean`
 - SHA-256: `cf44cf29c6d0ef0c8be37baf3dafad02ceab5a1570098a88d9a2cb757b4f4877`

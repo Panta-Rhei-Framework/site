@@ -13,8 +13,8 @@ book: "BookIII"
 family: ""
 line_count: 117
 registry_ids: []
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -108,6 +108,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII.lean`
 - SHA-256: `2fa57774850258459455fe64f7ebf589ecde6dec45edabe1aaf2000d8ff2c1f3`

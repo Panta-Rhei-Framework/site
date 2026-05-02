@@ -250,7 +250,7 @@ The τ opportunity in precision public health and safer therapeutics organizes a
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 A responsible τ deployment in precision public health and safer therapeutics follows a four-phase ladder that progressively increases clinical proximity, system integration, and regulatory engagement, while building the validation evidence base required to support each transition.
 

@@ -504,11 +504,11 @@ The investment case for τ-grade trigger quality is structurally distinct from c
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Shadow mode inside existing anticipatory-action and logistics systems (Year 0–2)
 
-The deployment entry point is shadow benchmarking: running τ-grade trigger recommendations, logistics pre-positioning advice, and corridor disruption forecasts in parallel with existing systems, without replacing or overriding operational decisions.
+The translation entry point is shadow benchmarking: running τ-grade trigger recommendations, logistics pre-positioning advice, and corridor disruption forecasts in parallel with existing systems, without replacing or overriding operational decisions.
 
 Shadow mode objectives:
 - compare τ trigger activation recommendations against ECMWF/IRI-based system activations across one or more hazard seasons;
@@ -518,7 +518,7 @@ Shadow mode objectives:
 
 Ideal shadow mode partners: WFP anticipatory action country programs in Bangladesh, Nepal, Mozambique, and the Sahel; IFRC national societies with established EAPs; REPAIR-program countries; ARC member states with active drought finance products.
 
-Institutional entry mechanism: Memoranda of understanding with WFP's Supply Chain Division and Anticipatory Action Unit, IFRC's Anticipatory Humanitarian Action team, and the World Bank DRFI program. These are formal institutional partnerships with established engagement norms; τ deployment should not circumvent them.
+Institutional entry mechanism: Memoranda of understanding with WFP's Supply Chain Division and Anticipatory Action Unit, IFRC's Anticipatory Humanitarian Action team, and the World Bank DRFI program. These are formal institutional partnerships with established engagement norms; any τ evaluation or translation path should work through them rather than around them.
 
 ### Phase 2 — Operational pilots with pre-arranged action and finance (Year 2–5)
 
@@ -540,7 +540,7 @@ Pilot operational structure: τ trigger advice enters the operational decision p
 
 ### Phase 3 — Integrated risk, logistics, and finance operations (Year 5–10)
 
-Following validated pilot performance, the architecture can scale to shared national and regional trigger registries, common operating pictures across ministries and partners, and integrated action stacks connecting early warning, cash, logistics, and sovereign disbursement.
+If pilot performance were independently validated, the architecture could scale to shared national and regional trigger registries, common operating pictures across ministries and partners, and integrated action stacks connecting early warning, cash, logistics, and sovereign disbursement.
 
 At this phase, τ-grade trigger intelligence becomes institutionally embedded — not as a special-purpose tool but as the standard physics layer for anticipatory action, logistics, and risk finance decisions across the institutional ecosystem. National hydromet agencies, WFP logistics planners, IFRC national societies, CERF program officers, and World Bank DRFI clients operate from the same risk surface, with role-specific action thresholds that are coherently grounded in a single physical model.
 
@@ -662,7 +662,7 @@ The countries most exposed to climate-driven humanitarian hazards are overwhelmi
 
 A trigger system that drives pre-arranged financial commitments of tens of millions of dollars must have clear, named human accountability at every activation decision. τ-grade trigger advice is decision-support intelligence, not a substitute for institutional decision-making. The value proposition is that decision-makers have better information, not that decisions are made automatically.
 
-This is not merely a philosophical principle — it is a legal requirement in most jurisdictions. IFRC's legal analysis of anticipatory action frameworks documents that in almost every country, anticipatory fund release, evacuation authorization, and government contingency budget access require explicit authorization by a named official or body.[^12] τ deployment must work within these accountability structures.
+This is not merely a philosophical principle — it is a legal requirement in most jurisdictions. IFRC's legal analysis of anticipatory action frameworks documents that in almost every country, anticipatory fund release, evacuation authorization, and government contingency budget access require explicit authorization by a named official or body.[^12] Any τ-informed operational use would have to work within these accountability structures.
 
 ### 14.2 Trigger transparency is a prerequisite for institutional trust
 

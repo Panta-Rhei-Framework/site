@@ -25,8 +25,8 @@ registry_ids:
   - "V.T148"
   - "V.T149"
   - "V.T150"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Cosmology/HeliumFraction.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-cosmology-helium-fraction/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Cosmology/HeliumFraction.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-cosmology-helium-fraction/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -51,6 +51,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Cosmology/HeliumFraction.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Cosmology/HeliumFraction.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Cosmology/HeliumFraction.lean`
 - SHA-256: `f9ff1bc11ab93b839bd6c83d83e179d940ffd57202f1f94a22aa9f8bdb38b43d`

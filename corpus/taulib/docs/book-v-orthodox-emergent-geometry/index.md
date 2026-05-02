@@ -29,8 +29,8 @@ registry_ids:
   - "V.T128"
   - "V.T129"
   - "V.T130"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Orthodox/EmergentGeometry.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-orthodox-emergent-geometry/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Orthodox/EmergentGeometry.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-orthodox-emergent-geometry/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -55,6 +55,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Orthodox/EmergentGeometry.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Orthodox/EmergentGeometry.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Orthodox/EmergentGeometry.lean`
 - SHA-256: `f355c9f65256b41a0314ae4ac2320ec9a3244751b61deea52d513273c59f087e`

@@ -3,6 +3,9 @@ layout: program-doc
 title: "How to Audit — Per-Reviewer Routes"
 permalink: /verify/how-to-audit/
 lane: verify
+v2_lane: verify
+type: "Inspection Pathway Hub"
+status: "Canonical"
 summary_short: "Concrete inspection pathways by reviewer role. If you are a formal methods expert, a mathematician, a physicist, a philosopher, a prior-art specialist, or a journalist/skeptic, each route names exactly where to start, what to check first, and what would most efficiently settle your strongest skeptical question."
 plain_language_summary: "Different reviewers have different fastest disconfirmation paths. A Lean specialist can check a single theorem in 20 minutes. A physicist needs to evaluate whether ι_τ is fitted or forced. A philosopher needs to check whether 'consciousness emerges from K_χ amplification' is a derivation or a redefinition. A journalist or skeptic needs a 15-minute scan to decide whether the program is serious enough to even cover. This page is the routing layer: pick your role below, and the linked page tells you what to clone, what to grep, what to suspect, and what would most efficiently settle your strongest objection."
 right_rail:

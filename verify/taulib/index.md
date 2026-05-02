@@ -7,6 +7,9 @@ v2_lane: verify
 type: "Verification Bridge"
 status: "Canonical"
 summary_short: "Verify-side bridge into the Corpus-native TauLib module and declaration projection."
+og_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
+twitter_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
+og_image_alt: "Scientific plate showing the Verify lane as a verification matrix for obligations, construction steps, results, formal proof checking, bridge adequacy, empirical tests, external assessment, and explicit limits."
 hero_ctas:
   - label: "Browse TauLib"
     url: /verify/taulib/docs/
@@ -40,6 +43,12 @@ right_rail:
 TauLib is the Lean formalization layer of the program. The active Lean development source remains the public [TauLib repository](https://github.com/Panta-Rhei-Research/taulib); the Corpus owns a pinned snapshot and generates the public module/declaration browser from that source.
 
 The current projection contains **{{ summary.module_count }} modules** and **{{ summary.declaration_count }} declarations/evals**, pinned to commit [`{{ summary.source_commit | slice: 0, 7 }}`](https://github.com/Panta-Rhei-Research/taulib/commit/{{ summary.source_commit }}).
+
+## TauLib inside the verification matrix
+
+{% include scientific-plate.html id="plate-06-verification-matrix" variant="thumb" loading="lazy" caption="TauLib is one formalization surface inside the broader verification matrix. Lean compilation checks formalized obligations; it does not by itself establish empirical truth." %}
+
+TauLib is one formalization surface inside the broader verification matrix. Lean compilation checks formalized obligations; it does not by itself establish empirical truth.
 
 ## What Verify still owns
 

@@ -64,7 +64,7 @@ Physics reviewers should start with [Hinge 3 — The Master Constant iota_tau]({
 
 ## Results and problem ledger
 
-Use [Results]({{ '/results/' | relative_url }}) for typed answer surfaces and [Results > Problem Ledger]({{ '/results/problem-ledger/' | relative_url }}) for the problem-facing map. Pick one result page and follow its linked Corpus and Verify routes before generalizing.
+Use [Results]({{ '/results/' | relative_url }}) for typed answer surfaces and [Results > Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) for the problem-facing map. Pick one result page and follow its linked Corpus and Verify routes before generalizing.
 
 ## Verification and TauLib
 
@@ -94,7 +94,8 @@ Use [Verify > Assessment Protocols]({{ '/verify/assessment-protocols/' | relativ
 ### Mathematics-first path
 1. [Book I: Categorical Foundations]({{ '/publications/books/book-i/' | relative_url }})
 2. [Book II: Categorical Holomorphy]({{ '/publications/books/book-ii/' | relative_url }})
-{% assign math_results = site.data.results.results | where: "topic", "mathematics" %}3. [Results by Domain: Mathematics]({{ '/results/topic/mathematics/' | relative_url }}) ({{ math_results | size }} results)
+{% assign math_results = site.data.results.results | where: "topic", "mathematics" %}
+3. [Results by Domain: Mathematics]({{ '/results/topic/mathematics/' | relative_url }}) ({{ math_results | size }} results)
 4. [Registry — Book I]({{ '/registry/books/book-i/' | relative_url }})
 5. [Guided Tours — Foundations](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Foundations.lean)
 
@@ -102,14 +103,17 @@ Use [Verify > Assessment Protocols]({{ '/verify/assessment-protocols/' | relativ
 1. [Book III: Categorical Spectrum]({{ '/publications/books/book-iii/' | relative_url }}) (the hinge)
 2. [Book IV: Categorical Microcosm]({{ '/publications/books/book-iv/' | relative_url }})
 3. [Book V: Categorical Macrocosm]({{ '/publications/books/book-v/' | relative_url }})
-{% assign phys_results = site.data.results.results | where: "topic", "physics" %}4. [Results by Domain: Physics]({{ '/results/topic/physics/' | relative_url }}) ({{ phys_results | size }} results)
+{% assign phys_results = site.data.results.results | where: "topic", "physics" %}
+4. [Results by Domain: Physics]({{ '/results/topic/physics/' | relative_url }}) ({{ phys_results | size }} results)
 5. [Guided Tours — Physics](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Physics.lean)
 
 ### Life and metaphysics path
 1. [Book VI: Categorical Life]({{ '/publications/books/book-vi/' | relative_url }})
 2. [Book VII: Categorical Metaphysics]({{ '/publications/books/book-vii/' | relative_url }})
-{% assign bio_results = site.data.results.results | where: "topic", "biology" %}{% assign phil_results = site.data.results.results | where: "topic", "philosophy" %}3. [Results by Domain: Biology]({{ '/results/topic/biology/' | relative_url }}) ({{ bio_results | size }} results)
-4. [Results by Domain: Philosophy]({{ '/results/topic/philosophy/' | relative_url }}) ({{ phil_results | size }} results)
+{% assign bio_results = site.data.results.results | where: "topic", "biology" %}
+{% assign phil_results = site.data.results.results | where: "topic", "philosophy" %}
+3. [Results by Domain: Life-facing results]({{ '/results/topic/biology/' | relative_url }}) ({{ bio_results | size }} results)
+4. [Results by Domain: Metaphysics / Philosophy-facing results]({{ '/results/topic/philosophy/' | relative_url }}) ({{ phil_results | size }} results)
 
 ### Formal verification path
 1. [Verify]({{ '/verify/' | relative_url }})

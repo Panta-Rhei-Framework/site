@@ -19,8 +19,8 @@ registry_ids:
   - "IV.P177"
   - "IV.T128"
   - "IV.T129"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Physics/ReadoutFunctor.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-physics-readout-functor/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Physics/ReadoutFunctor.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-physics-readout-functor/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Physics/ReadoutFunctor.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Physics/ReadoutFunctor.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Physics/ReadoutFunctor.lean`
 - SHA-256: `f7f359be0e1c9614d232e8b68ff3c313c36b9ef5510ab3d843979d7940d6caee`

@@ -87,7 +87,7 @@ The program is already public enough to be engaged seriously. That is one of the
 What is public now includes:
 
 - canonical prose articulation in the books
-- a public website organized by framework, results, publications, verification, and engagement lanes
+- a public website organized around Program obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, Impact scenarios, and Engage routes
 - a public formalization substrate in TauLib
 - public guided tours designed to surface the load-bearing hinges of each book
 - public verification companions that lower the threshold for formal inspection
@@ -110,7 +110,7 @@ The first serious question is:
 That engagement may take many forms:
 
 - reading the canonical books
-- entering through a framework lane or a key result page
+- entering through the Research Agenda, Corpus Construction Spine, a Results mirror, a Verify route, or a citable Publication artifact
 - inspecting the formalization
 - attacking the strongest hinges
 - checking the bridge claims

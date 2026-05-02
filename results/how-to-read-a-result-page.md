@@ -3,6 +3,9 @@ layout: program-doc
 title: "How to Read a Result Page"
 permalink: /results/how-to-read-a-result-page/
 lane: results
+v2_lane: results
+type: "Results Guide"
+status: "Canonical"
 summary_short: "A guide to the anatomy of result pages in the Results lane."
 summary_cards:
 - title: "Page structure"
@@ -10,7 +13,7 @@ summary_cards:
 - title: "Epistemic typing"
   body: "Every claim carries a public status such as Internally addressed, Partial, Qualitative, Contradicted, or Not addressed."
 - title: "Canonical grounding"
-  body: "Every result links to its source in the books, registry, and framework."
+  body: "Every result links to its Corpus, Registry, book, and verification grounding where available."
 right_rail:
   related:
   - title: "Results Overview"
@@ -90,5 +93,5 @@ Tier is an epistemic quality of the prediction — how tightly the framework com
 Each result page links to:
 - **Books** — the canonical monograph source
 - **Registry** — specific definitions, theorems, and propositions
-- **Framework** — the module that grounds the result
+- **Corpus** — the monograph, Registry, TauLib, or Construction Spine surface that grounds the result
 - **Verify lane** — the verification entry point

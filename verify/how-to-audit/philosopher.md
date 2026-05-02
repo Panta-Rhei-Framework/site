@@ -3,6 +3,9 @@ layout: program-doc
 title: "How to Audit — Philosopher Route"
 permalink: /verify/how-to-audit/philosopher/
 lane: verify
+v2_lane: verify
+type: "Inspection Route"
+status: "Canonical"
 summary_short: "For specialists in philosophy of science, philosophy of mind, metaphysics, epistemology, ethics, or aesthetics. Books VI and VII contain the framework's most conceptually exposed claims; the load-bearing question is whether these are formal derivations or redefinitions of the target phenomena."
 plain_language_summary: "If you do philosophy professionally, the framework's most exposed claims are in Books VI–VII: 'consciousness emerges from K_χ amplification of weak-sector chirality,' 'the categorical imperative is a fixed point of the four-register architecture,' 'qualia are Mind-Topos-internal morphisms.' Your central load-bearing question for any such claim is: *is this a derivation of the target phenomenon, or a redefinition that bypasses it?* The page below routes you to the specific glossary entries in /results/{life,metaphysics}/glossary/ where the derivation chains are visible, and names the explicit moves where the program says 'we are claiming X, not stipulating it.'"
 right_rail:

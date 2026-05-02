@@ -46,7 +46,8 @@ do_not_edit: true
 How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles,
 globes, and foams. Dunbar limits rural worlds; cities regulate connection. Architecture mirrors
 culture; generations drift through lineages. Capital networks create world-interior. Information
-overload fragments into schizophrenia. Nine global spheres emerge from collective to individual.
+overload is treated as a structural fragmentation pressure on attention, meaning, and social
+coordination, not as a clinical or diagnostic claim. Nine global spheres emerge from collective to individual.
 Power is morphism structure; sovereignty is boundary control; legitimacy is recognition coherence.
 Religion shapes spheres through the sacred-profane distinction; rituals glue individuals into
 communities.

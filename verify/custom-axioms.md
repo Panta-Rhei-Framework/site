@@ -3,6 +3,9 @@ layout: program-doc
 title: "Custom Axiom Inventory — The Compute-Then-Axiomatize Pattern"
 permalink: /verify/custom-axioms/
 lane: verify
+v2_lane: verify
+type: "Axiom Transparency"
+status: "Canonical"
 summary_short: "Honest accounting of the three custom axiom declarations in TauLib beyond Mathlib's trusted base: what each axiom says, what finite computation motivates it, what the universal step being axiomatized is, and what specialist-review would close on each. The fourth axiom shipped in v1 (`central_theorem_physical : True`) was retired in peer-review-fixes-v1."
 plain_language_summary: "An axiom is something a formal system asks you to take on faith — every theorem provable in the system depends on its axioms being true. Lean and Mathlib already have a small set of widely-trusted axioms. TauLib adds three more, and this page accounts for each of them: what the axiom says in mathematical terms, what specific finite computation gives evidence for the universal claim it makes, and what would need to happen in peer review to either close the gap (turn the axiom into a theorem) or expose it as wrong. Three custom axioms is small — most large formal systems have many more — but the program treats every additional axiom as a debt to be paid down rather than a freebie."
 right_rail:

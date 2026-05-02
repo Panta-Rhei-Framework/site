@@ -18,8 +18,8 @@ registry_ids:
   - "VI.P15"
   - "VI.T21"
   - "VI.T22"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Source/GeneticCode.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-source-genetic-code/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Source/GeneticCode.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-source-genetic-code/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Source/GeneticCode.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Source/GeneticCode.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Source/GeneticCode.lean`
 - SHA-256: `2ac1ea3170636bb83f1062d69be05b3059bc69f25fcf53d2c2ce8a4886297dbe`

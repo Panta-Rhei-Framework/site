@@ -16,8 +16,8 @@ registry_ids:
   - "I.D78"
   - "I.T175"
   - "I.T37"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/KernelFoundation/GirardLinearEmbedding.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-kernel-foundation-girard-linear-embedding/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/KernelFoundation/GirardLinearEmbedding.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-kernel-foundation-girard-linear-embedding/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/KernelFoundation/GirardLinearEmbedding.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/KernelFoundation/GirardLinearEmbedding.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/KernelFoundation/GirardLinearEmbedding.lean`
 - SHA-256: `69611ed8bdb345e2ffb570803cc9eef33f1d5cd15dfb081e3b6c177908b96c9d`

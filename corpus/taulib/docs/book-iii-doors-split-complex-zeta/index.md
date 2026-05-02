@@ -16,8 +16,8 @@ registry_ids:
   - "III.D26"
   - "III.D27"
   - "III.T16"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Doors/SplitComplexZeta.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iii-doors-split-complex-zeta/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Doors/SplitComplexZeta.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iii-doors-split-complex-zeta/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIII/Doors/SplitComplexZeta.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIII/Doors/SplitComplexZeta.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIII/Doors/SplitComplexZeta.lean`
 - SHA-256: `b8349caad4e6ebada582fbda3d393724bdee9213894793bcb0cb2d3facb8833c`

@@ -33,8 +33,8 @@ registry_ids:
   - "IV.R137"
   - "IV.R138"
   - "IV.R139"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Particles/HadronsNuclei.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-particles-hadrons-nuclei/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Particles/HadronsNuclei.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-particles-hadrons-nuclei/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -59,6 +59,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Particles/HadronsNuclei.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Particles/HadronsNuclei.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Particles/HadronsNuclei.lean`
 - SHA-256: `25457c9569572bea93783463eac1a343a51030fe5de3a0924ef0fadd5b9d2492`

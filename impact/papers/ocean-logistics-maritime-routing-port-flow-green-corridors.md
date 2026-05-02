@@ -29,7 +29,7 @@ The short answer is: a great deal, across multiple dimensions simultaneously.
 
 Under the working τ assumptions, the maritime opportunity extends well beyond marginal improvement in existing weather-routing products. It represents a potential step-change in the quality of the physical intelligence layer on which route optimization, just-in-time arrival, port coordination, sea-ice navigation, cyclone avoidance, search-and-rescue support, and green-corridor planning all depend. Sector-wide efficiency gains of 1–3% from improved routing and scheduling would translate to approximately 7.6–22.7 MtCO₂/year avoided, using IEA baselines. Project-level fuel savings in well-optimized corridors can reach 5–15% (Copernicus Marine OCEANiCS data). The March 2021 Ever Given grounding in the Suez Canal — which disrupted USD 9.6 billion per day in trade and imposed an estimated USD 54–58 billion in total supply-chain costs — illustrates the catastrophic tail risk that better 24–48 hour wind-gust forecasting could have mitigated. The Arctic Northern Sea Route, with navigable windows that have expanded from 20 to 90 days between 2000 and 2020, represents a structural opportunity where τ-grade sea-ice prediction at ±5–15 km uncertainty (versus current ±30–80 km) could enable reliable scheduling of the 25–40% fuel-saving route rather than forcing costly diversion via Suez.
 
-This paper is a yellow paper: assumption-led, deployment-oriented, and framed around public good. It does not constitute a proof of τ physics. It constitutes a serious planning document about consequences — for trade, emissions, safety, equity, and resilience — if those assumptions are validated and operationalized.
+This paper is a yellow paper: assumption-led, translation-oriented, and framed around public good. It does not constitute a proof of τ physics. It constitutes a serious planning document about consequences — for trade, emissions, safety, equity, and resilience — if those assumptions are validated and operationalized.
 
 The institutional landscape is already moving in the direction this paper describes. NOAA's Precision Marine Navigation initiative, ECMWF's fully coupled marine system, Copernicus Marine's routing use cases, and the Clydebank Declaration for green shipping corridors all point toward the same destination: a physically coupled, high-fidelity, operationally integrated ocean-state intelligence layer for global shipping. The question τ raises is whether it can provide a materially better physical engine for that layer than current approaches allow.
 
@@ -463,7 +463,7 @@ Beyond grant-based climate finance, the maritime sector is increasingly compatib
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 A credible τ maritime deployment should be staged across four phases, with evidence gates between phases and no commitment to operational trust before shadow-mode validation.
 

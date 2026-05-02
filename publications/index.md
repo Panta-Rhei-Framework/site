@@ -66,7 +66,7 @@ Every publication artifact belongs to one of the categories below. These categor
 
 <ul class="v2-grid v2-card-list">
   <li><article><a class="v2-tile" href="{{ '/publications/research-monographs/' | relative_url }}"><h3>Research Monographs</h3><p>Full book-length canonical releases of the framework.</p></a></article></li>
-  <li><article><a class="v2-tile" href="{{ '/publications/monograph-supplements/' | relative_url }}"><h3>Monograph Supplements</h3><p>Book-style ledgers, appendices, and supporting parts released separately.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/monograph-supplements/' | relative_url }}"><h3>Monograph Supplements</h3><p>Book-style ledgers, appendices, and supporting parts released separately, including the <strong>Numerical Physics Ledger</strong> and Categorical Genesis.</p></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/publications/research-papers/' | relative_url }}"><h3>Research Papers</h3><p>Standalone scholarly papers carrying primary technical research contributions.</p></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/publications/research-notes/' | relative_url }}"><h3>Research Notes</h3><p>Shorter scholarly artifacts from the ongoing research stream.</p></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/publications/research-briefings/' | relative_url }}"><h3>Research Briefings</h3><p>Framework-grounded synthesis and translation artifacts.</p></a></article></li>

@@ -3,6 +3,9 @@ layout: program-doc
 title: "Mathematics World-Readout"
 permalink: /results/world-readout/mathematics/
 lane: results
+v2_lane: results
+type: "World Readout"
+status: "Canonical"
 section: "Results · Mathematics World Readout"
 nav_order: 1
 summary_short: "The mathematics world-readout cluster of the Results lane — what kind of mathematical world the Tau framework describes."

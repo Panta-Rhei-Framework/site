@@ -16,8 +16,8 @@ registry_ids:
   - "II.D34"
   - "II.P07"
   - "II.T25"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-transcendentals-iota-tau-confirmed/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-transcendentals-iota-tau-confirmed/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean`
 - SHA-256: `94813e6f25437637a9f2a0823ab958f49e034ab4cef650ecd6c0097488cae19d`

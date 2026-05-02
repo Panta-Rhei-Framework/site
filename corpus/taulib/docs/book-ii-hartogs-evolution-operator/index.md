@@ -16,8 +16,8 @@ registry_ids:
   - "II.D37"
   - "II.D38"
   - "II.T28"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Hartogs/EvolutionOperator.lean"
-legacy_verify_url: "/verify/taulib/docs/book-ii-hartogs-evolution-operator/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Hartogs/EvolutionOperator.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-ii-hartogs-evolution-operator/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookII/Hartogs/EvolutionOperator.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookII/Hartogs/EvolutionOperator.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookII/Hartogs/EvolutionOperator.lean`
 - SHA-256: `8eba63dbde86b1cdf9be932cf1b264cdca08990e2d9ec19c948ea89ad4fe6df4`

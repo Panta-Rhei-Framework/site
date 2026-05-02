@@ -18,8 +18,8 @@ registry_ids:
   - "IV.R397"
   - "IV.T145"
   - "IV.T146"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/MajoranaStructure.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-electroweak-majorana-structure/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/MajoranaStructure.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-electroweak-majorana-structure/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/MajoranaStructure.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/MajoranaStructure.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Electroweak/MajoranaStructure.lean`
 - SHA-256: `4e1c62499594cd85af4b39633eb951a342afb6dd3561a5cfccb70b81c7356a75`

@@ -37,8 +37,8 @@ registry_ids:
   - "IV.T166"
   - "IV.T194"
   - "IV.T65"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/TauHiggs2.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-electroweak-tau-higgs2/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/TauHiggs2.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-electroweak-tau-higgs2/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -63,6 +63,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Electroweak/TauHiggs2.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Electroweak/TauHiggs2.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Electroweak/TauHiggs2.lean`
 - SHA-256: `c2d95bfeca80c3883a726e87051d110812457ef0b1780ccc6288ed7609ef2885`

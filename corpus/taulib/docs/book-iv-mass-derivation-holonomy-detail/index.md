@@ -16,8 +16,8 @@ registry_ids:
   - "IV.D314"
   - "IV.D315"
   - "IV.T116"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/MassDerivation/HolonomyDetail.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-mass-derivation-holonomy-detail/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/MassDerivation/HolonomyDetail.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-mass-derivation-holonomy-detail/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/MassDerivation/HolonomyDetail.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/MassDerivation/HolonomyDetail.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/MassDerivation/HolonomyDetail.lean`
 - SHA-256: `249858ff0854247905b1e1369ce046a0853185070c8798465ea87f755e9b28d6`

@@ -4,17 +4,39 @@ layout: default
 
 {% include breadcrumb-nav.html %}
 
+{% assign falsification_status_label = page.current_status | capitalize %}
+{% if page.current_status == "confirmed" %}
+  {% assign falsification_status_label = "Internally matched to current public data" %}
+{% elsif page.current_status == "consistent" %}
+  {% assign falsification_status_label = "Consistent with current public data" %}
+{% elsif page.current_status == "testable" %}
+  {% assign falsification_status_label = "Committed test path" %}
+{% endif %}
+{% assign falsification_title = page.title %}
+{% assign falsification_summary = page.summary_short %}
+{% assign falsification_prediction = page.prediction %}
+{% if page.falsification_id == "N23" %}
+  {% assign falsification_title = "N23 — Dark-matter detection non-observation commitment" %}
+  {% assign falsification_summary = "N23 tracks the program-side commitment that current and future dark-matter searches should not find a non-Standard-Model dark-matter signal." %}
+  {% assign falsification_prediction = "Program-side commitment: no indirect dark-matter detection, dark-matter decay line, annihilation signal, or collider missing-energy signal from a non-Standard-Model particle. This is a falsification target, not a settled external fact." %}
+{% endif %}
+
 <div class="hero-card">
   <div class="module-eyebrow-row">
     <span class="eyebrow">Numerical Physics Ledger · Falsification {{ page.falsification_id }}</span>
     <span class="chip">{{ page.domain_display }}</span>
-    <span class="chip chip-status-{{ page.current_status }}">{{ page.current_status | capitalize }}</span>
+    <span class="chip chip-status-{{ page.current_status }}">{{ falsification_status_label }}</span>
     {% if page.seam %}<span class="chip chip-seam" title="Falsifiable seam — τ vs orthodox, structurally incompatible claim">Seam · {{ site.data.seams[page.seam] | default: page.seam }}</span>{% endif %}
   </div>
-  <h1>{{ page.title }}</h1>
-  {% if page.summary_short %}
-  <p>{{ page.summary_short }}</p>
+  <h1>{{ falsification_title }}</h1>
+  {% if falsification_summary %}
+  <p>{{ falsification_summary }}</p>
   {% endif %}
+</div>
+
+<div class="content-card">
+  <h2>Status boundary</h2>
+  <p>Falsification status is a program-side tracking label. It separates current internal stance from formal verification, empirical support, and external acceptance; it is not a claim that the wider scientific community has accepted the result.</p>
 </div>
 
 <div class="content-card falsification-detail">
@@ -22,7 +44,7 @@ layout: default
   <div class="falsification-grid">
     <div class="falsification-block">
       <span class="eyebrow">Prediction</span>
-      <p>{{ page.prediction }}</p>
+      <p>{{ falsification_prediction }}</p>
     </div>
     <div class="falsification-block">
       <span class="eyebrow">Experiment</span>
@@ -68,7 +90,8 @@ layout: default
   <div class="meta-list" style="font-size: 0.88rem;">
     <div class="meta-item"><span>Falsification ID</span><span class="meta-value" style="font-family: var(--font-mono, monospace);">{{ page.falsification_id }}</span></div>
     <div class="meta-item"><span>Domain</span><span class="meta-value">{{ page.domain_display }}</span></div>
-    <div class="meta-item"><span>Current Status</span><span class="meta-value">{{ page.current_status | capitalize }}</span></div>
+    <div class="meta-item"><span>Current Status</span><span class="meta-value">{{ falsification_status_label }}</span></div>
+    <div class="meta-item"><span>External Acceptance</span><span class="meta-value">Not claimed by this page</span></div>
     {% if page.seam %}<div class="meta-item"><span>Seam</span><span class="meta-value">{{ site.data.seams[page.seam] | default: page.seam }}</span></div>{% endif %}
     <div class="meta-item"><span>Registry ID</span><span class="meta-value" style="font-family: var(--font-mono, monospace);">{{ page.registry_id }}</span></div>
   </div>

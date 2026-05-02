@@ -21,8 +21,8 @@ registry_ids:
   - "V.T81"
   - "V.T82"
   - "V.T83"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/ExponentDerivation.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-field-exponent-derivation/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/ExponentDerivation.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-field-exponent-derivation/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/ExponentDerivation.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/ExponentDerivation.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/GravityField/ExponentDerivation.lean`
 - SHA-256: `1dda037f68250137daa799f92c43ac69c869a5fb8357d4eab37a87172579ad47`

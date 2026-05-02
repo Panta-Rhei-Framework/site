@@ -18,8 +18,8 @@ registry_ids:
   - "V.D09"
   - "V.R02"
   - "V.T03"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/Schwarzschild.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-schwarzschild/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/Schwarzschild.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-schwarzschild/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Gravity/Schwarzschild.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Gravity/Schwarzschild.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Gravity/Schwarzschild.lean`
 - SHA-256: `91f2a747c88e09439937c4b0c1e7cbd1b73da7d160b76b25776a978f6027c991`

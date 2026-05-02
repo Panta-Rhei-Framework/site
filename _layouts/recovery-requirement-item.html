@@ -38,14 +38,23 @@ layout: default
 <section class="content-card">
   <div class="prose">
     {% assign has_rich_recovery = false %}
-    {% if page.expanded_rationale or page.public_summary or page.what_this_requires.size > 0 or page.what_this_does_not_claim.size > 0 or page.related_examples.size > 0 %}
+    {% assign public_summary_text = page.public_summary | default: "" | strip %}
+    {% assign summary_text = page.summary | default: "" | strip %}
+    {% assign expanded_rationale_text = page.expanded_rationale | default: "" | strip %}
+    {% if expanded_rationale_text != "" or public_summary_text != "" or page.what_this_requires.size > 0 or page.what_this_does_not_claim.size > 0 or page.related_examples.size > 0 %}
       {% assign has_rich_recovery = true %}
     {% endif %}
     {% if has_rich_recovery %}
     <h2>Requirement</h2>
-    <p>{{ page.public_summary | default: page.summary }}</p>
+    {% if public_summary_text != "" %}
+    <p>{{ page.public_summary }}</p>
+    {% elsif summary_text != "" %}
+    <p>{{ page.summary }}</p>
+    {% else %}
+    <p>{{ page.summary_short }}</p>
+    {% endif %}
 
-    {% if page.expanded_rationale %}
+    {% if expanded_rationale_text != "" %}
     <h2>Why This Matters</h2>
     <p>{{ page.expanded_rationale }}</p>
     {% endif %}
@@ -77,7 +86,15 @@ layout: default
     </ul>
     {% endif %}
     {% else %}
+    {% assign fallback_content = content | strip %}
+    {% if fallback_content != "" %}
     {{ content }}
+    {% else %}
+    <h2>Requirement</h2>
+    <p>{{ page.summary_short }}</p>
+    <h2>Current Status</h2>
+    <p>This v0.1 item fixes the public burden of proof. Detailed formal, empirical, or bridge verification remains routed through the Verify and Results lanes.</p>
+    {% endif %}
     {% endif %}
 
     <h2>Ledger Classification</h2>

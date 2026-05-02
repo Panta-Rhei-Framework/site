@@ -364,7 +364,7 @@ This creates a clear contrast with the Inari/private-biotech model, which operat
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — Benchmark and validate (Years 1–2)
 

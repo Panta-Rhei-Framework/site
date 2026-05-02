@@ -43,7 +43,7 @@ related_public_surfaces:
   -
     surface_type: "falsification_facet"
     surface_id: "N11"
-    title: "N11 — First acoustic peak $_1 = 220.6$"
+    title: "N11 — First acoustic peak ℓ₁ = 220.6"
     url: "/falsifications/n11-first-acoustic-peak-1-2206/"
     match_basis: "facet_title_summary"
     match_confidence: "medium"
@@ -76,7 +76,7 @@ Ledger restatement: first acoustic peak ell_1=220.6 (V.T190/V.T257)
 
 - [CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm](/results/problem/cmb-first-peak/)
 - [First CMB Acoustic Peak ℓ₁](/predictions/pred-35/)
-- [N11 — First acoustic peak $_1 = 220.6$](/falsifications/n11-first-acoustic-peak-1-2206/)
+- [N11 — First acoustic peak ℓ₁ = 220.6](/falsifications/n11-first-acoustic-peak-1-2206/)
 
 ## Reading role
 

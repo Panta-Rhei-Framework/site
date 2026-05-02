@@ -18,8 +18,8 @@ registry_ids:
   - "VI.D43"
   - "VI.P16"
   - "VI.T23"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Closure/ClosureSector.lean"
-legacy_verify_url: "/verify/taulib/docs/book-vi-closure-closure-sector/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Closure/ClosureSector.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-vi-closure-closure-sector/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookVI/Closure/ClosureSector.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookVI/Closure/ClosureSector.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookVI/Closure/ClosureSector.lean`
 - SHA-256: `bd9b10e439137e9df21fb1f3b966d533fe8d3c11007fb24288b1987145b59b9a`

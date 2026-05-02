@@ -36,8 +36,8 @@ registry_ids:
   - "IV.R160"
   - "IV.T89"
   - "IV.T90"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/ManyBody/DefectFunctionalExt.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-many-body-defect-functional-ext/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/ManyBody/DefectFunctionalExt.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-many-body-defect-functional-ext/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -62,6 +62,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/ManyBody/DefectFunctionalExt.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/ManyBody/DefectFunctionalExt.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/ManyBody/DefectFunctionalExt.lean`
 - SHA-256: `51087c9e28d1c5e135ff1c7c93c2d16e66ba15afdc195d6b16004a95d986105b`

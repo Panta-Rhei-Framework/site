@@ -20,8 +20,8 @@ registry_ids:
   - "V.P04"
   - "V.T11"
   - "V.T12"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Temporal/TemporalIgnition.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-temporal-temporal-ignition/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Temporal/TemporalIgnition.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-temporal-temporal-ignition/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Temporal/TemporalIgnition.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Temporal/TemporalIgnition.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Temporal/TemporalIgnition.lean`
 - SHA-256: `15e96d73480c14d7fcd25c2e60a33236ad248f3c0848f25fba2567330f07acf0`

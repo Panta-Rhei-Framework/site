@@ -368,7 +368,7 @@ The competitive landscape is well populated for individual sub-problems: SOLPS-I
 
 ---
 
-## 7. Deployment Ladder
+## 7. Evidence and Translation Ladder
 
 A rigorous τ-for-fusion programme must be staged around explicit deliverables and validation gates. The following ladder moves from the lowest-risk insertion point to the highest-value applications.
 

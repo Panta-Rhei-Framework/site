@@ -14,8 +14,8 @@ family: "Polarity"
 line_count: 416
 registry_ids:
   - "I.D25"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/OmegaGerms.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-polarity-omega-germs/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/OmegaGerms.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-polarity-omega-germs/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -40,6 +40,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Polarity/OmegaGerms.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Polarity/OmegaGerms.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Polarity/OmegaGerms.lean`
 - SHA-256: `a9d07b9dbe3cc6b55c28928d77b6c4853afbc6e723cb0716e6714021e5610955`

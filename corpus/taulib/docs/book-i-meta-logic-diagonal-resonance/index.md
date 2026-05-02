@@ -18,8 +18,8 @@ registry_ids:
   - "I.D91"
   - "I.R24"
   - "I.R25"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/MetaLogic/DiagonalResonance.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-meta-logic-diagonal-resonance/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/MetaLogic/DiagonalResonance.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-meta-logic-diagonal-resonance/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/MetaLogic/DiagonalResonance.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/MetaLogic/DiagonalResonance.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/MetaLogic/DiagonalResonance.lean`
 - SHA-256: `18d84d3f70ac085da37c6d75d7a4878e0feff05bdfd8800a235bb8da2fe5ec01`

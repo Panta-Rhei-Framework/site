@@ -23,8 +23,8 @@ registry_ids:
   - "IV.P96"
   - "IV.T71"
   - "IV.T72"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Strong/Confinement.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-strong-confinement/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Strong/Confinement.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-strong-confinement/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -49,6 +49,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Strong/Confinement.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Strong/Confinement.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Strong/Confinement.lean`
 - SHA-256: `9e1a8b703a642d48c06511afe04dbd24902aa6b24320d8961e377a41f35416ac`

@@ -87,9 +87,9 @@ The core construction is architectural rather than a single downstream theorem: 
 
 ## TauLib evidence
 
-- [TauLib.BookI.Kernel.Signature](/verify/taulib/docs/book-i-kernel-signature/)
-- [TauLib.BookI.Kernel.Axioms](/verify/taulib/docs/book-i-kernel-axioms/)
-- [TauLib.BookI.Kernel.Diagonal](/verify/taulib/docs/book-i-kernel-diagonal/)
+- [TauLib.BookI.Kernel.Signature](/corpus/taulib/docs/book-i-kernel-signature/)
+- [TauLib.BookI.Kernel.Axioms](/corpus/taulib/docs/book-i-kernel-axioms/)
+- [TauLib.BookI.Kernel.Diagonal](/corpus/taulib/docs/book-i-kernel-diagonal/)
 
 ## Failure consequence
 

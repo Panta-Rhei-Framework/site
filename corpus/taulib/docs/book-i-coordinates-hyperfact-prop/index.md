@@ -16,8 +16,8 @@ registry_ids:
   - "I.D14"
   - "I.L03"
   - "I.T04"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Coordinates/HyperfactProp.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-coordinates-hyperfact-prop/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Coordinates/HyperfactProp.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-coordinates-hyperfact-prop/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -42,6 +42,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Coordinates/HyperfactProp.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Coordinates/HyperfactProp.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Coordinates/HyperfactProp.lean`
 - SHA-256: `2cd3a4bfa57b6a767fa6116e2a3e0a484ea62be9aa36137e28109c329eda8fe5`

@@ -24,8 +24,8 @@ registry_ids:
   - "V.R156"
   - "V.R445"
   - "V.T253"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/FluidMacro/TauAlfven.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-fluid-macro-tau-alfven/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/FluidMacro/TauAlfven.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-fluid-macro-tau-alfven/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -50,6 +50,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/FluidMacro/TauAlfven.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/FluidMacro/TauAlfven.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/FluidMacro/TauAlfven.lean`
 - SHA-256: `dc88bf060781080e3d246b27b251ea45eb6d3157fa46e3ff05d7b0b9d83bf404`

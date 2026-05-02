@@ -19,8 +19,8 @@ registry_ids:
   - "IV.R05"
   - "IV.R06"
   - "IV.T04"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Physics/Thermodynamics.lean"
-legacy_verify_url: "/verify/taulib/docs/book-iv-physics-thermodynamics/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Physics/Thermodynamics.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-iv-physics-thermodynamics/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookIV/Physics/Thermodynamics.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookIV/Physics/Thermodynamics.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookIV/Physics/Thermodynamics.lean`
 - SHA-256: `edc84896174c2102582a607dd612b5c11b232a1b8fe18cd3309532a59e9f3b4a`

@@ -5,7 +5,7 @@ change_type: "site-release"
 summary_short: "Initial public launch of the Panta Rhei Research Program site with all seven core lanes."
 affected_lanes:
   - research-program
-  - framework
+  - corpus
   - results
   - publications
   - verify
@@ -26,11 +26,11 @@ right_rail:
 
 ## Changes
 
-- **Seven core lanes**: Research Program, Framework, Key Results, Publications, Verify, Impact, Engage
+- **Seven core lanes**: Research Program, Corpus projection, Key Results, Publications, Verify, Impact, Engage
 - **Seven books**: Full publication-depth rollout with parts, chapters, DOIs, and Amazon listings
 - **TauLib documentation**: 445 module pages integrated from Lean 4 formalization
 - **Registry**: 4,584 registry objects across all 7 books with dependency graphs
-- **Framework**: 69 framework modules across 4 layers (E0-E3)
+- **Corpus projection**: 69 legacy module pages across 4 layers (E0-E3)
 - **Results**: Key results with typed epistemic status across 4 domains
 - **Impact**: 11 portfolios with 44 Public-Good Briefings
 - **Verification**: TauLib, guided tours, and formalization status

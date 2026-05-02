@@ -364,7 +364,7 @@ The deployment model that best serves the ROI case is **shadow-mode benchmarking
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 The deployment ladder for τ-grade blue food intelligence is organized in five phases, designed to sequence from lowest-uncertainty, highest-readiness applications toward more complex, multi-institutional ecosystem intelligence systems.
 
@@ -674,7 +674,7 @@ If the τ physics is real in the strong sense assumed here, then blue food syste
 
 ---
 
-*This paper is Paper 3 of 4 in the Panta Rhei Impact Ocean Portfolio. The underlying τ physics is developed in Panta Rhei Books IV (Categorical Microcosm) and V (Categorical Macrocosm), with the ocean-ecosystem application drawing on Books V and VI (Categorical Life). This dossier is a yellow paper — assumption-led, deployment-oriented, and public-good framed. It does not constitute independent validation of the τ framework, and all impact scenarios are planning inferences from official baselines rather than official forecasts.*
+*This paper is Paper 3 of 4 in the Panta Rhei Impact Ocean Portfolio. The underlying τ physics is developed in Panta Rhei Books IV (Categorical Microcosm) and V (Categorical Macrocosm), with the ocean-ecosystem application drawing on Books V and VI (Categorical Life). This dossier is a yellow paper — assumption-led, translation-oriented, and public-good framed. It does not constitute independent validation of the τ framework, and all impact scenarios are planning inferences from official baselines rather than official forecasts.*
 
 *For related papers in the Ocean Portfolio: Paper 1 — Mainstream Maritime Logistics and Ports; Paper 2 — Climate-Smart Shipping and Wind-Powered Cargo Corridors; Paper 4 — Ocean Stewardship, Cleanup, and Marine Emergency Response.*
 

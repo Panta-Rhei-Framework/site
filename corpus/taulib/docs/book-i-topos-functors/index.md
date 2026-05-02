@@ -17,8 +17,8 @@ registry_ids:
   - "I.D53"
   - "I.D54"
   - "I.T23"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/Functors.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-topos-functors/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/Functors.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-topos-functors/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/Functors.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/Functors.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Topos/Functors.lean`
 - SHA-256: `387c08b1253814846e6cd7df410024059afd08aecb72f33a2f28f5220c7a9507`

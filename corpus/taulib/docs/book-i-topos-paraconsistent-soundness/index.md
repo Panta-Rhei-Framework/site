@@ -17,8 +17,8 @@ registry_ids:
   - "I.D21"
   - "I.T13"
   - "I.T60"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/ParaconsistentSoundness.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-topos-paraconsistent-soundness/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/ParaconsistentSoundness.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-topos-paraconsistent-soundness/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -43,6 +43,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/ParaconsistentSoundness.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/ParaconsistentSoundness.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Topos/ParaconsistentSoundness.lean`
 - SHA-256: `14b3b272c932d64c4008164ed0d7d537aa0d629083c64b007f9ca841114c3a48`

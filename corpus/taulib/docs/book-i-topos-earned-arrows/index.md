@@ -17,8 +17,8 @@ registry_ids:
   - "I.D51"
   - "I.P25"
   - "I.T22"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/EarnedArrows.lean"
-legacy_verify_url: "/verify/taulib/docs/book-i-topos-earned-arrows/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/EarnedArrows.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-i-topos-earned-arrows/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -44,6 +44,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookI/Topos/EarnedArrows.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookI/Topos/EarnedArrows.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookI/Topos/EarnedArrows.lean`
 - SHA-256: `1e4d4d6a1a915ed1de9777b2a67e454cde0f6523827095ad27c9f070f8851e18`

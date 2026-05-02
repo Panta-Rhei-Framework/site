@@ -43,7 +43,7 @@ related_public_surfaces:
   -
     surface_type: "falsification_facet"
     surface_id: "N16"
-    title: "N16 — Deuterium abundance from $$-native $_B$"
+    title: "N16 — Deuterium abundance from τ-native η_B"
     url: "/falsifications/n16-deuterium-abundance-from-native-b/"
     match_basis: "facet_title_summary"
     match_confidence: "medium"
@@ -76,7 +76,7 @@ Ledger restatement: deuterium D/H from tau-native eta_B (V.T241)
 
 - [Deuterium Abundance](/results/problem/deuterium-abundance/)
 - [Primordial Deuterium Abundance D/H](/predictions/d-h/)
-- [N16 — Deuterium abundance from $$-native $_B$](/falsifications/n16-deuterium-abundance-from-native-b/)
+- [N16 — Deuterium abundance from τ-native η_B](/falsifications/n16-deuterium-abundance-from-native-b/)
 
 ## Reading role
 

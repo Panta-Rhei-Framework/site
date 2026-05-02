@@ -21,8 +21,8 @@ registry_ids:
   - "V.R59"
   - "V.T24"
   - "V.T25"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/LorentzNoMinkowski.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-gravity-field-lorentz-no-minkowski/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/LorentzNoMinkowski.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-gravity-field-lorentz-no-minkowski/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -47,6 +47,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/GravityField/LorentzNoMinkowski.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/GravityField/LorentzNoMinkowski.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/GravityField/LorentzNoMinkowski.lean`
 - SHA-256: `5eb95debe19df0568769fdbd9c16505bb2ccfdeb0b8126d63733cf8b382d34b6`

@@ -19,8 +19,8 @@ registry_ids:
   - "V.P05"
   - "V.R33"
   - "V.T13"
-upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Temporal/HighEnergy.lean"
-legacy_verify_url: "/verify/taulib/docs/book-v-temporal-high-energy/"
+upstream_url: "https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Temporal/HighEnergy.lean"
+legacy_verify_url: "/corpus/taulib/docs/book-v-temporal-high-energy/"
 generated_from: "corpus/taulib-sources"
 projection_version: "v3.0"
 canonical_source: "corpus/taulib-sources"
@@ -46,6 +46,6 @@ TauLib is published here as the compiled Lean projection of the Corpus. This pag
 
 ## Source
 
-- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/37c12411e76f4bb89f7bc463d1443eecc0bd9afe/TauLib/BookV/Temporal/HighEnergy.lean)
+- [Open source file](https://github.com/Panta-Rhei-Research/taulib/blob/cb5e83015b54dd72eba560953fe2461820078757/TauLib/BookV/Temporal/HighEnergy.lean)
 - Corpus source path: `taulib-sources/project/TauLib/BookV/Temporal/HighEnergy.lean`
 - SHA-256: `9bf90797f154fc52a4f205d0d44f8a302f593a61af586ce67a0079c7aec3a9d3`

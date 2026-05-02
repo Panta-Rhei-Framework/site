@@ -418,7 +418,7 @@ Beyond grant and development finance sources, a τ-grade emissions attribution p
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 ### Phase 1 — 0 to 24 Months: Shadow Mode and Retroactive Validation
 

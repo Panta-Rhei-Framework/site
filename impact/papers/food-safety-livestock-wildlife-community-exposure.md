@@ -32,7 +32,7 @@ Three hazard types illustrate the opportunity concretely. Aflatoxin contaminatio
 
 Across all three hazard types, and across the full food-system and interface landscape this paper covers, a τ-grade system could shift prevention from fragmented inspection and episodic outbreak response to a coordinated One Health intelligence layer. That layer would enable earlier detection, better pathway attribution, more targeted and livelihood-preserving interventions, and stronger cross-border coordination.
 
-This is a yellow paper. It is assumption-led, deployment-oriented, and public-good framed. It does not claim that the broader scientific or policy community has accepted the τ assumptions. It asks what would follow if those assumptions were true enough to matter operationally.
+This is a yellow paper. It is assumption-led, translation-oriented, and public-good framed. It does not claim that the broader scientific or policy community has accepted the τ assumptions. It asks what would follow if those assumptions were true enough to matter operationally.
 
 ---
 
@@ -408,7 +408,7 @@ The humanitarian and economic case for investment in τ-grade food safety and in
 
 ---
 
-## 10. Deployment Ladder
+## 10. Evidence and Translation Ladder
 
 Successful deployment of τ-grade food safety and interface intelligence follows a staged ladder that manages institutional trust, data integration complexity, and operational adoption in a realistic sequence.
 
