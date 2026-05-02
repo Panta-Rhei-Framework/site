@@ -39,9 +39,12 @@ White Papers belong to Publications because they are stable citable artifacts. T
 - Methodology White Papers
 - Orientation White Papers
 
-## Initial examples
+## Released
+
+- [**TauLib: A Self-Contained Lean 4 Library for Category τ**]({{ '/publications/white-papers/taulib/' | relative_url }}) — *Kernel + Mathlib Bridges + Registry-Driven Correspondence.* v2.0, May 2026. Technical / Formalization White Paper. DOI: [10.5281/zenodo.19976503](https://doi.org/10.5281/zenodo.19976503).
+
+## Initial examples (other categories)
 
 - [Framework Conspectus]({{ '/publications/conspectus/' | relative_url }}) - Overview White Paper.
-- TauLib Overview - Technical / Formalization White Paper, routed through [Verify]({{ '/verify/taulib/' | relative_url }}).
 - Corpus Pipeline - Infrastructure White Paper, planned.
 - Verification Stack Overview - Verification White Paper, routed through [Verify]({{ '/verify/' | relative_url }}).
