@@ -43,7 +43,7 @@ If you are new to the program, start with these four questions.
 <div class="v2-grid v2-grid-2">
   <a class="v2-tile" href="{{ '/program/' | relative_url }}">
     <h3>1. What is this?</h3>
-    <p>Begin with Program and Research Agenda for the aim, scope, and burden of proof.</p>
+    <p>Begin with Program and Agenda for identity, scope, and burden of proof.</p>
   </a>
   <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
     <h3>2. What is being built?</h3>

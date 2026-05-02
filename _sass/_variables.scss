@@ -122,6 +122,8 @@ $bp-stack:        760px;
   --lane-discover-soft: #f7efe1;
   --lane-program: #163e64;
   --lane-program-soft: #e8f0f6;
+  --lane-agenda: #7a3f72;
+  --lane-agenda-soft: #f4e8f1;
   --lane-corpus: #3a3d42;
   --lane-corpus-soft: #ecefed;
   --lane-results: #2f6f6a;
@@ -191,6 +193,7 @@ $bp-stack:        760px;
 
 .lane-discover { --lane-current: var(--lane-discover); --lane-current-soft: var(--lane-discover-soft); }
 .lane-program { --lane-current: var(--lane-program); --lane-current-soft: var(--lane-program-soft); }
+.lane-agenda { --lane-current: var(--lane-agenda); --lane-current-soft: var(--lane-agenda-soft); }
 .lane-corpus { --lane-current: var(--lane-corpus); --lane-current-soft: var(--lane-corpus-soft); }
 .lane-results { --lane-current: var(--lane-results); --lane-current-soft: var(--lane-results-soft); }
 .lane-verify { --lane-current: var(--lane-verify); --lane-current-soft: var(--lane-verify-soft); }

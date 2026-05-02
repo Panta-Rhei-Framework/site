@@ -11,7 +11,7 @@ summary: "Common questions journalists, podcast hosts, and editors ask about the
 summary_short: "Press FAQ — peer review, funding, citation, interviews, embargo policy."
 summary_cards:
 - title: "What kind of work is this?"
-  body: "Independent open research program developing Category τ — published as a 7-book monograph series, formalized in Lean 4, with a public registry and verification surfaces."
+  body: "Independent open research program dedicated to building a coherent theory of reality — published as books, Corpus, Results, Verify, and public engagement surfaces."
 - title: "Is it peer-reviewed?"
   body: "Not yet by traditional journals. The program is open for scrutiny via published Assessment Protocols and a public Reviewer's Dossier."
 - title: "Can I quote you?"
@@ -45,7 +45,7 @@ For specialist-level questions (formal-methods reviewers, domain experts), see t
 
 ## What kind of research is this?
 
-The Panta Rhei Research Program is an **independent open research program** developing **Category τ** — a categorical framework that derives results across mathematics, physics, biology, and philosophy from a single coherence kernel of five generators, seven axioms, and one operator. The program's public release (April 2026) consists of a seven-book monograph series, a Lean 4 formalization library called [TauLib]({{ '/verify/taulib/' | relative_url }}), and this research website.
+The Panta Rhei Research Program is an **independent open research program dedicated to building a coherent theory of reality**. Its public release (April 2026) includes a seven-book monograph series, a Lean 4 formalization library called [TauLib]({{ '/verify/taulib/' | relative_url }}), and this research website as an inspection observatory.
 
 It is **not** a journal submission, a textbook, a software project, or a grant proposal. It is a research architecture published for scrutiny.
 
@@ -71,7 +71,7 @@ The program-level name is **Panta Rhei Research Program**. The framework's name 
 
 The shortest accurate framing is:
 
-> Panta Rhei is an independent open research program developing **Category τ**, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator.
+> Panta Rhei is an independent open research program dedicated to building a coherent theory of reality, published as an inspectable research observatory.
 
 Three boilerplate length variants — 1-line, 30-word, and 100-word — are available on the [Media Kit]({{ '/media/' | relative_url }}#program-boilerplate-copy-paste-ready) page. Use them as-is for press releases, abstracts, or article bylines.
 

@@ -81,8 +81,8 @@ def main() -> int:
 
     # Program/About wording must route through the v4 architecture, not a legacy framework lane.
     about = html_path(built, "/program/about/")
-    assert_contains_text(about, "Program obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, Impact scenarios, and Engage routes")
-    assert_contains_text(about, "Research Agenda, Corpus Construction Spine, a Results mirror, a Verify route, or a citable Publication artifact")
+    assert_contains_text(about, "Program identity, Agenda obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, Impact scenarios, and Engage routes")
+    assert_contains_text(about, "Agenda, Corpus Construction Spine, a Results mirror, a Verify route, or a citable Publication artifact")
     assert_not_contains_text(about, "public website organized by framework")
     assert_not_contains_text(about, "entering through a framework lane")
 

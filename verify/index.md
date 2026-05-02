@@ -73,6 +73,8 @@ right_rail:
 
 ## What Verify Means Here
 
+> Verify is where building becomes accountable.
+
 > Verify is where every obligation, construction step, and result becomes inspectable.
 
 Verification in this program is not one thing. It includes research-form legitimacy, source-policy inspection, construction-step verification, formal proof checking, semantic correspondence, bridge adequacy, domain-specific validation, prediction and falsification surfaces, and structured external assessment.

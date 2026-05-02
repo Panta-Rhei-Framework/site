@@ -108,7 +108,7 @@ For domain-specific posts, add one of:
 
 ### General announcement (long-form)
 
-> **Announcing the Panta Rhei Research Program** — a 7-book independent open research program developing Category τ, a categorical framework spanning mathematics, physics, biology, and philosophy. Built on five generators, seven axioms, and one operator, the framework derives results with **zero free parameters** from a single algebraic seed (ι_τ = 2/(π+e)).
+> **Announcing the Panta Rhei Research Program** — an independent open research program dedicated to building a coherent theory of reality. The public site is an inspectable research observatory: Agenda for obligations, Corpus for construction, Results for consequences, Verify for inspection, Impact for conditional relevance, and Engage for open scrutiny.
 >
 > What's distinctive: every claim is published with its **scope label**, every internal proof is **Lean 4-formalized**, and every prediction ships with its own **falsification test**. The program is independent research — not yet peer-reviewed in traditional journals — but the verification surfaces are open from day one.
 >
@@ -124,7 +124,7 @@ For domain-specific posts, add one of:
 
 ## Bluesky / Mastodon — under 500 characters
 
-> **Panta Rhei Research Program** · 7-book independent open research program developing Category τ — a categorical framework deriving results across mathematics, physics, biology, and philosophy from one algebraic seed (ι_τ = 2/(π+e)). Lean 4-formalized, falsification tests on day one. Open for scrutiny.
+> **Panta Rhei Research Program** · independent open research program dedicated to building a coherent theory of reality. Agenda, Corpus, Results, Verify, Impact, and Engage are public from day one. Open for scrutiny.
 >
 > {{ site.url }}{{ '/media/' | relative_url }}
 >

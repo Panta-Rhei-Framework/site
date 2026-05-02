@@ -65,7 +65,7 @@ Engagement does not begin with agreement. It begins with a useful form of attent
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
     <h3>Read carefully</h3>
-    <p>Use Discover, Program, Research Agenda, Publications, and Results before judging isolated claims.</p>
+    <p>Use Discover, Program, Agenda, Publications, and Results before judging isolated claims.</p>
   </a>
   <a class="v2-tile" href="{{ '/engage/discussions/' | relative_url }}">
     <h3>Ask a public question</h3>

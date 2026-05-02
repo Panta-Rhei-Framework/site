@@ -1,0 +1,68 @@
+---
+layout: program-doc
+title: "Why We Built an Inspection Observatory"
+lane: program
+v2_lane: program
+section: about-the-program
+permalink: /program/about/inspection-observatory/
+type: "Program Doctrine"
+status: "Canonical"
+summary_short: "Why the website is organized as an inspectable research observatory rather than only as books, papers, claims, or software."
+hero_ctas:
+  - label: "Program"
+    url: /program/
+    primary: true
+  - label: "Discover"
+    url: /discover/
+  - label: "Verify"
+    url: /verify/
+right_rail:
+  related:
+    - title: "Program"
+      url: /program/
+    - title: "Coherent Theory of Reality"
+      url: /program/about/coherent-theory-of-reality/
+    - title: "Scope, Status & Scrutiny"
+      url: /program/about/scope-status-and-scrutiny/
+    - title: "Engage"
+      url: /engage/
+  meta:
+    type: "Program Doctrine"
+    status: "Canonical"
+    updated: "May 2026"
+---
+
+## Inspection before belief
+
+Because Panta Rhei is independent, open, and high-scope, its first public obligation is inspection before belief.
+
+The website is therefore built as a public research observatory. It does not ask a reader to encounter an isolated claim and decide whether to trust it. It exposes the surrounding system: the obligation being answered, the construction that supports the answer, the result status, the verification route, the publication artifact, and the available engagement path.
+
+## What the observatory exposes
+
+The v4 site is organized around eight public surfaces:
+
+- **Discover** orients first-time readers.
+- **Program** explains identity and doctrine.
+- **Agenda** states obligations.
+- **Corpus** carries construction.
+- **Results** presents consequences.
+- **Verify** makes the work accountable.
+- **Impact** maps conditional relevance.
+- **Engage** makes open scrutiny operational.
+
+Publications remain essential, but they are the stable artifact and release layer. They do not replace the Corpus, Results, or Verify surfaces.
+
+## Why this matters
+
+A large-scope theory cannot be evaluated only by reading its most confident prose.
+
+It must let readers ask: What was the obligation? Where is the construction? Which result is being claimed? What kind of verification is available? What remains unverified? What would count as failure? Where can corrections be raised?
+
+The observatory structure exists so those questions have public routes.
+
+## What this page does not claim
+
+The observatory does not imply endorsement, external validation, peer-review settlement, or institutional acceptance.
+
+It is a public interface for scrutiny. Its purpose is to make the work easier to inspect, challenge, correct, cite, and follow.

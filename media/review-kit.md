@@ -11,7 +11,7 @@ summary: "A structured entry point for reviewers who want to inspect, challenge,
 summary_short: "Structured entry paths for reviewers, domain experts, and institutional readers."
 summary_cards:
 - title: "For reviewers"
-  body: "Recommended routes into Program, Corpus, Results, Verify, Publications, and Assessment Protocols."
+  body: "Recommended routes into Program, Agenda, Corpus, Results, Verify, Publications, and Assessment Protocols."
 - title: "For institutions"
   body: "Prospectus, reviewer's dossier, formalization overview, and contact routes."
 - title: "What this is not"
@@ -44,13 +44,13 @@ right_rail:
 
 ## Recommended review paths
 
-The Panta Rhei Research Program is an **independent open research program** — not a journal submission, not a textbook, not a software project. It is a seven-book monograph series accompanied by a Lean 4 formalization library, a public research website, and structured verification surfaces.
+The Panta Rhei Research Program is an **independent open research program dedicated to building a coherent theory of reality** — not a journal submission, not a textbook, not a software project. It is published through a seven-book monograph series, a Lean 4 formalization library, a public research website, and structured verification surfaces.
 
 The [books]({{ '/publications/research-monographs/' | relative_url }}) are the canonical monograph release. The site provides navigable access in understanding-order. [TauLib]({{ '/verify/taulib/' | relative_url }}) provides machine-checked verification. The guided tours and Research Briefings lower the threshold for structured engagement.
 
 ## Research-form legitimacy
 
-Start with [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) and the [Research Agenda]({{ '/program/research-agenda/' | relative_url }}). These pages state what kind of research object this is, what it refuses, and how its claims should be challenged.
+Start with [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}), [What We Mean by a Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), and the [Agenda]({{ '/program/research-agenda/' | relative_url }}). These pages state what kind of research object this is, what it refuses, what obligations it accepts, and how its claims should be challenged.
 
 ## Corpus and registry inspection
 
@@ -81,7 +81,7 @@ Use [Verify > Assessment Protocols]({{ '/verify/assessment-protocols/' | relativ
 ## Suggested first-pass reviewer workflow
 
 1. Start with [Program > Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}).
-2. Read [Program > Research Agenda]({{ '/program/research-agenda/' | relative_url }}).
+2. Read [Agenda]({{ '/program/research-agenda/' | relative_url }}).
 3. Inspect [Corpus > Registry]({{ '/corpus/registry/' | relative_url }}).
 4. Choose one [Results]({{ '/results/' | relative_url }}) page.
 5. Follow supporting Corpus links.

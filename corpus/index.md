@@ -6,7 +6,7 @@ v2_lane: corpus
 permalink: /corpus/
 type: "Lane Root"
 status: "Canonical"
-summary_short: "The living, versioned research corpus of the program."
+summary_short: "The construction body of the theory: definitions, derivations, monographs, registry objects, TauLib projection, and dependency relations."
 og_image: /assets/images/plates/plate-04-construction-spine-og.jpg
 twitter_image: /assets/images/plates/plate-04-construction-spine-og.jpg
 og_image_alt: "Scientific plate showing the Corpus Construction Spine as a ten-step build sequence from Kernel to Ontic Closure."
@@ -66,7 +66,7 @@ right_rail:
 {% assign registry_objects = site.data.registry.objects %}
 {% assign type_groups = registry_objects | group_by: "type" | sort: "name" %}
 
-The corpus is the central research artifact of the program: the public body of what has been built.
+The Corpus is the construction body of the theory: the public body of what has been built.
 
 It is not a summary, not a set of claims, and not a collection of papers. It is the structured body of what has been built: definitions, lemmas, theorems, structures, derivations, and dependency relations.
 
