@@ -4,7 +4,7 @@ title: "The Panta Rhei Conspectus"
 permalink: /publications/conspectus/
 lane: publications
 section: "Publications · Synoptic Overview"
-summary_short: "A self-contained, single-sitting reading of the seven-book Panta Rhei series. Walks the full arc — from the 7-axiom kernel and master constant ι<sub>τ</sub>, through the L0→L4 calibration cascade and 67 zero-parameter predictions, to the 30-entry Falsification Pack and the Lean formalization's trust budget. ~30 pages, 35–45 minutes. Free PDF download."
+summary_short: "A self-contained, single-sitting reading of the seven-book Panta Rhei series. Walks the full arc — from the 7-axiom kernel and master constant ι<sub>τ</sub>, through the L0→L4 calibration cascade and prediction/falsification surfaces, to the Lean formalization's trust budget. ~30 pages, 35–45 minutes. Free PDF download."
 right_rail:
   related:
   - title: Numerical Physics Ledger (209 pp companion)
@@ -59,9 +59,9 @@ Five parts, seventeen sections, one integrated argument:
 
 **Part III — What the Programme Commits To.** The three commitment documents together:
 
-- **The Numerical Physics Ledger at a glance.** 67 zero-parameter dimensionless predictions; precision tiers (A ~0.025 ppm, B ~3 ppm, C ~0.8%); the Calibration Sufficiency Theorem.
-- **The Falsification Pack N1–N30.** 30 named experiments on a 2025–2035 timeline; 4 confirmed, 26 consistent-and-testable; three framework-terminal scenarios named. Flagship: N9 at CMB-S4 (~14σ on the 2028–2032 window).
-- **TauLib — the formal trust budget.** ~4,863 theorems across 522 modules, 3 conjecture-axioms, **0 sorry**. CI enforces tactics-only Mathlib and the axiom/sorry counts. `native_decide` TCB extensions are disclosed on the [TCB page]({{ '/verify/tcb/' | relative_url }}).
+- **The Numerical Physics Ledger at a glance.** {% include release-metric.html id="predictions.records" %} zero-parameter dimensionless predictions; precision tiers (A ~0.025 ppm, B ~3 ppm, C ~0.8%); the Calibration Sufficiency Theorem.
+- **The Falsification Pack N1–N30.** {% include release-metric.html id="falsifications.records" %} named experiments on a 2025–2035 timeline; three framework-terminal scenarios named. Flagship: N9 at CMB-S4 (~14σ on the 2028–2032 window).
+- **TauLib — the formal trust budget.** {% include release-metric.html id="taulib.theorems_lemmas" %} theorem/lemma records across {% include release-metric.html id="taulib.modules" %} modules, {% include release-metric.html id="taulib.custom_axioms" %} conjecture-axioms, **{% include release-metric.html id="taulib.sorry" %} sorry**. CI enforces tactics-only Mathlib and the axiom/sorry counts. `native_decide` TCB extensions are disclosed on the [TCB page]({{ '/verify/tcb/' | relative_url }}).
 
 **Part IV — The Programme in a Single Image.** A master-cascade diagram (L0 → L4 horizontal × E₀ → E₃ vertical, with the Omega Point dashed loop) and a single master table comparing τ-predicted vs CODATA 2018 / PDG measured for every major dimensionless constant and every structural binary prediction.
 

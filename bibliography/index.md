@@ -8,10 +8,10 @@ status: canonical
 updated: "April 2026"
 permalink: /bibliography/
 summary: "Reference infrastructure for the public release surfaces of the Panta Rhei Research Program."
-summary_short: "Reference infrastructure for the public release surfaces of the Panta Rhei Research Program — 1,125 references across mathematics, physics, life sciences, and philosophy."
+summary_short: "Reference infrastructure for the public release surfaces of the Panta Rhei Research Program across mathematics, physics, life sciences, and philosophy."
 summary_cards:
-  - title: "1,125 references"
-    body: "Every entry has an editorial note. 210 are directly cited in the seven-book series; 915 are retained as corpus-only standing references."
+  - title: "Manifest-pinned references"
+    body: "Every entry has an editorial note; cited and standing references are tracked as part of the bibliography projection."
   - title: "Browse & filter →"
     body: "Filter by domain, role, type, citation status, book, and decade on the <a href=\"/bibliography/browse/\">unified browse surface</a>."
   - title: "Download .bib"
@@ -50,7 +50,7 @@ The bibliography is not a casual footer page. It is a working public record of t
 
 Browse by domain group below — each entry links to a dedicated page showing the full citation, bibliographic metadata, and an editorial note on the reference's role in the research program.
 
-Use the <a href="{{ '/bibliography/browse/' | relative_url }}">unified browse surface</a> for interactive exploration across the full 1,125-entry corpus. It lets you narrow the view by domain, role, entry type, citation status, book, and decade, and sort by year, title, or most-cited.
+Use the <a href="{{ '/bibliography/browse/' | relative_url }}">unified browse surface</a> for interactive exploration across the full {% include release-metric.html id="bibliography.references" %}-entry corpus. It lets you narrow the view by domain, role, entry type, citation status, book, and decade, and sort by year, title, or most-cited.
 
 The raw BibTeX file (`references.bib`) is available for download for researchers who wish to use it directly.
 

@@ -130,7 +130,7 @@ A metaphysical page may argue for coherence, closure, or explanatory discipline.
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/results/metaphysics/' | relative_url }}">
     <strong>Results · Metaphysics</strong>
-    <span>45 metaphysics-domain results · 68 glossary entries · architecture page · landmark results.</span>
+    <span>{% include release-metric.html id="results.metaphysics.records" %} metaphysics-domain results · {% include release-metric.html id="glossary.metaphysics.entries" %} glossary entries · architecture page · landmark results.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/metaphysics/cascade/' | relative_url }}">
     <strong>Categorical Architecture</strong>
@@ -138,7 +138,7 @@ A metaphysical page may argue for coherence, closure, or explanatory discipline.
   </a>
   <a class="v2-tile" href="{{ '/results/metaphysics/glossary/' | relative_url }}">
     <strong>Metaphysics Glossary</strong>
-    <span>68 entries with phenomenological correlates and register codomains.</span>
+    <span>{% include release-metric.html id="glossary.metaphysics.entries" %} entries with phenomenological correlates and register codomains.</span>
   </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <strong>Corpus Registry (Book VII)</strong>

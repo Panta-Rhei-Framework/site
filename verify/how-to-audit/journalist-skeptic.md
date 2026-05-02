@@ -7,7 +7,7 @@ v2_lane: verify
 type: "Inspection Route"
 status: "Canonical"
 summary_short: "For journalists, science writers, skeptics, and generalist readers without deep domain expertise. A 15-minute scan that lets you decide whether the program is serious enough to warrant coverage or closer inspection — and what to ask a specialist if you go deeper."
-plain_language_summary: "You don't need to be a Lean specialist or a particle physicist to evaluate whether this program is worth your attention. In 15 minutes you can answer: does it ship machine-checkable code? (yes — TauLib in public Lean 4). Does it commit to specific empirical predictions on a fixed timeline? (yes — 67 Numerical Predictions + 30 Falsifications, with named experiments for 2025–2035). Does it disclose its trust budget? (yes — three custom axioms named, zero sorries, TCB explicitly walled). Does it survive its own announced failure modes? (the Falsification Pack is the answer in 5 years). The page below is the 15-minute checklist plus a script of questions to put to a specialist if you decide to go deeper."
+plain_language_summary: "You don't need to be a Lean specialist or a particle physicist to evaluate whether this program is worth your attention. In 15 minutes you can answer: does it ship machine-checkable code? (yes — TauLib in public Lean 4). Does it commit to specific empirical predictions on a fixed timeline? (yes — Numerical Predictions + Falsifications, with named experiments for 2025–2035). Does it disclose its trust budget? (yes — custom axioms named, zero sorries, TCB explicitly walled). Does it survive its own announced failure modes? (the Falsification Pack is the answer in 5 years). The page below is the 15-minute checklist plus a script of questions to put to a specialist if you decide to go deeper."
 right_rail:
   related:
     - title: "How to Audit (Hub)"
@@ -118,6 +118,6 @@ This framework, on the scan above, does all four. What to conclude from that is 
 
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions, answered
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit snapshot with honest drift reconciliation
-- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 named-experiment tests
+- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} named-experiment tests
 - [Media Kit]({{ '/media/' | relative_url }}) — press and review resources
 - [How to Audit (Hub)]({{ '/verify/how-to-audit/' | relative_url }}) — all six reviewer routes

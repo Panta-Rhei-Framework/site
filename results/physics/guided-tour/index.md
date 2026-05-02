@@ -61,7 +61,7 @@ The framework's flagship predictions hit **sub-ppm precision** against experimen
 - **Weak mixing angle** `sin²θ_W`: agreement at **−0.65 ppm**. Tier A.
 - **Hubble constant** `H_0`: resolves the standing observational tension. Tier B.
 
-Tier A means "best-in-class precision matching experiment". The full ledger has 67 numerical predictions across the precision tiers. ([Predictions page]({{ '/results/predictions/' | relative_url }}))
+Tier A means "best-in-class precision matching experiment". The full ledger has {% include release-metric.html id="predictions.records" %} numerical predictions across the precision tiers. ([Predictions page]({{ '/results/predictions/' | relative_url }}))
 
 → **Next stop:** [What if it's wrong? — Falsifications](#stop-5)
 
@@ -98,7 +98,7 @@ You've now seen the structure of the physics domain. To go deeper:
     <span>Every constant, particle, law, and quantity with its full SI translation.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/predictions/' | relative_url }}">
-    <strong>67 numerical predictions</strong>
+    <strong>{% include release-metric.html id="predictions.records" %} numerical predictions</strong>
     <span>The Tier A / B / C precision ledger.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/physics/cascade/' | relative_url }}">

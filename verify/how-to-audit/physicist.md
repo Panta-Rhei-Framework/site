@@ -6,7 +6,7 @@ lane: verify
 v2_lane: verify
 type: "Inspection Route"
 status: "Canonical"
-summary_short: "For specialists in particle physics, cosmology, quantum foundations, or general relativity. The 67-prediction Numerical Physics Ledger and the 30-item Falsification Pack are the empirical track; the load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the derivation chains survive independent checking."
+summary_short: "For specialists in particle physics, cosmology, quantum foundations, or general relativity. The Numerical Physics Ledger and the Falsification Pack are the empirical track; the load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the derivation chains survive independent checking."
 plain_language_summary: "If you do physics professionally, the framework's most exposed claim is this: every numerical SI value in the Standard Model and cosmology comes out as an ι_τ-chain expression times an m_n-anchored dimensional factor. There are 67 such derivations on offer, with sub-ppm precision in the flagship cases. Your two load-bearing questions are: (1) is ι_τ ≈ 0.341304 a fitted parameter or a forced consequence? and (2) are the predictions genuinely a priori, or after-the-fact post-dictions? The page below tells you exactly where to look in TauLib for the derivations, where the published prediction timing and falsification timeline is, and what would settle each question for you."
 right_rail:
   related:
@@ -42,7 +42,7 @@ If this hinge fails, the ledger may still contain numerical patterns, but it can
 
 ### 1. The [Numerical Physics Ledger PDF]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (209 pp, 1.11 MB, free download)
 
-Contains the full derivation chains for all 67 zero-parameter numerical predictions from ι<sub>τ</sub> = 2/(π+e). Every prediction compares a τ-derived value directly to experimental measurement, typically to Planck/PDG/CODATA central values, with ppm-scale deviations reported.
+Contains the full derivation chains for all {% include release-metric.html id="predictions.records" %} zero-parameter numerical predictions from ι<sub>τ</sub> = 2/(π+e). Every prediction compares a τ-derived value directly to experimental measurement, typically to Planck/PDG/CODATA central values, with ppm-scale deviations reported.
 
 **Load-bearing questions to ask while reading:**
 
@@ -52,7 +52,7 @@ Contains the full derivation chains for all 67 zero-parameter numerical predicti
 
 ### 2. The [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }})
 
-A-priori-vs-post-diction accounting of the 67 predictions. Breaks the ledger into three categories:
+A-priori-vs-post-diction accounting of the {% include release-metric.html id="predictions.records" %} predictions. Breaks the ledger into three categories:
 
 | Category | Count | Character |
 |----------|:----:|-----------|
@@ -67,7 +67,7 @@ A-priori-vs-post-diction accounting of the 67 predictions. Breaks the ledger int
 
 ### 3. The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }})
 
-30 named-experiment tests with 5σ thresholds on 2025–2035 timelines. Load-bearing entry:
+{% include release-metric.html id="falsifications.records" %} named-experiment tests with 5σ thresholds on 2025–2035 timelines. Load-bearing entry:
 
 - **N1: CMB-S4 tensor-to-scalar ratio** — τ predicts r = ι<sub>τ</sub><sup>4</sup> ≈ 0.01363. CMB-S4 sensitivity σ(r) ≈ 0.001 implies 14σ discriminant power. If measured r is inconsistent with 0.01363 at ≥5σ, the framework's cosmological sector fails. **This is the single sharpest falsification test of the entire program.**
 
@@ -122,7 +122,7 @@ If the audit is positive and you want to go deeper, the next route depends on in
 ## Cross-links
 
 - [Physics Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — filterable 67-prediction catalogue
-- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 named-experiment tests
+- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} named-experiment tests
 - [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}) — a-priori vs post-diction breakdown
 - [Cosmology briefing]({{ '/results/fields/cosmology-astrophysics/' | relative_url }}) — the highest-stakes physics claim set
 - [Particle Physics briefing]({{ '/results/fields/particle-physics/' | relative_url }}) — SM-sector claim set

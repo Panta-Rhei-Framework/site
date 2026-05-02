@@ -6,14 +6,14 @@ lane: results
 v2_lane: results
 type: "Falsification Surface"
 status: "Canonical"
-summary_short: "30 sharp predictions where Category τ makes specific claims that named experiments can test on a 2025–2035 timeline."
+summary_short: "Sharp predictions where Category τ makes specific claims that named experiments can test on a 2025–2035 timeline."
 generated_from: "corpus/results/facets/falsifications"
 projection_version: "v0.1"
 canonical_source: "corpus/results/facets/falsifications"
 do_not_edit: false
 ---
 
-## The 30-Prediction Falsification Pack
+## The {% include release-metric.html id="falsifications.records" %}-Prediction Falsification Pack
 
 The **Falsification Pack** identifies the sharpest points where the τ-framework makes specific, testable claims that named experiments can verify or refute. Each prediction (N1–N30) carries a domain, a named experiment, a timeline, and a current program-side tracking status.
 
@@ -23,12 +23,12 @@ The **Falsification Pack** identifies the sharpest points where the τ-framework
 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/results/falsifications/browse/' | relative_url }}">
-    <strong>Browse all 30 falsifications</strong>
+    <strong>Browse all {% include release-metric.html id="falsifications.records" %} falsifications</strong>
     <span>Filterable grid of N1–N30 with domain, status, experiment, and timeline.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/predictions/' | relative_url }}">
     <strong>Numerical Predictions</strong>
-    <span>67 zero-parameter numerical predictions from ι<sub>τ</sub> with precision tiers.</span>
+    <span>{% include release-metric.html id="predictions.records" %} zero-parameter numerical predictions from ι<sub>τ</sub> with precision tiers.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/world-readout/' | relative_url }}">
     <strong>World Readout</strong>
@@ -49,7 +49,7 @@ Each falsification page (`/results/falsifications/n01-…/` through `/results/fa
 - **The timeline** — when results are expected (most fall in 2025–2035).
 - **Current status** — `Internally matched to current public data`, `Consistent with current public data`, `Committed test path`, or `Contradicted`.
 
-As of April 2026, **4 are internally matched to current public data** and **26 are consistent-and-testable** — none is currently contradicted. These are program tracking labels, not external acceptance labels.
+As of April 2026, the Falsification Pack carries current program-side tracking labels; none is currently contradicted. These are program tracking labels, not external acceptance labels.
 
 ## Read next
 

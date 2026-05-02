@@ -147,7 +147,7 @@ Any theorem claimed as formally certified is certified in the precise sense stat
   </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <strong>Corpus Registry</strong>
-    <span>The 4,139 public registry items underpinning the formal layer.</span>
+    <span>The {% include release-metric.html id="registry.registry_total.grand_total" %} registry items underpinning the formal layer.</span>
   </a>
   <a class="v2-tile" href="{{ '/verify/formal-verification-stack/' | relative_url }}">
     <strong>Formal Verification Stack</strong>

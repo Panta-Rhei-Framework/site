@@ -45,7 +45,7 @@ This is not a data-integrity bug. It is three different **filter rules** applied
 
 **Why two registry filters, not one?** A dashboard that rendered every remark, axiom, and corollary would be 2× longer and harder to scan. A registry root that silently dropped "ancillary" object types would lose claim-ID stability across releases. The two rules — one complete, one display-filtered — give both clarity and completeness. The column-mapping in the [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}#per-book-reconciliation) makes the choice explicit at every surface.
 
-**Why `taulib_modules` sits apart.** Lean modules and registry objects are **different units**. A single Lean module can host dozens of registry objects (definitions, theorems, propositions side by side). The module count (512 total) and the object count (4,547 total) are both correct for their respective units; they are not comparable quantities.
+**Why `taulib_modules` sits apart.** Lean modules and registry objects are **different units**. A single Lean module can host dozens of registry objects (definitions, theorems, propositions side by side). The module count ({% include release-metric.html id="taulib.modules" %} total) and the object count ({% include release-metric.html id="registry.registry_total.grand_total" %} total) are both correct for their respective units; they are not comparable quantities.
 
 ## Current totals — per book
 
@@ -67,7 +67,7 @@ Counts sourced from canonical `book{1..7}_registry.jsonl` ({{ manifest.updated }
 | V — Macrocosm | {{ rt.book_v }} | {{ dd.book_v }} | {{ fc.book_v }} | {{ pc.book_v }} | {{ nc.book_v }} | {{ tm.book_v }} |
 | VI — Life | {{ rt.book_vi }} | {{ dd.book_vi }} | {{ fc.book_vi }} | {{ pc.book_vi }} | {{ nc.book_vi }} | {{ tm.book_vi }} |
 | VII — Metaphysics | {{ rt.book_vii }} | {{ dd.book_vii }} | {{ fc.book_vii }} | {{ pc.book_vii }} | {{ nc.book_vii }} | {{ tm.book_vii }} |
-| Tour modules | — | — | — | — | — | {{ tm.tour_modules }} |
+| Meta / Tour / root modules | — | — | — | — | — | {{ tm.meta_tour_root_modules }} |
 | **Total** | **{{ rt.grand_total }}** | — | **{{ fc.grand_total }}** | **{{ pc.grand_total }}** | **{{ nc.grand_total }}** | **{{ tm.grand_total }}** |
 
 ## Rule definitions — in detail

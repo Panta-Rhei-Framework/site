@@ -8,9 +8,9 @@ type: "Verification Surface"
 verify_type: domain_verification
 domain: physics
 status: "Canonical"
-summary_short: "Verification for physics-facing claims: structural derivation, measurement bridges, prediction timing, falsification, and numerical accountability. Books IV–V — the calibration cascade from ι_τ + m_n to every measurable observable."
+summary_short: "Verification for physics-facing claims: structural derivation, measurement bridges, prediction timing, falsification, and numerical accountability. Books IV–V — the calibration cascade from ι_τ + m_n to measurable observables."
 plain_language_summary: |
-  Physics verification is not just a Lean check. The framework's physics layer (Books IV–V) makes 67 zero-parameter numerical predictions from a single algebraic constant ι_τ = 2/(π+e) and a single empirical anchor m_n (the neutron mass). Each prediction is testable. Verification means asking, separately: (1) does the derivation chain compile in Lean? (2) does the predicted number match measurement? (3) is ι_τ fitted or forced by the kernel structure? (4) are there genuine forward predictions on a fixed timeline? The 30-item Falsification Pack lists named experiments through 2035 whose outcomes would refute specific claims. None is currently contradicted; 4 of 30 are confirmed.
+  Physics verification is not just a Lean check. The framework's physics layer (Books IV–V) makes zero-parameter numerical predictions from a single algebraic constant ι_τ = 2/(π+e) and a single empirical anchor m_n (the neutron mass). Each prediction is testable. Verification means asking, separately: (1) does the derivation chain compile in Lean? (2) does the predicted number match measurement? (3) is ι_τ fitted or forced by the kernel structure? (4) are there genuine forward predictions on a fixed timeline? The Falsification Pack lists named experiments through 2035 whose outcomes would refute specific claims. None is currently contradicted.
 right_rail:
   related:
     - title: "Predictions & Falsification"
@@ -57,8 +57,8 @@ glossary_term_ids:
   </div>
   <div class="v2-tile v2-tile-physics">
     <span class="eyebrow">Predictions</span>
-    <h3>67</h3>
-    <p>Zero-parameter numerical predictions · 30 falsification paths on a 2025–2035 timeline.</p>
+    <h3>{% include release-metric.html id="predictions.records" %}</h3>
+    <p>Zero-parameter numerical predictions · {% include release-metric.html id="falsifications.records" %} falsification paths on a 2025–2035 timeline.</p>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ glossary_term_ids:
   <a class="v2-tile v2-tile-physics" href="{{ '/verify/predictions-and-falsification/' | relative_url }}">
     <span class="eyebrow">Empirical</span>
     <h3>Predictions &amp; Falsification</h3>
-    <p>67 numerical predictions · 30 named-experiment falsification paths · prediction-timing ledger.</p>
+    <p>{% include release-metric.html id="predictions.records" %} numerical predictions · {% include release-metric.html id="falsifications.records" %} named-experiment falsification paths · prediction-timing ledger.</p>
   </a>
   <a class="v2-tile v2-tile-physics" href="{{ '/verify/taulib/status/' | relative_url }}">
     <span class="eyebrow">Formalization</span>
@@ -105,7 +105,7 @@ glossary_term_ids:
   <a class="v2-tile v2-tile-physics" href="{{ '/results/physics/' | relative_url }}">
     <span class="eyebrow">Results</span>
     <h3>Physics Results Hub</h3>
-    <p>78 physics result pages · 95 glossary entries · calibration cascade · landmark results.</p>
+    <p>{% include release-metric.html id="results.physics.records" %} physics result pages · {% include release-metric.html id="glossary.physics.entries" %} glossary entries · calibration cascade · landmark results.</p>
   </a>
 </div>
 
@@ -130,7 +130,7 @@ The Numerical Physics Ledger is the artifact layer; Predictions & Falsification 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/results/physics/' | relative_url }}">
     <strong>Results · Physics</strong>
-    <span>Physics-domain results hub: 78 results, 95 glossary entries, predictions, falsifications.</span>
+    <span>Physics-domain results hub: {% include release-metric.html id="results.physics.records" %} results, {% include release-metric.html id="glossary.physics.entries" %} glossary entries, predictions, falsifications.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/physics/cascade/' | relative_url }}">
     <strong>Calibration Cascade</strong>
@@ -138,7 +138,7 @@ The Numerical Physics Ledger is the artifact layer; Predictions & Falsification 
   </a>
   <a class="v2-tile" href="{{ '/results/physics/glossary/' | relative_url }}">
     <strong>Physics Glossary</strong>
-    <span>95 entries with full SI translations and τ-derivation chains.</span>
+    <span>{% include release-metric.html id="glossary.physics.entries" %} entries with full SI translations and τ-derivation chains.</span>
   </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <strong>Corpus Registry (Books IV–V)</strong>

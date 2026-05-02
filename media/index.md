@@ -47,10 +47,10 @@ The Panta Rhei Research Program is an independent open research program developi
 
 This page gathers public materials for journalists, podcast hosts, public communicators, reviewers, and institutional readers. It is an entry surface into the current public site, not a replacement for the canonical lanes.
 
-{% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign chapter_count = site.data.publications.chapters | size %}The program's canonical release (April 2026) includes:
-- A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
-- A **Lean 4 formalization library** (TauLib, 522 modules; the published formalized modules are built without `sorry`, while Book VI remains registry-planned and not yet fully Lean-formalized — see [filter rules]({{ '/verify/filter-rules/' | relative_url }}))
-- This **research website** ({{ result_count }} key results, {{ registry_count }} registry objects)
+The program's canonical release (April 2026) includes:
+- A **{% include release-metric.html id="publications.books" %}-book monograph series** ({% include release-metric.html id="publications.pages" %} print pages, available on Amazon KDP)
+- A **Lean 4 formalization library** (TauLib, {% include release-metric.html id="taulib.modules" unit=true %}; the published formalized modules are built with {% include release-metric.html id="taulib.sorry" %} `sorry`, while Book VI remains registry-planned and not yet fully Lean-formalized — see [filter rules]({{ '/verify/filter-rules/' | relative_url }}))
+- This **research website** ({% include release-metric.html id="results.records" %} key results, {% include release-metric.html id="registry.registry_total.grand_total" %} registry objects)
 - **Guided tours** and **structural falsification whitepapers**
 
 ## What this is not
@@ -62,11 +62,11 @@ This media kit is not a peer-review certificate, not a claim that every result i
 - **Authors**: Dr. Thorsten Fuchs & Anna-Sophie Fuchs
 - **Corpus kernel**: 5 generators, 7 axioms (K0–K6), 1 operator (ρ)
 - **Master constant**: ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413
-- **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters
-- **Results**: {{ result_count }} key results across 4 domains
-- **Formalization**: 142,406 lines of Lean 4 and 4,863 theorem records in the current public projection; published formalized modules are built without `sorry`
-- **Registry**: {{ registry_count }} mathematical objects with dependency graphs
-- **Predictions and falsification**: 67 quantitative prediction records plus 30 named falsification tests in the current public projection
+- **Books**: {% include release-metric.html id="publications.books" %} volumes, {% include release-metric.html id="publications.chapters" %} chapters
+- **Results**: {% include release-metric.html id="results.records" %} key results across 4 domains
+- **Formalization**: {% include release-metric.html id="taulib.lines" %} lines of Lean 4 and {% include release-metric.html id="taulib.theorems_lemmas" %} theorem/lemma records in the current public projection; published formalized modules are built with {% include release-metric.html id="taulib.sorry" %} `sorry`
+- **Registry**: {% include release-metric.html id="registry.registry_total.grand_total" %} mathematical objects with dependency graphs
+- **Predictions and falsification**: {% include release-metric.html id="predictions.records" %} quantitative prediction records plus {% include release-metric.html id="falsifications.records" %} named falsification tests in the current public projection
 - **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι<sub>τ</sub>⁴ ≈ 0.0136
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 
@@ -99,7 +99,7 @@ This media kit is not a peer-review certificate, not a claim that every result i
 ### Additional Research Assets
 
 - **[Brand Assets & Guidelines]({{ '/brand/' | relative_url }})** — πρ mark (SVG/PNG), wordmark lockups, social headers, color palette, and usage rules for press and collaborators
-- **[BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }})** — 1,125 references used by the program (downloadable .bib file)
+- **[BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }})** — {% include release-metric.html id="bibliography.references" %} references used by the program (downloadable .bib file)
 - **[TauLib repository](https://github.com/Panta-Rhei-Research/taulib)** — Full Lean 4 source (clone and run `lake build`)
 
 ---
@@ -123,23 +123,23 @@ Use these lanes when describing the public site: Program for identity and agenda
 
 ### Program Boilerplate (copy-paste ready)
 
-The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {{ result_count }} key results with typed epistemic status, and a public research website with {{ registry_count }} registry objects. All claims carry explicit scope labels and verification routes. The program is independent research — not yet peer-reviewed in traditional journals.
+The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's {% include release-metric.html id="publications.books" %}-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {% include release-metric.html id="results.records" %} key results with typed epistemic status, and a public research website with {% include release-metric.html id="registry.registry_total.grand_total" %} registry objects. All claims carry explicit scope labels and verification routes. The program is independent research — not yet peer-reviewed in traditional journals.
 
 ### Key Numbers
 
 | Metric | Value |
 |--------|------:|
-| Books | {{ book_count }} |
-| Total pages | ~3,430 |
-| Chapters | {{ chapter_count }} |
-| Key results | {{ result_count }} |
-| Registry objects | {{ registry_count }} |
-| Lean 4 modules | 445 |
-| Lines of Lean 4 | 142,406 |
-| Machine-checked theorems | 4,863 |
-| Sorry (unproven) | 0 in the published formalized modules; Book VI remains registry-planned and not yet fully Lean-formalized |
+| Books | {% include release-metric.html id="publications.books" %} |
+| Total pages | {% include release-metric.html id="publications.pages" %} |
+| Chapters | {% include release-metric.html id="publications.chapters" %} |
+| Key results | {% include release-metric.html id="results.records" %} |
+| Registry objects | {% include release-metric.html id="registry.registry_total.grand_total" %} |
+| Lean 4 modules | {% include release-metric.html id="taulib.modules" %} |
+| Lines of Lean 4 | {% include release-metric.html id="taulib.lines" %} |
+| Machine-checked theorems/lemmas | {% include release-metric.html id="taulib.theorems_lemmas" %} |
+| Sorry (unproven) | {% include release-metric.html id="taulib.sorry" %} in the published formalized modules; Book VI remains registry-planned and not yet fully Lean-formalized |
 | Free parameters | 0 |
-| Quantitative predictions | 67 prediction records plus 30 named falsification tests |
+| Quantitative predictions | {% include release-metric.html id="predictions.records" %} prediction records plus {% include release-metric.html id="falsifications.records" %} named falsification tests |
 
 ### Author Bios
 
@@ -155,7 +155,7 @@ Brand assets, diagrams, and public figures should be reused with attribution to 
 
 ### Scientific plates — visual atlas
 
-The program publishes a series of **scientific plates** — editorial-quality structural maps that compress key arguments into single-frame, scan-readable visuals. The full atlas (currently {{ site.data.plates | size }} plates, all CC BY 4.0) lives at [`/media/posters/`]({{ '/media/posters/' | relative_url }}), each with a print-quality 1536 × 864 master JPG suitable for editorial layouts, conference talks, slide decks, and printed handouts. A machine-readable index for cross-site embedding is published at [`/api/plates.json`]({{ '/api/plates.json' | relative_url }}) (CORS-permissive).
+The program publishes a series of **scientific plates** — editorial-quality structural maps that compress key arguments into single-frame, scan-readable visuals. The full atlas (currently {% include release-metric.html id="scientific_plates.records" %} plates, all CC BY 4.0) lives at [`/media/posters/`]({{ '/media/posters/' | relative_url }}), each with a print-quality 1536 × 864 master JPG suitable for editorial layouts, conference talks, slide decks, and printed handouts. A machine-readable index for cross-site embedding is published at [`/api/plates.json`]({{ '/api/plates.json' | relative_url }}) (CORS-permissive).
 
 ## Contact
 

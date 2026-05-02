@@ -60,7 +60,7 @@ TauLib API reference: {{ page.module_name | default: page.title }}{% if page.boo
 {% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}Impact portfolio: {{ page.title }}. Conditional deployment scenarios in the Panta Rhei research program.{% endif %}
 
 {%- when 'bibliography-index' -%}
-Bibliography of the Panta Rhei Research Program — 1,125 references across 8 domain groups, downloadable as BibTeX.
+Bibliography of the Panta Rhei Research Program — {% include release-metric.html id="bibliography.references" %} references across 8 domain groups, downloadable as BibTeX.
 
 {%- when 'research-notes-index' -%}
 Research Notes from the Panta Rhei Research Program — dated scholarly artifacts for anchor-paper responses, pre-registrations, verification explainers, and bridge texts.
@@ -72,7 +72,7 @@ Changelog for the Panta Rhei Research Program website — tracked updates and st
 Registry dashboard for Book {{ page.book_id | default: page.title }} — typed mathematical objects with dependency graphs and formalization status.
 
 {%- when 'registry-dashboard' -%}
-Registry dashboard — 4,547 typed mathematical objects across the seven books of the Panta Rhei Research Program.
+Registry dashboard — {% include release-metric.html id="registry.registry_total.grand_total" %} typed mathematical objects across the seven books of the Panta Rhei Research Program.
 
 {%- when 'result-topic' -%}
 {% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}Results in the {{ page.title | downcase }} domain of the Panta Rhei Research Program.{% endif %}
@@ -84,13 +84,13 @@ Registry dashboard — 4,547 typed mathematical objects across the seven books o
 {{ page.title_plain | default: page.title | strip_html }} — τ-value {{ page.tau_value }}, observed {{ page.observed_value }}, deviation {{ page.deviation }}. Zero-parameter prediction from ι_τ = 2/(π+e). {{ page.domain_display | default: 'Physics' }} domain. Panta Rhei Research Program.
 
 {%- when 'falsification-page' -%}
-{{ page.title | strip_html }} — {{ page.experiment }}. {{ page.timeline }}. {{ page.domain_display | default: 'Physics' }} domain. Part of the 30-prediction falsification pack (N1–N30). Panta Rhei Research Program.
+{{ page.title | strip_html }} — {{ page.experiment }}. {{ page.timeline }}. {{ page.domain_display | default: 'Physics' }} domain. Part of the {% include release-metric.html id="falsifications.records" %}-prediction falsification pack (N1–N30). Panta Rhei Research Program.
 
 {%- when 'predictions-browse' -%}
-{% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}Browse 67 zero-parameter physics predictions from the single master constant ι_τ = 2/(π+e). Filter by domain, precision, and scope.{% endif %}
+{% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}Browse {% include release-metric.html id="predictions.records" %} zero-parameter physics predictions from the single master constant ι_τ = 2/(π+e). Filter by domain, precision, and scope.{% endif %}
 
 {%- when 'falsifications-browse' -%}
-{% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}30 sharp falsification tests (N1–N30) with named experiments and 2025–2035 timelines. Panta Rhei Research Program.{% endif %}
+{% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}{% include release-metric.html id="falsifications.records" %} sharp falsification tests (N1–N30) with named experiments and 2025–2035 timelines. Panta Rhei Research Program.{% endif %}
 
 {%- else -%}
 {% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% elsif page.description and page.description != '' %}{{ page.description | strip_html }}{% else %}{{ site.description }}{% endif %}

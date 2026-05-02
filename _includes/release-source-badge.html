@@ -1,0 +1,4 @@
+{%- assign release = site.data.release.current -%}
+<span class="release-source-badge">
+  Manifest {{ release.release_id }} · {{ release.sources.taulib_release_snapshot.commit | slice: 0, 7 }} TauLib snapshot
+</span>

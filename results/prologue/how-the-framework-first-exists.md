@@ -125,7 +125,7 @@ The cascade says: once the kernel is materialized, the framework consumes exactl
 - **L1** — dimensionless quantities: mass ratios, mixing angles, and couplings (α = (121/225) ι<sub>τ</sub>⁴; R<sub>0</sub> = ι<sub>τ</sub>⁻⁷ − √3·ι<sub>τ</sub>⁻² yielding m<sub>p</sub>/m<sub>e</sub> at 0.025 ppm).
 - **L2** — the anchor: m<sub>n</sub>, and nothing else.
 - **L3** — SI-anchored quantities (m<sub>e</sub>, G, m<sub>P</sub>, ℏ, k<sub>B</sub>, ε<sub>0</sub>) produced by the rescaling functor M<sub>SI</sub> = R<sub>M</sub>[M<sub>τ</sub>].
-- **L4** — verification: atomic spectroscopy, cosmology, and a 30-item falsification pack (tagged by precision **Tier A** ~0.025 ppm, **Tier B** ~3 ppm, **Tier C** ~0.8%).
+- **L4** — verification: atomic spectroscopy, cosmology, and a {% include release-metric.html id="falsifications.records" %}-item falsification pack (tagged by precision **Tier A** ~0.025 ppm, **Tier B** ~3 ppm, **Tier C** ~0.8%).
 
 This is formalized as the **Calibration Sufficiency Theorem** (Chapter 58a of the [Numerical Physics Ledger]({{ '/publications/monograph-supplements/numerical-physics-ledger/' | relative_url }}#ch-58a)): ι<sub>τ</sub> together with m<sub>n</sub> suffices to determine every entry in the ledger, with zero additional free parameters.
 

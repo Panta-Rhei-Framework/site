@@ -20,7 +20,7 @@ hero_ctas:
     url: /verify/formal-verification-stack/
   - label: "How to Verify"
     url: /verify/how-to-verify/
-hero_supporting_line: "522 Lean 4 modules · 142,406+ lines · 4,863 scanned theorem/lemma declarations · 0 active sorry assignments across all 7 books (TauLib Lean corpus at the current release SHA; scope tiered — see <a href=\"/verify/filter-rules/\">Filter Rules</a>) · 3 custom axioms · Mathlib for tactics only."
+hero_supporting_line: "Current TauLib, registry, and release-count metrics are pinned in the Release Manifest; scope is tiered — see <a href=\"/verify/filter-rules/\">Filter Rules</a>."
 summary_cards:
   - title: "What can be checked"
     body: "Every theorem in TauLib compiles in Lean 4. Every quantitative prediction has an explicit formula. Every scope claim carries its epistemic label."
@@ -78,6 +78,14 @@ right_rail:
 Verification in this program is not one thing. It includes research-form legitimacy, source-policy inspection, construction-step verification, formal proof checking, semantic correspondence, bridge adequacy, domain-specific validation, prediction and falsification surfaces, and structured external assessment.
 
 **Metrics context:** [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) · [Filter Rules]({{ '/verify/filter-rules/' | relative_url }}) · [Custom Axiom Inventory]({{ '/verify/custom-axioms/' | relative_url }}) · [TCB Disclosure]({{ '/verify/tcb/' | relative_url }})
+
+<p class="small muted">
+  Current manifest snapshot: {% include release-metric.html id="taulib.modules" unit=true %} ·
+  {% include release-metric.html id="taulib.lines" unit=true %} ·
+  {% include release-metric.html id="taulib.theorems_lemmas" unit=true %} ·
+  {% include release-metric.html id="taulib.sorry" unit=true %} ·
+  {% include release-metric.html id="taulib.custom_axioms" unit=true %}.
+</p>
 
 <p class="eyebrow">The inspection layer at a glance</p>
 

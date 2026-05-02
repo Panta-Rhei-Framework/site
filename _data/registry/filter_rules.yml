@@ -158,7 +158,7 @@ invariants:
   - "registry_total ≥ dashboard_display for every book (filter is subsumptive)"
   - "formalized_count + planned_count + not_applicable_count ≤ dashboard_display for every book"
   - "SUM(registry_total per book) = grand_total = 4547"
-  - "SUM(taulib_modules per book, excluding tour) = 445 - 8 = 437 core modules + 8 tour = 445 total"
+  - "SUM(taulib_modules per book + meta_tour_root_modules) = 512 total"
   - "TauLib module count and registry object count use DIFFERENT UNITS and are not directly comparable"
 
 # How to reconcile an apparent drift

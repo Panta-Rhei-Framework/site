@@ -1,10 +1,10 @@
 ---
 layout: program-doc
-title: "Fit-Space Analysis — Are the 67 Predictions Numerological Coincidences?"
+title: "Fit-Space Analysis — Are the Predictions Numerological Coincidences?"
 permalink: /results/predictions/fit-space-argument/
 lane: results
 section: "Numerical Physics Ledger · Fit-Space Analysis"
-summary_short: "A quantitative response to the strongest red-team question about the 67 zero-parameter predictions: if someone enumerated simple closed-form expressions in ι_τ = 2/(π+e) and tested them against known constants, how many coincidences at sub-10 ppm precision would be expected by chance — and how does that compare to the 15 observed?"
+summary_short: "A quantitative response to the strongest red-team question about the zero-parameter prediction catalogue: if someone enumerated simple closed-form expressions in ι_τ = 2/(π+e) and tested them against known constants, how many coincidences at sub-10 ppm precision would be expected by chance — and how does that compare to the observed hit set?"
 right_rail:
   related:
   - title: Predictions Browse
@@ -32,7 +32,7 @@ The calibration cascade (Numerical Physics Ledger Ch 58a, "The Calibration Casca
 1. **ι<sub>τ</sub> = 2/(π+e)** — an algebraic posit fixed by the kernel's compactness-and-consistency theorem (Book I), not a fitted constant.
 2. **m<sub>n</sub>** — a single SI anchor measurement (the neutron mass), used once to set the SI scale for every L3 (SI-derived) observable.
 
-From those two inputs, a four-layer cascade (**L0** algebraic → **L1** dimensionless → **L2** SI anchor → **L3** SI-derived → **L4** verification) produces all 67 predictions. This is the **Calibration Sufficiency Theorem**: two inputs suffice, and no intermediate step smuggles in a third free parameter. The theorem is the structural answer to the numerology charge — the fit-space is not "10<sup>5</sup> simple closed forms in ι<sub>τ</sub> ranged over 50 targets," it is **"one algebraic posit + one SI measurement, derivation-chained through L0–L3."** Any specialist claim that the framework has hidden tuning knobs must identify where, in the cascade, a third free parameter enters.
+From those two inputs, a four-layer cascade (**L0** algebraic → **L1** dimensionless → **L2** SI anchor → **L3** SI-derived → **L4** verification) produces all {% include release-metric.html id="predictions.records" %} predictions. This is the **Calibration Sufficiency Theorem**: two inputs suffice, and no intermediate step smuggles in a third free parameter. The theorem is the structural answer to the numerology charge — the fit-space is not "10<sup>5</sup> simple closed forms in ι<sub>τ</sub> ranged over 50 targets," it is **"one algebraic posit + one SI measurement, derivation-chained through L0–L3."** Any specialist claim that the framework has hidden tuning knobs must identify where, in the cascade, a third free parameter enters.
 
 The enumeration argument below remains useful as an external-reader sanity check: even under the generous null that grants the framework no architectural constraints, the observed agreement rate is above chance. But the load-bearing answer to "numerology?" is the cascade architecture itself — see Ch 58a for the formal statement.
 
@@ -91,7 +91,7 @@ If the null hypothesis were right, one would see: a researcher enumerates simple
 
 What the framework instead reports is **a connected derivation chain**: the electron mass derives in 10 steps from K0–K6; the Koide relation derives from σ-equivariant mass-matrix symmetry; the Higgs mass derives from ω-crossing sector structure. These derivations share load-bearing intermediate theorems. If one intermediate theorem is wrong, **many downstream predictions fail together**. This is not the signature of independent coincidence hunting — it is the signature of a single kernel under compound empirical pressure.
 
-**Empirical test a specialist can run:** take any mid-chain τ-theorem (e.g., the sector-coupling hierarchy in IV.T−/V.T−), perturb it slightly (change one ratio by 1%), and check how many of the 67 predictions still agree at sub-10 ppm. Under the numerology hypothesis, perturbation should leave most hits intact (because each is its own isolated coincidence). Under the derivation hypothesis, perturbation should break most hits simultaneously. The framework predicts the latter.
+**Empirical test a specialist can run:** take any mid-chain τ-theorem (e.g., the sector-coupling hierarchy in IV.T−/V.T−), perturb it slightly (change one ratio by 1%), and check how many prediction records still agree at sub-10 ppm. Under the numerology hypothesis, perturbation should leave most hits intact (because each is its own isolated coincidence). Under the derivation hypothesis, perturbation should break most hits simultaneously. The framework predicts the latter.
 
 ### Problem 2: The observed agreements span many orders of magnitude
 
@@ -149,7 +149,7 @@ This is a statistics PhD thesis worth of work, not a first-pass dossier item. Th
 
 - [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}) — the three-category breakdown (Category C is the decisive test)
 - [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — the full 67-prediction catalogue, including the Tier A / B / C taxonomy
-- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 named-experiment tests
+- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} named-experiment tests
 - [Numerical Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — see Ch 58a "The Calibration Cascade" for the two-input + four-layer architectural proof
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [How to Audit — Physicist Route]({{ '/verify/how-to-audit/physicist/' | relative_url }}) — concrete inspection path for a physics reviewer

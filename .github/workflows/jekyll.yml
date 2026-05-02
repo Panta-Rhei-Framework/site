@@ -47,6 +47,9 @@ jobs:
           npm run headers:test
           npm run headers:dry-run
 
+      - name: Check manifest-owned release metrics
+        run: python3 scripts/check_hardcoded_release_numbers.py .
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl ""
         env:

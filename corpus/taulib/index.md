@@ -35,10 +35,6 @@ right_rail:
     updated: "April 2026"
 ---
 
-{% assign summary = site.data.taulib.summary %}
-{% assign modules = site.data.taulib["module-inventory"] %}
-{% assign registry_links = site.data.taulib["registry-links"] %}
-
 ## Compiled Lean projection
 
 TauLib now belongs to the Corpus lane because it is one of the Corpus projections: a compiled Lean module inventory, source map, Registry-link map, import graph, and generated module documentation.
@@ -46,10 +42,10 @@ TauLib now belongs to the Corpus lane because it is one of the Corpus projection
 That ownership move does not weaken verification. It makes the boundary cleaner: the Corpus publishes the compiled projection; Verify asks what the projection covers, what its formal terms mean, where semantic bridges hold, and what remains externally assessable.
 
 <ul class="v2-grid v2-card-list">
-  <li><article class="v2-tile"><h3>{{ summary.module_count | default: modules.size }} modules</h3><p>Lean modules in the pinned TauLib source projection.</p></article></li>
-  <li><article class="v2-tile"><h3>{{ summary.total_lean_lines | default: "Current" }} lines</h3><p>Source lines counted from the imported TauLib snapshot.</p></article></li>
-  <li><article class="v2-tile"><h3>{{ summary.declaration_count | default: "Current" }} declarations / evals</h3><p>Declarations and computational evaluations discovered by the projection scanner.</p></article></li>
-  <li><article class="v2-tile"><h3>{{ registry_links.size }} registry links</h3><p>Registry-to-module anchors that connect the atomic Corpus to Lean source.</p></article></li>
+  <li><article class="v2-tile"><h3>{% include release-metric.html id="taulib.modules" unit=true %}</h3><p>Lean modules in the pinned TauLib source projection.</p></article></li>
+  <li><article class="v2-tile"><h3>{% include release-metric.html id="taulib.lines" unit=true %}</h3><p>Source lines counted from the imported TauLib snapshot.</p></article></li>
+  <li><article class="v2-tile"><h3>{% include release-metric.html id="taulib.declarations" unit=true %}</h3><p>Declarations and computational evaluations discovered by the projection scanner.</p></article></li>
+  <li><article class="v2-tile"><h3>{% include release-metric.html id="taulib.registry_links" unit=true %}</h3><p>Registry-to-module anchors that connect the atomic Corpus to Lean source.</p></article></li>
 </ul>
 
 ## Entry points
