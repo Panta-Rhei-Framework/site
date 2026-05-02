@@ -1,13 +1,14 @@
 ---
 layout: program-doc
-title: "Research Agenda"
-lane: program
-v2_lane: program
+title: "Agenda"
+title_plain: "Agenda"
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 permalink: /program/research-agenda/
-type: "Program Sub-lane"
+type: "Lane Root"
 status: "Canonical"
-summary_short: "The explicit burden of proof accepted by the Panta Rhei Research Program."
+summary_short: "The public burden of the program: what must be asked, recovered, built, refused, answered, and left open."
 og_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
 twitter_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
 og_image_alt: "Scientific plate showing the Research Agenda as the public obligation layer of the Panta Rhei Research Program."
@@ -51,25 +52,27 @@ right_rail:
     - title: "Progress Against Agenda"
       url: /results/progress-against-agenda/
   meta:
-    type: "Agenda"
+    type: "Lane Root"
     scope: "Program-wide"
     status: "Canonical"
     updated: "April 2026"
 ---
 
-## Program definition
+## The public burden
+
+The Agenda lane states the public burden of the program: what must be asked, recovered, built, refused, answered, and left open.
 
 The Panta Rhei Research Program aims to construct a finite, computable, self-contained formal kernel that can recover the core structures of mathematics, physics, life, and reflective intelligibility.
 
-The Research Agenda defines the burden this kernel must carry. It states which open problems the program accepts as stress tests, which known structures the kernel must recover, what kind of answer could count as ontically serious, and what logical construction order follows from those obligations.
+Agenda defines the burden this kernel must carry. It states which open problems the program accepts as stress tests, which known structures the kernel must recover, what kind of answer could count as ontically serious, and what logical construction order follows from those obligations.
 
 ## Why an agenda is needed
 
 A large-scope program cannot ask for serious engagement unless it states what it is trying to solve, what standards constrain it, and what will not count as success.
 
-The Research Agenda is that public contract. It names the questions, the foundational discipline, the design principles, the explicit refusals, and the criteria by which results should be read.
+Agenda is that public contract. It names the questions, the foundational discipline, the design principles, the explicit refusals, and the criteria by which results should be read.
 
-The Research Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
+Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
 
 ## The four agenda surfaces
 

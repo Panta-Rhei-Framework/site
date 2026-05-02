@@ -136,20 +136,20 @@ def main() -> int:
     require_card_list(parser, "/program/")
     for needle in [
         "Panta Rhei is currently:",
-        "organized through Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
+        "organized through Program, Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
         "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
         "open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email",
         "not socially settled and not a substitute for expert peer review",
         "Corpus shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph",
         "What this lane is",
         "What this lane is not",
-        "orientation and research-contract layer",
+        "identity and doctrine layer",
     ]:
         require(visible, needle, "/program/")
 
     _, visible, _ = read_page(site, "/")
-    require(visible, "Research Monographs, a structured Corpus, typed Results", "/")
-    require(visible, "Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph", "/")
+    require(visible, "independent open research program dedicated to building a coherent theory of reality", "/")
+    require(visible, "spine, map, monographs, registry, TauLib projection, and dependency graph", "/")
     require(visible, "Five generators, one operator, and K0-K6 axioms", "/")
 
     _, visible, parser = read_page(site, "/program/research-agenda/")

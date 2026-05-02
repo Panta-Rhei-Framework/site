@@ -48,6 +48,7 @@
     {% assign active_lane = search_lane | default: page.v2_lane | default: page.lane | default: "" %}
     {% if active_lane == "" %}
       {% if page.url contains "/discover/" %}{% assign active_lane = "discover" %}
+      {% elsif page.url contains "/program/research-agenda/" %}{% assign active_lane = "agenda" %}
       {% elsif page.url contains "/program/" or page.url contains "/research-program/" %}{% assign active_lane = "program" %}
       {% elsif page.url contains "/corpus/" or page.url contains "/registry/" %}{% assign active_lane = "corpus" %}
       {% elsif page.url contains "/results/" %}{% assign active_lane = "results" %}
@@ -57,12 +58,14 @@
       {% elsif page.url contains "/engage/" %}{% assign active_lane = "engage" %}
       {% endif %}
     {% endif %}
+    {% if page.url contains "/program/research-agenda/" %}{% assign active_lane = "agenda" %}{% endif %}
     {% if active_lane == "research-program" %}{% assign active_lane = "program" %}{% endif %}
     {% if active_lane == "registry" %}{% assign active_lane = "corpus" %}{% endif %}
     {% for item in site.data.nav.header %}
     {% assign nav_active = false %}
     {% assign item_key = item.title | downcase %}
     {% if page.url contains item.match %}{% assign nav_active = true %}{% endif %}
+    {% if page.url contains "/program/research-agenda/" and item_key == "program" %}{% assign nav_active = false %}{% endif %}
     {% if active_lane == item_key %}{% assign nav_active = true %}{% endif %}
     <a href="{{ item.url | relative_url }}" class="header-nav-link header-nav-link-{{ item_key }}{% if nav_active %} active{% endif %}">{{ item.title }}</a>
     {% endfor %}

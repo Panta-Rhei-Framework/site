@@ -30,6 +30,8 @@ right_rail:
 
 ## What this lane is
 
+Impact maps what could matter if the work survives inspection.
+
 Impact is the conditional consequence layer of the site. It asks what might become relevant if specific Results survive verification, translation, and domain uptake.
 
 Impact pages describe conditional consequence structures. They help readers understand possible implications without turning those implications into promises.

@@ -47,7 +47,7 @@ right_rail:
 
 ## Short description
 
-The Panta Rhei Research Program is an independent open research program developing **Category τ** — a categorical framework built from five generators, seven axioms, and one operator that derives results across mathematics, physics, biology, and philosophy from a single coherence kernel.
+The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality. It is published as an inspectable research observatory: Program for identity, Agenda for obligations, Corpus for construction, Results for consequences, Verify for inspection, Impact for conditional relevance, and Engage for open scrutiny.
 
 ## What this is
 
@@ -61,7 +61,7 @@ The program's canonical release (April 2026) includes:
 
 ## What this is not
 
-This media kit is not a peer-review certificate, not a claim that every result is settled, and not a shortcut around the verification surfaces. Use it for orientation, then follow the relevant Program, Corpus, Results, Verify, and Publications routes.
+This media kit is not a peer-review certificate, not a claim that every result is settled, and not a shortcut around the verification surfaces. Use it for orientation, then follow the relevant Program, Agenda, Corpus, Results, Verify, and Publications routes.
 
 ---
 
@@ -170,7 +170,8 @@ The program publishes its research papers as standalone PDFs under [`/publicatio
 
 - [Homepage]({{ '/' | relative_url }}) — high-level orientation.
 - [Discover]({{ '/discover/' | relative_url }}) — guided entry routes.
-- [Program]({{ '/program/' | relative_url }}) — identity, purpose, and research agenda.
+- [Program]({{ '/program/' | relative_url }}) — identity, doctrine, scope, status, and inspection-observatory rationale.
+- [Agenda]({{ '/program/research-agenda/' | relative_url }}) — obligations, problem ledgers, recovery requirements, and construction roadmap.
 - [Corpus]({{ '/corpus/' | relative_url }}) — central research artifact and registry projection.
 - [Results]({{ '/results/' | relative_url }}) — typed answer surfaces and world readouts.
 - [Verify]({{ '/verify/' | relative_url }}) — formalization, falsification, and assessment protocols.
@@ -179,7 +180,7 @@ The program publishes its research papers as standalone PDFs under [`/publicatio
 
 ## Key public surfaces
 
-Use these lanes when describing the public site: Program for identity and agenda, Corpus for the central research body, Results for current answer surfaces, Verify for inspection and challenge, Publications for citable artifacts, and Engage for contact.
+Use these lanes when describing the public site: Program for identity and doctrine, Agenda for obligations, Corpus for the central research body, Results for current answer surfaces, Verify for inspection and challenge, Impact for conditional relevance, Engage for open scrutiny, and Publications for citable artifacts.
 
 ## Press kit
 
@@ -189,11 +190,11 @@ Three lengths are provided — pick whichever fits your headline / lede / body n
 
 #### One-line (under 30 words)
 
-> Panta Rhei is an independent open research program developing **Category τ** — a categorical framework deriving results across mathematics, physics, biology, and philosophy with zero free parameters.
+> Panta Rhei is an independent open research program dedicated to building a coherent theory of reality, published as an inspectable research observatory.
 
 #### Standard (≈100 words)
 
-> The Panta Rhei Research Program develops **Category τ**, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {% include release-metric.html id="results.records" %} key results with typed epistemic status, a public research website with {% include release-metric.html id="registry.registry_total.grand_total" %} registry objects, and a published falsification ledger including a decisive CMB-S4 prediction (r ≈ 0.0136 by 2030). All claims carry explicit scope labels and verification routes. The program is independent research — not yet peer-reviewed in traditional journals.
+> The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality. Its seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {% include release-metric.html id="results.records" %} key results with typed epistemic status, a public research website with {% include release-metric.html id="registry.registry_total.grand_total" %} registry objects, and a published falsification ledger including a decisive CMB-S4 prediction (r ≈ 0.0136 by 2030). All claims carry explicit scope labels and verification routes. The program is independent research — not yet peer-reviewed in traditional journals.
 
 #### Long-form (≈200 words, original)
 

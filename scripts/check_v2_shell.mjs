@@ -28,10 +28,10 @@ const oldNavLabels = [
 const v2NavLabels = [
   "Discover",
   "Program",
+  "Agenda",
   "Corpus",
   "Results",
   "Verify",
-  "Publications",
   "Impact",
   "Engage",
 ];

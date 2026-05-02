@@ -138,17 +138,17 @@ def main() -> int:
             raise AssertionError(f"{route} should preserve Engagement Route/Guide hero metadata")
 
     _, visible, _ = read_page(site, "/")
-    require(visible, "Research Monographs, a structured Corpus, typed Results", "/")
+    require(visible, "independent open research program dedicated to building a coherent theory of reality", "/")
     require(visible, "Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.", "/")
     forbid(visible, "Typed answer surfaces and problem mappings.", "/")
 
     _, visible, parser = read_page(site, "/program/")
     require_card_list(parser, "/program/")
     for needle in [
-        "organized through Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
+        "organized through Program, Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
         "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
         "GitHub Discussions, Issues, Pull Requests, and email",
-        "Research Agenda states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.",
+        "Agenda states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.",
         "Publications provides stable artifacts: Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.",
     ]:
         require(visible, needle, "/program/")

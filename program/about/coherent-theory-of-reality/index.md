@@ -1,0 +1,63 @@
+---
+layout: program-doc
+title: "What We Mean by a Coherent Theory of Reality"
+lane: program
+v2_lane: program
+section: about-the-program
+permalink: /program/about/coherent-theory-of-reality/
+type: "Program Doctrine"
+status: "Canonical"
+summary_short: "The Program definition behind v4: coherent means no hidden externalities, theory means constructive account, and reality means the full domain the program claims to address."
+hero_ctas:
+  - label: "Program"
+    url: /program/
+    primary: true
+  - label: "Agenda"
+    url: /program/research-agenda/
+  - label: "Kernel, Model & Reality"
+    url: /program/research-agenda/kernel-model-reality/
+right_rail:
+  related:
+    - title: "Program"
+      url: /program/
+    - title: "About the Program"
+      url: /program/about/
+    - title: "Inspection Observatory"
+      url: /program/about/inspection-observatory/
+    - title: "Kernel, Model & Reality"
+      url: /program/research-agenda/kernel-model-reality/
+  meta:
+    type: "Program Doctrine"
+    status: "Canonical"
+    updated: "May 2026"
+---
+
+## The defining sentence
+
+The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality.
+
+This sentence is not a slogan added after the work. It defines how the public site should be read.
+
+## Coherent
+
+Coherent means that explanations are not allowed to succeed by hiding their load somewhere else.
+
+A coherent account must make its assumptions, objects, dependencies, bridge rules, semantic commitments, and failure points visible. It must distinguish internal derivation from empirical adequacy, verification from acceptance, and program stance from external settlement.
+
+## Theory
+
+Theory does not mean a loose interpretation. In this program, a theory must be constructive enough to expose a build order.
+
+That is why the site separates Agenda, Corpus, Results, and Verify. The Agenda states what must be answered. The Corpus carries the construction. Results reports what the built Corpus currently implies. Verify exposes how the construction and its consequences can be checked or challenged.
+
+## Reality
+
+Reality names the full domain of the program's ambition: mathematics, physics, life, mind, and metaphysics.
+
+The program does not treat this ambition as already earned. It treats it as a burden. A claim about reality must survive the obligations named in the Agenda, the construction discipline of the Corpus, the status grammar of Results, and the inspection routes of Verify.
+
+## What this page does not claim
+
+This page does not claim that the program has externally settled a coherent theory of reality. It defines the standard the program accepts before its claims should be taken seriously.
+
+The public claim is narrower and stronger: if the program is going to ask for attention at this scope, it must expose the doctrine, construction, results, verification routes, and correction surfaces together.

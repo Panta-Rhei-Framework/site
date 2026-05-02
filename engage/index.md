@@ -12,7 +12,7 @@ twitter_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og
 og_image_alt: "Scientific plate showing the Engage lane as structured open-research engagement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, open institutional dialogue, and support continuation without endorsement."
 summary_cards:
   - title: "Read carefully"
-    body: "Start with Discover, Program, Research Agenda, and Publications before judging isolated claims."
+    body: "Start with Discover, Program, Agenda, and Publications before judging isolated claims."
   - title: "Inspect claims"
     body: "Trace claims into Corpus, Results, Verify, TauLib, Release Manifest, and assessment protocols."
   - title: "Challenge weak links"
@@ -69,6 +69,8 @@ tags:
 
 > Engagement without endorsement.
 
+Engage is where openness becomes operational.
+
 The Panta Rhei Research Program does not ask first for agreement. It asks for structured open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, responsible communication, and institutional dialogue.
 
 The website is the public research observatory. GitHub is the public discussion and contribution substrate. Email remains the route for private, institutional, media, sensitive, or support-related contact.
@@ -99,7 +101,7 @@ Engagement does not require agreement. Participation does not imply endorsement.
     <article>
       <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
         <h3>Read Carefully</h3>
-        <p>Start with Discover, Program, Research Agenda, and Publications before judging isolated claims.</p>
+        <p>Start with Discover, Program, Agenda, and Publications before judging isolated claims.</p>
       </a>
     </article>
   </li>

@@ -122,11 +122,6 @@ def main() -> int:
             "Explore Kernel, Model & Reality",
             "Follow the Construction Roadmap",
         ],
-        "/program/": [
-            "Research Agenda as obligation layer",
-            "The Research Agenda states the burdens the program accepts before claims are read as consequences.",
-            "open-problem obligations, recovery requirements, answer-shape burden, and logical build-order",
-        ],
         "/discover/": [
             "Before Results, there is obligation",
             "Before Results, there is obligation: the Research Agenda records the external problems",

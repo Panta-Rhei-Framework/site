@@ -83,6 +83,7 @@ Home::/|Support::/cite/|Bibliography::{{ page.url }}
 {%- case page.lane -%}
   {%- when 'results' -%}{%- assign lane_label = 'Results' -%}{%- assign lane_url = '/results/' -%}
   {%- when 'discover' -%}{%- assign lane_label = 'Discover' -%}{%- assign lane_url = '/discover/' -%}
+  {%- when 'agenda' -%}{%- assign lane_label = 'Agenda' -%}{%- assign lane_url = '/program/research-agenda/' -%}
   {%- when 'program' -%}{%- assign lane_label = 'Program' -%}{%- assign lane_url = '/program/' -%}
   {%- when 'corpus' -%}{%- assign lane_label = 'Corpus' -%}{%- assign lane_url = '/corpus/' -%}
   {%- when 'impact' -%}{%- assign lane_label = 'Impact' -%}{%- assign lane_url = '/impact/' -%}
@@ -92,7 +93,13 @@ Home::/|Support::/cite/|Bibliography::{{ page.url }}
   {%- when 'engage' -%}{%- assign lane_label = 'Engage' -%}{%- assign lane_url = '/engage/' -%}
   {%- when 'support' -%}{%- assign lane_label = 'Support' -%}{%- assign lane_url = '/cite/' -%}
 {%- endcase -%}
-{%- if page.lane == 'program' and page.section == 'about-the-program' -%}
+{%- if page.url contains '/program/research-agenda/' -%}
+  {%- if page.url == '/program/research-agenda/' -%}
+Home::/|Agenda::{{ page.url }}
+  {%- else -%}
+Home::/|Agenda::/program/research-agenda/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'program' and page.section == 'about-the-program' -%}
   {%- if page.url == '/program/about/' -%}
 Home::/|Program::/program/|About the Program::{{ page.url }}
   {%- else -%}

@@ -70,7 +70,7 @@ tags:
 
 The Media route is for journalists, podcast hosts, editors, public explainers, and institutional communicators. It points to the materials needed to represent the program accurately and to route media inquiries cleanly.
 
-The shortest accurate framing is: Panta Rhei is an independent open research program developing a categorical framework, a seven-book release, a public registry, and formal verification surfaces. Its claims are ambitious and are presented for inspection, not as settled consensus.
+The shortest accurate framing is: Panta Rhei is an independent open research program dedicated to building a coherent theory of reality, published as an inspectable research observatory. Its claims are ambitious and are presented for inspection, not as settled consensus.
 
 ## Available Materials
 

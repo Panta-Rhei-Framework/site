@@ -15,8 +15,7 @@ summary_cards:
   body: Seven books, the public website, TauLib, guided tours, verification companions,
     and public assessment protocols.
 - title: Central idea
-  body: The program investigates whether one coherence-first, self-contained framework
-    can be built across mathematics, physics, life, and metaphysics.
+  body: The program is dedicated to building a coherent theory of reality under public inspection.
 right_rail:
   related:
   - title: Why This Program Exists
@@ -29,6 +28,10 @@ right_rail:
     url: /program/about/scope-status-and-scrutiny/
   - title: Independence, Scope & Scrutiny
     url: /program/about/independence-scope-and-scrutiny/
+  - title: Coherent Theory of Reality
+    url: /program/about/coherent-theory-of-reality/
+  - title: Inspection Observatory
+    url: /program/about/inspection-observatory/
   meta:
     type: Overview
     scope: Program-wide
@@ -39,7 +42,9 @@ twitter_image: /assets/images/plates/plate-01-public-research-observatory-og.jpg
 og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a public research observatory — Discover, Program, Corpus, Results, Verify, Publications, Impact, Engage."
 ---
 
-The **Panta Rhei Research Program** is an independent open research program centered on one demanding question:
+The **Panta Rhei Research Program** is an independent open research program dedicated to building a coherent theory of reality.
+
+It is centered on one demanding question:
 
 **Can one build a coherent model of reality that is not merely useful, but structurally capable of answering why reality has the form it has?**
 
@@ -87,7 +92,7 @@ The program is already public enough to be engaged seriously. That is one of the
 What is public now includes:
 
 - canonical prose articulation in the books
-- a public website organized around Program obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, Impact scenarios, and Engage routes
+- a public website organized around Program identity, Agenda obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, Impact scenarios, and Engage routes
 - a public formalization substrate in TauLib
 - public guided tours designed to surface the load-bearing hinges of each book
 - public verification companions that lower the threshold for formal inspection
@@ -110,7 +115,7 @@ The first serious question is:
 That engagement may take many forms:
 
 - reading the canonical books
-- entering through the Research Agenda, Corpus Construction Spine, a Results mirror, a Verify route, or a citable Publication artifact
+- entering through the Agenda, Corpus Construction Spine, a Results mirror, a Verify route, or a citable Publication artifact
 - inspecting the formalization
 - attacking the strongest hinges
 - checking the bridge claims
@@ -119,16 +124,18 @@ That engagement may take many forms:
 
 All of these are legitimate forms of entry.
 
-## How this sub-lane is organized
+## How this lane is organized
 
-The About sub-lane answers the identity questions first:
+The Program lane answers the identity and doctrine questions first:
 
 - **Why This Research Program Exists** explains the dissatisfaction with fragmented world-pictures that motivates it.
 - **Scope, Status, and Scrutiny** clarifies the current epistemic status of the public release.
 - **Independence, Scope, and Scrutiny** states the founders' open-research posture and the responsibilities that follow from independent governance.
+- **What We Mean by a Coherent Theory of Reality** defines the v4 doctrine behind the site.
+- **Why We Built an Inspection Observatory** explains why the public release exposes obligations, construction, results, verification, and correction routes together.
 - **Red-team FAQ** answers the hardest first-pass objections without asking for premature trust.
 - **Founders** makes the current stewardship and provenance visible.
 
-The companion [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) sub-lane states the aim, desiderata, technical discipline, refusals, problem ledger, result criteria, and roadmap.
+The companion [Agenda]({{ '/program/research-agenda/' | relative_url }}) lane states the aim, desiderata, technical discipline, refusals, problem ledger, result criteria, and roadmap.
 
 This is the right starting lane for anyone who wants to understand not only what Panta Rhei says, but what kind of research object it is.
