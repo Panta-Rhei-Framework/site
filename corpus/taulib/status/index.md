@@ -15,6 +15,7 @@ summary_short: "Counts and boundaries for the current Corpus-owned TauLib projec
 
 | Metric | Current value |
 |---|---:|
+| Projection version | v3.0 |
 | Modules | {{ summary.module_count }} |
 | Lean files | {{ summary.lean_file_count }} |
 | Lean source lines | {{ summary.total_lean_lines }} |
@@ -22,6 +23,10 @@ summary_short: "Counts and boundaries for the current Corpus-owned TauLib projec
 | Registry links | {{ summary.registry_link_count }} |
 | Registry items with TauLib links | {{ summary.registry_item_count_with_taulib_links }} |
 | Sorry assignments detected | {{ summary.sorry_assignment_count }} |
+
+## Projection versioning
+
+The TauLib projection version (currently **v3.0**) tracks the imported Lean snapshot, not the surrounding Corpus narrative. Site-wide construction-spine versions (e.g. v4) cover the public construction narrative and are independent of TauLib projection numbering. A bump to TauLib v4.0 would signal a new imported Lean snapshot, not a change of construction-spine prose.
 
 ## Boundary
 
