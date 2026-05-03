@@ -30,6 +30,10 @@ right_rail:
     url: /media/open-research-brief/
   - title: "Inspection Architecture White Paper"
     url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+  - title: "Theory of Reality Brief"
+    url: /media/theory-of-reality-brief/
+  - title: "Theory of Reality White Paper"
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   - title: "Engage · Media"
     url: /engage/media/
   - title: "Independence, Scope & Scrutiny"
@@ -76,6 +80,28 @@ No. They are cited as official reference points for open science, reproducible r
 ### How should errors be reported?
 
 Send corrections to [errata@panta-rhei.site](mailto:errata@panta-rhei.site), use the [Engage]({{ '/engage/' | relative_url }}) routes, or open a GitHub issue where the relevant public source allows it.
+
+## Package 2: Theory of Reality
+
+### Is Panta Rhei a theory of everything?
+
+No. Panta Rhei is not using “theory of everything” as its public category. The program says “coherent theory of reality” because that phrase names a stricter burden: earn the language, earn the questions, build the answers, disclose limits, and make the public claim structure inspectable.
+
+### Does Package 2 claim the theory is complete?
+
+No. Package 2 is doctrine-first. It defines what kind of research object a coherent theory of reality would have to be; it does not claim that Panta Rhei has completed, proven, externally accepted, or finalized such a theory.
+
+### What is the safest headline angle?
+
+The safe angle is: “What should a serious theory of reality have to expose before asking for belief?” The story is about category, burden, and inspection route — not a certification of the scientific claims.
+
+### What should I link first?
+
+Use the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) for newsroom framing and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) for the citable Package 2 artifact. Then route readers to [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), [Agenda]({{ '/program/research-agenda/' | relative_url }}), and [Review Kit]({{ '/media/review-kit/' | relative_url }}).
+
+### Do the external sources cited by Package 2 endorse Panta Rhei?
+
+No. Britannica, Stanford Encyclopedia of Philosophy entries, UNESCO Open Science, UKRI impact-language sources, and responsible-innovation sources are cited as context only. Citation is not endorsement, validation, review, or external acceptance.
 
 ## What kind of research is this?
 
@@ -165,7 +191,7 @@ Five framings work well for general readers — see [Story Angles]({{ '/media/st
 The program is independent research **under scrutiny**, not settled scientific consensus. Please do **not**:
 
 - Describe internal program results as **externally accepted scientific conclusions** — they have not been peer-reviewed in traditional journals yet.
-- Frame the program as a **theory of everything** — that is not the program's framing. The framing is "categorical framework with derivable results across multiple domains, all open for scrutiny."
+- Frame the program as a **theory of everything** — that is not the program's framing. The framing is "independent open research program dedicated to building a coherent theory of reality," with all claims open for scrutiny.
 - **Conflate Lean compilation with empirical truth** — Lean checks internal consistency. CMB-S4, BICEP, particle-physics experiments still need to do their work.
 - Drop the **scope labels** — every claim on the site carries a typed status label (`internally addressed`, `partial`, `conjectural`, …). Removing those labels strips out the program's accountability.
 

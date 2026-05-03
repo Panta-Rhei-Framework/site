@@ -28,6 +28,10 @@ right_rail:
     url: /media/open-research-brief/
   - title: "Inspection Architecture White Paper"
     url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+  - title: "Theory of Reality Brief"
+    url: /media/theory-of-reality-brief/
+  - title: "Theory of Reality White Paper"
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   - title: "Scientific Plates"
     url: /media/posters/
   - title: "Brand"
@@ -82,6 +86,31 @@ Use these for Package 1, where the first story is the inspection standard, not e
 > The first story is not whether a high-scope theory is true. The first story is whether it exposes enough obligation, construction, status, verification, failure paths, and correction routes to be responsibly inspected.
 >
 > {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
+
+## Theory of Reality launch snippets
+
+Use these for Package 2, where the story is the intellectual category: coherent theory of reality, not theory of everything.
+
+### X / Bluesky
+
+> Panta Rhei is not asking for a “theory of everything” headline. Package 2 defines the stricter burden: a coherent theory of reality must earn its language, earn its questions, build its answers, disclose limits, and stay inspectable.
+> {{ site.url }}{{ '/media/theory-of-reality-brief/' | relative_url }}
+
+### LinkedIn
+
+> What should a serious theory of reality have to expose before asking for belief?
+>
+> Package 2 of the Panta Rhei press kit answers at the category level. It distinguishes “coherent theory of reality” from theory-of-everything rhetoric and frames the public burden: Program doctrine, Agenda obligations, Corpus construction, Results readouts, Verify inspection, Impact conditionality, and Engage scrutiny.
+>
+> Brief: {{ site.url }}{{ '/media/theory-of-reality-brief/' | relative_url }}
+> White paper: {{ site.url }}{{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}
+
+### Mastodon
+
+> A theory of reality may not start with borrowed words and treat them as explanations. It must earn its language, earn its questions, and only then earn its answers.
+>
+> Package 2: The Shape of a Theory of Reality.
+> {{ site.url }}{{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}
 
 ## X (Twitter) — under 280 characters
 

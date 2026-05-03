@@ -28,6 +28,8 @@ right_rail:
     url: /media/review-kit/
   - title: Open Research Brief
     url: /media/open-research-brief/
+  - title: Theory of Reality Brief
+    url: /media/theory-of-reality-brief/
   - title: Related Approaches
     url: /program/about/related-approaches/
   - title: Scientific Plates
@@ -44,6 +46,8 @@ right_rail:
     url: /publications/white-papers/
   - title: Inspection Architecture White Paper
     url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+  - title: Theory of Reality White Paper
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   meta:
     type: "Support page"
     scope: "Media kit"
@@ -72,6 +76,18 @@ Suggested framing:
 > If independent open research is allowed to ask large questions, what public burden should it accept before asking anyone to care?
 
 For the full Package 1 framing, read the [Open Research Brief]({{ '/media/open-research-brief/' | relative_url }}) and the white paper [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}).
+
+## Suggested second story angle
+
+The second safe story is the intellectual category.
+
+Panta Rhei is not asking journalists to cover a theory of everything as a settled scientific claim. Package 2 explains why the program uses the stricter phrase “coherent theory of reality”: a public burden to earn its language, earn its questions, build its answers, disclose limits, and state conditional public relevance.
+
+Suggested framing:
+
+> If a research program wants to speak about reality as a whole, what must it expose before the phrase becomes more than a slogan?
+
+For the full Package 2 framing, read the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}).
 
 ## What journalists can responsibly say
 
@@ -124,6 +140,10 @@ This media kit is not a peer-review certificate, not a claim that every result i
   <a class="v2-tile" href="{{ '/media/open-research-brief/' | relative_url }}">
     <h3>Open Research Brief</h3>
     <p>A one-page newsroom brief for the safest first story: the inspection standard, not endorsement of the theory.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/media/theory-of-reality-brief/' | relative_url }}">
+    <h3>Theory of Reality Brief</h3>
+    <p>A one-page newsroom brief for the second story: why Panta Rhei says coherent theory of reality, not theory of everything.</p>
   </a>
   <a class="v2-tile" href="{{ '/media/journalist-faq/' | relative_url }}">
     <h3>Journalist FAQ</h3>

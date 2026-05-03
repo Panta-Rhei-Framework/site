@@ -24,6 +24,10 @@ right_rail:
     url: /media/open-research-brief/
   - title: Inspection Architecture White Paper
     url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+  - title: Theory of Reality Brief
+    url: /media/theory-of-reality-brief/
+  - title: Theory of Reality White Paper
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   - title: Verify
     url: /verify/
   - title: Assessment Protocols
@@ -88,6 +92,27 @@ This is the inspection-architecture checklist for Package 1.
 10. Are errata and correction routes public?
 11. Are remaining externalities disclosed?
 12. Is there a route to ask questions or report errors?
+
+## Reviewing the theory-of-reality claim
+
+Package 2 adds the conceptual review question: what must the phrase “coherent theory of reality” mean before it can be responsibly inspected?
+
+Start with the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}). It is not a validation claim. It defines the category and burden: earned language, earned questions, public construction, status-marked answers, disclosed limits, and conditional public relevance.
+
+Use this 12-point doctrine checklist before treating any result as representative of the whole program:
+
+1. Does the program distinguish coherent theory of reality from “theory of everything” rhetoric?
+2. Is the canonical claim stated as a building burden rather than a completion claim?
+3. Are Program doctrine, Agenda obligations, Corpus construction, Results consequences, Verify inspection, Impact conditionality, and Engage scrutiny kept distinct?
+4. Are core terms such as reality, proof, observer, life, mind, value, and public good earned rather than borrowed?
+5. Are accepted questions visible before answers are evaluated?
+6. Can a result be traced from Agenda obligation to Corpus construction to Verify route?
+7. Are internal status, formal verification, empirical support, external review, and external acceptance separated?
+8. Are bridge claims and translation assumptions visible?
+9. Are no-externalities and unresolved-frontier boundaries disclosed?
+10. Does Impact use conditional relevance rather than adoption, deployment, or delivery language?
+11. Does Related Approaches function as a positioning map rather than a takedown?
+12. Does Engage make scrutiny possible without implying endorsement?
 
 ## Research-form legitimacy
 

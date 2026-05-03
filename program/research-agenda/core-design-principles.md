@@ -26,6 +26,8 @@ right_rail:
     url: /program/about/scope-status-and-scrutiny/
   - title: Related Approaches
     url: /program/about/related-approaches/
+  - title: Theory of Reality White Paper
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   meta:
     type: Design Doc
     scope: Program-wide
@@ -46,6 +48,8 @@ The program seeks to avoid importing conceptual tools too early and then using t
 This discipline can be summarized simply:
 
 **First earn the language, then earn the question, then earn the answer.**
+
+Package 2 makes this sentence public-facing in the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}). The paper explains why Panta Rhei uses “coherent theory of reality” as a burden-bearing category rather than “theory of everything” as a slogan.
 
 That same earnedness standard is used in [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}), where Panta Rhei is compared with serious neighboring programs by asking what each approach treats as primitive and what Panta Rhei requires to be built.
 

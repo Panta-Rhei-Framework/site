@@ -36,6 +36,8 @@ hero_ctas:
     url: /program/about/coherent-theory-of-reality/
   - label: "Kernel, Model & Reality"
     url: /program/research-agenda/kernel-model-reality/
+  - label: "Theory White Paper"
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
 right_rail:
   related:
     - title: "Wolfram Ruliad"
@@ -74,6 +76,8 @@ Each comparison uses the same four-part pattern:
 4. Where to inspect the Panta Rhei burden next.
 
 The comparison point is not who is right by assertion, but where each approach places the semantic and construction burden.
+
+For the public doctrine behind that comparison standard, read [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}). It explains why Panta Rhei uses “coherent theory of reality” as a burden-bearing category rather than “theory of everything” as a headline.
 
 ## Approach families
 
