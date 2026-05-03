@@ -27,7 +27,8 @@
   {% assign v2_lane_nav = site.data.nav.lane_nav[v2_lane_key] %}
 
   {% if v2_lane_nav %}
-  <div class="rail-title">{{ v2_lane_nav.title }}</div>
+  {% assign lane_root_url = v2_lane_nav.sections[0].links[0].url %}
+  <a href="{{ lane_root_url | relative_url }}" class="rail-title">{{ v2_lane_nav.title }}</a>
   {% for section in v2_lane_nav.sections %}
   <div class="nav-section">
     {% if section.title %}
@@ -180,21 +181,6 @@
   </div>
   {% endfor %}
   {% endif %}
-
-  <div class="rail-status">
-    <div class="status-item">
-      <span>Release</span>
-      <span class="status-value">{{ page.release | default: "2nd Edition" }}</span>
-    </div>
-    <div class="status-item">
-      <span>Status</span>
-      <span class="status-value">{{ page.status | default: "Canonical" }}</span>
-    </div>
-    <div class="status-item">
-      <span>Updated</span>
-      <span class="status-value">{{ page.updated | default: "April 2026" }}</span>
-    </div>
-  </div>
 
   </div><!-- /.rail-collapse-body -->
 </details>

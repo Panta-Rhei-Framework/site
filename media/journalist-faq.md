@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 summary: "Common questions journalists, podcast hosts, and editors ask about the Panta Rhei Research Program — peer review, funding, citation, interview availability, embargo policy, and what to call this work."
 summary_short: "Press FAQ — peer review, funding, citation, interviews, embargo policy."

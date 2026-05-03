@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 summary: "Resources for journalists, public communicators, and external readers covering the Panta Rhei Research Program."
 summary_short: "Press, podcast, and public-communication resources for the Panta Rhei Research Program."

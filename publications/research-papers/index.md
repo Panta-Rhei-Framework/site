@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Active"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "Research Papers"
 permalink: "/publications/research-papers/"
@@ -20,18 +21,29 @@ They are intended to state, prove, derive, or argue for original research claims
 
 ## First batch
 
-| Paper | Role | PDF | DOI |
-|---|---|---|---|
-| [The Hyperfactorization Theorem]({{ '/publications/research-papers/hyperfactorization-theorem/' | relative_url }}) | Hinge 1 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-hyperfactorization-theorem.pdf' | relative_url }}) | [10.5281/zenodo.19818957](https://doi.org/10.5281/zenodo.19818957) |
-| [The Prime Polarity Theorem]({{ '/publications/research-papers/prime-polarity-theorem/' | relative_url }}) | Hinge 2 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-prime-polarity-theorem.pdf' | relative_url }}) | [10.5281/zenodo.19819869](https://doi.org/10.5281/zenodo.19819869) |
-| [The Master Constant iota_tau]({{ '/publications/research-papers/master-constant-iota-tau/' | relative_url }}) | Hinge 3 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-master-constant-iota-tau.pdf' | relative_url }}) | [10.5281/zenodo.19820352](https://doi.org/10.5281/zenodo.19820352) |
-| [The Split-Complex Boundary Algebra D]({{ '/publications/research-papers/split-complex-boundary-algebra/' | relative_url }}) | Hinge 4 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-split-complex-boundary-algebra.pdf' | relative_url }}) | [10.5281/zenodo.19818743](https://doi.org/10.5281/zenodo.19818743) |
-| [tau-Holomorphy on the Boundary Algebra]({{ '/publications/research-papers/tau-holomorphy-boundary-algebra/' | relative_url }}) | Hinge 5 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-tau-holomorphy-boundary-algebra.pdf' | relative_url }}) | [10.5281/zenodo.19818852](https://doi.org/10.5281/zenodo.19818852) |
-| [The tau-Topos and Its Four-Valued Internal Logic]({{ '/publications/research-papers/tau-topos-four-valued-internal-logic/' | relative_url }}) | Hinge 6 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-tau-topos-four-valued-internal-logic.pdf' | relative_url }}) | [10.5281/zenodo.19820194](https://doi.org/10.5281/zenodo.19820194) |
-| [Address Resolution, Not Calculation]({{ '/publications/research-papers/address-resolution-not-calculation/' | relative_url }}) | Hinge 7 preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-address-resolution-not-calculation.pdf' | relative_url }}) | [10.5281/zenodo.19818628](https://doi.org/10.5281/zenodo.19818628) |
-| [The tau-Kernel as Foundational Architecture]({{ '/publications/research-papers/tau-kernel-foundational-architecture/' | relative_url }}) | Hinge 8 entry preprint | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-tau-kernel-foundational-architecture.pdf' | relative_url }}) | [10.5281/zenodo.19820600](https://doi.org/10.5281/zenodo.19820600) |
-| [The Panta Rhei Foundational Bundle]({{ '/publications/research-papers/panta-rhei-foundational-bundle/' | relative_url }}) | Bundle research memo | [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-panta-rhei-foundational-bundle.pdf' | relative_url }}) | [10.5281/zenodo.19820855](https://doi.org/10.5281/zenodo.19820855) |
+<ul class="pub-card-grid">
+{% for paper in site.data.publications.research_papers %}
+  {% assign cover = "/assets/thumbnails/papers/" | append: paper.slug | append: "-cover.png" %}
+  {% assign landing = "/publications/research-papers/" | append: paper.slug | append: "/" %}
+  <li>
+    <article class="pub-card">
+      <a href="{{ landing | relative_url }}" aria-hidden="true" tabindex="-1">
+        <img src="{{ cover | relative_url }}" alt="" class="pub-card__cover" loading="lazy" width="96" height="128" />
+      </a>
+      <div class="pub-card__body">
+        <h3 class="pub-card__title"><a href="{{ landing | relative_url }}">{{ paper.title }}</a></h3>
+        <p class="pub-card__summary">{{ paper.summary_short }}</p>
+        <p class="pub-card__meta"><span>{{ paper.role }}</span><span>{{ paper.date }}</span></p>
+        <div class="pub-card__actions">
+          <a href="{{ paper.pdf_path | relative_url }}" class="chip chip-small">PDF</a>
+          <a href="https://doi.org/{{ paper.doi }}" class="chip chip-small" rel="noopener">DOI</a>
+        </div>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>
 
 ## Citation status
 
-Cite each paper by title, authors, version, date, URL, and DOI. The detail pages below include the preferred citation sentence for each artifact.
+Cite each paper by title, authors, version, date, URL, and DOI. The detail pages above include the preferred citation sentence for each artifact.

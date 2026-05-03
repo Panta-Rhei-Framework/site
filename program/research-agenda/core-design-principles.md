@@ -2,8 +2,8 @@
 layout: program-doc
 title: Core Design Principles
 nav_order: 5
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: The persistent design principles that govern the Panta Rhei Research
   Program across mathematics, physics, life, and metaphysics.

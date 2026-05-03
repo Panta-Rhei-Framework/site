@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-distribution-networks-leakage-pressure-service-continuity.pdf
 full_html_path: /impact/papers/distribution-networks-leakage-pressure-service-continuity/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing on how τ could improve drinking-water distribution network intelligence,
   leakage reduction, pressure management, and service continuity.

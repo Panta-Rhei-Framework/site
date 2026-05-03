@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: bibliography
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 section: "Bibliography · Browse"
 summary: "Interactive browse and filter surface for the public bibliography."

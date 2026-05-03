@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-clean-air-digital-twins-exposure-intelligence.pdf
 full_html_path: /impact/papers/clean-air-digital-twins-exposure-intelligence/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing showing how a law-faithful tau atmosphere-emissions-chemistry-exposure
   twin could unlock major public-good gains in urban air-quality protection, hyperlocal exposure intelligence,

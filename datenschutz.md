@@ -5,6 +5,7 @@ lane: support
 type: support_page
 support_type: legal
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 lang: de
 permalink: /datenschutz/
@@ -33,7 +34,6 @@ Postfach 3670
 Deutschland
 
 E-Mail (Datenschutz-Anfragen): [legal@panta-rhei.site](mailto:legal@panta-rhei.site)
-E-Mail (Verantwortlicher persönlich): [thorsten.fuchs@panta-rhei.site](mailto:thorsten.fuchs@panta-rhei.site)
 
 ## 2. Allgemeine Hinweise zur Datenverarbeitung
 

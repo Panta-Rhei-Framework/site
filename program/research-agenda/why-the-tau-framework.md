@@ -2,8 +2,8 @@
 layout: program-doc
 title: Why the Tau Framework
 nav_order: 7
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: Why the current technical core of the program takes the form of the
   Tau framework and what work it is meant to do.

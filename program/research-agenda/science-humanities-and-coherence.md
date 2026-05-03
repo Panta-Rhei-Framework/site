@@ -2,8 +2,8 @@
 layout: program-doc
 title: Science, Humanities, and Coherence
 nav_order: 8
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: Why the program refuses a permanent divide between scientific intelligibility
   and existential inhabitation where both still claim to speak about one world.

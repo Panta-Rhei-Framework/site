@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media_brief
 status: canonical
+last_updated: 2026-05-31
 updated: "May 2026"
 summary_short: "A newsroom brief for Package 3: how panta-rhei.site implements a public research observatory for inspectable high-scope open research."
 right_rail:

@@ -2,8 +2,8 @@
 layout: program-doc
 title: Research Aim and Desiderata
 nav_order: 3
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: The aims, desiderata, and boundary conditions that determine what kind
   of framework the program is willing to regard as serious.

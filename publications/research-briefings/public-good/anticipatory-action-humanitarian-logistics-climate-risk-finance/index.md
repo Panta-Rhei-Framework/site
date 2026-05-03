@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-anticipatory-action-humanitarian-logistics-climate-risk-finance.pdf
 full_html_path: /impact/papers/anticipatory-action-humanitarian-logistics-climate-risk-finance/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing showing how a law-faithful tau risk twin could connect warnings, humanitarian
   logistics, and pre-arranged finance into one operational architecture—reducing the warning-exists-but-action-arrives-too-late

@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Published"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "The tau-Kernel as Foundational Architecture"
 subtitle: "Ontic identity, linear discipline, and the star-autonomous path"

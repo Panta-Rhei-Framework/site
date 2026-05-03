@@ -1,8 +1,8 @@
 ---
 layout: program-doc
 title: "Problem Ledger Source Policy"
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 type: "Source Policy"
 status: "Canonical"

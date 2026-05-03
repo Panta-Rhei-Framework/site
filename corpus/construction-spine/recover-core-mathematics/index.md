@@ -155,6 +155,81 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Recovers usable mathematics from the kernel: finite syntax, address-resolution arithmetic, topology, geometry, number towers, scalar systems, and bridge discipline."
 construction_step_id: "CS-02"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.D07"
+        url: "/registry/object/I.D07/"
+      - title: "I.D10"
+        url: "/registry/object/I.D10/"
+      - title: "I.D11"
+        url: "/registry/object/I.D11/"
+      - title: "I.D12"
+        url: "/registry/object/I.D12/"
+      - title: "I.D16"
+        url: "/registry/object/I.D16/"
+      - title: "I.D23"
+        url: "/registry/object/I.D23/"
+      - title: "I.D24"
+        url: "/registry/object/I.D24/"
+      - title: "I.D34"
+        url: "/registry/object/I.D34/"
+      - title: "I.D35"
+        url: "/registry/object/I.D35/"
+      - title: "I.D36"
+        url: "/registry/object/I.D36/"
+      - title: "I.D39"
+        url: "/registry/object/I.D39/"
+      - title: "I.P06"
+        url: "/registry/object/I.P06/"
+      - title: "I.P07"
+        url: "/registry/object/I.P07/"
+      - title: "I.P09"
+        url: "/registry/object/I.P09/"
+      - title: "I.P13"
+        url: "/registry/object/I.P13/"
+    taulib:
+      - title: "TauLib.BookI.Denotation.Arithmetic"
+        url: "/corpus/taulib/docs/book-i-denotation-arithmetic/"
+      - title: "TauLib.BookII.Geometry.Betweenness"
+        url: "/corpus/taulib/docs/book-ii-geometry-betweenness/"
+      - title: "TauLib.BookII.Geometry.Congruence"
+        url: "/corpus/taulib/docs/book-ii-geometry-congruence/"
+      - title: "TauLib.BookII.Geometry.PaschParallel"
+        url: "/corpus/taulib/docs/book-ii-geometry-pasch-parallel/"
+      - title: "TauLib.BookI.Boundary.Iota"
+        url: "/corpus/taulib/docs/book-i-boundary-iota/"
+      - title: "TauLib.BookI.Boundary.NumberTower"
+        url: "/corpus/taulib/docs/book-i-boundary-number-tower/"
+    monograph:
+      - title: "Book I"
+        url: "/publications/books/book-i/"
+      - title: "Book II"
+        url: "/publications/books/book-ii/"
+      - title: "Book I Registry Dashboard"
+        url: "/registry/dashboards/book-i/"
+    results:
+      - title: "Mathematics World Readout"
+        url: "/results/world-readout/mathematics/"
+      - title: "Number Tower"
+        url: "/results/problem/number-tower-n-z-q-r-c/"
+    verify:
+      - title: "Domain Verification: Mathematics"
+        url: "/verify/domain-verification/mathematics/"
+      - title: "Bridge Verification"
+        url: "/verify/verification-framework/"
+      - title: "Mathematician Audit Route"
+        url: "/verify/how-to-audit/mathematician/"
+    publications:
+      - title: "Address Resolution, Not Calculation"
+        url: "/publications/research-papers/address-resolution-not-calculation/"
+      - title: "The Master Constant iota_tau"
+        url: "/publications/research-papers/master-constant-iota-tau/"
+      - title: "Book I"
+        url: "/publications/books/book-i/"
+      - title: "Book II"
+        url: "/publications/books/book-ii/"
 ---
 
 > Recovers usable mathematics from the kernel: finite syntax, address-resolution arithmetic, topology, geometry, number towers, scalar systems, and bridge discipline.
@@ -395,44 +470,6 @@ Step 2 recovers core mathematics under the kernel's discipline. Its admissibilit
 
 **This is an internal construction claim, not external acceptance.** Step 2 recovers core mathematics under τ-discipline; reviewer scrutiny is invited via the Fork's mode-classification, the registry, the TauLib formalization, and the H3 + H7 hinge papers. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
 
-## Registry spine
-
-- `I.D07`
-- `I.D10`
-- `I.D11`
-- `I.D12`
-- `I.D16`
-- `I.D23`
-- `I.D24`
-- `I.D34`
-- `I.D35`
-- `I.D36`
-- `I.D39`
-- `I.P06`
-- `I.P07`
-- `I.P09`
-- `I.P13`
-
-## TauLib modules
-
-- [TauLib.BookI.Denotation.Arithmetic](/corpus/taulib/docs/book-i-denotation-arithmetic/)
-- [TauLib.BookII.Geometry.Betweenness](/corpus/taulib/docs/book-ii-geometry-betweenness/)
-- [TauLib.BookII.Geometry.Congruence](/corpus/taulib/docs/book-ii-geometry-congruence/)
-- [TauLib.BookII.Geometry.PaschParallel](/corpus/taulib/docs/book-ii-geometry-pasch-parallel/)
-- [TauLib.BookI.Boundary.Iota](/corpus/taulib/docs/book-i-boundary-iota/)
-- [TauLib.BookI.Boundary.NumberTower](/corpus/taulib/docs/book-i-boundary-number-tower/)
-
-## Book locations
-
-- [Book I](/publications/books/book-i/)
-- [Book II](/publications/books/book-ii/)
-- [Book I Registry Dashboard](/registry/dashboards/book-i/)
-
-## Related Results
-
-- [Mathematics World Readout](/results/world-readout/mathematics/)
-- [Number Tower](/results/problem/number-tower-n-z-q-r-c/)
-
 ## Verification Modes
 
 - formal proof checking
@@ -447,19 +484,6 @@ Step 2 recovers core mathematics under the kernel's discipline. Its admissibilit
 ## Empirical Checks
 
 Not applicable at this construction step.
-
-## Related Verify surfaces
-
-- [Domain Verification: Mathematics](/verify/domain-verification/mathematics/)
-- [Formal Verification Stack](/verify/formal-verification-stack/)
-- [Verification Framework](/verify/verification-framework/)
-
-## Publication projection
-
-- [Address Resolution, Not Calculation](/publications/research-papers/address-resolution-not-calculation/)
-- [The Master Constant iota_tau](/publications/research-papers/master-constant-iota-tau/)
-- [Book I](/publications/books/book-i/)
-- [Book II](/publications/books/book-ii/)
 
 ## Current build status
 

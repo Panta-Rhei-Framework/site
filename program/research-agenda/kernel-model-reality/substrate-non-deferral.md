@@ -1,8 +1,8 @@
 ---
 layout: program-doc
 title: "Substrate Non-Deferral"
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 type: "Kernel Principle"
 status: "Canonical"

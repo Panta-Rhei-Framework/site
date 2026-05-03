@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 summary: "Suggested social posts, hashtags, and shareable framings for journalists, podcast hosts, communicators, and supporters covering the Panta Rhei Research Program. Copy-paste ready, all under CC BY 4.0."
 summary_short: "Suggested posts + hashtags + share cards for journalists and supporters."

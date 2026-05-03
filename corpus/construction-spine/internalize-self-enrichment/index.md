@@ -136,6 +136,67 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Moves from an externally described kernel toward self-enrichment: hom-objects as τ-objects, Yoneda as theorem, iterated enrichment, and the first formal reduction of metalanguage externality."
 construction_step_id: "CS-03"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.D51"
+        url: "/registry/object/I.D51/"
+      - title: "I.D52"
+        url: "/registry/object/I.D52/"
+      - title: "I.D53"
+        url: "/registry/object/I.D53/"
+      - title: "I.D54"
+        url: "/registry/object/I.D54/"
+      - title: "I.D55"
+        url: "/registry/object/I.D55/"
+      - title: "I.D56"
+        url: "/registry/object/I.D56/"
+      - title: "I.D57"
+        url: "/registry/object/I.D57/"
+      - title: "I.D58"
+        url: "/registry/object/I.D58/"
+      - title: "I.D59"
+        url: "/registry/object/I.D59/"
+      - title: "I.P26"
+        url: "/registry/object/I.P26/"
+      - title: "I.P28"
+        url: "/registry/object/I.P28/"
+    taulib:
+      - title: "TauLib.BookI.Topos.InternalHom"
+        url: "/corpus/taulib/docs/book-i-topos-internal-hom/"
+      - title: "TauLib.BookI.Topos.Functors"
+        url: "/corpus/taulib/docs/book-i-topos-functors/"
+      - title: "TauLib.BookI.Topos.EarnedTopos"
+        url: "/corpus/taulib/docs/book-i-topos-earned-topos/"
+      - title: "TauLib.BookII.Enrichment.SelfEnrichment"
+        url: "/corpus/taulib/docs/book-ii-enrichment-self-enrichment/"
+      - title: "TauLib.BookII.Enrichment.SelfDescribing"
+        url: "/corpus/taulib/docs/book-ii-enrichment-self-describing/"
+    monograph:
+      - title: "Book I"
+        url: "/publications/books/book-i/"
+      - title: "Book II"
+        url: "/publications/books/book-ii/"
+      - title: "Book II, Part VIII: Self-Enrichment, Yoneda, and Higher Categories"
+        url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
+    results:
+      - title: "Self-Enrichment, Self-Containment, and Internal Logic"
+        url: "/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/"
+      - title: "Earned Topos"
+        url: "/results/problem/earned-topos/"
+    verify:
+      - title: "Meta-Verification Frontier"
+        url: "/verify/meta-verification-frontier/"
+      - title: "Formal Verification Stack"
+        url: "/verify/formal-verification-stack/"
+      - title: "Mathematician Audit Route"
+        url: "/verify/how-to-audit/mathematician/"
+    publications:
+      - title: "The τ-Kernel as Foundational Architecture"
+        url: "/publications/research-papers/tau-kernel-foundational-architecture/"
+      - title: "Book II"
+        url: "/publications/books/book-ii/"
 ---
 
 > Moves from an externally described kernel toward self-enrichment: hom-objects as τ-objects, Yoneda as theorem, iterated enrichment, and the first formal reduction of metalanguage externality.
@@ -347,39 +408,6 @@ Step 3 reduces the meta-language externality and closes the boundary↔interior 
 
 **This is an internal construction claim, not external acceptance.** Step 3 internalizes self-enrichment under τ-discipline and proves the Central Theorem + Categoricity as τ-internal results; reviewer scrutiny is invited via Hinge 6 (τ-topos), Hinge 8 (kernel architecture), the registry, the TauLib formalization, and the Trust Budget Disclosure for the rank-(3, 15) `native_decide` check that underwrites the Central Theorem. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
 
-## Registry spine
-
-- `I.D51`
-- `I.D52`
-- `I.D53`
-- `I.D54`
-- `I.D55`
-- `I.D56`
-- `I.D57`
-- `I.D58`
-- `I.D59`
-- `I.P26`
-- `I.P28`
-
-## TauLib modules
-
-- [TauLib.BookI.Topos.InternalHom](/corpus/taulib/docs/book-i-topos-internal-hom/)
-- [TauLib.BookI.Topos.Functors](/corpus/taulib/docs/book-i-topos-functors/)
-- [TauLib.BookI.Topos.EarnedTopos](/corpus/taulib/docs/book-i-topos-earned-topos/)
-- [TauLib.BookII.Enrichment.SelfEnrichment](/corpus/taulib/docs/book-ii-enrichment-self-enrichment/)
-- [TauLib.BookII.Enrichment.SelfDescribing](/corpus/taulib/docs/book-ii-enrichment-self-describing/)
-
-## Book locations
-
-- [Book I](/publications/books/book-i/)
-- [Book II](/publications/books/book-ii/)
-- [Book II, Part VIII: Self-Enrichment, Yoneda, and Higher Categories](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/)
-
-## Related Results
-
-- [Self-Enrichment, Self-Containment, and Internal Logic](/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/)
-- [Earned Topos](/results/problem/earned-topos/)
-
 ## Verification Modes
 
 - internal-logic checks
@@ -394,17 +422,6 @@ Step 3 reduces the meta-language externality and closes the boundary↔interior 
 ## Empirical Checks
 
 Not applicable at this construction step.
-
-## Related Verify surfaces
-
-- [Meta-Verification Frontier](/verify/meta-verification-frontier/)
-- [Formal Verification Stack](/verify/formal-verification-stack/)
-- [Verification Framework](/verify/verification-framework/)
-
-## Publication projection
-
-- [The τ-Kernel as Foundational Architecture](/publications/research-papers/tau-kernel-foundational-architecture/)
-- [Book II](/publications/books/book-ii/)
 
 ## Current build status
 

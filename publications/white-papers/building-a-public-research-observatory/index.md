@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Draft technical white paper / blueprint"
+last_updated: 2026-05-31
 updated: "May 2026"
 title: "Building a Public Research Observatory for High-Scope Open Research"
 subtitle: "How panta-rhei.site materializes Agenda, Corpus, Results, Verify, Impact, Engage, and artifact release surfaces into one inspectable research system"

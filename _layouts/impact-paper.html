@@ -37,7 +37,7 @@ layout: default
     <a href="{{ briefing_record.landing_url | relative_url }}" class="btn-ghost" {% include cta-attrs.html location="nav" event="nav-back-to-briefing-landing" href=briefing_record.landing_url %}>Briefing landing page</a>
     {% endif %}
     {% if release.pdf_path %}
-    <a href="{{ release.pdf_path | relative_url }}" class="btn-ghost" download>Download PDF dossier</a>
+    <a href="{{ release.pdf_path | relative_url }}" class="btn-ghost" download data-umami-event="download.pdf" data-umami-event-location="impact-paper" data-umami-event-type="internal" data-umami-event-slug="{{ page.slug | default: page.url }}">Download PDF dossier</a>
     {% endif %}
   </div>
 </header>
@@ -59,7 +59,7 @@ layout: default
   <p style="margin-top: 16px;">This full text belongs to a Public-Good Briefing: a conditional scenario artifact. It does not validate the underlying framework; it explores what could follow if the relevant Results survive verification, translation, domain review, and uptake.</p>
   <p>Any operational, institutional, or downstream-use language in the body is scenario vocabulary, not a claim of adoption, deployment, policy implementation, external validation, or operational readiness.</p>
   {% if release %}
-  <p><a href="{{ release.pdf_path | relative_url }}">Download the publication-ready PDF dossier</a>. The PDF is a public artifact with domain review pending and no deployment, product, or validation claim.</p>
+  <p><a href="{{ release.pdf_path | relative_url }}" data-umami-event="download.pdf" data-umami-event-location="impact-paper-prose" data-umami-event-type="internal" data-umami-event-slug="{{ page.slug | default: page.url }}">Download the publication-ready PDF dossier</a>. The PDF is a public artifact with domain review pending and no deployment, product, or validation claim.</p>
   {% endif %}
 </section>
 

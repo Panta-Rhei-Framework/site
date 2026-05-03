@@ -64,13 +64,13 @@ layout: default
   <div class="doi-block">
     <div class="doi-primary">
       <span class="doi-label">Zenodo DOI</span>
-      <a href="{{ fe_book.doi_url }}" class="doi-link" target="_blank" rel="noopener">{{ fe_book.zenodo_doi }}</a>
+      <a href="{{ fe_book.doi_url }}" class="doi-link" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="doi-link" href=fe_book.doi_url variant=page.book_slug %}>{{ fe_book.zenodo_doi }}</a>
     </div>
     <div class="doi-citation">
       Fuchs, Anna-Sophie &amp; Fuchs, Thorsten (2025). <em>{{ fe_book.title }}: {{ fe_book.subtitle }}</em>. Panta Rhei Research Program, 1st Edition. Zenodo. <a href="{{ fe_book.doi_url }}" target="_blank" rel="noopener">{{ fe_book.doi_url }}</a>
     </div>
     <div class="doi-meta">
-      <a href="{{ fe_book.zenodo_record_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Zenodo Record</a>
+      <a href="{{ fe_book.zenodo_record_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="zenodo-record" href=fe_book.zenodo_record_url variant=page.book_slug %}>Zenodo Record</a>
     </div>
     <p class="doi-note">Archival DOI for the First Edition manuscript record. The current canonical release is the Second Edition.</p>
   </div>
@@ -110,8 +110,8 @@ layout: default
       </div>
       <div class="format-asin">ASIN {{ fe_amazon.ebook_asin }}</div>
       <div class="format-links">
-        <a href="{{ fe_amazon.ebook_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.de</a>
-        <a href="{{ fe_amazon.ebook_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.com</a>
+        <a href="{{ fe_amazon.ebook_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="ebook-amazon-de" href=fe_amazon.ebook_url_amazon_de variant=page.book_slug %}>Amazon.de</a>
+        <a href="{{ fe_amazon.ebook_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="ebook-amazon-com" href=fe_amazon.ebook_url_amazon_com variant=page.book_slug %}>Amazon.com</a>
       </div>
     </div>
 
@@ -122,8 +122,8 @@ layout: default
       </div>
       <div class="format-asin">ASIN {{ fe_amazon.hardcover_asin }}</div>
       <div class="format-links">
-        <a href="{{ fe_amazon.hardcover_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.de</a>
-        <a href="{{ fe_amazon.hardcover_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.com</a>
+        <a href="{{ fe_amazon.hardcover_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="hardcover-amazon-de" href=fe_amazon.hardcover_url_amazon_de variant=page.book_slug %}>Amazon.de</a>
+        <a href="{{ fe_amazon.hardcover_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="hardcover-amazon-com" href=fe_amazon.hardcover_url_amazon_com variant=page.book_slug %}>Amazon.com</a>
       </div>
     </div>
 
@@ -134,8 +134,8 @@ layout: default
       </div>
       <div class="format-asin">ASIN {{ fe_amazon.paperback_asin }}</div>
       <div class="format-links">
-        <a href="{{ fe_amazon.paperback_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.de</a>
-        <a href="{{ fe_amazon.paperback_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.com</a>
+        <a href="{{ fe_amazon.paperback_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="paperback-amazon-de" href=fe_amazon.paperback_url_amazon_de variant=page.book_slug %}>Amazon.de</a>
+        <a href="{{ fe_amazon.paperback_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="paperback-amazon-com" href=fe_amazon.paperback_url_amazon_com variant=page.book_slug %}>Amazon.com</a>
       </div>
     </div>
 
@@ -150,7 +150,7 @@ layout: default
         <span class="status-badge status-live">Available</span>
       </div>
       <div class="format-links">
-        <a href="{{ fe_book.open_pdf_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Download PDF</a>
+        <a href="{{ fe_book.open_pdf_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication-archive" label="open-archival-pdf" href=fe_book.open_pdf_url variant=page.book_slug %}>Download PDF</a>
       </div>
     </div>
   </div>
