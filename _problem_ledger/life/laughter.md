@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Laughter"
-permalink: "/program/research-agenda/problem-ledger/life/laughter/"
+permalink: "/agenda/problem-ledger/life/laughter/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "laughter"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/laughter/"
+url: "/agenda/problem-ledger/life/laughter/"
 results_mirror:
   exists: false
   result_id: ""

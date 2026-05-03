@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Diffuse interstellar bands"
-permalink: "/program/research-agenda/problem-ledger/physics/diffuse-interstellar-bands/"
+permalink: "/agenda/problem-ledger/physics/diffuse-interstellar-bands/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "diffuse-interstellar-bands"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/diffuse-interstellar-bands/"
+url: "/agenda/problem-ledger/physics/diffuse-interstellar-bands/"
 results_mirror:
   exists: false
   result_id: ""

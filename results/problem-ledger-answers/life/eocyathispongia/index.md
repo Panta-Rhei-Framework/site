@@ -22,7 +22,7 @@ do_not_edit: true
 
 is it an early sponge? Did it have choanocytes?
 
-- Program Problem Ledger item: [life-biology-eocyathispongia](/program/research-agenda/problem-ledger/life/eocyathispongia/)
+- Program Problem Ledger item: [life-biology-eocyathispongia](/agenda/problem-ledger/life/eocyathispongia/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-eocyathispongia.md`
 

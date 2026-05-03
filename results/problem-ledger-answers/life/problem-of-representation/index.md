@@ -22,7 +22,7 @@ do_not_edit: true
 
 How exactly does the mind function (or how does the brain interpret and represent information about the world)?
 
-- Program Problem Ledger item: [life-neuroscience-problem-of-representation](/program/research-agenda/problem-ledger/life/problem-of-representation/)
+- Program Problem Ledger item: [life-neuroscience-problem-of-representation](/agenda/problem-ledger/life/problem-of-representation/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-neuroscience-problem-of-representation.md`
 

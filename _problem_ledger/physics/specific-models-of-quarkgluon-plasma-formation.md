@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Specific models of quark–gluon plasma formation"
-permalink: "/program/research-agenda/problem-ledger/physics/specific-models-of-quarkgluon-plasma-formation/"
+permalink: "/agenda/problem-ledger/physics/specific-models-of-quarkgluon-plasma-formation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "specific-models-of-quarkgluon-plasma-formation"
   - "nuclear-physics"
-url: "/program/research-agenda/problem-ledger/physics/specific-models-of-quarkgluon-plasma-formation/"
+url: "/agenda/problem-ledger/physics/specific-models-of-quarkgluon-plasma-formation/"
 results_mirror:
   exists: false
   result_id: ""

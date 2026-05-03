@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Astrophysical jet"
-permalink: "/program/research-agenda/problem-ledger/physics/astrophysical-jet/"
+permalink: "/agenda/problem-ledger/physics/astrophysical-jet/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "astrophysical-jet"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/astrophysical-jet/"
+url: "/agenda/problem-ledger/physics/astrophysical-jet/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Reactor antineutrino anomaly"
-permalink: "/program/research-agenda/problem-ledger/physics/reactor-antineutrino-anomaly/"
+permalink: "/agenda/problem-ledger/physics/reactor-antineutrino-anomaly/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "reactor-antineutrino-anomaly"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/reactor-antineutrino-anomaly/"
+url: "/agenda/problem-ledger/physics/reactor-antineutrino-anomaly/"
 results_mirror:
   exists: false
   result_id: ""

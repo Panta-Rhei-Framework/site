@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Physical Quantity Types"
-permalink: "/program/research-agenda/recovery-requirements/physics/physical-quantity-types/"
+permalink: "/agenda/recovery-requirements/physics/physical-quantity-types/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p0"
-url: "/program/research-agenda/recovery-requirements/physics/physical-quantity-types/"
+url: "/agenda/recovery-requirements/physics/physical-quantity-types/"
 verification:
   status: "pending_physics_verification"
   mode: "quantity_type_recovery"

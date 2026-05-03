@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why does time have a direction? Why did the universe have such low entropy in the past, and time correlates with the universal (but not local) increase in entropy, from the past and to the future, according to the second law of thermodynamics? Why are CP violations observed in certain weak force decays, but not elsewhere? Are CP violations somehow a product of the second law of thermodynamics, or are they a separate arrow of time? Are there exceptions to the principle of causality? Is there a single possible past? Is the present moment physically distinct from the past and future, or is it merely an emergent property of consciousness? What links the quantum arrow of time to the thermodynamic arrow?
 
-- Program Problem Ledger item: [phys-arrow-of-time-e-g-entropy-s-arrow-of-time](/program/research-agenda/problem-ledger/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/)
+- Program Problem Ledger item: [phys-arrow-of-time-e-g-entropy-s-arrow-of-time](/agenda/problem-ledger/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-arrow-of-time-e-g-entropy-s-arrow-of-time.md`
 

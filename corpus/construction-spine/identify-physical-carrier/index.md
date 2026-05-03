@@ -4,7 +4,7 @@ sequence: 4
 title: "Step 4 — Identify the Physical Carrier"
 short_title: "Physical Carrier"
 slug: "identify-physical-carrier"
-agenda_path: "/program/research-agenda/construction-roadmap/#identify-the-physical-carrier"
+agenda_path: "/agenda/construction-roadmap/#identify-the-physical-carrier"
 corpus_path: "/corpus/construction-spine/identify-physical-carrier/"
 results_path: "/results/world-readout/physics/how-physical-things-first-appear/"
 summary: "Identifies where physics can live inside the kernel before empirical physics is claimed."

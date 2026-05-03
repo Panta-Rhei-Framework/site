@@ -22,7 +22,7 @@ do_not_edit: true
 
 What causes these transient radio pulses from distant galaxies, lasting only a few milliseconds each? Why do some FRBs repeat at unpredictable intervals, but most do not? Dozens of models have been proposed, but none have been widely accepted
 
-- Program Problem Ledger item: [phys-fast-radio-bursts-frbs](/program/research-agenda/problem-ledger/physics/fast-radio-bursts-frbs/)
+- Program Problem Ledger item: [phys-fast-radio-bursts-frbs](/agenda/problem-ledger/physics/fast-radio-bursts-frbs/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-fast-radio-bursts-frbs.md`
 

@@ -18,7 +18,7 @@ hero_ctas:
   - label: "Foundational Hinges"
     url: /corpus/foundational-hinges/
   - label: "Construction Roadmap"
-    url: /program/research-agenda/construction-roadmap/
+    url: /agenda/construction-roadmap/
   - label: "Progress Against Agenda"
     url: /results/progress-against-agenda/
 right_rail:

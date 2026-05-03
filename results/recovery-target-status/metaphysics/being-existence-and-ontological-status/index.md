@@ -26,7 +26,7 @@ Being, Existence, and Ontological Status
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R1](/program/research-agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/)
+- Program ledger item: [METH-R1](/agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

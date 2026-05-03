@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Granular convection"
-permalink: "/program/research-agenda/problem-ledger/physics/granular-convection/"
+permalink: "/agenda/problem-ledger/physics/granular-convection/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "granular-convection"
   - "fluid-dynamics"
-url: "/program/research-agenda/problem-ledger/physics/granular-convection/"
+url: "/agenda/problem-ledger/physics/granular-convection/"
 results_mirror:
   exists: false
   result_id: ""

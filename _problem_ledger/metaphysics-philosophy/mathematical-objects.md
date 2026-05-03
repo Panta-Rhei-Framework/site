@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Mathematical objects"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/mathematical-objects/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/mathematical-objects/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -208,7 +208,7 @@ tags:
   - "wikipedia-philosophy"
   - "mathematical-objects"
   - "philosophy-of-mathematics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/mathematical-objects/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/mathematical-objects/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quark–gluon plasma"
-permalink: "/program/research-agenda/problem-ledger/physics/quarkgluon-plasma/"
+permalink: "/agenda/problem-ledger/physics/quarkgluon-plasma/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -184,7 +184,7 @@ tags:
   - "wikipedia-physics"
   - "quarkgluon-plasma"
   - "nuclear-physics"
-url: "/program/research-agenda/problem-ledger/physics/quarkgluon-plasma/"
+url: "/agenda/problem-ledger/physics/quarkgluon-plasma/"
 results_mirror:
   exists: false
   result_id: ""

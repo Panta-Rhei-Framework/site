@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Morphology problem"
-permalink: "/program/research-agenda/problem-ledger/life/morphology-problem/"
+permalink: "/agenda/problem-ledger/life/morphology-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "morphology-problem"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/morphology-problem/"
+url: "/agenda/problem-ledger/life/morphology-problem/"
 results_mirror:
   exists: false
   result_id: ""

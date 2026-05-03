@@ -26,7 +26,7 @@ Life as a Recoverable Category
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L0](/program/research-agenda/recovery-requirements/life/life-as-a-recoverable-category/)
+- Program ledger item: [LREC-L0](/agenda/recovery-requirements/life/life-as-a-recoverable-category/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

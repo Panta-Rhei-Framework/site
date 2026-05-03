@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Theory of everything"
-permalink: "/program/research-agenda/problem-ledger/physics/theory-of-everything/"
+permalink: "/agenda/problem-ledger/physics/theory-of-everything/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "theory-of-everything"
   - "general-physics"
-url: "/program/research-agenda/problem-ledger/physics/theory-of-everything/"
+url: "/agenda/problem-ledger/physics/theory-of-everything/"
 results_mirror:
   exists: false
   result_id: ""

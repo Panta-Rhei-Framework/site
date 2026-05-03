@@ -26,7 +26,7 @@ Completed Uncountable Totalities
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R5](/program/research-agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/)
+- Program ledger item: [MREF-R5](/agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

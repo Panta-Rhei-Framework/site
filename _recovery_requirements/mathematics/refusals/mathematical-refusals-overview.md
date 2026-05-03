@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Mathematical Refusals Overview"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/mathematical-refusals-overview/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/mathematical-refusals-overview/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -48,7 +48,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r0"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/mathematical-refusals-overview/"
+url: "/agenda/recovery-requirements/mathematics/refusals/mathematical-refusals-overview/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

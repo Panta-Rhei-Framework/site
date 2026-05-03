@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Why does biological aging occur?"
-permalink: "/program/research-agenda/problem-ledger/life/why-does-biological-aging-occur/"
+permalink: "/agenda/problem-ledger/life/why-does-biological-aging-occur/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "why-does-biological-aging-occur"
   - "general-biology"
   - "other"
-url: "/program/research-agenda/problem-ledger/life/why-does-biological-aging-occur/"
+url: "/agenda/problem-ledger/life/why-does-biological-aging-occur/"
 results_mirror:
   exists: false
   result_id: ""

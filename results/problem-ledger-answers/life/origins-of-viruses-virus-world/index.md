@@ -22,7 +22,7 @@ do_not_edit: true
 
 Exactly how and when did different groups of viruses originate?
 
-- Program Problem Ledger item: [life-biology-origins-of-viruses-virus-world](/program/research-agenda/problem-ledger/life/origins-of-viruses-virus-world/)
+- Program Problem Ledger item: [life-biology-origins-of-viruses-virus-world](/agenda/problem-ledger/life/origins-of-viruses-virus-world/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-origins-of-viruses-virus-world.md`
 

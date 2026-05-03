@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Material implication"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/material-implication/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/material-implication/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-philosophy"
   - "material-implication"
   - "metaphysics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/material-implication/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/material-implication/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum field theory (this is a generalization of the previous problem)"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/"
+permalink: "/agenda/problem-ledger/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "quantum-field-theory-this-is-a-generalization-of-the-previous-problem"
   - "quantum-physics"
-url: "/program/research-agenda/problem-ledger/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/"
+url: "/agenda/problem-ledger/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/"
 results_mirror:
   exists: false
   result_id: ""

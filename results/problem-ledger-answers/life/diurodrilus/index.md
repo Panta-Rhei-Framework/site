@@ -22,7 +22,7 @@ do_not_edit: true
 
 is it an unusual annelid? What are the origins of morphological similarities between Diurodrilus and micrognathozoan Limnognathia maerski?
 
-- Program Problem Ledger item: [life-biology-diurodrilus](/program/research-agenda/problem-ledger/life/diurodrilus/)
+- Program Problem Ledger item: [life-biology-diurodrilus](/agenda/problem-ledger/life/diurodrilus/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-diurodrilus.md`
 

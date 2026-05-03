@@ -22,7 +22,7 @@ do_not_edit: true
 
 What were the characteristics of the Last Universal Common Ancestor of Archaea and Bacteria?
 
-- Program Problem Ledger item: [life-biology-last-universal-common-ancestor](/program/research-agenda/problem-ledger/life/last-universal-common-ancestor/)
+- Program Problem Ledger item: [life-biology-last-universal-common-ancestor](/agenda/problem-ledger/life/last-universal-common-ancestor/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-last-universal-common-ancestor.md`
 

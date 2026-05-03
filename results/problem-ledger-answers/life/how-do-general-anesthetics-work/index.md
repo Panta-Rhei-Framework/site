@@ -22,7 +22,7 @@ do_not_edit: true
 
 How do general anesthetics work?
 
-- Program Problem Ledger item: [life-neuroscience-how-do-general-anesthetics-work](/program/research-agenda/problem-ledger/life/how-do-general-anesthetics-work/)
+- Program Problem Ledger item: [life-neuroscience-how-do-general-anesthetics-work](/agenda/problem-ledger/life/how-do-general-anesthetics-work/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-neuroscience-how-do-general-anesthetics-work.md`
 

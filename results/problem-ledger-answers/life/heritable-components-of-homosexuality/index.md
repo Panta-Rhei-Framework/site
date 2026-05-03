@@ -22,7 +22,7 @@ do_not_edit: true
 
 How to reconcile evolution with the heritable components of human homosexuality? Homosexuality is prevalent across human societies, past and present. These facts constitute an evolutionary puzzle
 
-- Program Problem Ledger item: [life-biology-heritable-components-of-homosexuality](/program/research-agenda/problem-ledger/life/heritable-components-of-homosexuality/)
+- Program Problem Ledger item: [life-biology-heritable-components-of-homosexuality](/agenda/problem-ledger/life/heritable-components-of-homosexuality/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-heritable-components-of-homosexuality.md`
 

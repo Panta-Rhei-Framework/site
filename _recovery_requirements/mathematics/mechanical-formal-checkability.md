@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Mechanical Formal Checkability"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/mechanical-formal-checkability/"
+permalink: "/agenda/recovery-requirements/mathematics/mechanical-formal-checkability/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -46,7 +46,7 @@ tags:
   - "mathematics"
   - "recovery-requirements"
   - "mrec-m0"
-url: "/program/research-agenda/recovery-requirements/mathematics/mechanical-formal-checkability/"
+url: "/agenda/recovery-requirements/mathematics/mechanical-formal-checkability/"
 verification:
   status: "pending_formal_verification"
   mode: "foundational_recovery_target"

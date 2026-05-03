@@ -22,7 +22,7 @@ do_not_edit: true
 
 Medical data suggests that the average body temperature has declined 0.6 °C since the 19th century. The cause is unclear although it has been suggested that it has some relation with reduced inflammation from reduced exposure to microorganisms
 
-- Program Problem Ledger item: [life-biology-decline-in-average-human-body-temperature-since-the-19th-century](/program/research-agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/)
+- Program Problem Ledger item: [life-biology-decline-in-average-human-body-temperature-since-the-19th-century](/agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-decline-in-average-human-body-temperature-since-the-19th-century.md`
 

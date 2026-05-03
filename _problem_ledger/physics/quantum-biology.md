@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum biology"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-biology/"
+permalink: "/agenda/problem-ledger/physics/quantum-biology/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "quantum-biology"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/quantum-biology/"
+url: "/agenda/problem-ledger/physics/quantum-biology/"
 results_mirror:
   exists: false
   result_id: ""

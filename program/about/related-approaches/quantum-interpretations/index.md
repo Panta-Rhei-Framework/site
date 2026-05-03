@@ -19,7 +19,7 @@ hero_ctas:
     url: /program/about/related-approaches/
     primary: true
   - label: "Answer-Shape Requirements"
-    url: /program/research-agenda/kernel-model-reality/answer-shape-requirements/
+    url: /agenda/kernel-model-reality/answer-shape-requirements/
   - label: "Physics Verification"
     url: /verify/domain-verification/physics/
 right_rail:
@@ -27,7 +27,7 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Answer-Shape Requirements"
-      url: /program/research-agenda/kernel-model-reality/answer-shape-requirements/
+      url: /agenda/kernel-model-reality/answer-shape-requirements/
     - title: "Physics World Readout"
       url: /results/world-readout/physics/
     - title: "Physics Verification"
@@ -62,7 +62,7 @@ Panta Rhei does not reject ontological ambition. It rejects unmarked ontological
 
 ## Where to inspect next
 
-- [Answer-Shape Requirements]({{ '/program/research-agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }}) for claim-form discipline.
+- [Answer-Shape Requirements]({{ '/agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }}) for claim-form discipline.
 - [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) for physics-facing interpretation.
 - [Physics Verification]({{ '/verify/domain-verification/physics/' | relative_url }}) for domain review.
 - [Bridge Verification]({{ '/verify/bridge-verification/' | relative_url }}) for measurement and interpretation bridges.

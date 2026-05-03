@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Biological homochirality"
-permalink: "/program/research-agenda/problem-ledger/life/biological-homochirality/"
+permalink: "/agenda/problem-ledger/life/biological-homochirality/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "biological-homochirality"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/biological-homochirality/"
+url: "/agenda/problem-ledger/life/biological-homochirality/"
 results_mirror:
   exists: false
   result_id: ""

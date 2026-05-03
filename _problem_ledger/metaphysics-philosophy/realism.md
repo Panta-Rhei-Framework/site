@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Realism"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/realism/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/realism/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-philosophy"
   - "realism"
   - "philosophy-of-science"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/realism/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/realism/"
 results_mirror:
   exists: false
   result_id: ""

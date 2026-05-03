@@ -22,7 +22,7 @@ do_not_edit: true
 
 The quantum chromodynamics (QCD) color confinement conjecture is that color-charged particles (such as quarks and gluons) cannot be separated from their parent hadron without producing new hadrons
 
-- Program Problem Ledger item: [phys-color-confinement](/program/research-agenda/problem-ledger/physics/color-confinement/)
+- Program Problem Ledger item: [phys-color-confinement](/agenda/problem-ledger/physics/color-confinement/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-color-confinement.md`
 

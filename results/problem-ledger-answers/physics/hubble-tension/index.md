@@ -22,7 +22,7 @@ do_not_edit: true
 
 The value of H0, which encodes the current expansion rate of the universe, has two values: one from near-universe measurements and one from cosmic microwave background measurements combined with the Lambda-CDM model. These two values disagree to a high degree of statistical confidence (5.7σ). Are there systematic measurement errors? A problem in the otherwise widely successful model?
 
-- Program Problem Ledger item: [phys-hubble-tension](/program/research-agenda/problem-ledger/physics/hubble-tension/)
+- Program Problem Ledger item: [phys-hubble-tension](/agenda/problem-ledger/physics/hubble-tension/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-hubble-tension.md`
 

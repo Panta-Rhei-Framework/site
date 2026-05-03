@@ -24,7 +24,7 @@ right_rail:
   - title: Coherent Theory of Reality
     url: /program/about/coherent-theory-of-reality/
   - title: Agenda
-    url: /program/research-agenda/
+    url: /agenda/
   meta:
     type: "Media brief"
     scope: "Theory of reality framing"
@@ -65,7 +65,7 @@ Large theoretical programs often enter public language through slogans. This bri
 
 1. [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }})
 2. [What We Mean by a Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }})
-3. [Agenda]({{ '/program/research-agenda/' | relative_url }})
-4. [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }})
+3. [Agenda]({{ '/agenda/' | relative_url }})
+4. [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }})
 5. [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
 6. [Review the Work]({{ '/engage/review-the-work/' | relative_url }})

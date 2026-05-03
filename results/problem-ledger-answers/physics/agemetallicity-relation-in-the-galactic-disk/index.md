@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is there a universal age–metallicity relation (AMR) in the Galactic disk (both "thin" and "thick" parts of the disk)? Although in the local (primarily thin) disk of the Milky Way there is no evidence of a strong AMR, a sample of 229 nearby "thick" disk stars has been used to investigate the existence of an age–metallicity relation in the Galactic thick disk, and indicate that there is an age–metallicity relation present in the thick disk. Stellar ages from asteroseismology confirm the lack of any strong age–metallicity relation in the Galactic disc
 
-- Program Problem Ledger item: [phys-agemetallicity-relation-in-the-galactic-disk](/program/research-agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/)
+- Program Problem Ledger item: [phys-agemetallicity-relation-in-the-galactic-disk](/agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-agemetallicity-relation-in-the-galactic-disk.md`
 

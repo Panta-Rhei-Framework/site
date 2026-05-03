@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is dark matter responsible for differences in observed and theoretical speed of stars revolving around the centre of galaxies, or is it something else? frame|right|Rotation curve of a typical spiral galaxy: predicted (A) and observed (B). Can the discrepancy between the curves be attributed to dark matter?
 
-- Program Problem Ledger item: [phys-galaxy-rotation-problem](/program/research-agenda/problem-ledger/physics/galaxy-rotation-problem/)
+- Program Problem Ledger item: [phys-galaxy-rotation-problem](/agenda/problem-ledger/physics/galaxy-rotation-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-galaxy-rotation-problem.md`
 

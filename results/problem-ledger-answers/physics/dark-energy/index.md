@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the cause of the observed accelerating expansion of the universe (the de Sitter phase)? Are the observations rightly interpreted as the accelerating expansion of the universe, or are they evidence that the cosmological principle is false? Why is the energy density of the dark energy component of the same magnitude as the density of matter at present when the two evolve quite differently over time; could it be simply that we are observing at exactly the right time? Is dark energy a pure cosmological constant or are models of quintessence such as phantom energy applicable?
 
-- Program Problem Ledger item: [phys-dark-energy](/program/research-agenda/problem-ledger/physics/dark-energy/)
+- Program Problem Ledger item: [phys-dark-energy](/agenda/problem-ledger/physics/dark-energy/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-dark-energy.md`
 

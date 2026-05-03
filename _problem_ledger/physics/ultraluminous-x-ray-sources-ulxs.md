@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Ultraluminous X-ray sources (ULXs)"
-permalink: "/program/research-agenda/problem-ledger/physics/ultraluminous-x-ray-sources-ulxs/"
+permalink: "/agenda/problem-ledger/physics/ultraluminous-x-ray-sources-ulxs/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -144,7 +144,7 @@ tags:
   - "wikipedia-physics"
   - "ultraluminous-x-ray-sources-ulxs"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/ultraluminous-x-ray-sources-ulxs/"
+url: "/agenda/problem-ledger/physics/ultraluminous-x-ray-sources-ulxs/"
 results_mirror:
   exists: false
   result_id: ""

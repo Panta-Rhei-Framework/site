@@ -20,7 +20,7 @@ hero_ctas:
     url: /program/about/related-approaches/
     primary: true
   - label: "Substrate Non-Deferral"
-    url: /program/research-agenda/kernel-model-reality/substrate-non-deferral/
+    url: /agenda/kernel-model-reality/substrate-non-deferral/
   - label: "Construction Spine"
     url: /corpus/construction-spine/
 right_rail:
@@ -28,9 +28,9 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "No Externalities"
-      url: /program/research-agenda/kernel-model-reality/no-externalities/
+      url: /agenda/kernel-model-reality/no-externalities/
     - title: "Substrate Non-Deferral"
-      url: /program/research-agenda/kernel-model-reality/substrate-non-deferral/
+      url: /agenda/kernel-model-reality/substrate-non-deferral/
     - title: "Verify the Construction Spine"
       url: /verify/construction-spine-verification/
   meta:
@@ -68,7 +68,7 @@ The discrete-to-continuum burden is also placed differently. Wolfram's project m
 ## Where to inspect next
 
 - [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}) for the v4 program doctrine.
-- [Core Design Principles]({{ '/program/research-agenda/core-design-principles/' | relative_url }}) for earned language, question, and answer.
-- [Substrate Non-Deferral]({{ '/program/research-agenda/kernel-model-reality/substrate-non-deferral/' | relative_url }}) for runtime and substrate burdens.
+- [Core Design Principles]({{ '/agenda/core-design-principles/' | relative_url }}) for earned language, question, and answer.
+- [Substrate Non-Deferral]({{ '/agenda/kernel-model-reality/substrate-non-deferral/' | relative_url }}) for runtime and substrate burdens.
 - [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) for the build sequence.
 - [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) for inspection routes.

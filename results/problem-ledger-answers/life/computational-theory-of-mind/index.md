@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the limits of understanding thinking as a form of computing?
 
-- Program Problem Ledger item: [life-biology-computational-theory-of-mind](/program/research-agenda/problem-ledger/life/computational-theory-of-mind/)
+- Program Problem Ledger item: [life-biology-computational-theory-of-mind](/agenda/problem-ledger/life/computational-theory-of-mind/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-computational-theory-of-mind.md`
 

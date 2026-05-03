@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Sleep"
-permalink: "/program/research-agenda/problem-ledger/life/sleep/"
+permalink: "/agenda/problem-ledger/life/sleep/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -124,7 +124,7 @@ tags:
   - "wikipedia-neuroscience"
   - "sleep"
   - "mind-body-connection"
-url: "/program/research-agenda/problem-ledger/life/sleep/"
+url: "/agenda/problem-ledger/life/sleep/"
 results_mirror:
   exists: false
   result_id: ""

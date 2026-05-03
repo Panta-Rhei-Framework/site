@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is the nature of spacetime at the Planck scale very different from the continuous classical dynamical spacetime that exists in general relativity? In loop quantum gravity, the spacetime is postulated to be discrete from the beginning. In string theory, although originally spacetime was considered just like in general relativity (with the only difference being supersymmetry), recent research building upon the Ryu–Takayanagi conjecture has taught that spacetime in string theory is emergent by using quantum information theoretic concepts such as entanglement entropy in the AdS/CFT correspondence.{ {cite journal
 
-- Program Problem Ledger item: [phys-quantum-spacetime-or-the-emergence-of-spacetime](/program/research-agenda/problem-ledger/physics/quantum-spacetime-or-the-emergence-of-spacetime/)
+- Program Problem Ledger item: [phys-quantum-spacetime-or-the-emergence-of-spacetime](/agenda/problem-ledger/physics/quantum-spacetime-or-the-emergence-of-spacetime/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-spacetime-or-the-emergence-of-spacetime.md`
 

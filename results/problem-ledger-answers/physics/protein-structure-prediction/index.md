@@ -22,7 +22,7 @@ do_not_edit: true
 
 How is the three-dimensional structure of proteins determined by the one-dimensional amino acid sequence? How can proteins fold on microsecond to second timescales when the number of possible conformations is astronomical and conformational transitions occur on the picosecond to microsecond timescale? Can algorithms be written to predict a protein's three-dimensional structure from its sequence? Do the native structures of most naturally occurring proteins coincide with the global minimum of the free energy in conformational space? Or are most native conformations thermodynamically unstable, but kinetically trapped in metastable states? What keeps the high density of proteins present inside cells from precipitating?
 
-- Program Problem Ledger item: [phys-protein-structure-prediction](/program/research-agenda/problem-ledger/physics/protein-structure-prediction/)
+- Program Problem Ledger item: [phys-protein-structure-prediction](/agenda/problem-ledger/physics/protein-structure-prediction/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-protein-structure-prediction.md`
 

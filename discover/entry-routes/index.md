@@ -33,7 +33,7 @@ right_rail:
 The site is large because the research system has several public projections. Choose the door that matches the kind of attention you want to bring.
 
 <div class="v2-grid v2-grid-2">
-  <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <h3>I want the big picture</h3>
     <p>Start with Research Agenda, then read How the System Works and Construction Roadmap.</p>
   </a>

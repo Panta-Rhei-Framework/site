@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the folding code? What is the folding mechanism? Can the native structure of a protein be predicted from its amino acid sequence? Is it possible to predict the secondary, tertiary and quaternary structure of a polypeptide sequence based solely on the sequence and environmental information?
 
-- Program Problem Ledger item: [life-biology-protein-folding](/program/research-agenda/problem-ledger/life/protein-folding/)
+- Program Problem Ledger item: [life-biology-protein-folding](/agenda/problem-ledger/life/protein-folding/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-protein-folding.md`
 

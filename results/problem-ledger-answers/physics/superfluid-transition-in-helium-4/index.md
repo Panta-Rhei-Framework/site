@@ -22,7 +22,7 @@ do_not_edit: true
 
 Explain the discrepancy between the experimental and theoretical determinations of the heat capacity critical exponent
 
-- Program Problem Ledger item: [phys-superfluid-transition-in-helium-4](/program/research-agenda/problem-ledger/physics/superfluid-transition-in-helium-4/)
+- Program Problem Ledger item: [phys-superfluid-transition-in-helium-4](/agenda/problem-ledger/physics/superfluid-transition-in-helium-4/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-superfluid-transition-in-helium-4.md`
 

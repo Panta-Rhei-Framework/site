@@ -61,7 +61,7 @@ If you are new to the program, start with these four questions.
 
 For the deeper Results handoff, continue from [Key Results]({{ '/discover/key-results/' | relative_url }}) to [Landmark Results]({{ '/results/landmark-results/' | relative_url }}) and [World Readout]({{ '/results/world-readout/' | relative_url }}).
 
-For the deepest route, follow [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) -> [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) -> [Results]({{ '/results/' | relative_url }}) -> [Verify]({{ '/verify/' | relative_url }}).
+For the deepest route, follow [Research Agenda]({{ '/agenda/' | relative_url }}) -> [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) -> [Results]({{ '/results/' | relative_url }}) -> [Verify]({{ '/verify/' | relative_url }}).
 
 ## Optional Fifth Step
 

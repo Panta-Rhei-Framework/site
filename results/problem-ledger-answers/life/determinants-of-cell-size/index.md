@@ -22,7 +22,7 @@ do_not_edit: true
 
 How do cells determine what size to grow to before dividing?
 
-- Program Problem Ledger item: [life-biology-determinants-of-cell-size](/program/research-agenda/problem-ledger/life/determinants-of-cell-size/)
+- Program Problem Ledger item: [life-biology-determinants-of-cell-size](/agenda/problem-ledger/life/determinants-of-cell-size/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-determinants-of-cell-size.md`
 

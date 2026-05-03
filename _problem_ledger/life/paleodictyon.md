@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Paleodictyon"
-permalink: "/program/research-agenda/problem-ledger/life/paleodictyon/"
+permalink: "/agenda/problem-ledger/life/paleodictyon/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "paleodictyon"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/paleodictyon/"
+url: "/agenda/problem-ledger/life/paleodictyon/"
 results_mirror:
   exists: false
   result_id: ""

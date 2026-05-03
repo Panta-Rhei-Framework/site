@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Kuiper cliff"
-permalink: "/program/research-agenda/problem-ledger/physics/kuiper-cliff/"
+permalink: "/agenda/problem-ledger/physics/kuiper-cliff/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "kuiper-cliff"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/kuiper-cliff/"
+url: "/agenda/problem-ledger/physics/kuiper-cliff/"
 results_mirror:
   exists: false
   result_id: ""

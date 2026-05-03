@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Scharnhorst effect"
-permalink: "/program/research-agenda/problem-ledger/physics/scharnhorst-effect/"
+permalink: "/agenda/problem-ledger/physics/scharnhorst-effect/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "scharnhorst-effect"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/scharnhorst-effect/"
+url: "/agenda/problem-ledger/physics/scharnhorst-effect/"
 results_mirror:
   exists: false
   result_id: ""

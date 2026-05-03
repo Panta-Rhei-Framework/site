@@ -19,7 +19,7 @@ hero_ctas:
     url: /program/about/related-approaches/
     primary: true
   - label: "Construction Roadmap"
-    url: /program/research-agenda/construction-roadmap/
+    url: /agenda/construction-roadmap/
   - label: "Construction Verification"
     url: /verify/construction-spine-verification/
 right_rail:
@@ -27,7 +27,7 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Construction Roadmap"
-      url: /program/research-agenda/construction-roadmap/
+      url: /agenda/construction-roadmap/
     - title: "Construction Spine"
       url: /corpus/construction-spine/
     - title: "Recovery Target Status"
@@ -60,7 +60,7 @@ Constructor theory asks which transformations are possible. Panta Rhei first ask
 
 ## Where to inspect next
 
-- [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for Agenda-side build order.
+- [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }}) for Agenda-side build order.
 - [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) for Corpus-side construction.
 - [Recovery Target Status]({{ '/results/recovery-target-status/' | relative_url }}) for status-marked recovery surfaces.
 - [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) for the inspection matrix.

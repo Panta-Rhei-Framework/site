@@ -22,7 +22,7 @@ do_not_edit: true
 
 The high diversity of phytoplankton seems to violate the competitive exclusion principle
 
-- Program Problem Ledger item: [life-biology-paradox-of-the-plankton](/program/research-agenda/problem-ledger/life/paradox-of-the-plankton/)
+- Program Problem Ledger item: [life-biology-paradox-of-the-plankton](/agenda/problem-ledger/life/paradox-of-the-plankton/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-paradox-of-the-plankton.md`
 

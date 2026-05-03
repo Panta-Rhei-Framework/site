@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Adult form of Facetotecta"
-permalink: "/program/research-agenda/problem-ledger/life/adult-form-of-facetotecta/"
+permalink: "/agenda/problem-ledger/life/adult-form-of-facetotecta/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "adult-form-of-facetotecta"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/adult-form-of-facetotecta/"
+url: "/agenda/problem-ledger/life/adult-form-of-facetotecta/"
 results_mirror:
   exists: false
   result_id: ""

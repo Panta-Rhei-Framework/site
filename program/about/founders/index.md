@@ -21,7 +21,7 @@ right_rail:
     - title: "Contact"
       url: /engage/contact/
     - title: "Historical Context"
-      url: /program/research-agenda/historical-context/
+      url: /agenda/historical-context/
   meta:
     type: "About"
     scope: "Program-wide"

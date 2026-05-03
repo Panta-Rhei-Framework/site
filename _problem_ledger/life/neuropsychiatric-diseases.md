@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Neuropsychiatric diseases"
-permalink: "/program/research-agenda/problem-ledger/life/neuropsychiatric-diseases/"
+permalink: "/agenda/problem-ledger/life/neuropsychiatric-diseases/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -157,7 +157,7 @@ tags:
   - "neuropsychiatric-diseases"
   - "neuroscience-and-cognition"
   - "neurophysiology"
-url: "/program/research-agenda/problem-ledger/life/neuropsychiatric-diseases/"
+url: "/agenda/problem-ledger/life/neuropsychiatric-diseases/"
 results_mirror:
   exists: false
   result_id: ""

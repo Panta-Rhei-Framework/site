@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Epistemology of religion"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/epistemology-of-religion/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/epistemology-of-religion/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-philosophy"
   - "epistemology-of-religion"
   - "philosophy-of-religion"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/epistemology-of-religion/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/epistemology-of-religion/"
 results_mirror:
   exists: false
   result_id: ""

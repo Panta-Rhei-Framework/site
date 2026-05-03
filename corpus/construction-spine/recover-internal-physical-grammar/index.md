@@ -4,7 +4,7 @@ sequence: 5
 title: "Step 5 — Recover Internal Physical Grammar"
 short_title: "Internal Physics"
 slug: "recover-internal-physical-grammar"
-agenda_path: "/program/research-agenda/construction-roadmap/#recover-internal-physical-grammar"
+agenda_path: "/agenda/construction-roadmap/#recover-internal-physical-grammar"
 corpus_path: "/corpus/construction-spine/recover-internal-physical-grammar/"
 results_path: "/results/world-readout/physics/"
 summary: "Builds internally meaningful physical semantics before empirical calibration."

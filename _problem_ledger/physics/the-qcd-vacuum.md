@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "The QCD vacuum"
-permalink: "/program/research-agenda/problem-ledger/physics/the-qcd-vacuum/"
+permalink: "/agenda/problem-ledger/physics/the-qcd-vacuum/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "the-qcd-vacuum"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/the-qcd-vacuum/"
+url: "/agenda/problem-ledger/physics/the-qcd-vacuum/"
 results_mirror:
   exists: false
   result_id: ""

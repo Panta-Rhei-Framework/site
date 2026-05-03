@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Diurodrilus"
-permalink: "/program/research-agenda/problem-ledger/life/diurodrilus/"
+permalink: "/agenda/problem-ledger/life/diurodrilus/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "diurodrilus"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/diurodrilus/"
+url: "/agenda/problem-ledger/life/diurodrilus/"
 results_mirror:
   exists: false
   result_id: ""

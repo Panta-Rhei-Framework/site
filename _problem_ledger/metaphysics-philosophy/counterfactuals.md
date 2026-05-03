@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Counterfactuals"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/counterfactuals/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/counterfactuals/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-philosophy"
   - "counterfactuals"
   - "philosophy-of-language"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/counterfactuals/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/counterfactuals/"
 results_mirror:
   exists: false
   result_id: ""

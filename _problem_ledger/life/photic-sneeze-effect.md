@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Photic sneeze effect"
-permalink: "/program/research-agenda/problem-ledger/life/photic-sneeze-effect/"
+permalink: "/agenda/problem-ledger/life/photic-sneeze-effect/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "photic-sneeze-effect"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/photic-sneeze-effect/"
+url: "/agenda/problem-ledger/life/photic-sneeze-effect/"
 results_mirror:
   exists: false
   result_id: ""

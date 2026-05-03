@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is it possible to make a theoretical model to describe the statistics of a turbulent flow (in particular, its internal structures)?
 
-- Program Problem Ledger item: [phys-turbulent-flow](/program/research-agenda/problem-ledger/physics/turbulent-flow/)
+- Program Problem Ledger item: [phys-turbulent-flow](/agenda/problem-ledger/physics/turbulent-flow/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-turbulent-flow.md`
 

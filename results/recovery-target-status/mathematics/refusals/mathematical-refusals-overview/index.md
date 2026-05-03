@@ -26,7 +26,7 @@ Mathematical Refusals Overview
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R0](/program/research-agenda/recovery-requirements/mathematics/refusals/mathematical-refusals-overview/)
+- Program ledger item: [MREF-R0](/agenda/recovery-requirements/mathematics/refusals/mathematical-refusals-overview/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

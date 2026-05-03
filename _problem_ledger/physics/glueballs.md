@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Glueballs"
-permalink: "/program/research-agenda/problem-ledger/physics/glueballs/"
+permalink: "/agenda/problem-ledger/physics/glueballs/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "glueballs"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/glueballs/"
+url: "/agenda/problem-ledger/physics/glueballs/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 It is thought that O blood may be an adaptation to malaria and that different blood types respond to different diseases but this hypothesis has yet to be proven. Why did these antigens develop in the first place? What accounts for the differences in blood type? How ancient are the differences in blood types? What accounts for the large number of rare non ABO blood types? What role do blood types have in fighting disease?
 
-- Program Problem Ledger item: [life-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is](/program/research-agenda/problem-ledger/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/)
+- Program Problem Ledger item: [life-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is](/agenda/problem-ledger/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is.md`
 

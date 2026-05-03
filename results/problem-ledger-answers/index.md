@@ -22,7 +22,7 @@ Generic Result pages remain live as supporting evidence, landmarks, and broader 
 <div class="notice note"><strong>Status note.</strong> A Problem Answer reports the program's internal stance. It does not imply external verification, scientific acceptance, or consensus.</div>
 
 <div class="v2-system-strip" aria-label="Problem Answer reading path">
-  <a href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">Problem</a>
+  <a href="{{ '/agenda/problem-ledger/' | relative_url }}">Problem</a>
   <span>-></span>
   <a href="{{ '/results/problem-ledger-answers/' | relative_url }}">Current Answer</a>
   <span>-></span>
@@ -74,4 +74,4 @@ Generic Result pages remain live as supporting evidence, landmarks, and broader 
 
 ## Source Policy
 
-Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/). Problem Answers report current framework answers against that source scope; they do not rewrite the source ledger.
+Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/agenda/problem-ledger-source-policy/). Problem Answers report current framework answers against that source scope; they do not rewrite the source ledger.

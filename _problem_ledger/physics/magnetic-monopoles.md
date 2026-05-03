@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Magnetic monopoles"
-permalink: "/program/research-agenda/problem-ledger/physics/magnetic-monopoles/"
+permalink: "/agenda/problem-ledger/physics/magnetic-monopoles/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "magnetic-monopoles"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/magnetic-monopoles/"
+url: "/agenda/problem-ledger/physics/magnetic-monopoles/"
 results_mirror:
   exists: false
   result_id: ""

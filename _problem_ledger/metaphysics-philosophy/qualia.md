@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Qualia"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/qualia/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/qualia/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-philosophy"
   - "qualia"
   - "philosophy-of-mind"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/qualia/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/qualia/"
 results_mirror:
   exists: false
   result_id: ""

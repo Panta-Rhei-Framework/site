@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Neutrino mass"
-permalink: "/program/research-agenda/problem-ledger/physics/neutrino-mass/"
+permalink: "/agenda/problem-ledger/physics/neutrino-mass/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "neutrino-mass"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/neutrino-mass/"
+url: "/agenda/problem-ledger/physics/neutrino-mass/"
 results_mirror:
   exists: false
   result_id: ""

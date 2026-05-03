@@ -22,7 +22,7 @@ do_not_edit: true
 
 Only the right ovary in female basking sharks appears to function. The reason is unknown
 
-- Program Problem Ledger item: [life-biology-ovaries-of-basking-sharks](/program/research-agenda/problem-ledger/life/ovaries-of-basking-sharks/)
+- Program Problem Ledger item: [life-biology-ovaries-of-basking-sharks](/agenda/problem-ledger/life/ovaries-of-basking-sharks/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-ovaries-of-basking-sharks.md`
 

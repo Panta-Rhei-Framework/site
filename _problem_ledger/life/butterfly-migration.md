@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Butterfly migration"
-permalink: "/program/research-agenda/problem-ledger/life/butterfly-migration/"
+permalink: "/agenda/problem-ledger/life/butterfly-migration/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "butterfly-migration"
   - "non-human-biology"
   - "ethology"
-url: "/program/research-agenda/problem-ledger/life/butterfly-migration/"
+url: "/agenda/problem-ledger/life/butterfly-migration/"
 results_mirror:
   exists: false
   result_id: ""

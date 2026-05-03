@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Xenacoelomorpha"
-permalink: "/program/research-agenda/problem-ledger/life/xenacoelomorpha/"
+permalink: "/agenda/problem-ledger/life/xenacoelomorpha/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -155,7 +155,7 @@ tags:
   - "xenacoelomorpha"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/xenacoelomorpha/"
+url: "/agenda/problem-ledger/life/xenacoelomorpha/"
 results_mirror:
   exists: false
   result_id: ""

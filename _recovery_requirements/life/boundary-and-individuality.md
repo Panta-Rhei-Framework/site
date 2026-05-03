@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Boundary and Individuality"
-permalink: "/program/research-agenda/recovery-requirements/life/boundary-and-individuality/"
+permalink: "/agenda/recovery-requirements/life/boundary-and-individuality/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l1"
-url: "/program/research-agenda/recovery-requirements/life/boundary-and-individuality/"
+url: "/agenda/recovery-requirements/life/boundary-and-individuality/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

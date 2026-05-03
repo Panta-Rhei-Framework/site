@@ -22,7 +22,7 @@ do_not_edit: true
 
 'The problem of demarcation' is an expression introduced by Karl Popper to refer to 'the problem of finding a criterion which would enable us to distinguish between the empirical sciences on the one hand, and mathematics and logic as well as "metaphysical" systems on the other'. Popper attributes this problem to Kant. Although Popper mentions mathematics and logic, other writers focus on distinguishing science from metaphysics A prominent question in meta-philosophy is that of whether or not philosophical progress occurs and more so, whether such progress in philosophy is even possible. It has even been disputed, most notably by Ludwig Wittgenstein, whether genuine philosophical problems actually exist. The opposite has also been claimed, for example by Karl Popper, who held that such problems do exist, that they are solvable, and that he had actually found definite solutions to some of them. David Chalmers divides inquiry into philosophical progress in meta-philosophy into three questions. The Existence Question: is there progress in philosophy? The Comparison Question: is there as much progress in philosophy as in science? The Explanation Question: why isn't there more progress in philosophy?
 
-- Program Problem Ledger item: [meta-demarcation-problem](/program/research-agenda/problem-ledger/metaphysics-philosophy/demarcation-problem/)
+- Program Problem Ledger item: [meta-demarcation-problem](/agenda/problem-ledger/metaphysics-philosophy/demarcation-problem/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-demarcation-problem.md`
 

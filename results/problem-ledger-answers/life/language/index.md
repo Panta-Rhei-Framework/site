@@ -22,7 +22,7 @@ do_not_edit: true
 
 How is it implemented neurally? What is the basis of semantic meaning?
 
-- Program Problem Ledger item: [life-biology-language](/program/research-agenda/problem-ledger/life/language/)
+- Program Problem Ledger item: [life-biology-language](/agenda/problem-ledger/life/language/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-language.md`
 

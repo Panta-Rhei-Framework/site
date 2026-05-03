@@ -22,7 +22,7 @@ do_not_edit: true
 
 Vacuoles of vanadocytes are notable for high levels of the metal vanadium and their low pH
 
-- Program Problem Ledger item: [life-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates](/program/research-agenda/problem-ledger/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/)
+- Program Problem Ledger item: [life-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates](/agenda/problem-ledger/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates.md`
 

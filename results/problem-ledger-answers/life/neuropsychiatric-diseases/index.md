@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the neural bases (causes) of mental diseases like psychotic disorders (e.g. mania, schizophrenia), Parkinson's disease, Alzheimer's disease, or addiction? Is it possible to recover loss of sensory or motor function?
 
-- Program Problem Ledger item: [life-biology-neuropsychiatric-diseases](/program/research-agenda/problem-ledger/life/neuropsychiatric-diseases/)
+- Program Problem Ledger item: [life-biology-neuropsychiatric-diseases](/agenda/problem-ledger/life/neuropsychiatric-diseases/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-neuropsychiatric-diseases.md`
 

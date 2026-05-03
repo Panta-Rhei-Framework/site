@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Ecology and Multi-Agent Coupling"
-permalink: "/program/research-agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/"
+permalink: "/agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l8"
-url: "/program/research-agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/"
+url: "/agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

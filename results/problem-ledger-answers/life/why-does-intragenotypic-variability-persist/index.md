@@ -22,7 +22,7 @@ do_not_edit: true
 
 Striking phenotypic differences exist even among individuals with identical genotypes, and environments
 
-- Program Problem Ledger item: [life-biology-why-does-intragenotypic-variability-persist](/program/research-agenda/problem-ledger/life/why-does-intragenotypic-variability-persist/)
+- Program Problem Ledger item: [life-biology-why-does-intragenotypic-variability-persist](/agenda/problem-ledger/life/why-does-intragenotypic-variability-persist/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-why-does-intragenotypic-variability-persist.md`
 

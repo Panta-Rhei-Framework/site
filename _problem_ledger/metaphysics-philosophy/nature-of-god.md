@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Nature of God"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/nature-of-god/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/nature-of-god/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-philosophy"
   - "nature-of-god"
   - "philosophy-of-religion"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/nature-of-god/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/nature-of-god/"
 results_mirror:
   exists: false
   result_id: ""

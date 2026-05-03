@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Unrestricted Choice"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -48,7 +48,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r3"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/"
+url: "/agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

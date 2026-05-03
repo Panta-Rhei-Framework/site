@@ -22,7 +22,7 @@ do_not_edit: true
 
 How does the brain transfer sensory information into coherent, private percepts? What are the rules by which perception is organized? What are the features/objects that constitute our perceptual experience of internal and external events? How are the senses integrated? What is the relationship between subjective experience and the physical world?
 
-- Program Problem Ledger item: [life-biology-perception](/program/research-agenda/problem-ledger/life/perception/)
+- Program Problem Ledger item: [life-biology-perception](/agenda/problem-ledger/life/perception/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-perception.md`
 

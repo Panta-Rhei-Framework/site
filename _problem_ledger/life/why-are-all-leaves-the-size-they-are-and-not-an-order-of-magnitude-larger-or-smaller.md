@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Why are all leaves the size they are, and not an order of magnitude larger or smaller?"
-permalink: "/program/research-agenda/problem-ledger/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/"
+permalink: "/agenda/problem-ledger/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -99,7 +99,7 @@ tags:
   - "why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/"
+url: "/agenda/problem-ledger/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/"
 results_mirror:
   exists: false
   result_id: ""

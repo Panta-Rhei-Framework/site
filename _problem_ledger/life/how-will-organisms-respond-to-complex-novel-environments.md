@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "How will organisms respond to complex, novel environments?"
-permalink: "/program/research-agenda/problem-ledger/life/how-will-organisms-respond-to-complex-novel-environments/"
+permalink: "/agenda/problem-ledger/life/how-will-organisms-respond-to-complex-novel-environments/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "how-will-organisms-respond-to-complex-novel-environments"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/how-will-organisms-respond-to-complex-novel-environments/"
+url: "/agenda/problem-ledger/life/how-will-organisms-respond-to-complex-novel-environments/"
 results_mirror:
   exists: false
   result_id: ""

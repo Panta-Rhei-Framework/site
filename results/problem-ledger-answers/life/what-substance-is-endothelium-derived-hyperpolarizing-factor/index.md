@@ -22,7 +22,7 @@ do_not_edit: true
 
 What substance is endothelium-derived hyperpolarizing factor?
 
-- Program Problem Ledger item: [life-biology-what-substance-is-endothelium-derived-hyperpolarizing-factor](/program/research-agenda/problem-ledger/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/)
+- Program Problem Ledger item: [life-biology-what-substance-is-endothelium-derived-hyperpolarizing-factor](/agenda/problem-ledger/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-substance-is-endothelium-derived-hyperpolarizing-factor.md`
 

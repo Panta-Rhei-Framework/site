@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Pentaquarks and other exotic hadrons"
-permalink: "/program/research-agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/"
+permalink: "/agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "pentaquarks-and-other-exotic-hadrons"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/"
+url: "/agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/"
 results_mirror:
   exists: false
   result_id: ""

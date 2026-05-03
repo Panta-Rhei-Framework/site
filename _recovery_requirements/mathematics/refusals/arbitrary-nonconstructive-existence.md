@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Arbitrary Nonconstructive Existence"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/arbitrary-nonconstructive-existence/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/arbitrary-nonconstructive-existence/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -49,7 +49,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r4"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/arbitrary-nonconstructive-existence/"
+url: "/agenda/recovery-requirements/mathematics/refusals/arbitrary-nonconstructive-existence/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

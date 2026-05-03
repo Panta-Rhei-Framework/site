@@ -20,7 +20,7 @@ hero_ctas:
     url: /program/about/related-approaches/
     primary: true
   - label: "Ontic Status Burden"
-    url: /program/research-agenda/kernel-model-reality/ontic-status-burden/
+    url: /agenda/kernel-model-reality/ontic-status-burden/
   - label: "Meta-Verification Frontier"
     url: /verify/meta-verification-frontier/
 right_rail:
@@ -60,7 +60,7 @@ Neutral monism and Russellian monism posit a non-dual metaphysical direction. Pa
 ## Where to inspect next
 
 - [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}) for the program's reality-scope.
-- [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) for ontic-status discipline.
+- [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}) for ontic-status discipline.
 - [Test Ontic Closure]({{ '/corpus/construction-spine/test-ontic-closure/' | relative_url }}) for the final construction step.
 - [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) for domain-facing interpretation.
 - [Meta-Verification Frontier]({{ '/verify/meta-verification-frontier/' | relative_url }}) for the strongest verification boundary.

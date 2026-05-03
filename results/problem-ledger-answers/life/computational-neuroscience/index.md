@@ -22,7 +22,7 @@ do_not_edit: true
 
 How important is the precise timing of action potentials for information processing in the neocortex? Is there a canonical computation performed by cortical columns? How is information in the brain processed by the collective dynamics of large neuronal circuits? What level of simplification is suitable for a description of information processing in the brain? What is the neural code?
 
-- Program Problem Ledger item: [life-biology-computational-neuroscience](/program/research-agenda/problem-ledger/life/computational-neuroscience/)
+- Program Problem Ledger item: [life-biology-computational-neuroscience](/agenda/problem-ledger/life/computational-neuroscience/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-computational-neuroscience.md`
 

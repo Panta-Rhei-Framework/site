@@ -289,7 +289,7 @@ The program publishes its research papers as standalone PDFs under [`/publicatio
 - [Program]({{ '/program/' | relative_url }}) — identity, doctrine, scope, status, and inspection-observatory rationale.
 - [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}) — the short public doctrine behind the canonical v4 statement.
 - [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }}) — why the site asks first for structured inspection.
-- [Agenda]({{ '/program/research-agenda/' | relative_url }}) — obligations, problem ledgers, recovery requirements, and construction roadmap.
+- [Agenda]({{ '/agenda/' | relative_url }}) — obligations, problem ledgers, recovery requirements, and construction roadmap.
 - [Corpus]({{ '/corpus/' | relative_url }}) — central research artifact and registry projection.
 - [Results]({{ '/results/' | relative_url }}) — typed answer surfaces and world readouts.
 - [Verify]({{ '/verify/' | relative_url }}) — formalization, falsification, and assessment protocols.

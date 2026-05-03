@@ -26,7 +26,7 @@ Unqualified Theorem Transfer
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R8](/program/research-agenda/recovery-requirements/mathematics/refusals/unqualified-theorem-transfer/)
+- Program ledger item: [MREF-R8](/agenda/recovery-requirements/mathematics/refusals/unqualified-theorem-transfer/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

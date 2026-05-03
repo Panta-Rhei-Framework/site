@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "The emergence and evolution of intelligence"
-permalink: "/program/research-agenda/problem-ledger/life/the-emergence-and-evolution-of-intelligence/"
+permalink: "/agenda/problem-ledger/life/the-emergence-and-evolution-of-intelligence/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -238,7 +238,7 @@ tags:
   - "the-emergence-and-evolution-of-intelligence"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/the-emergence-and-evolution-of-intelligence/"
+url: "/agenda/problem-ledger/life/the-emergence-and-evolution-of-intelligence/"
 results_mirror:
   exists: false
   result_id: ""

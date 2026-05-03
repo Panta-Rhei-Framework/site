@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Decline in average human body temperature since the 19th century"
-permalink: "/program/research-agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/"
+permalink: "/agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "decline-in-average-human-body-temperature-since-the-19th-century"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/"
+url: "/agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 How is life related to mind, machines, and culture?
 
-- Program Problem Ledger item: [life-biology-how-is-life-related-to-mind-machines-and-culture](/program/research-agenda/problem-ledger/life/how-is-life-related-to-mind-machines-and-culture/)
+- Program Problem Ledger item: [life-biology-how-is-life-related-to-mind-machines-and-culture](/agenda/problem-ledger/life/how-is-life-related-to-mind-machines-and-culture/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-how-is-life-related-to-mind-machines-and-culture.md`
 

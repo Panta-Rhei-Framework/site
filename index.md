@@ -49,7 +49,7 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
       <h3>Program</h3>
       <p>Identity, doctrine, scope, status, founders, scrutiny posture, and why the program is built as an inspection observatory.</p>
     </a>
-    <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
+    <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
       <h3>Agenda</h3>
       <p>Obligations: what must be asked, recovered, built, refused, answered, and left open.</p>
     </a>

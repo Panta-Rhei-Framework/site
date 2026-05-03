@@ -22,7 +22,7 @@ do_not_edit: true
 
 Do they exist in nature?
 
-- Program Problem Ledger item: [phys-glueballs](/program/research-agenda/problem-ledger/physics/glueballs/)
+- Program Problem Ledger item: [phys-glueballs](/agenda/problem-ledger/physics/glueballs/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-glueballs.md`
 

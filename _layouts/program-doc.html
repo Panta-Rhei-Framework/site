@@ -6,7 +6,7 @@ layout: default
 
 <div class="hero-card">
   {% assign hero_lane_label = page.v2_lane | default: page.lane | default: "Page" | replace: "-", " " | capitalize %}
-  {% if page.url contains "/program/research-agenda/" %}{% assign hero_lane_label = "Agenda" %}{% endif %}
+  {% if page.url contains "/agenda/" %}{% assign hero_lane_label = "Agenda" %}{% endif %}
   {% assign hero_type_label = page.type %}
   {% if hero_type_label %}
     {% assign hero_type_words = hero_type_label | split: " " %}

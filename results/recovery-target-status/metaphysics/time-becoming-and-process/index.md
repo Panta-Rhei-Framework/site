@@ -26,7 +26,7 @@ Time, Becoming, and Process
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R6](/program/research-agenda/recovery-requirements/metaphysics/time-becoming-and-process/)
+- Program ledger item: [METH-R6](/agenda/recovery-requirements/metaphysics/time-becoming-and-process/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

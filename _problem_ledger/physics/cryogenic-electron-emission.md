@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cryogenic electron emission"
-permalink: "/program/research-agenda/problem-ledger/physics/cryogenic-electron-emission/"
+permalink: "/agenda/problem-ledger/physics/cryogenic-electron-emission/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "cryogenic-electron-emission"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/cryogenic-electron-emission/"
+url: "/agenda/problem-ledger/physics/cryogenic-electron-emission/"
 results_mirror:
   exists: false
   result_id: ""

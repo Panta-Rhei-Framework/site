@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is the experimentally measured value of the muon's anomalous magnetic dipole moment ("muon ") significantly different from the theoretically predicted value of that physical constant?
 
-- Program Problem Ledger item: [phys-anomalous-magnetic-dipole-moment](/program/research-agenda/problem-ledger/physics/anomalous-magnetic-dipole-moment/)
+- Program Problem Ledger item: [phys-anomalous-magnetic-dipole-moment](/agenda/problem-ledger/physics/anomalous-magnetic-dipole-moment/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-anomalous-magnetic-dipole-moment.md`
 

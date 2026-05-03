@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "The injection problem"
-permalink: "/program/research-agenda/problem-ledger/physics/the-injection-problem/"
+permalink: "/agenda/problem-ledger/physics/the-injection-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "the-injection-problem"
   - "plasma-physics"
-url: "/program/research-agenda/problem-ledger/physics/the-injection-problem/"
+url: "/agenda/problem-ledger/physics/the-injection-problem/"
 results_mirror:
   exists: false
   result_id: ""

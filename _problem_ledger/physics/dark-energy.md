@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Dark energy"
-permalink: "/program/research-agenda/problem-ledger/physics/dark-energy/"
+permalink: "/agenda/problem-ledger/physics/dark-energy/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-physics"
   - "dark-energy"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/dark-energy/"
+url: "/agenda/problem-ledger/physics/dark-energy/"
 results_mirror:
   exists: false
   result_id: ""

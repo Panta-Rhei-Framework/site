@@ -22,7 +22,7 @@ do_not_edit: true
 
 Given an arbitrary compact gauge group, does a non-trivial quantum Yang–Mills theory with a finite mass gap exist? (This problem is also listed as one of the Millennium Prize Problems in mathematics.)
 
-- Program Problem Ledger item: [phys-yangmills-theory](/program/research-agenda/problem-ledger/physics/yangmills-theory/)
+- Program Problem Ledger item: [phys-yangmills-theory](/agenda/problem-ledger/physics/yangmills-theory/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-yangmills-theory.md`
 

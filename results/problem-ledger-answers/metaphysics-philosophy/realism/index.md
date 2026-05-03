@@ -22,7 +22,7 @@ do_not_edit: true
 
 Does a world independent of human beliefs and representations exist? Is such a world empirically accessible, or would such a world be forever beyond the bounds of human sense and hence unknowable? Can human activity and agency change the objective structure of the world? These questions continue to receive much attention in the philosophy of science. A clear "yes" to the first question is a hallmark of the scientific realism perspective. Philosophers such as Bas van Fraassen have important and interesting answers to the second question. In addition to the realism vs. empiricism axis of debate, there is a realism vs. social constructivism axis which heats many academic passions. With respect to the third question, Paul Boghossian's Fear of Knowledge: Against Relativism and Constructivism is a powerful critique of social constructivism, for instance. Ian Hacking's The Social Construction of What? constitutes a more moderate critique of constructivism, which usefully disambiguates confusing polysemy of the term "constructivism."
 
-- Program Problem Ledger item: [meta-realism](/program/research-agenda/problem-ledger/metaphysics-philosophy/realism/)
+- Program Problem Ledger item: [meta-realism](/agenda/problem-ledger/metaphysics-philosophy/realism/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-realism.md`
 

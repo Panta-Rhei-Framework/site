@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Relation, Dependence, and Grounding"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/relation-dependence-and-grounding/"
+permalink: "/agenda/recovery-requirements/metaphysics/relation-dependence-and-grounding/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r3"
-url: "/program/research-agenda/recovery-requirements/metaphysics/relation-dependence-and-grounding/"
+url: "/agenda/recovery-requirements/metaphysics/relation-dependence-and-grounding/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Gauge block wringing"
-permalink: "/program/research-agenda/problem-ledger/physics/gauge-block-wringing/"
+permalink: "/agenda/problem-ledger/physics/gauge-block-wringing/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "gauge-block-wringing"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/gauge-block-wringing/"
+url: "/agenda/problem-ledger/physics/gauge-block-wringing/"
 results_mirror:
   exists: false
   result_id: ""

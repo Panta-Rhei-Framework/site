@@ -22,7 +22,7 @@ do_not_edit: true
 
 A complete explanation about its origins is still lacking
 
-- Program Problem Ledger item: [life-biology-star-jelly](/program/research-agenda/problem-ledger/life/star-jelly/)
+- Program Problem Ledger item: [life-biology-star-jelly](/agenda/problem-ledger/life/star-jelly/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-star-jelly.md`
 

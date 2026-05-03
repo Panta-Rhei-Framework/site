@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What is the mechanism of allosteric transitions of proteins?"
-permalink: "/program/research-agenda/problem-ledger/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/"
+permalink: "/agenda/problem-ledger/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "what-is-the-mechanism-of-allosteric-transitions-of-proteins"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/"
+url: "/agenda/problem-ledger/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/"
 results_mirror:
   exists: false
   result_id: ""

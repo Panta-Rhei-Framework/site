@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is God like? Philosophers like John Stuart Mill and Aquinas addressed the question of what the nature of God is if God exists. Some of the key disagreements concern the doctrine of impassibility and the coherency of a maximally great being or properties like omnipotence
 
-- Program Problem Ledger item: [meta-nature-of-god](/program/research-agenda/problem-ledger/metaphysics-philosophy/nature-of-god/)
+- Program Problem Ledger item: [meta-nature-of-god](/agenda/problem-ledger/metaphysics-philosophy/nature-of-god/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-nature-of-god.md`
 

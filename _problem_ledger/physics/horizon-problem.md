@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Horizon problem"
-permalink: "/program/research-agenda/problem-ledger/physics/horizon-problem/"
+permalink: "/agenda/problem-ledger/physics/horizon-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "horizon-problem"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/horizon-problem/"
+url: "/agenda/problem-ledger/physics/horizon-problem/"
 results_mirror:
   exists: false
   result_id: ""

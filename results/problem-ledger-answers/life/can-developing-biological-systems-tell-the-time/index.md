@@ -22,7 +22,7 @@ do_not_edit: true
 
 To an extent, this appears to be the case, as shown by the CLOCK gene
 
-- Program Problem Ledger item: [life-biology-can-developing-biological-systems-tell-the-time](/program/research-agenda/problem-ledger/life/can-developing-biological-systems-tell-the-time/)
+- Program Problem Ledger item: [life-biology-can-developing-biological-systems-tell-the-time](/agenda/problem-ledger/life/can-developing-biological-systems-tell-the-time/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-can-developing-biological-systems-tell-the-time.md`
 

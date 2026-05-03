@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Star jelly"
-permalink: "/program/research-agenda/problem-ledger/life/star-jelly/"
+permalink: "/agenda/problem-ledger/life/star-jelly/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "star-jelly"
   - "general-biology"
   - "other"
-url: "/program/research-agenda/problem-ledger/life/star-jelly/"
+url: "/agenda/problem-ledger/life/star-jelly/"
 results_mirror:
   exists: false
   result_id: ""

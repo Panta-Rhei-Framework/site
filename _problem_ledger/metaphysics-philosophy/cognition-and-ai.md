@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cognition and AI"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/cognition-and-ai/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/cognition-and-ai/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -224,7 +224,7 @@ tags:
   - "wikipedia-philosophy"
   - "cognition-and-ai"
   - "philosophy-of-mind"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/cognition-and-ai/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/cognition-and-ai/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why do these simple unsegmented annelids, which are unselective deposit feeders and lack sense organs, have a relatively complex brain?
 
-- Program Problem Ledger item: [life-biology-nervous-system-of-lobatocerebrida](/program/research-agenda/problem-ledger/life/nervous-system-of-lobatocerebrida/)
+- Program Problem Ledger item: [life-biology-nervous-system-of-lobatocerebrida](/agenda/problem-ledger/life/nervous-system-of-lobatocerebrida/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-nervous-system-of-lobatocerebrida.md`
 

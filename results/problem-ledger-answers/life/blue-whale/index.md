@@ -22,7 +22,7 @@ do_not_edit: true
 
 There is not much data on the sexuality of the blue whale
 
-- Program Problem Ledger item: [life-biology-blue-whale](/program/research-agenda/problem-ledger/life/blue-whale/)
+- Program Problem Ledger item: [life-biology-blue-whale](/agenda/problem-ledger/life/blue-whale/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-blue-whale.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "The cosmic censorship hypothesis and the chronology protection conjecture"
-permalink: "/program/research-agenda/problem-ledger/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/"
+permalink: "/agenda/problem-ledger/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -168,7 +168,7 @@ tags:
   - "wikipedia-physics"
   - "the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture"
   - "quantum-gravity"
-url: "/program/research-agenda/problem-ledger/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/"
+url: "/agenda/problem-ledger/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/"
 results_mirror:
   exists: false
   result_id: ""

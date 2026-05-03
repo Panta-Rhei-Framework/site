@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the endogenous ligands of orphan receptors?
 
-- Program Problem Ledger item: [life-biology-what-are-the-endogenous-ligands-of-orphan-receptors](/program/research-agenda/problem-ledger/life/what-are-the-endogenous-ligands-of-orphan-receptors/)
+- Program Problem Ledger item: [life-biology-what-are-the-endogenous-ligands-of-orphan-receptors](/agenda/problem-ledger/life/what-are-the-endogenous-ligands-of-orphan-receptors/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-are-the-endogenous-ligands-of-orphan-receptors.md`
 

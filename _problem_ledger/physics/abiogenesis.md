@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Abiogenesis"
-permalink: "/program/research-agenda/problem-ledger/physics/abiogenesis/"
+permalink: "/agenda/problem-ledger/physics/abiogenesis/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "abiogenesis"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/abiogenesis/"
+url: "/agenda/problem-ledger/physics/abiogenesis/"
 results_mirror:
   exists: false
   result_id: ""

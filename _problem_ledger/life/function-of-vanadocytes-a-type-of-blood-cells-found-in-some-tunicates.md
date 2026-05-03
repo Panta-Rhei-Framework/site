@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Function of vanadocytes, a type of blood cells found in some tunicates"
-permalink: "/program/research-agenda/problem-ledger/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/"
+permalink: "/agenda/problem-ledger/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -147,7 +147,7 @@ tags:
   - "function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/"
+url: "/agenda/problem-ledger/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/"
 results_mirror:
   exists: false
   result_id: ""

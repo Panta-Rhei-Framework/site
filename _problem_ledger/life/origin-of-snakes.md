@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origin of snakes"
-permalink: "/program/research-agenda/problem-ledger/life/origin-of-snakes/"
+permalink: "/agenda/problem-ledger/life/origin-of-snakes/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "origin-of-snakes"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/origin-of-snakes/"
+url: "/agenda/problem-ledger/life/origin-of-snakes/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Large-scale anisotropy"
-permalink: "/program/research-agenda/problem-ledger/physics/large-scale-anisotropy/"
+permalink: "/agenda/problem-ledger/physics/large-scale-anisotropy/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "large-scale-anisotropy"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/large-scale-anisotropy/"
+url: "/agenda/problem-ledger/physics/large-scale-anisotropy/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Moral knowledge"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -96,7 +96,7 @@ tags:
   - "wikipedia-philosophy"
   - "moral-knowledge"
   - "ethics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/"
 results_mirror:
   exists: false
   result_id: ""

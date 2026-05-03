@@ -22,7 +22,7 @@ do_not_edit: true
 
 How flocks of birds and bats coordinate their movements so quickly is not fully understood. Nor is the purpose of large flocks like those of starlings which seem to invite predators rather than protect them
 
-- Program Problem Ledger item: [life-biology-flocking-behavior](/program/research-agenda/problem-ledger/life/flocking-behavior/)
+- Program Problem Ledger item: [life-biology-flocking-behavior](/agenda/problem-ledger/life/flocking-behavior/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-flocking-behavior.md`
 

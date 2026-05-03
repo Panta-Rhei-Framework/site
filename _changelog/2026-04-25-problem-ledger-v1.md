@@ -10,7 +10,7 @@ right_rail:
   toc: false
   related:
     - title: "Problem Ledger"
-      url: /program/research-agenda/problem-ledger/
+      url: /agenda/problem-ledger/
     - title: "Problem Ledger Answers"
       url: /results/problem-ledger-answers/
     - title: "Changelog"

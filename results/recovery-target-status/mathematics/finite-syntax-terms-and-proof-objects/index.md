@@ -26,7 +26,7 @@ Finite Syntax, Terms, and Proof Objects
 
 - Recovery status: **Partial**
 - Verification status: **Pending formal verification**
-- Program ledger item: [MREC-M1](/program/research-agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/)
+- Program ledger item: [MREC-M1](/agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/)
 - Verification mode: `foundational_recovery_target`
 
 ## Result Summary

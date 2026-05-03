@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Nervous system of Lobatocerebrida"
-permalink: "/program/research-agenda/problem-ledger/life/nervous-system-of-lobatocerebrida/"
+permalink: "/agenda/problem-ledger/life/nervous-system-of-lobatocerebrida/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -139,7 +139,7 @@ tags:
   - "nervous-system-of-lobatocerebrida"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/nervous-system-of-lobatocerebrida/"
+url: "/agenda/problem-ledger/life/nervous-system-of-lobatocerebrida/"
 results_mirror:
   exists: false
   result_id: ""

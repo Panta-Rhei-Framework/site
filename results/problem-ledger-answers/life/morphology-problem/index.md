@@ -22,7 +22,7 @@ do_not_edit: true
 
 How are neural tissues formed in specific ways in different species? The formation of neural tissues in a certain way is necessary for the formation of certain goal-directed behavior for certain species. Developmental psychobiology posed this question since the lack of knowledge about the precise coordination of all cells, even those not related anatomically, in space and time during the embryonic period does not allow us to understand what forces at the cellular level coordinate four very general classes of tissue deformation, namely: tissue folding and invagination, tissue flow and extension, tissue hollowing, and, finally, tissue branching
 
-- Program Problem Ledger item: [life-biology-morphology-problem](/program/research-agenda/problem-ledger/life/morphology-problem/)
+- Program Problem Ledger item: [life-biology-morphology-problem](/agenda/problem-ledger/life/morphology-problem/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-morphology-problem.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 This species of cnidarian was found to lack mitochondria and, therefore, is incapable of aerobic respiration
 
-- Program Problem Ledger item: [life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan](/program/research-agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/)
+- Program Problem Ledger item: [life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan](/agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan.md`
 

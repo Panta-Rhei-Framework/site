@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Neutron lifetime puzzle"
-permalink: "/program/research-agenda/problem-ledger/physics/neutron-lifetime-puzzle/"
+permalink: "/agenda/problem-ledger/physics/neutron-lifetime-puzzle/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "neutron-lifetime-puzzle"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/neutron-lifetime-puzzle/"
+url: "/agenda/problem-ledger/physics/neutron-lifetime-puzzle/"
 results_mirror:
   exists: false
   result_id: ""

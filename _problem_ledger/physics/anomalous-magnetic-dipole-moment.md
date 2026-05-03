@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Anomalous magnetic dipole moment"
-permalink: "/program/research-agenda/problem-ledger/physics/anomalous-magnetic-dipole-moment/"
+permalink: "/agenda/problem-ledger/physics/anomalous-magnetic-dipole-moment/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "anomalous-magnetic-dipole-moment"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/anomalous-magnetic-dipole-moment/"
+url: "/agenda/problem-ledger/physics/anomalous-magnetic-dipole-moment/"
 results_mirror:
   exists: false
   result_id: ""

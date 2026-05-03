@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Brightly colored bird eggs"
-permalink: "/program/research-agenda/problem-ledger/life/brightly-colored-bird-eggs/"
+permalink: "/agenda/problem-ledger/life/brightly-colored-bird-eggs/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -99,7 +99,7 @@ tags:
   - "brightly-colored-bird-eggs"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/brightly-colored-bird-eggs/"
+url: "/agenda/problem-ledger/life/brightly-colored-bird-eggs/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Snowball Earth"
-permalink: "/program/research-agenda/problem-ledger/life/snowball-earth/"
+permalink: "/agenda/problem-ledger/life/snowball-earth/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "snowball-earth"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/snowball-earth/"
+url: "/agenda/problem-ledger/life/snowball-earth/"
 results_mirror:
   exists: false
   result_id: ""

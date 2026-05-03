@@ -26,7 +26,7 @@ Physical recovery begins with typed quantities: time, length, energy, charge, te
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P0](/program/research-agenda/recovery-requirements/physics/physical-quantity-types/)
+- Program ledger item: [PREC-P0](/agenda/recovery-requirements/physics/physical-quantity-types/)
 - Verification mode: `quantity_type_recovery`
 
 ## Result Summary

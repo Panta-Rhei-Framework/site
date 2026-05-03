@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Generations of matter"
-permalink: "/program/research-agenda/problem-ledger/physics/generations-of-matter/"
+permalink: "/agenda/problem-ledger/physics/generations-of-matter/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "generations-of-matter"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/generations-of-matter/"
+url: "/agenda/problem-ledger/physics/generations-of-matter/"
 results_mirror:
   exists: false
   result_id: ""

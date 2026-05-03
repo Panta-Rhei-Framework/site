@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why does the zero-point energy of the vacuum not cause a large cosmological constant? What cancels it out?
 
-- Program Problem Ledger item: [phys-cosmological-constant-problem](/program/research-agenda/problem-ledger/physics/cosmological-constant-problem/)
+- Program Problem Ledger item: [phys-cosmological-constant-problem](/agenda/problem-ledger/physics/cosmological-constant-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-cosmological-constant-problem.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Enzyme kinetics"
-permalink: "/program/research-agenda/problem-ledger/life/enzyme-kinetics/"
+permalink: "/agenda/problem-ledger/life/enzyme-kinetics/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "enzyme-kinetics"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/enzyme-kinetics/"
+url: "/agenda/problem-ledger/life/enzyme-kinetics/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Demarcation problem"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/demarcation-problem/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/demarcation-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -129,7 +129,7 @@ tags:
   - "wikipedia-philosophy"
   - "demarcation-problem"
   - "philosophy-of-science"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/demarcation-problem/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/demarcation-problem/"
 results_mirror:
   exists: false
   result_id: ""

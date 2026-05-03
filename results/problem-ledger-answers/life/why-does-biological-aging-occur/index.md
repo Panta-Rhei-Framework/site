@@ -22,7 +22,7 @@ do_not_edit: true
 
 There are a number of hypotheses as to why senescence occurs including those that it is programmed by gene expression changes and that it is the accumulative damage of biological structures, particularly damage to DNA
 
-- Program Problem Ledger item: [life-biology-why-does-biological-aging-occur](/program/research-agenda/problem-ledger/life/why-does-biological-aging-occur/)
+- Program Problem Ledger item: [life-biology-why-does-biological-aging-occur](/agenda/problem-ledger/life/why-does-biological-aging-occur/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-why-does-biological-aging-occur.md`
 

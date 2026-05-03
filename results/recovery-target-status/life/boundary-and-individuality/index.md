@@ -26,7 +26,7 @@ Boundary and Individuality
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L1](/program/research-agenda/recovery-requirements/life/boundary-and-individuality/)
+- Program ledger item: [LREC-L1](/agenda/recovery-requirements/life/boundary-and-individuality/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

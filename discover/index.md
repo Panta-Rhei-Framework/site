@@ -121,7 +121,7 @@ Publications remains the stable artifact and release layer: Research Monographs,
 
 <div class="v2-system-strip" aria-label="Panta Rhei site lanes">
   <a class="v2-system-node" href="{{ '/program/' | relative_url }}"><strong>Program</strong>Identity</a>
-  <a class="v2-system-node" href="{{ '/program/research-agenda/' | relative_url }}"><strong>Agenda</strong>Obligations</a>
+  <a class="v2-system-node" href="{{ '/agenda/' | relative_url }}"><strong>Agenda</strong>Obligations</a>
   <a class="v2-system-node" href="{{ '/corpus/' | relative_url }}"><strong>Corpus</strong>Construction</a>
   <a class="v2-system-node" href="{{ '/results/' | relative_url }}"><strong>Results</strong>Consequences</a>
   <a class="v2-system-node" href="{{ '/verify/' | relative_url }}"><strong>Verify</strong>Inspection</a>
@@ -139,7 +139,7 @@ Publications remains the stable artifact and release layer: Research Monographs,
 - [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) for the Package 3 white paper.
 - [Key Results]({{ '/discover/key-results/' | relative_url }}) for a curated first set of claims.
 - [How the System Works]({{ '/discover/how-the-system-works/' | relative_url }}) for the architecture.
-- [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for the logical build-order.
+- [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }}) for the logical build-order.
 - [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) for the build narrative.
 - [Landmark Results]({{ '/results/landmark-results/' | relative_url }}) for the high-signal Results surface.
 - [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) for the current public status mirror.

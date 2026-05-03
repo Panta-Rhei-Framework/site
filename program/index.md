@@ -30,7 +30,7 @@ hero_ctas:
   - label: "Related Approaches"
     url: /program/about/related-approaches/
   - label: "Agenda"
-    url: /program/research-agenda/
+    url: /agenda/
   - label: "Red-team FAQ"
     url: /program/about/red-team-faq/
 right_rail:
@@ -44,7 +44,7 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Agenda"
-      url: /program/research-agenda/
+      url: /agenda/
     - title: "Scope, Status & Scrutiny"
       url: /program/about/scope-status-and-scrutiny/
   meta:
@@ -66,7 +66,7 @@ Agenda states the obligations. Corpus shows the construction. Results presents c
 <div class="v2-system-strip" aria-label="Program model">
   <a href="{{ '/program/about/' | relative_url }}">Identity</a>
   <span>-></span>
-  <a href="{{ '/program/research-agenda/' | relative_url }}">Agenda</a>
+  <a href="{{ '/agenda/' | relative_url }}">Agenda</a>
   <span>-></span>
   <a href="{{ '/corpus/' | relative_url }}">Corpus</a>
   <span>-></span>
@@ -104,7 +104,7 @@ Panta Rhei is currently:
 
 - **[About the Program]({{ '/program/about/' | relative_url }})** gives the identity, stewardship, current public status, founders' statement, and scrutiny posture of the research object.
 - **[Related Approaches]({{ '/program/about/related-approaches/' | relative_url }})** positions the program among serious neighboring approaches without turning comparison into a takedown or priority claim.
-- **[Agenda]({{ '/program/research-agenda/' | relative_url }})** states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
+- **[Agenda]({{ '/agenda/' | relative_url }})** states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
 - **[Corpus]({{ '/corpus/' | relative_url }})** shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.
 - **[Results]({{ '/results/' | relative_url }})** reports current program stances, landmark results, world readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
 - **[Verify]({{ '/verify/' | relative_url }})** explains how obligations, construction steps, and results can be checked, challenged, formalized, bridged, or falsified.

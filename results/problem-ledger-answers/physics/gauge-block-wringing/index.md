@@ -22,7 +22,7 @@ do_not_edit: true
 
 What mechanism allows gauge blocks to be wrung together?
 
-- Program Problem Ledger item: [phys-gauge-block-wringing](/program/research-agenda/problem-ledger/physics/gauge-block-wringing/)
+- Program Problem Ledger item: [phys-gauge-block-wringing](/agenda/problem-ledger/physics/gauge-block-wringing/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-gauge-block-wringing.md`
 

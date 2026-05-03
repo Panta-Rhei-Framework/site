@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Extinction of archaic humans"
-permalink: "/program/research-agenda/problem-ledger/life/extinction-of-archaic-humans/"
+permalink: "/agenda/problem-ledger/life/extinction-of-archaic-humans/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-biology"
   - "extinction-of-archaic-humans"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/extinction-of-archaic-humans/"
+url: "/agenda/problem-ledger/life/extinction-of-archaic-humans/"
 results_mirror:
   exists: false
   result_id: ""

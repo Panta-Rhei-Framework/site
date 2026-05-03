@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the 3-manifold of comoving space, i.e., of a comoving spatial section of the universe, informally called the "shape" of the universe? Neither the curvature nor the topology is presently known, though the curvature is known to be "close" to zero on observable scales. Is the shape unmeasurable; the Poincaré space; or another 3-manifold?
 
-- Program Problem Ledger item: [phys-shape-of-the-universe](/program/research-agenda/problem-ledger/physics/shape-of-the-universe/)
+- Program Problem Ledger item: [phys-shape-of-the-universe](/agenda/problem-ledger/physics/shape-of-the-universe/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-shape-of-the-universe.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can we prove that some cryptographic protocols are safe against quantum computers?
 
-- Program Problem Ledger item: [phys-post-quantum-cryptography](/program/research-agenda/problem-ledger/physics/post-quantum-cryptography/)
+- Program Problem Ledger item: [phys-post-quantum-cryptography](/agenda/problem-ledger/physics/post-quantum-cryptography/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-post-quantum-cryptography.md`
 

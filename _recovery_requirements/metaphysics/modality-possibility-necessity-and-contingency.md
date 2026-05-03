@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Modality: Possibility, Necessity, and Contingency"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/"
+permalink: "/agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r5"
-url: "/program/research-agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/"
+url: "/agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

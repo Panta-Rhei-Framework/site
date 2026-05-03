@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Value, Normativity, and Ethics"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/"
+permalink: "/agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r10"
-url: "/program/research-agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/"
+url: "/agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

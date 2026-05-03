@@ -47,7 +47,7 @@ Before asking whether a specific result is true, a reviewer can ask whether the 
 ## The Five Checks
 
 <div class="v2-grid v2-grid-2">
-  <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <h3>Agenda accountability</h3>
     <p>Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap name the obligations before results are defended.</p>
   </a>

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Most valuable player problem"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/most-valuable-player-problem/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/most-valuable-player-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-philosophy"
   - "most-valuable-player-problem"
   - "philosophy-of-sport"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/most-valuable-player-problem/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/most-valuable-player-problem/"
 results_mirror:
   exists: false
   result_id: ""

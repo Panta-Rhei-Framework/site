@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is responsible for the numerous interstellar absorption lines detected in astronomical spectra? Are they molecular in origin, and if so which molecules are responsible for them? How do they form?
 
-- Program Problem Ledger item: [phys-diffuse-interstellar-bands](/program/research-agenda/problem-ledger/physics/diffuse-interstellar-bands/)
+- Program Problem Ledger item: [phys-diffuse-interstellar-bands](/agenda/problem-ledger/physics/diffuse-interstellar-bands/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-diffuse-interstellar-bands.md`
 

@@ -13,7 +13,7 @@ right_rail:
   - title: Independence, Scope & Scrutiny
     url: /program/about/independence-scope-and-scrutiny/
   - title: What the Program Refuses
-    url: /program/research-agenda/what-the-program-refuses/
+    url: /agenda/what-the-program-refuses/
   - title: Release Manifest
     url: /verify/release-manifest/
   - title: Prediction Timing Ledger
@@ -121,8 +121,8 @@ A reader who finds an answer insufficient is exactly the reader this FAQ is writ
 ## Cross-links
 
 - [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) — the program's own methodological self-description
-- [What the Program Refuses]({{ '/program/research-agenda/what-the-program-refuses/' | relative_url }}) — explicit boundaries
-- [Prior-Art Comparisons]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — honest comparisons against Fueter, Hilbert-Pólya, Furey/octonionic, autopoiesis/IIT/FEP, and MOND/Verlinde
+- [What the Program Refuses]({{ '/agenda/what-the-program-refuses/' | relative_url }}) — explicit boundaries
+- [Prior-Art Comparisons]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — honest comparisons against Fueter, Hilbert-Pólya, Furey/octonionic, autopoiesis/IIT/FEP, and MOND/Verlinde
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit, build status, axiom inventory, drift reconciliation
 - [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}) — a-priori vs post-diction breakdown for the {% include release-metric.html id="predictions.records" %} predictions
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} named experimental tests

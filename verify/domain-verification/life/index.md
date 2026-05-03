@@ -16,7 +16,7 @@ right_rail:
     - title: "Life Results"
       url: /results/life/
     - title: "Life Recovery Requirements"
-      url: /program/research-agenda/recovery-requirements/life/
+      url: /agenda/recovery-requirements/life/
     - title: "Origin of Life Problem Answer"
       url: /results/problem-ledger-answers/life/origin-of-life/
     - title: "Assessment Protocols"
@@ -91,7 +91,7 @@ glossary_term_ids:
     <h3>Life Glossary</h3>
     <p>78 sealed entries · biomarker correlates · 5 K_χ branches.</p>
   </a>
-  <a class="v2-tile v2-tile-life" href="{{ '/program/research-agenda/recovery-requirements/life/' | relative_url }}">
+  <a class="v2-tile v2-tile-life" href="{{ '/agenda/recovery-requirements/life/' | relative_url }}">
     <span class="eyebrow">Recovery</span>
     <h3>Life Recovery Requirements</h3>
     <p>Known biological structures the kernel must rederive (recovery targets + status).</p>

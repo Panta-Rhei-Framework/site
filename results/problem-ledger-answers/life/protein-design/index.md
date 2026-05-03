@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is it possible to design highly active enzymes de novo for any desired reaction?
 
-- Program Problem Ledger item: [life-biology-protein-design](/program/research-agenda/problem-ledger/life/protein-design/)
+- Program Problem Ledger item: [life-biology-protein-design](/agenda/problem-ledger/life/protein-design/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-protein-design.md`
 

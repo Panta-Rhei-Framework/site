@@ -58,7 +58,7 @@ relations:
       url: /verify/taulib/
   recovery:
     - title: "Mathematics Recovery Requirements"
-      url: /program/research-agenda/recovery-requirements/mathematics/
+      url: /agenda/recovery-requirements/mathematics/
   publications:
     - title: "Books"
       url: /publications/books/

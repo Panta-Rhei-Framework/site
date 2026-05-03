@@ -22,7 +22,7 @@ do_not_edit: true
 
 How do the descendants of monarch butterfly all over Canada and the US eventually, after migrating for several generations, manage to return to a few relatively small overwintering spots?
 
-- Program Problem Ledger item: [life-biology-butterfly-migration](/program/research-agenda/problem-ledger/life/butterfly-migration/)
+- Program Problem Ledger item: [life-biology-butterfly-migration](/agenda/problem-ledger/life/butterfly-migration/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-butterfly-migration.md`
 

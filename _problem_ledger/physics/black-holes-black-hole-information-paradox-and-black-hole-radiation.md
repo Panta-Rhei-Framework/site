@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Black holes, black hole information paradox, and black hole radiation"
-permalink: "/program/research-agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/"
+permalink: "/agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-physics"
   - "black-holes-black-hole-information-paradox-and-black-hole-radiation"
   - "quantum-gravity"
-url: "/program/research-agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/"
+url: "/agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/"
 results_mirror:
   exists: false
   result_id: ""

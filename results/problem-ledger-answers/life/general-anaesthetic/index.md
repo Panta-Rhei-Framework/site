@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the mechanism by which general anesthetics work?
 
-- Program Problem Ledger item: [life-biology-general-anaesthetic](/program/research-agenda/problem-ledger/life/general-anaesthetic/)
+- Program Problem Ledger item: [life-biology-general-anaesthetic](/agenda/problem-ledger/life/general-anaesthetic/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-general-anaesthetic.md`
 

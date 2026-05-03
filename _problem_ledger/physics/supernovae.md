@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Supernovae"
-permalink: "/program/research-agenda/problem-ledger/physics/supernovae/"
+permalink: "/agenda/problem-ledger/physics/supernovae/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "supernovae"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/supernovae/"
+url: "/agenda/problem-ledger/physics/supernovae/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Darwin's abominable mystery of botany/plants"
-permalink: "/program/research-agenda/problem-ledger/life/darwin-s-abominable-mystery-of-botany-plants/"
+permalink: "/agenda/problem-ledger/life/darwin-s-abominable-mystery-of-botany-plants/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -131,7 +131,7 @@ tags:
   - "darwin-s-abominable-mystery-of-botany-plants"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/darwin-s-abominable-mystery-of-botany-plants/"
+url: "/agenda/problem-ledger/life/darwin-s-abominable-mystery-of-botany-plants/"
 results_mirror:
   exists: false
   result_id: ""

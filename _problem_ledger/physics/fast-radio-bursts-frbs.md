@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Fast radio bursts (FRBs)"
-permalink: "/program/research-agenda/problem-ledger/physics/fast-radio-bursts-frbs/"
+permalink: "/agenda/problem-ledger/physics/fast-radio-bursts-frbs/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "fast-radio-bursts-frbs"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/fast-radio-bursts-frbs/"
+url: "/agenda/problem-ledger/physics/fast-radio-bursts-frbs/"
 results_mirror:
   exists: false
   result_id: ""

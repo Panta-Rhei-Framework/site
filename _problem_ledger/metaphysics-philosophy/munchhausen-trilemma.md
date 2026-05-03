@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Münchhausen trilemma"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/munchhausen-trilemma/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/munchhausen-trilemma/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -160,7 +160,7 @@ tags:
   - "wikipedia-philosophy"
   - "munchhausen-trilemma"
   - "epistemology"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/munchhausen-trilemma/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/munchhausen-trilemma/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 A satisfactory explanation for the neurobiological mechanisms that allow homing in animals has yet to be found
 
-- Program Problem Ledger item: [life-biology-homing](/program/research-agenda/problem-ledger/life/homing/)
+- Program Problem Ledger item: [life-biology-homing](/agenda/problem-ledger/life/homing/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-homing.md`
 

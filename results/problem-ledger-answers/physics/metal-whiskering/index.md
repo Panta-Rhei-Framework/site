@@ -22,7 +22,7 @@ do_not_edit: true
 
 In electrical devices, some metallic surfaces may spontaneously grow fine metallic whiskers, which can lead to equipment failures. While compressive mechanical stress is known to encourage whisker formation, the growth mechanism has yet to be determined
 
-- Program Problem Ledger item: [phys-metal-whiskering](/program/research-agenda/problem-ledger/physics/metal-whiskering/)
+- Program Problem Ledger item: [phys-metal-whiskering](/agenda/problem-ledger/physics/metal-whiskering/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-metal-whiskering.md`
 

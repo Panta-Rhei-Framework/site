@@ -22,7 +22,7 @@ do_not_edit: true
 
 why is the small dimensionless ratio of the phonon wavelength to its mean free path nearly the same for a very large family of disordered solids? This small ratio is observed for very large range of phonon frequencies
 
-- Program Problem Ledger item: [phys-universality-of-low-temperature-amorphous-solids](/program/research-agenda/problem-ledger/physics/universality-of-low-temperature-amorphous-solids/)
+- Program Problem Ledger item: [phys-universality-of-low-temperature-amorphous-solids](/agenda/problem-ledger/physics/universality-of-low-temperature-amorphous-solids/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-universality-of-low-temperature-amorphous-solids.md`
 

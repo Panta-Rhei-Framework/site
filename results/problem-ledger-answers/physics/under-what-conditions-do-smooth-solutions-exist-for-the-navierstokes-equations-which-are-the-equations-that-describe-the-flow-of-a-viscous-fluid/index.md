@@ -22,7 +22,7 @@ do_not_edit: true
 
 This problem, for an incompressible fluid in three dimensions, is also one of the Millennium Prize Problems in mathematics
 
-- Program Problem Ledger item: [phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid](/program/research-agenda/problem-ledger/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/)
+- Program Problem Ledger item: [phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid](/agenda/problem-ledger/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid.md`
 

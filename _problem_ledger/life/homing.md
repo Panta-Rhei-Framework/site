@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Homing"
-permalink: "/program/research-agenda/problem-ledger/life/homing/"
+permalink: "/agenda/problem-ledger/life/homing/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "homing"
   - "non-human-biology"
   - "ethology"
-url: "/program/research-agenda/problem-ledger/life/homing/"
+url: "/agenda/problem-ledger/life/homing/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is there a discrepancy between the amount of lithium-7 predicted to be produced in Big Bang nucleosynthesis and the amount observed in very old stars?
 
-- Program Problem Ledger item: [phys-the-lithium-problem](/program/research-agenda/problem-ledger/physics/the-lithium-problem/)
+- Program Problem Ledger item: [phys-the-lithium-problem](/agenda/problem-ledger/physics/the-lithium-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-the-lithium-problem.md`
 

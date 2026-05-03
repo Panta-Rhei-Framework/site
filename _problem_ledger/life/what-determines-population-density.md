@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What determines population density?"
-permalink: "/program/research-agenda/problem-ledger/life/what-determines-population-density/"
+permalink: "/agenda/problem-ledger/life/what-determines-population-density/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "what-determines-population-density"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/what-determines-population-density/"
+url: "/agenda/problem-ledger/life/what-determines-population-density/"
 results_mirror:
   exists: false
   result_id: ""

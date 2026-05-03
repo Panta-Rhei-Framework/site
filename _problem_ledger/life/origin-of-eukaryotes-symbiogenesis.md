@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origin of Eukaryotes (Symbiogenesis)"
-permalink: "/program/research-agenda/problem-ledger/life/origin-of-eukaryotes-symbiogenesis/"
+permalink: "/agenda/problem-ledger/life/origin-of-eukaryotes-symbiogenesis/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "origin-of-eukaryotes-symbiogenesis"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/origin-of-eukaryotes-symbiogenesis/"
+url: "/agenda/problem-ledger/life/origin-of-eukaryotes-symbiogenesis/"
 results_mirror:
   exists: false
   result_id: ""

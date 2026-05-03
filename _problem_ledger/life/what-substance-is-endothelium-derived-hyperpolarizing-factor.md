@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What substance is endothelium-derived hyperpolarizing factor?"
-permalink: "/program/research-agenda/problem-ledger/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/"
+permalink: "/agenda/problem-ledger/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "what-substance-is-endothelium-derived-hyperpolarizing-factor"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/"
+url: "/agenda/problem-ledger/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/"
 results_mirror:
   exists: false
   result_id: ""

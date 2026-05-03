@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Korarchaeota (archaea)"
-permalink: "/program/research-agenda/problem-ledger/life/korarchaeota-archaea/"
+permalink: "/agenda/problem-ledger/life/korarchaeota-archaea/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "korarchaeota-archaea"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/korarchaeota-archaea/"
+url: "/agenda/problem-ledger/life/korarchaeota-archaea/"
 results_mirror:
   exists: false
   result_id: ""

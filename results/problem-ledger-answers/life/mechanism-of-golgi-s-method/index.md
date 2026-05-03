@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why does this specific method stain nerve tissues? Why does it only color a random portion of the cells?
 
-- Program Problem Ledger item: [life-biology-mechanism-of-golgi-s-method](/program/research-agenda/problem-ledger/life/mechanism-of-golgi-s-method/)
+- Program Problem Ledger item: [life-biology-mechanism-of-golgi-s-method](/agenda/problem-ledger/life/mechanism-of-golgi-s-method/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-mechanism-of-golgi-s-method.md`
 

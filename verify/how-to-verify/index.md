@@ -14,7 +14,7 @@ og_image_alt: "Scientific plate showing the Verify lane as a verification matrix
 right_rail:
   related:
     - title: "Construction Roadmap"
-      url: /program/research-agenda/construction-roadmap/
+      url: /agenda/construction-roadmap/
     - title: "Corpus Construction Spine"
       url: /corpus/construction-spine/
     - title: "Verify the Construction Spine"
@@ -69,7 +69,7 @@ This route does not replace expert review. It orients bounded inspection.
 ## Choose Your Entry Route
 
 <div class="v2-grid">
-  <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <strong>Start from the Research Agenda</strong>
     <span>Check the Problem Ledger, Recovery Requirements, Kernel/Model/Reality burden, and Construction Roadmap.</span>
   </a>
@@ -119,8 +119,8 @@ This route does not replace expert review. It orients bounded inspection.
 
 ## Domain entry routes
 
-- **Mathematics** — [Core Semantics]({{ '/program/research-agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }}), [Foundational Hinges]({{ '/corpus/foundational-hinges/' | relative_url }}), [TauLib]({{ '/verify/taulib/' | relative_url }}), and [Mathematics results]({{ '/results/topic/mathematics/' | relative_url }}).
-- **Physics** — [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}), [Recovery Requirements: Physics]({{ '/program/research-agenda/recovery-requirements/physics/' | relative_url }}), [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}), and [Physics results]({{ '/results/topic/physics/' | relative_url }}).
-- **Life** — [Recovery Requirements: Life]({{ '/program/research-agenda/recovery-requirements/life/' | relative_url }}), [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}), and [Life-facing results]({{ '/results/topic/biology/' | relative_url }}).
-- **Metaphysics** — [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}), [Recovery Requirements: Metaphysics]({{ '/program/research-agenda/recovery-requirements/metaphysics/' | relative_url }}), [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}), and [Metaphysics / Philosophy-facing results]({{ '/results/topic/philosophy/' | relative_url }}).
+- **Mathematics** — [Core Semantics]({{ '/agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }}), [Foundational Hinges]({{ '/corpus/foundational-hinges/' | relative_url }}), [TauLib]({{ '/verify/taulib/' | relative_url }}), and [Mathematics results]({{ '/results/topic/mathematics/' | relative_url }}).
+- **Physics** — [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}), [Recovery Requirements: Physics]({{ '/agenda/recovery-requirements/physics/' | relative_url }}), [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}), and [Physics results]({{ '/results/topic/physics/' | relative_url }}).
+- **Life** — [Recovery Requirements: Life]({{ '/agenda/recovery-requirements/life/' | relative_url }}), [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}), and [Life-facing results]({{ '/results/topic/biology/' | relative_url }}).
+- **Metaphysics** — [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}), [Recovery Requirements: Metaphysics]({{ '/agenda/recovery-requirements/metaphysics/' | relative_url }}), [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}), and [Metaphysics / Philosophy-facing results]({{ '/results/topic/philosophy/' | relative_url }}).
 - **Formalization** — [TauLib]({{ '/verify/taulib/' | relative_url }}), [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}), and [Formal Verification Stack]({{ '/verify/formal-verification-stack/' | relative_url }}).

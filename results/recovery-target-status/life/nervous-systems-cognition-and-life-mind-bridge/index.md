@@ -26,7 +26,7 @@ Nervous Systems, Cognition, and Life-Mind Bridge
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L9](/program/research-agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/)
+- Program ledger item: [LREC-L9](/agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Liquid crystals"
-permalink: "/program/research-agenda/problem-ledger/physics/liquid-crystals/"
+permalink: "/agenda/problem-ledger/physics/liquid-crystals/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "liquid-crystals"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/liquid-crystals/"
+url: "/agenda/problem-ledger/physics/liquid-crystals/"
 results_mirror:
   exists: false
   result_id: ""

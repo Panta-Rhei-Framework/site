@@ -22,7 +22,7 @@ do_not_edit: true
 
 Riemann Hypothesis is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-riemann-hypothesis](/program/research-agenda/problem-ledger/mathematics/riemann-hypothesis/)
+- Program Problem Ledger item: [math-riemann-hypothesis](/agenda/problem-ledger/mathematics/riemann-hypothesis/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-riemann-hypothesis.md`
 

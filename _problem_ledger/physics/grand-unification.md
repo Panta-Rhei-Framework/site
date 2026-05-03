@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Grand Unification"
-permalink: "/program/research-agenda/problem-ledger/physics/grand-unification/"
+permalink: "/agenda/problem-ledger/physics/grand-unification/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "grand-unification"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/grand-unification/"
+url: "/agenda/problem-ledger/physics/grand-unification/"
 results_mirror:
   exists: false
   result_id: ""

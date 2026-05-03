@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Why Is There Something Rather Than Nothing?"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -197,8 +197,8 @@ related:
     - "METH-R11"
   construction_steps: []
   kernel_model_reality:
-    - "/program/research-agenda/kernel-model-reality/ontic-status-burden/"
-    - "/program/research-agenda/kernel-model-reality/no-externalities/"
+    - "/agenda/kernel-model-reality/ontic-status-burden/"
+    - "/agenda/kernel-model-reality/no-externalities/"
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
@@ -209,7 +209,7 @@ tags:
   - "ontology"
   - "philosophy"
   - "something-rather-than-nothing"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/"
 results_mirror:
   exists: true
   result_id: "result-219"

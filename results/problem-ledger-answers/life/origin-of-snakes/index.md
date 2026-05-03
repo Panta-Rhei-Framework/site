@@ -22,7 +22,7 @@ do_not_edit: true
 
 Did snakes evolve from burrowing lizards or aquatic lizards? There is evidence for both hypotheses
 
-- Program Problem Ledger item: [life-biology-origin-of-snakes](/program/research-agenda/problem-ledger/life/origin-of-snakes/)
+- Program Problem Ledger item: [life-biology-origin-of-snakes](/agenda/problem-ledger/life/origin-of-snakes/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-origin-of-snakes.md`
 

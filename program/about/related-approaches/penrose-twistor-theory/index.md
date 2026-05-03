@@ -27,7 +27,7 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Foundational Discipline"
-      url: /program/research-agenda/foundational-discipline/
+      url: /agenda/foundational-discipline/
     - title: "Identify Physical Carrier"
       url: /corpus/construction-spine/identify-physical-carrier/
     - title: "Bridge Verification"
@@ -60,7 +60,7 @@ The comparison point is therefore not whether complex projective geometry matter
 
 ## Where to inspect next
 
-- [Foundational Discipline]({{ '/program/research-agenda/foundational-discipline/' | relative_url }}) for the upstream restrictions.
+- [Foundational Discipline]({{ '/agenda/foundational-discipline/' | relative_url }}) for the upstream restrictions.
 - [Recover Core Mathematics]({{ '/corpus/construction-spine/recover-core-mathematics/' | relative_url }}) for mathematical construction.
 - [Identify Physical Carrier]({{ '/corpus/construction-spine/identify-physical-carrier/' | relative_url }}) for physical carrier semantics.
 - [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) for physics-facing consequences.

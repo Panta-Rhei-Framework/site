@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Moral luck"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-luck/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/moral-luck/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-philosophy"
   - "moral-luck"
   - "ethics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-luck/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/moral-luck/"
 results_mirror:
   exists: false
   result_id: ""

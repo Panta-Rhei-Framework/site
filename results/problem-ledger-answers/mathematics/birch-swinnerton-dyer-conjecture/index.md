@@ -22,7 +22,7 @@ do_not_edit: true
 
 Birch and Swinnerton-Dyer Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-birch-swinnerton-dyer-conjecture](/program/research-agenda/problem-ledger/mathematics/birch-swinnerton-dyer-conjecture/)
+- Program Problem Ledger item: [math-birch-swinnerton-dyer-conjecture](/agenda/problem-ledger/mathematics/birch-swinnerton-dyer-conjecture/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-birch-swinnerton-dyer-conjecture.md`
 

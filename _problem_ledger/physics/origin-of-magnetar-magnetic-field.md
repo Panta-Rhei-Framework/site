@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origin of magnetar magnetic field"
-permalink: "/program/research-agenda/problem-ledger/physics/origin-of-magnetar-magnetic-field/"
+permalink: "/agenda/problem-ledger/physics/origin-of-magnetar-magnetic-field/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "origin-of-magnetar-magnetic-field"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/origin-of-magnetar-magnetic-field/"
+url: "/agenda/problem-ledger/physics/origin-of-magnetar-magnetic-field/"
 results_mirror:
   exists: false
   result_id: ""

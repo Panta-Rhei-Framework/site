@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Metabolism in Henneguya zschokkei, a species of myxozoan"
-permalink: "/program/research-agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/"
+permalink: "/agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -147,7 +147,7 @@ tags:
   - "metabolism-in-henneguya-zschokkei-a-species-of-myxozoan"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/"
+url: "/agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/"
 results_mirror:
   exists: false
   result_id: ""

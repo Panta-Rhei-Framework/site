@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Life as a Recoverable Category"
-permalink: "/program/research-agenda/recovery-requirements/life/life-as-a-recoverable-category/"
+permalink: "/agenda/recovery-requirements/life/life-as-a-recoverable-category/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l0"
-url: "/program/research-agenda/recovery-requirements/life/life-as-a-recoverable-category/"
+url: "/agenda/recovery-requirements/life/life-as-a-recoverable-category/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

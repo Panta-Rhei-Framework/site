@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Natural / Internal Unit System"
-permalink: "/program/research-agenda/recovery-requirements/physics/natural-internal-unit-system/"
+permalink: "/agenda/recovery-requirements/physics/natural-internal-unit-system/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p2"
-url: "/program/research-agenda/recovery-requirements/physics/natural-internal-unit-system/"
+url: "/agenda/recovery-requirements/physics/natural-internal-unit-system/"
 verification:
   status: "pending_physics_verification"
   mode: "internal_unit_architecture"

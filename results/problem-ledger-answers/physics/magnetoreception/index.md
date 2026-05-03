@@ -22,7 +22,7 @@ do_not_edit: true
 
 How do animals (e.g. migratory birds) sense the Earth's magnetic field?
 
-- Program Problem Ledger item: [phys-magnetoreception](/program/research-agenda/problem-ledger/physics/magnetoreception/)
+- Program Problem Ledger item: [phys-magnetoreception](/agenda/problem-ledger/physics/magnetoreception/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-magnetoreception.md`
 

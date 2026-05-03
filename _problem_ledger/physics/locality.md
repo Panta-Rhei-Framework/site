@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Locality"
-permalink: "/program/research-agenda/problem-ledger/physics/locality/"
+permalink: "/agenda/problem-ledger/physics/locality/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "locality"
   - "foundations-of-physics"
-url: "/program/research-agenda/problem-ledger/physics/locality/"
+url: "/agenda/problem-ledger/physics/locality/"
 results_mirror:
   exists: false
   result_id: ""

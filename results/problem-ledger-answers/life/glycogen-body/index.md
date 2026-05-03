@@ -22,7 +22,7 @@ do_not_edit: true
 
 The function of this structure in the spinal cord of birds is not known
 
-- Program Problem Ledger item: [life-biology-glycogen-body](/program/research-agenda/problem-ledger/life/glycogen-body/)
+- Program Problem Ledger item: [life-biology-glycogen-body](/agenda/problem-ledger/life/glycogen-body/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-glycogen-body.md`
 
