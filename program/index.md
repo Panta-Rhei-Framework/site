@@ -86,7 +86,7 @@ Panta Rhei is currently:
 
 - an independent open research program;
 - a public canonical release;
-- organized through Program, Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces;
+- organized through the v4 public spine -- Discover, Program, Agenda, Corpus, Results, Verify, Impact, and Engage -- with Publications preserved as the stable artifact and release layer;
 - partially formalized through TauLib;
 - publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces;
 - open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email;

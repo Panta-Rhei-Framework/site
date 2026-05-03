@@ -122,6 +122,8 @@ for (const path of ["/publications/physics-ledger", "/publications/physics-ledge
 }
 
 for (const [path, target] of [
+  ["/agenda", "/program/research-agenda/"],
+  ["/agenda/", "/program/research-agenda/"],
   ["/publications/categorical-genesis", "/publications/monograph-supplements/categorical-genesis/"],
   ["/publications/categorical-genesis/", "/publications/monograph-supplements/categorical-genesis/"],
   ["/publications/companion-papers", "/publications/research-briefings/public-good/"],
@@ -157,4 +159,4 @@ assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/monograph-sup
 assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/books/book-i/"), null);
 assert.equal(edgeRedirectFor("https://panta-rhei.site/verify/taulib/docs/"), null);
 
-console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, 2 fetch-option assertions, 2 origin-request assertions, and 15 redirect cases passed`);
+console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, 2 fetch-option assertions, 2 origin-request assertions, and 17 redirect cases passed`);

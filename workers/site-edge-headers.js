@@ -48,6 +48,8 @@ const EDGE_CACHE_BYPASS_PREFIXES = ["/assets/pdfs/research-briefings/public-good
 const PUBLIC_GOOD_PDF_ORIGIN_VERSION = "2026-05-02-template-polish";
 
 const PERMANENT_REDIRECTS = new Map([
+  ["/agenda", "/program/research-agenda/"],
+  ["/agenda/", "/program/research-agenda/"],
   ["/publications/physics-ledger", "/publications/monograph-supplements/numerical-physics-ledger/"],
   ["/publications/physics-ledger/", "/publications/monograph-supplements/numerical-physics-ledger/"],
   ["/publications/numerical-physics-ledger", "/publications/monograph-supplements/numerical-physics-ledger/"],

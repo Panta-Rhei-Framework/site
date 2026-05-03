@@ -8,6 +8,13 @@ permalink: /program/about/inspection-observatory/
 type: "Program Doctrine"
 status: "Canonical"
 summary_short: "Why the website is organized as an inspectable research observatory rather than only as books, papers, claims, or software."
+tags:
+  - inspection-observatory
+  - inspection-before-belief
+  - open-research
+  - media
+  - review
+  - public-research-observatory
 hero_ctas:
   - label: "Program"
     url: /program/
@@ -24,6 +31,10 @@ right_rail:
       url: /program/about/coherent-theory-of-reality/
     - title: "Scope, Status & Scrutiny"
       url: /program/about/scope-status-and-scrutiny/
+    - title: "Media Kit"
+      url: /media/
+    - title: "Review Kit"
+      url: /media/review-kit/
     - title: "Engage"
       url: /engage/
   meta:
@@ -60,6 +71,14 @@ A large-scope theory cannot be evaluated only by reading its most confident pros
 It must let readers ask: What was the obligation? Where is the construction? Which result is being claimed? What kind of verification is available? What remains unverified? What would count as failure? Where can corrections be raised?
 
 The observatory structure exists so those questions have public routes.
+
+## For journalists and reviewers
+
+If you are covering or reviewing the program, start with the inspection standard before evaluating individual claims.
+
+- [Media Kit]({{ '/media/' | relative_url }})
+- [Review Kit]({{ '/media/review-kit/' | relative_url }})
+- Inspection Architecture for High-Scope Open Research -- white paper forthcoming
 
 ## What this page does not claim
 

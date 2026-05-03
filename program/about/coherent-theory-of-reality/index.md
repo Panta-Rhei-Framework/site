@@ -8,6 +8,13 @@ permalink: /program/about/coherent-theory-of-reality/
 type: "Program Doctrine"
 status: "Canonical"
 summary_short: "The Program definition behind v4: coherent means no hidden externalities, theory means constructive account, and reality means the full domain the program claims to address."
+tags:
+  - coherent-theory-of-reality
+  - theory
+  - reality
+  - coherence
+  - doctrine
+  - research-program
 hero_ctas:
   - label: "Program"
     url: /program/
@@ -55,6 +62,20 @@ That is why the site separates Agenda, Corpus, Results, and Verify. The Agenda s
 Reality names the full domain of the program's ambition: mathematics, physics, life, mind, and metaphysics.
 
 The program does not treat this ambition as already earned. It treats it as a burden. A claim about reality must survive the obligations named in the Agenda, the construction discipline of the Corpus, the status grammar of Results, and the inspection routes of Verify.
+
+## Full doctrine
+
+This page is the short public definition. The full doctrine expands the terms coherent, theory, and reality into the program's self-binding principles:
+
+- inspection before belief;
+- earned language, earned question, earned answer;
+- internal standpoint;
+- epistemic status;
+- no externalities;
+- foundational limit disclosure;
+- boundary disclosure.
+
+**Read the full doctrine -- forthcoming.**
 
 ## What this page does not claim
 

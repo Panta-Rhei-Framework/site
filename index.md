@@ -160,7 +160,11 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
   <div class="btn-group section-ctas">
     <a class="btn-secondary" href="{{ '/publications/' | relative_url }}">Publications</a>
     <a class="btn-secondary" href="{{ '/publications/research-monographs/' | relative_url }}">Research Monographs</a>
+    <a class="btn-ghost" href="{{ '/publications/research-papers/' | relative_url }}">Research Papers</a>
+    <a class="btn-ghost" href="{{ '/publications/research-notes/' | relative_url }}">Research Notes</a>
+    <a class="btn-ghost" href="{{ '/publications/white-papers/' | relative_url }}">White Papers</a>
     <a class="btn-ghost" href="{{ '/publications/release-artifacts/' | relative_url }}">Release Artifacts</a>
     <a class="btn-ghost" href="{{ '/publications/errata/' | relative_url }}">Errata</a>
+    <a class="btn-ghost" href="{{ '/cite/' | relative_url }}">Cite</a>
   </div>
 </section>

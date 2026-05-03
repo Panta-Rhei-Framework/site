@@ -6,13 +6,13 @@ lane: results
 v2_lane: results
 type: "Lane Root"
 status: "Canonical"
-summary_short: "What the program currently derives — organized by domain. Mathematics, Physics, Life, Metaphysics."
+summary_short: "Where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda."
 og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Answers, Recovery Target Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
 summary_cards:
-  - title: "Four domains"
-    body: "Mathematics, Physics, Life, Metaphysics — each its own per-domain hub."
+  - title: "Consequence surfaces"
+    body: "Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda."
   - title: "Calibration cascades"
     body: "Physics anchored at m_n; Life at K_χ; Metaphysics is categorical-only."
   - title: "Status grammar"
