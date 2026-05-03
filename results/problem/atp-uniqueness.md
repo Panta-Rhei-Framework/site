@@ -39,7 +39,7 @@ do_not_edit: true
 
 ## Overview
 
-Why does all life use adenosine triphosphate (ATP) as its universal energy currency? The framework derives ATP's uniqueness from the [agency sector]({{ '/corpus/monographs/' | relative_url }}) (<math><mi>&pi;</mi></math>-sector): ATP is the minimal molecular carrier that satisfies the agency sector's energy-throughput requirement while remaining compatible with the [genetic code's]({{ '/corpus/monographs/' | relative_url }}) BSD-motivic structure. The universality is a structural consequence, not a frozen accident.
+Why does all life use adenosine triphosphate (ATP) as its universal energy currency? The framework derives ATP's uniqueness from the [agency sector]({{ '/corpus/monograph-corpus/' | relative_url }}) (<math><mi>&pi;</mi></math>-sector): ATP is the minimal molecular carrier that satisfies the agency sector's energy-throughput requirement while remaining compatible with the [genetic code's]({{ '/corpus/monograph-corpus/' | relative_url }}) BSD-motivic structure. The universality is a structural consequence, not a frozen accident.
 
 ## Result Statement
 

@@ -1,38 +1,96 @@
 ---
-layout: "program-doc"
-title: "Construction Map"
-permalink: "/corpus/construction-map/"
-lane: "corpus"
-v2_lane: "corpus"
+layout: program-doc
+title: "Monograph Corpus"
+permalink: /corpus/monograph-corpus/
+lane: corpus
+v2_lane: corpus
+section: monograph-corpus
 type: "Corpus Projection"
 status: "Canonical"
-summary_short: "The 79-part operational build map of the Corpus."
-generated_from: "corpus/construction-map"
-projection_version: "v3.0"
-canonical_source: "corpus/construction-map"
-do_not_edit: true
+last_updated: 2026-05-04
+summary_short: "Seven-book narrative projection of the Corpus: Book → Part → Chapter summaries with registry anchors, TauLib links, and construction-step tags."
+tags:
+  - monograph-corpus
+  - construction-map
+  - monographs
+  - books
+  - corpus
+  - construction-spine
+  - book-parts
+  - chapters
+hero_ctas:
+  - label: "Construction Spine"
+    url: /corpus/construction-spine/
+    primary: true
+  - label: "Browse the Registry"
+    url: /corpus/registry/
+right_rail:
+  related:
+    - title: "Construction Spine"
+      url: /corpus/construction-spine/
+    - title: "Bi-Square Spine"
+      url: /corpus/bi-square/
+    - title: "Foundational Hinges"
+      url: /corpus/foundational-hinges/
+    - title: "Registry"
+      url: /corpus/registry/
+    - title: "TauLib"
+      url: /corpus/taulib/
 ---
 
-> The 79-part operational build map of the Corpus.
+The Monograph Corpus is the narrative projection of the Panta Rhei Corpus.
 
-The Construction Spine names the ten build obligations. The Construction Map is one level deeper: it walks through the 79 monograph parts as construction units, stripped down to part summaries, chapter navigation, Registry anchors, TauLib links, and cross-part sequence.
+It exposes the seven-book monograph series as Book → Part → Chapter structure: roughly 3,500 pages of canonical monograph exposition compressed into part summaries, chapter summaries, abstracts, registry anchors, TauLib links, and construction-step tags.
 
-<div class="notice note"><strong>Projection boundary.</strong> These pages do not publish the full book prose. They expose the construction body: summaries, abstracts, dependency anchors, formalization links, and navigation.</div>
+This is not a separate construction spine. It is the monograph projection of the same construction. The Construction Spine gives the ten-step answer-shape; the Monograph Corpus shows how the seven books realize that construction across their parts and chapters.
 
-## Four Layers
+<div class="notice note"><strong>Projection boundary.</strong> These pages do not publish the full book prose. They expose the construction body: summaries, abstracts, dependency anchors, formalization links, and navigation. Citable release artifacts, DOI metadata, covers, and retail status remain in <a href="{{ '/publications/research-monographs/' | relative_url }}">Research Monographs</a> under Publications.</div>
+
+## What this page is
+
+The Monograph Corpus is one projection of the Corpus, the construction body of the theory. Where the Construction Spine answers *how the build is ordered* in ten public steps, the Monograph Corpus answers *how the seven books realize that order* across 79 parts and several hundred chapters.
+
+Each part card carries: a short summary, the chapter count, the registry anchors it introduces, the TauLib modules that formalize it, and the construction steps it lives under. Use this page to navigate the seven-book series along the build.
+
+## Seven books, one construction
+
+The seven books are not seven separate works. They are stages of one construction:
+
+- **Books I–II** earn the kernel, core mathematics, holomorphy, and self-enrichment — the mathematical substrate. They live under construction steps **CS-01, CS-02, CS-03**.
+- **Books III–V** identify the physical carrier, build internal physical grammar, install measurement bridges, and recover macroscopic and cosmological structure. They live under **CS-04, CS-05, CS-06**.
+- **Book VI** recovers life as a structural class, with the four primitive sectors and the consumer mixed sector. It lives under **CS-07**.
+- **Book VII** carries reflective structure, language, ethics, society, mind, formal-system self-hosting, and ontic-closure tests. It lives under **CS-08, CS-09, CS-10**.
+
+The construction-step tags on each part card make this mapping explicit.
+
+## How to read the Monograph Corpus
+
+There are four useful entry routes:
+
+- **By book** — start in the [Book overview](#book-overview) below and step through the seven books in order. This is the canonical reading order for the series.
+- **By part** — open the [Part index](#part-index) to scan all 79 parts in build order, grouped under Mathematics / Physics / Life / Metaphysics layers.
+- **By construction step** — use the [Construction-step view](#construction-step-view) to see which parts realize each of the ten Construction Spine steps.
+- **By registry or TauLib anchor** — every part card lists its registry anchors and TauLib links; follow them into [Registry]({{ '/corpus/registry/' | relative_url }}) for atomic objects or [TauLib]({{ '/corpus/taulib/' | relative_url }}) for formal proof surfaces.
+
+## Book overview
 
 <ul class="v2-grid v2-card-list">
-  <li><article class="v2-tile"><h3><a href="/corpus/construction-map/mathematics/">Mathematics</a></h3><p>Books I-II: kernel, core mathematics, holomorphy, and self-enrichment.</p></article></li>
-  <li><article class="v2-tile"><h3><a href="/corpus/construction-map/physics/">Physics</a></h3><p>Books III-V: physical carrier, grammar, measurement, constants, and cosmology.</p></article></li>
-  <li><article class="v2-tile"><h3><a href="/corpus/construction-map/life/">Life</a></h3><p>Book VI: life, biology, and consciousness as recovery burdens.</p></article></li>
-  <li><article class="v2-tile"><h3><a href="/corpus/construction-map/metaphysics/">Metaphysics</a></h3><p>Book VII: reflection, language, ethics, society, and ontic-closure tests.</p></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-i/' | relative_url }}"><h3>Book I — Categorical Foundations</h3><p>How Mathematics Is Earned. 18 parts · 79 chapters. Construction steps CS-01, CS-02.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-ii/' | relative_url }}"><h3>Book II — Categorical Holomorphy</h3><p>Finite Readouts of Infinity. 12 parts · 68 chapters. Construction steps CS-02, CS-03.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-iii/' | relative_url }}"><h3>Book III — Categorical Spectrum</h3><p>Where Physics Lives. 11 parts · 76 chapters. Construction steps CS-04, CS-05.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-iv/' | relative_url }}"><h3>Book IV — Categorical Microcosm</h3><p>The Self-Describing Universe. 9 parts · 73 chapters. Construction steps CS-05, CS-06.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-v/' | relative_url }}"><h3>Book V — Categorical Macrocosm</h3><p>The Biography of the Universe. 8 parts · 58 chapters. Construction steps CS-05, CS-06.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-vi/' | relative_url }}"><h3>Book VI — Categorical Life</h3><p>Life as Self-Decoding Distinctions. 9 parts · 53 chapters. Construction step CS-07.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/corpus/monographs/book-vii/' | relative_url }}"><h3>Book VII — Categorical Metaphysics</h3><p>The Final Self-Enrichment. 12 parts · 128 chapters. Construction steps CS-08, CS-09, CS-10.</p></a></article></li>
 </ul>
 
-## Mathematics
+## Part index
 
-Books I-II build the kernel, core mathematics, holomorphy, interior structure, and self-enrichment machinery.
+The 79 parts of the seven-book series, in build order, grouped under the four construction layers.
 
-<p><a class="btn-secondary" href="/corpus/construction-map/mathematics/">Open the Mathematics layer</a></p>
+### Mathematics
+
+Books I–II build the kernel, core mathematics, holomorphy, interior structure, and self-enrichment machinery.
 
 <ul class="v2-grid v2-card-list construction-map-grid">
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#01 · Book I · Prologue</p><h3><a href="/corpus/monographs/book-i/part-00-earned-foundations/">Earned Foundations</a></h3><p>This Prologue situates Book I within the Panta Rhei series and introduces the foundational principle that governs the entire second edition: every mathematical…</p><p class="status-triplet"><span>1 chapters</span><span>0 registry anchors</span><span>1 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-01</code>, <code>CS-02</code></p></article></li>
@@ -54,7 +112,7 @@ Books I-II build the kernel, core mathematics, holomorphy, interior structure, a
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#17 · Book I · Part XVI</p><h3><a href="/corpus/monographs/book-i/part-16-the-presheaf-essence/">The Presheaf Essence</a></h3><p>Part XVI proved the Global Hartogs Extension Theorem: the limit determines the stages, and omega-tail data on 𝕃 uniquely extends to all of τ³. Part XVIII…</p><p class="status-triplet"><span>2 chapters</span><span>3 registry anchors</span><span>3 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-01</code>, <code>CS-02</code></p></article></li>
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#18 · Book I · Part XVII</p><h3><a href="/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/">The Proof-Theoretic Mirror</a></h3><p>Part XVII closed the development: seventy-nine chapters, every object and theorem earned from five generators, one operator, and seven axioms K0–K6. The…</p><p class="status-triplet"><span>9 chapters</span><span>26 registry anchors</span><span>22 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-01</code>, <code>CS-02</code></p></article></li>
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#19 · Book II · Prologue</p><h3><a href="/corpus/monographs/book-ii/part-00-from-kernel-to-interior/">From Kernel to Interior</a></h3><p>Book I closed with the Bridge Theorem (I.T34): Category τ is complete. Five generators, one operator, seven axioms (K0–K6) have built a full mathematical…</p><p class="status-triplet"><span>3 chapters</span><span>16 registry anchors</span><span>31 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
-<li><article class="v2-tile construction-map-card"><p class="eyebrow">#20 · Book II · Part I</p><h3><a href="/corpus/monographs/book-ii/part-01-interior-points-and-the-tau/">Interior Points and the τ³</a></h3><p>Part I defines the point set of τ³ and reveals the fibration structure τ³ = τ¹ ×_f T². The approach is coordinate-first: Book I earned the ABCD chart…</p><p class="status-triplet"><span>5 chapters</span><span>22 registry anchors</span><span>29 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
+<li><article class="v2-tile construction-map-card"><p class="eyebrow">#20 · Book II · Part I</p><h3><a href="/corpus/monographs/book-ii/part-01-interior-points-and-the-tau/">Interior Points and the τ³</a></h3><p>Part I defines the point set of τ³ and reveals the fibration structure τ³ = τ¹ ×_f T² content-coordinate-first: Book I earned the ABCD chart…</p><p class="status-triplet"><span>5 chapters</span><span>22 registry anchors</span><span>29 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#21 · Book II · Part II</p><h3><a href="/corpus/monographs/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/">Local Domains: Cylinders as Prefix Predicates</a></h3><p>Part II constructs the local domains and proves the central inversion: {holomorphic implies continuous}. Four chapters build the topological…</p><p class="status-triplet"><span>4 chapters</span><span>20 registry anchors</span><span>14 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#22 · Book II · Part III</p><h3><a href="/corpus/monographs/book-ii/part-03-topology-and-global-shape/">Topology and Global Shape</a></h3><p>Part III establishes the global topological shape of τ. Six chapters prove that τ is a Stone space, derive topology as an invariant of canonical…</p><p class="status-triplet"><span>6 chapters</span><span>24 registry anchors</span><span>21 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#23 · Book II · Part IV</p><h3><a href="/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/">Geometry: The Tarski Program</a></h3><p>Part IV executes the Tarski program: deriving Euclidean geometry from ultrametric foundations. The two-readout principle (II.D18a, Chapter…</p><p class="status-triplet"><span>5 chapters</span><span>18 registry anchors</span><span>12 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
@@ -67,11 +125,9 @@ Books I-II build the kernel, core mathematics, holomorphy, interior structure, a
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#30 · Book II · Part XI</p><h3><a href="/corpus/monographs/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/">The Fork — Category τ versus Orthodox Mathematics</a></h3><p>Part XI is the fork: a systematic comparison of Category τ against orthodox mathematics. Books I and II have built an alternative foundation from seven…</p><p class="status-triplet"><span>8 chapters</span><span>47 registry anchors</span><span>26 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-02</code>, <code>CS-03</code></p></article></li>
 </ul>
 
-## Physics
+### Physics
 
-Books III-V turn the mathematical kernel into physical grammar, particle structure, cosmology, and measurement-facing readouts.
-
-<p><a class="btn-secondary" href="/corpus/construction-map/physics/">Open the Physics layer</a></p>
+Books III–V turn the mathematical kernel into physical grammar, particle structure, cosmology, and measurement-facing readouts.
 
 <ul class="v2-grid v2-card-list construction-map-grid">
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#31 · Book III · Prologue</p><h3><a href="/corpus/monographs/book-iii/part-00-where-does-physics-live/">Where Does Physics Live?</a></h3><p>The Central Theorem is proved and the holomorphic machinery is in hand. But τ³ = τ¹ ×_f T² does not look like Cartesian three-dimensional space. Where,…</p><p class="status-triplet"><span>3 chapters</span><span>11 registry anchors</span><span>15 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-04</code>, <code>CS-05</code></p></article></li>
@@ -104,11 +160,9 @@ Books III-V turn the mathematical kernel into physical grammar, particle structu
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#58 · Book V · Part VII</p><h3><a href="/corpus/monographs/book-v/part-07-the-closure/">The Closure</a></h3><p></p><p class="status-triplet"><span>3 chapters</span><span>0 registry anchors</span><span>0 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-05</code>, <code>CS-06</code></p></article></li>
 </ul>
 
-## Life
+### Life
 
 Book VI asks how life, biological organization, and consciousness enter the construction without being imported as external categories.
-
-<p><a class="btn-secondary" href="/corpus/construction-map/life/">Open the Life layer</a></p>
 
 <ul class="v2-grid v2-card-list construction-map-grid">
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#59 · Book VI · Prologue</p><h3><a href="/corpus/monographs/book-vi/part-00-the-question-of-life/">The Question of Life</a></h3><p>What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer captures a necessary condition but none is sufficient: fire…</p><p class="status-triplet"><span>2 chapters</span><span>1 registry anchors</span><span>0 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-07</code></p></article></li>
@@ -122,11 +176,9 @@ Book VI asks how life, biological organization, and consciousness enter the cons
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#67 · Book VI · Part VIII</p><h3><a href="/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/">Consciousness, Language, and the Bridge to E₃</a></h3><p>The mixed sector&#x27;s self-modeling capacity opens the door to E₃. **Consciousness** is defined structurally as the consumer sector&#x27;s SelfDesc applied to its…</p><p class="status-triplet"><span>3 chapters</span><span>17 registry anchors</span><span>6 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-07</code></p></article></li>
 </ul>
 
-## Metaphysics
+### Metaphysics
 
 Book VII carries reflection, language, ethics, society, mind, and final ontic-closure burdens.
-
-<p><a class="btn-secondary" href="/corpus/construction-map/metaphysics/">Open the Metaphysics layer</a></p>
 
 <ul class="v2-grid v2-card-list construction-map-grid">
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#68 · Book VII · Prologue</p><h3><a href="/corpus/monographs/book-vii/part-00-the-third-self-enrichment/">The Third Self-Enrichment</a></h3><p>Book VII is the E₃ layer—the third and final self-enrichment of the coherence kernel. At E₂, a system carries and decodes its own code. At E₃, a…</p><p class="status-triplet"><span>2 chapters</span><span>5 registry anchors</span><span>4 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-08</code>, <code>CS-09</code>, <code>CS-10</code></p></article></li>
@@ -142,3 +194,39 @@ Book VII carries reflection, language, ethics, society, mind, and final ontic-cl
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#78 · Book VII · Part X</p><h3><a href="/corpus/monographs/book-vii/part-10-the-logos-sector/">The Logos Sector</a></h3><p>**Sector S_L (Logos — Mixed).** The Logos sector is the structural crown jewel of the second edition: the unique location in the 4+1 decomposition where…</p><p class="status-triplet"><span>6 chapters</span><span>12 registry anchors</span><span>5 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-08</code>, <code>CS-09</code>, <code>CS-10</code></p></article></li>
 <li><article class="v2-tile construction-map-card"><p class="eyebrow">#79 · Book VII · Part XII</p><h3><a href="/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/">The Final Boundary: From Proof to Commitment</a></h3><p>The ω-germ question—whether ω is inhabited, and what that inhabitation means—is shown to be **diagrammatically unanswerable**. The boundary collapse lemma…</p><p class="status-triplet"><span>4 chapters</span><span>3 registry anchors</span><span>4 TauLib links</span></p><p><strong>Construction steps:</strong> <code>CS-08</code>, <code>CS-09</code>, <code>CS-10</code></p></article></li>
 </ul>
+
+## Construction-step view
+
+The same 79 parts grouped by which Construction Spine step they realize. Each step name links to its public step page on the [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}).
+
+{% assign cm = site.data.construction_map["construction-map"] %}
+{% assign cs_steps = "CS-01,CS-02,CS-03,CS-04,CS-05,CS-06,CS-07,CS-08,CS-09,CS-10" | split: "," %}
+{% assign cs_titles = "Build the τ-Kernel,Recover Core Mathematics,Internalize Self-Enrichment,Identify Physical Carrier,Internal Physical Grammar,Measurement Bridges,Recover Life,Reflective Structure,Self-Host Formal Systems,Test Ontic Closure" | split: "," %}
+
+<dl class="cs-step-index">
+{% for step in cs_steps %}
+{% assign idx = forloop.index0 %}
+{% assign cs_title = cs_titles[idx] %}
+<dt><strong>{{ step }} — {{ cs_title }}</strong></dt>
+<dd>
+<ul class="cs-step-parts">
+{% for part in cm %}{% if part.construction_step_ids contains step %}<li><a href="{{ part.url | relative_url }}">{{ part.book }} · {{ part.part_display }} — {{ part.title }}</a></li>{% endif %}{% endfor %}
+</ul>
+</dd>
+{% endfor %}
+</dl>
+
+## Registry and TauLib anchors
+
+Every part card lists the registry anchors it introduces and the TauLib modules that formalize it. Follow registry anchors into the [Registry]({{ '/corpus/registry/' | relative_url }}) — the atomic-object projection of the Corpus — to read each definition, theorem, or construction in isolation. Follow TauLib links into [TauLib]({{ '/corpus/taulib/' | relative_url }}) for the formal Lean projection where available.
+
+The Registry and TauLib are not separate research artifacts; they are different projections of the same construction body that the seven books expose narratively.
+
+## Related pages
+
+- [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) — the ten-step public build order.
+- [Bi-Square Spine]({{ '/corpus/bi-square/' | relative_url }}) — the repeated proof-organizing diagram shape.
+- [Foundational Hinges]({{ '/corpus/foundational-hinges/' | relative_url }}) — reviewer stress-test route for the mathematical hinges behind Steps 1–3.
+- [Registry]({{ '/corpus/registry/' | relative_url }}) — atomic-object projection.
+- [TauLib]({{ '/corpus/taulib/' | relative_url }}) — formal Lean projection.
+- [Research Monographs]({{ '/publications/research-monographs/' | relative_url }}) — citable release artifacts and DOI metadata under Publications.

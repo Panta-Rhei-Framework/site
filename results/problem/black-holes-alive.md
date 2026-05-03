@@ -40,7 +40,7 @@ do_not_edit: true
 
 ## Overview
 
-VI.T29 (Distinction Theorem for BH) and VI.T30 (SelfDesc Theorem for BH) prove that black holes satisfy all five τ-Distinction conditions and all three SelfDesc conditions respectively. Since VI.T50 established that satisfying all 5+3 conditions is sufficient for life, black holes are alive by modus ponens. VI.T32 verifies all [7 biological hallmarks]({{ '/corpus/monographs/' | relative_url }}) from GR + τ axioms. This is a theorem, not a metaphor.
+VI.T29 (Distinction Theorem for BH) and VI.T30 (SelfDesc Theorem for BH) prove that black holes satisfy all five τ-Distinction conditions and all three SelfDesc conditions respectively. Since VI.T50 established that satisfying all 5+3 conditions is sufficient for life, black holes are alive by modus ponens. VI.T32 verifies all [7 biological hallmarks]({{ '/corpus/monograph-corpus/' | relative_url }}) from GR + τ axioms. This is a theorem, not a metaphor.
 
 ## Detail
 

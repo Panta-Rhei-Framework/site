@@ -39,7 +39,7 @@ do_not_edit: true
 
 ## Overview
 
-The Prime Polarity Theorem (I.T05, Hinge Theorem 2) assigns every prime p in the τ-index set a canonical bipolar polarization: each prime is either γ-dominant (EM sector) or η-dominant (strong sector). This polarization is provable in ZFC and is the root structure from which holomorphic behaviour, the lemniscate boundary, the split-complex algebra, and ultimately the [Central Theorem]({{ '/corpus/monographs/' | relative_url }}) are derived. Primes act as finite witnesses to the infinite boundary structure of τ³.
+The Prime Polarity Theorem (I.T05, Hinge Theorem 2) assigns every prime p in the τ-index set a canonical bipolar polarization: each prime is either γ-dominant (EM sector) or η-dominant (strong sector). This polarization is provable in ZFC and is the root structure from which holomorphic behaviour, the lemniscate boundary, the split-complex algebra, and ultimately the [Central Theorem]({{ '/corpus/monograph-corpus/' | relative_url }}) are derived. Primes act as finite witnesses to the infinite boundary structure of τ³.
 
 ## Detail
 

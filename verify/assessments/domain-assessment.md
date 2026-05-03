@@ -34,12 +34,12 @@ The framework makes claims across several disciplines. The following domains are
 
 | Domain | Primary Site Lane | Books |
 |--------|-------------------|-------|
-| Pure mathematics | [Mathematics Layer](https://panta-rhei.site/corpus/monographs/) | I, II |
-| Category theory / topos theory | [Mathematics Layer](https://panta-rhei.site/corpus/monographs/) | I, II, III |
-| Particle physics | [Physics Layer](https://panta-rhei.site/corpus/monographs/) | IV |
-| Cosmology | [Physics Layer](https://panta-rhei.site/corpus/monographs/) | V |
+| Pure mathematics | [Mathematics Layer](https://panta-rhei.site/corpus/monograph-corpus/) | I, II |
+| Category theory / topos theory | [Mathematics Layer](https://panta-rhei.site/corpus/monograph-corpus/) | I, II, III |
+| Particle physics | [Physics Layer](https://panta-rhei.site/corpus/monograph-corpus/) | IV |
+| Cosmology | [Physics Layer](https://panta-rhei.site/corpus/monograph-corpus/) | V |
 | Philosophy of science | [Framework Overview](https://panta-rhei.site/corpus/) | I--VII |
-| Philosophy of mind | [Metaphysics Layer](https://panta-rhei.site/corpus/monographs/) | VII |
+| Philosophy of mind | [Metaphysics Layer](https://panta-rhei.site/corpus/monograph-corpus/) | VII |
 | Formal methods / theorem proving | [TauLib Overview](https://panta-rhei.site/verify/taulib/) | I--VII |
 
 Additional domains that may be relevant: condensed matter physics, mathematical physics, algebraic geometry, biological systems theory, philosophy of mathematics, philosophy of biology, and scientific methodology.
@@ -128,7 +128,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Category theory
 
 - `{{DOMAIN}}`: category theory / topos theory
-- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monographs/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monograph-corpus/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Books I, II, III)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Books I, II, III)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/registry/
@@ -136,7 +136,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Particle physics
 
 - `{{DOMAIN}}`: particle physics
-- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monographs/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monograph-corpus/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Book IV)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Book IV)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/registry/
@@ -144,7 +144,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Cosmology
 
 - `{{DOMAIN}}`: cosmology
-- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monographs/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monograph-corpus/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Book V)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Book V)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/registry/
@@ -152,7 +152,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Philosophy of mind
 
 - `{{DOMAIN}}`: philosophy of mind
-- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monographs/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/corpus/monograph-corpus/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Book VII)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Book VII)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/

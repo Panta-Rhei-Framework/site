@@ -38,7 +38,7 @@ do_not_edit: true
 
 ## Overview
 
-The [Categoricity Theorem]({{ '/corpus/monographs/' | relative_url }}) (II.T42) proves that the seven axioms K0-K6 force a *unique* model of Category <math><mi>&tau;</mi></math>. The moduli space is a single point: there are no free parameters, no alternative models, no hidden choices. Two independent implementations of the kernel will produce the same universe with the same objects in the same positions. This is confirmed by the [TauLib formalization]({{ '/verify/taulib/' | relative_url }}).
+The [Categoricity Theorem]({{ '/corpus/monograph-corpus/' | relative_url }}) (II.T42) proves that the seven axioms K0-K6 force a *unique* model of Category <math><mi>&tau;</mi></math>. The moduli space is a single point: there are no free parameters, no alternative models, no hidden choices. Two independent implementations of the kernel will produce the same universe with the same objects in the same positions. This is confirmed by the [TauLib formalization]({{ '/verify/taulib/' | relative_url }}).
 
 ## Result Statement
 

@@ -40,7 +40,7 @@ do_not_edit: true
 
 ## Overview
 
-V.P69 (No Dark Particle Theorem) follows from Sector Exhaustion: the four primitive sectors (D=[gravity]({{ '/corpus/monographs/' | relative_url }}), A=weak, B=EM, C=strong) plus one derived sector (ω=Higgs) exhaust all structural positions in Category τ. No additional sector can be added. Therefore no dark matter particle — which would require a new sector — exists. Galactic rotation curves are explained instead by the capacity gradient mechanism (V.T85).
+V.P69 (No Dark Particle Theorem) follows from Sector Exhaustion: the four primitive sectors (D=[gravity]({{ '/corpus/monograph-corpus/' | relative_url }}), A=weak, B=EM, C=strong) plus one derived sector (ω=Higgs) exhaust all structural positions in Category τ. No additional sector can be added. Therefore no dark matter particle — which would require a new sector — exists. Galactic rotation curves are explained instead by the capacity gradient mechanism (V.T85).
 
 ## Detail
 

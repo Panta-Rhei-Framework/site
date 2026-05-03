@@ -66,8 +66,8 @@ metrics:
   value: 79
   unit: records
   display_value: '79'
-  public_label: Construction Map records
-  scope: Construction Map
+  public_label: Monograph Corpus records
+  scope: Monograph Corpus
   source_repo: Panta-Rhei-Research/site
   source_commit: 92a0b6251c460f68e1fe699af6e7553cf5636e80
   source_path: _data/construction_map/construction-map.json
@@ -91,7 +91,7 @@ metrics:
   unit: chapters
   display_value: '535'
   public_label: Corpus monograph chapters
-  scope: Corpus Monographs
+  scope: Monograph Corpus
   source_repo: Panta-Rhei-Research/site
   source_commit: 92a0b6251c460f68e1fe699af6e7553cf5636e80
   source_path: _data/monograph_projections/chapters.json
@@ -103,7 +103,7 @@ metrics:
   unit: parts
   display_value: '79'
   public_label: Corpus monograph parts
-  scope: Corpus Monographs
+  scope: Monograph Corpus
   source_repo: Panta-Rhei-Research/site
   source_commit: 92a0b6251c460f68e1fe699af6e7553cf5636e80
   source_path: _data/monograph_projections/parts.json

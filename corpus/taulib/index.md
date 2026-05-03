@@ -54,7 +54,7 @@ That ownership move does not weaken verification. It makes the boundary cleaner:
   <li><article class="v2-tile"><h3><a href="{{ '/corpus/taulib/modules/' | relative_url }}">Module explorer</a></h3><p>Filter TauLib modules by book, family, module name, and Registry ID.</p></article></li>
   <li><article class="v2-tile"><h3><a href="{{ '/corpus/taulib/docs/' | relative_url }}">Generated module docs</a></h3><p>One generated page per module with imports, source links, and Registry anchors.</p></article></li>
   <li><article class="v2-tile"><h3><a href="{{ '/corpus/taulib/status/' | relative_url }}">Projection status</a></h3><p>Counts, source pin, and projection boundaries.</p></article></li>
-  <li><article class="v2-tile"><h3><a href="{{ '/corpus/taulib/architecture/' | relative_url }}">Architecture</a></h3><p>Book and family structure, import graph, and relation to the Construction Map.</p></article></li>
+  <li><article class="v2-tile"><h3><a href="{{ '/corpus/taulib/architecture/' | relative_url }}">Architecture</a></h3><p>Book and family structure, import graph, and relation to the Monograph Corpus.</p></article></li>
 </ul>
 
 ## Verification boundary

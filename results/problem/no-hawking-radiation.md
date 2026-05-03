@@ -45,7 +45,7 @@ Category τ reaches the opposite conclusion: the profinite boundary structure of
 
 ## Detail
 
-The argument rests on the framework's [black hole topology]({{ '/corpus/monographs/' | relative_url }}): in τ³, the event horizon is a T² surface — a torus, not a mathematical boundary of spacetime. The profinite structure of the [primorial tower]({{ '/corpus/monographs/' | relative_url }}) prevents the divergences that classical general relativity produces at the horizon.
+The argument rests on the framework's [black hole topology]({{ '/corpus/monograph-corpus/' | relative_url }}): in τ³, the event horizon is a T² surface — a torus, not a mathematical boundary of spacetime. The profinite structure of the [primorial tower]({{ '/corpus/monograph-corpus/' | relative_url }}) prevents the divergences that classical general relativity produces at the horizon.
 
 Hawking's calculation relies on quantum field theory on a fixed curved background — the semi-classical approximation. In this approximation, the vacuum state near the horizon contains virtual particle pairs that can be separated by the gravitational field. The key assumption is that the background spacetime has a smooth event horizon where pair-creation can occur.
 
@@ -53,7 +53,7 @@ In Category τ, this assumption fails. The horizon is not a smooth surface in a 
 
 This is one of the framework's most exposed predictions. If Hawking radiation were experimentally detected — for example, through analogue black hole experiments or primordial black hole signatures — this prediction would be falsified. The framework carries this prediction with the scope label *conjectural* because it contradicts the mainstream theoretical expectation, though Hawking radiation has itself never been observed.
 
-See also: [No BH Evaporation]({{ '/results/problem/no-bh-evaporation/' | relative_url }}) for the complementary result on evaporation, and the [Black Holes module]({{ '/corpus/monographs/' | relative_url }}) for the full topological treatment.
+See also: [No BH Evaporation]({{ '/results/problem/no-bh-evaporation/' | relative_url }}) for the complementary result on evaporation, and the [Black Holes module]({{ '/corpus/monograph-corpus/' | relative_url }}) for the full topological treatment.
 
 ## Result Statement
 

@@ -11,14 +11,14 @@ layout: default
 <article class="part-article corpus-monograph-article corpus-construction-unit">
 <header class="hero-card">
   <span class="eyebrow">
-    Corpus · Construction Map
+    Corpus · Monograph Corpus
     {% if page.construction_sequence %} · Part {{ page.construction_sequence }} of 79{% endif %}
     {% if page.construction_layer_label %} · {{ page.construction_layer_label }}{% endif %}
   </span>
   <h1>{{ page.title_plain | default: page.title | strip_html }}</h1>
   {% if page.summary_short %}<p>{{ page.summary_short }}</p>{% endif %}
   <div class="btn-group">
-    <a href="{{ '/corpus/construction-map/' | relative_url }}" class="btn-secondary">Construction Map</a>
+    <a href="{{ '/corpus/monograph-corpus/' | relative_url }}" class="btn-secondary">Monograph Corpus</a>
     <a href="{{ page.canonical_book_url | relative_url }}" class="btn-ghost">Book {{ page.book_id }} drilldown</a>
     <a href="{{ page.publication_book_url | relative_url }}" class="btn-ghost">Publication artifact</a>
   </div>
@@ -105,16 +105,16 @@ layout: default
   </div>
 </section>
 
-<nav class="content-card sequence-nav" aria-label="Construction Map previous and next part">
+<nav class="content-card sequence-nav" aria-label="Monograph Corpus previous and next part">
   {% if previous_part and previous_part.url %}
   <a class="btn-ghost" href="{{ previous_part.url | relative_url }}">Previous: {{ previous_part.title }}</a>
   {% else %}
-  <a class="btn-ghost" href="{{ '/corpus/construction-map/' | relative_url }}">Previous: Construction Map overview</a>
+  <a class="btn-ghost" href="{{ '/corpus/monograph-corpus/' | relative_url }}">Previous: Monograph Corpus overview</a>
   {% endif %}
   {% if next_part and next_part.url %}
   <a class="btn-secondary" href="{{ next_part.url | relative_url }}">Next: {{ next_part.title }}</a>
   {% else %}
-  <a class="btn-secondary" href="{{ '/corpus/construction-map/' | relative_url }}">Next: Construction Map overview</a>
+  <a class="btn-secondary" href="{{ '/corpus/monograph-corpus/' | relative_url }}">Next: Monograph Corpus overview</a>
   {% endif %}
 </nav>
 </article>

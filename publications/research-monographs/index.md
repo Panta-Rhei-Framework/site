@@ -15,7 +15,7 @@ summary_short: "Full book-length canonical release artifacts of the Panta Rhei R
 
 Research Monographs are the full book-length canonical release artifacts of the Panta Rhei Research Program. This Publications page is the citation, DOI, format, and artifact-status surface.
 
-For the open Book → Part → Chapter reading projection, use [Corpus Monographs]({{ '/corpus/monographs/' | relative_url }}). Corpus is where the monograph exposition participates in the constructed research body; Publications is where the same books are stabilized as released artifacts.
+For the open Book → Part → Chapter reading projection, use [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}). Corpus is where the monograph exposition participates in the constructed research body; Publications is where the same books are stabilized as released artifacts.
 
 <div class="notice note"><strong>Category boundary.</strong> Research Monographs are the main canonical volumes. Omitted chapters, ledgers, appendices, and book-style supporting parts released separately belong under Monograph Supplements.</div>
 

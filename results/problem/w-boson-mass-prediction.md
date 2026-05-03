@@ -38,7 +38,7 @@ do_not_edit: true
 
 ## Overview
 
-IV.T177 derives the W-boson mass from the τ-framework as M_W = (17/5)ι<sub>τ</sub>⁻³ m_n [1 + (5/17)αι<sub>τ</sub>²], where m_n is the neutron mass, α is the [fine-structure constant]({{ '/corpus/monographs/' | relative_url }}), and ι<sub>τ</sub> = 2/(π+e). The NLO correction factor (5/17) is governed by Window Universality: W₃(4) = 5 governs all three electroweak NLO corrections. Agreement with the PDG value is at −0.5 ppm — sub-ppm precision with zero free continuous parameters.
+IV.T177 derives the W-boson mass from the τ-framework as M_W = (17/5)ι<sub>τ</sub>⁻³ m_n [1 + (5/17)αι<sub>τ</sub>²], where m_n is the neutron mass, α is the [fine-structure constant]({{ '/corpus/monograph-corpus/' | relative_url }}), and ι<sub>τ</sub> = 2/(π+e). The NLO correction factor (5/17) is governed by Window Universality: W₃(4) = 5 governs all three electroweak NLO corrections. Agreement with the PDG value is at −0.5 ppm — sub-ppm precision with zero free continuous parameters.
 
 ## Detail
 

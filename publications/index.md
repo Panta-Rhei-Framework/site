@@ -44,7 +44,7 @@ It contains released objects that can be read, cited, downloaded, compared acros
 
 Publications are not the whole research system. The [Corpus]({{ '/corpus/' | relative_url }}) carries the structured research body, [Results]({{ '/results/' | relative_url }}) reports current program stances, [Verify]({{ '/verify/' | relative_url }}) exposes inspection routes, and [Impact]({{ '/impact/' | relative_url }}) maps conditional consequences. Publications provides the stable released artifacts connected to those lanes.
 
-The deep Book → Part → Chapter reading projection now lives in [Corpus Monographs]({{ '/corpus/monographs/' | relative_url }}). The Publications lane keeps the citable monograph artifacts: DOI metadata, release status, covers, formats, and artifact classification.
+The deep Book → Part → Chapter reading projection now lives in [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}). The Publications lane keeps the citable monograph artifacts: DOI metadata, release status, covers, formats, and artifact classification.
 
 <p class="eyebrow">The artifact taxonomy at a glance</p>
 
@@ -79,7 +79,7 @@ Every publication artifact belongs to one of the categories below. These categor
 
 ### Research Monographs
 
-Research Monographs are the full book-length canonical release artifacts of the Panta Rhei Research Program. Their open reading editions live as [Corpus Monographs]({{ '/corpus/monographs/' | relative_url }}), where the same books are exposed in Book → Part → Chapter order as part of the public Corpus.
+Research Monographs are the full book-length canonical release artifacts of the Panta Rhei Research Program. Their open reading editions live as [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}), where the same books are exposed in Book → Part → Chapter order as part of the public Corpus.
 
 ### Monograph Supplements
 

@@ -51,7 +51,7 @@ The first epistemic stance: [TauLib]({{ '/verify/' | relative_url }}) as materia
 
 ## How to read these pages
 
-These pages are written as interpretive and epistemic clarifications, not as theorem ledgers. They aim to make explicit what is already distributed across the [Research Monographs]({{ '/publications/research-monographs/' | relative_url }}), the [Corpus Monographs]({{ '/corpus/monographs/' | relative_url }}), [TauLib]({{ '/verify/' | relative_url }}), and the [result corpus]({{ '/results/browse/' | relative_url }}).
+These pages are written as interpretive and epistemic clarifications, not as theorem ledgers. They aim to make explicit what is already distributed across the [Research Monographs]({{ '/publications/research-monographs/' | relative_url }}), the [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}), [TauLib]({{ '/verify/' | relative_url }}), and the [result corpus]({{ '/results/browse/' | relative_url }}).
 
 A reader does not need to grant the program all of its later world-readout claims to benefit from this introduction. It is enough, at first, to ask a more modest question:
 

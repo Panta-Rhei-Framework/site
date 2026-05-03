@@ -21,13 +21,12 @@ hero_ctas:
   - label: "Follow the Construction Spine"
     url: /corpus/construction-spine/
     primary: true
-  - label: "Open Monographs"
-    url: /corpus/monographs/
+  - label: "Open the Monograph Corpus"
+    url: /corpus/monograph-corpus/
   - label: "Bi-Square Spine"
     url: /corpus/bi-square/
   - label: "Foundational Hinges"
     url: /corpus/foundational-hinges/
-    event: cta.hinges
   - label: "Browse the Registry"
     url: /corpus/registry/
   - label: "How to Read"
@@ -36,14 +35,12 @@ right_rail:
   related:
     - title: "Construction Spine"
       url: /corpus/construction-spine/
-    - title: "Construction Map"
-      url: /corpus/construction-map/
+    - title: "Monograph Corpus"
+      url: /corpus/monograph-corpus/
     - title: "Bi-Square Spine"
       url: /corpus/bi-square/
     - title: "Foundational Hinges"
       url: /corpus/foundational-hinges/
-    - title: "Monographs"
-      url: /corpus/monographs/
     - title: "Registry"
       url: /corpus/registry/
     - title: "Types"
@@ -69,13 +66,13 @@ right_rail:
 {% assign registry_objects = site.data.registry.objects %}
 {% assign type_groups = registry_objects | group_by: "type" | sort: "name" %}
 
-The Corpus is the construction body of the theory: the public body of what has been built.
+The Corpus is the construction body of the theory.
 
-It is not a summary, not a set of claims, and not a collection of papers. It is the structured body of what has been built: definitions, lemmas, theorems, structures, derivations, and dependency relations.
+The Construction Spine gives the ten-step public build order.
 
-The Corpus is the research body itself. It is materialized through several public projections: the Construction Spine, Construction Map, Bi-Square Spine, Foundational Hinges, Monograph Corpus, Registry, TauLib, Corpus Graph, Results, Verify, Publications, and release/versioning surfaces. These are not competing locations; they are different ways of inspecting the same build.
+The Monograph Corpus shows how the seven-book monograph series realizes that build order across books, parts, and chapters.
 
-Publications remain the citation and distribution shelf. The Corpus owns the construction-level drilldown: what was built, where it sits, what it depends on, how it is formalized, and which review route applies.
+The Registry exposes atomic objects. TauLib exposes formal proof surfaces where available. The Corpus Graph exposes dependencies. Results shows what follows. Verify shows how the build can be inspected. Publications holds citable release artifacts.
 
 For the implementation view of how Corpus, Results, Verify, Publications, and Engage are connected as public surfaces, see [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}).
 
@@ -85,7 +82,7 @@ For the implementation view of how Corpus, Results, Verify, Publications, and En
 
 {% include scientific-plate.html id="plate-04-construction-spine" class="scientific-plate--construction-spine" loading="lazy" %}
 
-The Construction Spine is the primary human-readable route into the Corpus. It shows the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure. The spine's [End-to-end construction view]({{ '/corpus/construction-spine/#end-to-end-construction-view' | relative_url }}) organizes the ten steps as three manuscript-grounded arcs — Mathematics (CS-01–03), Physics (CS-04–06), and Life + Metaphysics (CS-07–10) — glued by a single theorem chain.
+The Construction Spine is the primary human-readable route into the Corpus. It shows the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure. The spine's [End-to-end construction view]({{ '/corpus/construction-spine/#end-to-end-construction-view' | relative_url }}) shows how the ten steps form a single construction chain, with each step inheriting what earlier steps have earned and handing forward what later steps need.
 
 <div class="btn-group section-ctas">
   <a class="btn-secondary" href="{{ '/corpus/construction-spine/' | relative_url }}">Open the Construction Spine</a>
@@ -119,22 +116,33 @@ The first three construction steps now have a dedicated reviewer route: eight fo
 
 ## Corpus projections
 
-The same research body appears through several public projections. The [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) gives the build order; the [Corpus Monographs]({{ '/corpus/monographs/' | relative_url }}) expose the seven books as Book → Part → Chapter reading editions; the [Registry]({{ '/corpus/registry/' | relative_url }}) exposes atomic objects; [TauLib]({{ '/verify/taulib/' | relative_url }}) exposes formal proof surfaces where available; and the [Graph]({{ '/corpus/graph/' | relative_url }}) exposes dependency structure.
+The same construction body appears through several public projections:
+
+- **Construction Spine** — ten-step build order from kernel definition through ontic closure.
+- **Monograph Corpus** — seven-book narrative projection: Book → Part → Chapter summaries with registry anchors, TauLib links, and construction-step tags.
+- **Bi-Square Spine** — repeated proof-organizing diagram shape across algebraic, geometric, enriched, and computational lifts.
+- **Foundational Hinges** — reviewer stress-test route for the mathematical hinges behind Steps 1–3.
+- **Registry** — atomic object projection.
+- **TauLib** — formal Lean projection where available.
+- **Corpus Graph** — dependency projection.
+- **Results** — consequence surfaces.
+- **Verify** — inspection routes.
+- **Publications** — citable artifact and release shelf.
 
 <ul class="v2-grid v2-card-list">
   <li>
     <article>
       <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
         <h3>Construction Spine</h3>
-        <p>Human-readable ten-step build order from kernel definition through ontic closure.</p>
+        <p>Ten-step build order from kernel definition through ontic closure.</p>
       </a>
     </article>
   </li>
   <li>
     <article>
-      <a class="v2-tile" href="{{ '/corpus/construction-map/' | relative_url }}">
-        <h3>Construction Map</h3>
-        <p>Book / part / chapter mapping across the full monograph series.</p>
+      <a class="v2-tile" href="{{ '/corpus/monograph-corpus/' | relative_url }}">
+        <h3>Monograph Corpus</h3>
+        <p>Seven-book narrative projection: Book → Part → Chapter summaries with registry anchors, TauLib links, and construction-step tags.</p>
       </a>
     </article>
   </li>
@@ -151,14 +159,6 @@ The same research body appears through several public projections. The [Construc
       <a class="v2-tile" href="{{ '/corpus/foundational-hinges/' | relative_url }}">
         <h3>Foundational Hinges</h3>
         <p>The reviewer stress-test route for the first mathematical hinges (Steps 1–3).</p>
-      </a>
-    </article>
-  </li>
-  <li>
-    <article>
-      <a class="v2-tile" href="{{ '/corpus/monographs/' | relative_url }}">
-        <h3>Monograph Corpus</h3>
-        <p>Book → Part → Chapter drilldowns with summaries, abstracts, registry anchors, and TauLib links.</p>
       </a>
     </article>
   </li>
@@ -245,27 +245,30 @@ The current registry is the public atomic projection of the corpus. The primary 
   {% endfor %}
 </ul>
 
-## What the corpus is not
+## What the Corpus is not
 
-- not a narrative exposition; see [Publications]({{ '/publications/' | relative_url }})
-- not a list of answer claims; see [Results]({{ '/results/' | relative_url }})
-- not the proof assistant itself; see [Verify]({{ '/verify/' | relative_url }}) and TauLib
-- not static
+- not a claim list; see [Results]({{ '/results/' | relative_url }});
+- not the citable artifact shelf; see [Publications]({{ '/publications/' | relative_url }});
+- not the proof assistant itself; see [TauLib]({{ '/verify/taulib/' | relative_url }}) and [Verify]({{ '/verify/' | relative_url }});
+- not a frozen release; citable snapshots and release artifacts live in [Publications]({{ '/publications/' | relative_url }});
+- not a replacement for verification; see [Verify]({{ '/verify/' | relative_url }}).
 
 ## Structure
 
 <div class="v2-system-strip" aria-label="Corpus structure">
-  <a href="{{ '/corpus/construction-spine/' | relative_url }}">Construction steps</a>
+  <a href="{{ '/corpus/construction-spine/' | relative_url }}">Construction step</a>
   <span>-></span>
-  <a href="{{ '/corpus/registry/' | relative_url }}">Atomic items</a>
+  <a href="{{ '/corpus/monograph-corpus/' | relative_url }}">Monograph part/chapter</a>
   <span>-></span>
-  <a href="{{ '/corpus/graph/' | relative_url }}">Dependencies</a>
+  <a href="{{ '/corpus/registry/' | relative_url }}">Registry object</a>
   <span>-></span>
-  <a href="{{ '/results/' | relative_url }}">Result projections</a>
+  <a href="{{ '/corpus/graph/' | relative_url }}">Dependency relation</a>
   <span>-></span>
-  <a href="{{ '/verify/' | relative_url }}">Verification</a>
+  <a href="{{ '/results/' | relative_url }}">Result surface</a>
   <span>-></span>
-  <a href="{{ '/publications/' | relative_url }}">Release artifacts</a>
+  <a href="{{ '/verify/' | relative_url }}">Verify route</a>
+  <span>-></span>
+  <a href="{{ '/publications/' | relative_url }}">Publication artifact</a>
 </div>
 
 The Corpus lane is the place to ask: what has actually been built, how does one item depend on another, and where does a public result touch the underlying research body?
