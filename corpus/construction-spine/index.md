@@ -102,7 +102,9 @@ The first three construction steps are supported by a foundational hinge route: 
 
 ## End-to-end construction view
 
-The ten steps are not isolated essays. They glue into a single construction chain that starts at the kernel's primitive signature and closes at the boundary collapse where proof and commitment coincide. The chain has four manuscript-grounded arcs:
+The grid above shows the steps as separate tiles for navigation. The same ten steps also form a single construction chain — read here as one continuous build-up so the inheritance pattern is visible at a glance.
+
+The ten steps are not isolated essays. They glue into a single construction chain that starts at the kernel's primitive signature and closes at the boundary collapse where proof and commitment coincide. The chain has three manuscript-grounded arcs and one closing-pattern summary:
 
 ### Arc I — Mathematics (CS-01 → CS-03; Books I–II)
 

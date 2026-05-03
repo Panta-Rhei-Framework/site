@@ -241,7 +241,7 @@ The boundary unit `j` (with `j² = +1`) is forced by bipolar polarity structure:
 
 The **master constant** `ι_τ = 2/(π + e)` is confirmed (II.T25) via the **Archimedean–Non-Archimedean Bridge**: ultrametric refinement (D-depth) and Euclidean resolution (ABC precision) describe the same process from two coordinate perspectives. τ accesses transcendentals without importing `ℝ`.
 
-## What mathematics must be recovered
+### What mathematics must be recovered
 
 The step is successful only if the Corpus can recover enough mathematics for later construction without hiding decisive work in an external background theory.
 
@@ -258,7 +258,7 @@ The main recovered capacities are:
 - scalar-readout bridges;
 - explicit boundary between internal success and standard-mathematical bridge adequacy.
 
-## Address resolution, not calculation
+### Address resolution, not calculation
 
 The core arithmetic hinge is that calculation inside τ is not treated as unrestricted symbolic manipulation over an already-given global algebra. Instead, arithmetic is implemented as finite-witness address resolution. A calculation succeeds when the relevant objects can be resolved to canonical addresses and compared through the kernel's genealogical structure.
 
@@ -268,13 +268,13 @@ Primary paper: [Address Resolution, Not Calculation](/publications/research-pape
 
 Primary role: [Hinge 7](/corpus/foundational-hinges/address-resolution-not-calculation/) — canonical address resolution, genealogical DAG, Cayley metric, arithmetic as finite-witness address resolution.
 
-## Topology and geometry
+### Topology and geometry
 
 After address arithmetic, the Corpus must recover mathematical space. This includes ultrametric topology and Euclidean/Tarski-style geometry. The goal is not to assume a ready-made continuum and place τ inside it. The goal is to show how geometric and topological structure can be read from the kernel's internal construction.
 
 For reviewers, the central question is bridge adequacy: which geometric and topological results are fully internal, which transfer to standard mathematics, and which remain τ-effective or conjectural? The relevant inspection path runs through the Registry, Book I and II locations, and the mathematics verification route.
 
-## Number tower and scalar systems
+### Number tower and scalar systems
 
 The recovered mathematical substrate must include usable scalar systems. Step 2 narrates how τ obtains natural-number structure, object-number structure, rationals, constructive reals, and constructive quaternions, and how these structures support later scalar readouts.
 
@@ -295,7 +295,7 @@ This section does not claim that unrestricted classical number systems are recov
 <p class="formula-fallback"><strong>Plain-text formula:</strong> <code>N_tau -> Q_tau -> R_tau -> H_tau</code>.</p>
 </div>
 
-## The master constant as scalar readout
+### The master constant as scalar readout
 
 The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) is routed through Step 2 because it is the point where kernel structure becomes a scalar readout. It should not be presented first as a physics parameter. It must first be inspected as a structural invariant of the kernel and boundary/scalar machinery.
 
@@ -339,17 +339,6 @@ Primary role: [Hinge 3](/corpus/foundational-hinges/master-constant-iota-tau/) �
 
 Downstream consequence: if this hinge fails, the numerical physics ledger loses its claim to zero-parameter status. The physics ledger may still contain patterns, but it cannot be advertised as kernel-forced in the same sense.
 
-## First red-team questions
-
-- Is arithmetic genuinely recovered as address resolution, or is ordinary arithmetic silently imported?
-- Are normal forms unique and computationally usable under the stated discipline?
-- Does the genealogical DAG carry the claimed mathematical information?
-- Are topology and geometry recovered internally, or merely named by analogy?
-- Which recovered structures are established, which are τ-effective, and which remain conjectural?
-- Are constructive reals and quaternions defined with enough precision to support scalar readouts?
-- Is <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) forced by the scalar/boundary machinery, or fitted after the fact?
-- Which bridges to standard mathematics remain open?
-
 ### The Fork — five comparison modes vs orthodox mathematics
 
 **Book II Part XI** makes the τ-vs-orthodox-mathematics comparison structurally explicit through five modes:
@@ -365,6 +354,17 @@ The **master switch** is a single algebraic sign — `j² = +1` versus `i² = �
 The **structural incompatibility theorem (II.T43)** proves that unique global ω and Archimedean local density cannot coexist: the Fork is not a design decision but a **mathematical necessity**. The master trade-off is **49 gains against 16 costs**, organized by five thematic patterns.
 
 This bookkeeping is the public bridge-adequacy surface. Every τ-result reachable through Step 2 carries a Mode classification: how it relates to orthodox mathematics is an explicit, not implicit, declaration.
+
+## First red-team questions
+
+- Is arithmetic genuinely recovered as address resolution, or is ordinary arithmetic silently imported?
+- Are normal forms unique and computationally usable under the stated discipline?
+- Does the genealogical DAG carry the claimed mathematical information?
+- Are topology and geometry recovered internally, or merely named by analogy?
+- Which recovered structures are established, which are τ-effective, and which remain conjectural?
+- Are constructive reals and quaternions defined with enough precision to support scalar readouts?
+- Is <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) forced by the scalar/boundary machinery, or fitted after the fact?
+- Which bridges to standard mathematics remain open?
 
 ## 4. Why this matches the required answer-shape
 

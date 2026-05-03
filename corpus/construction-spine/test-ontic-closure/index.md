@@ -230,6 +230,8 @@ These are not gaps. They are the discipline.
 
 **This is an internal construction claim, not external acceptance.** Step 10 evaluates whether ontic closure can be earned under τ-discipline. The Inevitability Argument (VII.T55) makes the strongest closure-test claim; the Metaphysical Problem Map honestly classifies what is resolved/reframed/open; the closing question hands off to the reader's commitment register. The construction is claimed to be admissible relative to the required answer-shape; ontic status is *evaluated*, not *assumed*.
 
+The spine ends not with a verdict but with the question that the discipline preserves intact: **what am I willing to live as true?**
+
 ## Registry spine
 
 - `I.K0`
