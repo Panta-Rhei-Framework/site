@@ -18,7 +18,8 @@ NEW_ROUTES = [
 
 LINKED_ROUTES = [
     "/media/",
-    "/media/review-kit/",
+    "/verify/assessment-protocols/",
+    "/engage/review-the-work/",
     "/media/journalist-faq/",
     "/media/social-media-kit/",
     "/discover/",
@@ -166,10 +167,10 @@ def assert_media_surfaces(site: Path) -> None:
     require(media.visible, "Public Research Observatory Brief", "/media/")
     require(media.visible, "Building a Public Research Observatory for High-Scope Open Research", "/media/")
 
-    _, review = read_page(site, "/media/review-kit/")
-    require(review.visible, "Auditing the observatory architecture", "/media/review-kit/")
+    _, review = read_page(site, "/verify/assessment-protocols/")
+    require(review.visible, "Package 3 — Public Research Observatory", "/verify/assessment-protocols/")
     for item in OBSERVATORY_CHECKLIST_ITEMS:
-        require(review.visible, item, "/media/review-kit/")
+        require(review.visible, item, "/verify/assessment-protocols/")
 
     _, faq = read_page(site, "/media/journalist-faq/")
     require(faq.visible, "Package 3: Technical Blueprint / Public Research Observatory", "/media/journalist-faq/")

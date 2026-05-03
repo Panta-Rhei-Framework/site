@@ -15,8 +15,10 @@ right_rail:
       url: "/media/open-research-brief/"
     - title: "Media Kit"
       url: "/media/"
-    - title: "Review Kit"
-      url: "/media/review-kit/"
+    - title: "How to Verify"
+      url: "/verify/how-to-verify/"
+    - title: "Assessment Protocols"
+      url: "/verify/assessment-protocols/"
     - title: "Inspection Observatory"
       url: "/program/about/inspection-observatory/"
     - title: "Agenda"
@@ -76,7 +78,8 @@ Zenodo DOI metadata is prepared, but no DOI has been reserved for this draft rel
 
 - [Open Research Brief]({{ '/media/open-research-brief/' | relative_url }})
 - [Media Kit]({{ '/media/' | relative_url }})
-- [Review Kit]({{ '/media/review-kit/' | relative_url }})
+- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 - [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }})
 - [Agenda]({{ '/program/research-agenda/' | relative_url }})
 - [Corpus]({{ '/corpus/' | relative_url }})
@@ -95,7 +98,7 @@ Before reviewing any individual claim, start with the inspection architecture. T
 
 Program → Agenda → Corpus → Results → Verify
 
-This means: inspect the identity and status, then the obligations, then the construction, then the current result stance, then the verification route. See the [Review Kit]({{ '/media/review-kit/' | relative_url }}) for the first-pass checklist.
+This means: inspect the identity and status, then the obligations, then the construction, then the current result stance, then the verification route. See [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}) for the first-pass inspection route and [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) for structured checklists.
 
 ## License
 

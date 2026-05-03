@@ -209,21 +209,22 @@ def main() -> int:
     ]:
         require(media_visible, needle, "/media/")
 
-    _, review_visible = require_one_h1(site, "/media/review-kit/")
+    _, review_visible = require_one_h1(site, "/verify/how-to-verify/")
     for needle in [
         "Start with the inspection architecture",
         "Program -> Agenda -> Corpus -> Results -> Verify",
-        "First-pass reviewer checklist",
+        "First-pass inspection checklist",
         "Are falsification or failure paths visible?",
         "Is there a route to ask questions or report errors?",
     ]:
-        require(review_visible, needle, "/media/review-kit/")
+        require(review_visible, needle, "/verify/how-to-verify/")
 
     _, observatory_visible = require_one_h1(site, "/program/about/inspection-observatory/")
     for needle in [
         "For journalists and reviewers",
         "Media Kit",
-        "Review Kit",
+        "How to Verify",
+        "Assessment Protocols",
         "Inspection Architecture for High-Scope Open Research",
         "white paper, DOI forthcoming",
     ]:

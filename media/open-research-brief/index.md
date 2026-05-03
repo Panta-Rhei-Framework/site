@@ -14,8 +14,8 @@ right_rail:
       url: /publications/white-papers/inspection-architecture-high-scope-open-research/
     - title: "Media Kit"
       url: /media/
-    - title: "Review Kit"
-      url: /media/review-kit/
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
     - title: "Journalist FAQ"
       url: /media/journalist-faq/
     - title: "Inspection Observatory"
@@ -73,7 +73,8 @@ Panta Rhei has proven its theory, solved its ledgers, or received external scien
 - [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }})
 - [White Paper]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }})
 - [Media Kit]({{ '/media/' | relative_url }})
-- [Review Kit]({{ '/media/review-kit/' | relative_url }})
+- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 - [Agenda]({{ '/program/research-agenda/' | relative_url }})
 - [Corpus]({{ '/corpus/' | relative_url }})
 - [Verify]({{ '/verify/' | relative_url }})

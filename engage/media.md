@@ -9,7 +9,7 @@ permalink: /engage/media/
 summary_short: "Press and public-communication routes for journalists, podcast hosts, editors, and public explainers."
 summary_cards:
   - title: "Press materials"
-    body: "Use the media kit, review kit, concise PDFs, and publication catalogue."
+    body: "Use the media kit, inspection routes, concise PDFs, and publication catalogue."
   - title: "Context first"
     body: "The program should be represented as independent research under scrutiny, not as settled consensus."
   - title: "Direct route"
@@ -24,8 +24,10 @@ right_rail:
       url: /media/journalist-faq/
     - title: "Social Media Kit"
       url: /media/social-media-kit/
-    - title: "Review Kit"
-      url: /media/review-kit/
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
+    - title: "Review the Work"
+      url: /engage/review-the-work/
     - title: "White Papers"
       url: /publications/white-papers/
     - title: "About the Program"
@@ -91,9 +93,13 @@ The shortest accurate framing is: Panta Rhei is an independent open research pro
     <h3>Social Media Kit</h3>
     <p>Suggested posts for X, LinkedIn, Bluesky, Mastodon · hashtags · share-card recommendations · email signature blocks. All CC BY 4.0.</p>
   </a>
-  <a class="v2-tile" href="{{ '/media/review-kit/' | relative_url }}">
-    <h3>Review Kit</h3>
-    <p>Reviewer-facing entry paths, verification surfaces, and audit orientation.</p>
+  <a class="v2-tile" href="{{ '/verify/how-to-verify/' | relative_url }}">
+    <h3>How to Verify</h3>
+    <p>First-pass inspection routes across obligations, construction, results, TauLib, predictions, and protocols.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/review-the-work/' | relative_url }}">
+    <h3>Review the Work</h3>
+    <p>How to offer bounded review, critique, correction, or contribution without implying endorsement.</p>
   </a>
   <a class="v2-tile" href="{{ '/publications/white-papers/' | relative_url }}">
     <h3>White Papers</h3>

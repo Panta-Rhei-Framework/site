@@ -23,8 +23,10 @@ right_rail:
       url: "/verify/"
     - title: "Engage"
       url: "/engage/"
-    - title: "Review Kit"
-      url: "/media/review-kit/"
+    - title: "How to Verify"
+      url: "/verify/how-to-verify/"
+    - title: "Assessment Protocols"
+      url: "/verify/assessment-protocols/"
     - title: "White Papers"
       url: "/publications/white-papers/"
   meta:
@@ -122,7 +124,8 @@ Inspection architecture is not validation. It makes validation, challenge, corre
 - [Corpus]({{ '/corpus/' | relative_url }})
 - [Verify]({{ '/verify/' | relative_url }})
 - [Engage]({{ '/engage/' | relative_url }})
-- [Review Kit]({{ '/media/review-kit/' | relative_url }})
+- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 
 ## For journalists
 

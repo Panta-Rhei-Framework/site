@@ -15,7 +15,9 @@ ROUTES = [
     "/publications/white-papers/inspection-architecture-high-scope-open-research/",
     "/media/open-research-brief/",
     "/media/",
-    "/media/review-kit/",
+    "/verify/how-to-verify/",
+    "/verify/assessment-protocols/",
+    "/engage/review-the-work/",
     "/media/journalist-faq/",
     "/media/social-media-kit/",
     "/program/about/inspection-observatory/",
@@ -143,12 +145,16 @@ def assert_media_order(site: Path) -> None:
     require(visible, "Inspection Architecture for High-Scope Open Research", "/media/")
 
 
-def assert_review_kit(site: Path) -> None:
-    _, parser = read_page(site, "/media/review-kit/")
+def assert_inspection_routes(site: Path) -> None:
+    _, parser = read_page(site, "/verify/how-to-verify/")
     visible = parser.visible
-    require(visible, "inspection-architecture checklist", "/media/review-kit/")
+    require(visible, "Start with the inspection architecture", "/verify/how-to-verify/")
+    require(visible, "First-pass inspection checklist", "/verify/how-to-verify/")
     for item in CHECKLIST_ITEMS:
-        require(visible, item, "/media/review-kit/")
+        require(visible, item, "/verify/how-to-verify/")
+
+    _, protocols = read_page(site, "/verify/assessment-protocols/")
+    require(protocols.visible, "Package 1 — Inspection Architecture", "/verify/assessment-protocols/")
 
 
 def assert_faq_and_social(site: Path) -> None:
@@ -193,7 +199,7 @@ def main() -> int:
     assert_one_h1(site)
     assert_pdf(site)
     assert_media_order(site)
-    assert_review_kit(site)
+    assert_inspection_routes(site)
     assert_faq_and_social(site)
     assert_links(site)
     assert_no_implied_endorsement(site)

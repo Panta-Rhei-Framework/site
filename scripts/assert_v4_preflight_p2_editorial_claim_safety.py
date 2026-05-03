@@ -140,10 +140,10 @@ def main() -> int:
     assert_contains_text(media, "0 in the published formalized modules")
     assert_not_contains_text(media, "220+ quantitative predictions")
     assert_not_contains_text(media, "0 (across all 7 books)")
-    review_kit = html_path(built, "/media/review-kit/")
-    assert_not_contains_text(review_kit, "(0 results)")
-    assert_contains_text(review_kit, "Life-facing results")
-    assert_contains_text(review_kit, "Metaphysics / Philosophy-facing results")
+    how_to_verify = html_path(built, "/verify/how-to-verify/")
+    assert_not_contains_text(how_to_verify, "(0 results)")
+    assert_contains_text(how_to_verify, "Life-facing results")
+    assert_contains_text(how_to_verify, "Metaphysics / Philosophy-facing results")
 
     # Results guides/readouts must carry Results metadata and avoid the old Claims shell wording.
     how_to = html_path(built, "/results/how-to-read-a-result-page/")

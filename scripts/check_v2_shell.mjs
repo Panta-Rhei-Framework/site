@@ -7,7 +7,6 @@ const supportPages = [
   "bibliography/browse/index.html",
   "cite/index.html",
   "media/index.html",
-  "media/review-kit/index.html",
   "credits/index.html",
   "impressum/index.html",
   "datenschutz/index.html",

@@ -187,7 +187,7 @@ def main() -> int:
         "/impact/": "Impact maps what could matter if the work survives inspection.",
         "/engage/": "Engage is where openness becomes operational.",
         "/media/": "Program for identity and doctrine, Agenda for obligations",
-        "/media/review-kit/": "independent open research program dedicated to building a coherent theory of reality",
+        "/verify/how-to-verify/": "Start with the inspection architecture",
     }.items():
         _, visible, parser = read_page(site, route)
         if len(parser.h1) != 1:

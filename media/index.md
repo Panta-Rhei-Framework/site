@@ -8,14 +8,14 @@ support_type: media
 status: canonical
 updated: "April 2026"
 summary: "Resources for journalists, public communicators, and external readers covering the Panta Rhei Research Program."
-summary_short: "Press, podcast, and review resources for the Panta Rhei Research Program."
+summary_short: "Press, podcast, and public-communication resources for the Panta Rhei Research Program."
 summary_cards:
 - title: "What this is"
-  body: "Downloadable materials, press resources, and structured entry surfaces for journalists, podcast hosts, reviewers, and institutions."
+  body: "Downloadable materials, press resources, and structured entry surfaces for journalists, podcast hosts, public communicators, and institutions."
 - title: "Current release"
   body: "Seven-book monograph series (2nd Edition, April 2026), TauLib formalization, research website."
 - title: "Contact"
-  body: "press@panta-rhei.site for journalists, review@ for peer review"
+  body: "press@panta-rhei.site for journalists; review@ for structured review / technical inspection."
 right_rail:
   related:
   - title: Story Angles
@@ -24,8 +24,12 @@ right_rail:
     url: /media/journalist-faq/
   - title: Social Media Kit
     url: /media/social-media-kit/
-  - title: Review Kit
-    url: /media/review-kit/
+  - title: How to Verify
+    url: /verify/how-to-verify/
+  - title: Assessment Protocols
+    url: /verify/assessment-protocols/
+  - title: Review the Work
+    url: /engage/review-the-work/
   - title: Open Research Brief
     url: /media/open-research-brief/
   - title: Theory of Reality Brief
@@ -132,7 +136,7 @@ For the full Package 3 framing, read the [Public Research Observatory Brief]({{ 
 
 ## What this is
 
-This page gathers public materials for journalists, podcast hosts, public communicators, reviewers, and institutional readers. It is an entry surface into the current public site, not a replacement for the canonical lanes.
+This page gathers public materials for journalists, podcast hosts, public communicators, and institutional readers. It is an entry surface into the current public site, not a replacement for the canonical lanes.
 
 The program's canonical release (April 2026) includes:
 - A **{% include release-metric.html id="publications.books" %}-book monograph series** ({% include release-metric.html id="publications.pages" %} print pages, available on Amazon KDP)
@@ -143,6 +147,16 @@ The program's canonical release (April 2026) includes:
 ## What this is not
 
 This media kit is not a peer-review certificate, not a claim that every result is settled, and not a shortcut around the verification surfaces. Use it for orientation, then follow the relevant Program, Agenda, Corpus, Results, Verify, and Publications routes.
+
+## Review and inspection routes
+
+Panta Rhei is not reviewed through one standalone kit. It is inspected through bounded routes:
+
+- [Verify]({{ '/verify/' | relative_url }}) explains how obligations, construction steps, results, formalization, bridges, predictions, and falsification paths can be checked.
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) provide structured manual and LLM-assisted workflows.
+- [Engage → Review the Work]({{ '/engage/review-the-work/' | relative_url }}) explains how to offer bounded review, critique, correction, or contribution without implying endorsement.
+
+Start with [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}), [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}), or [Review the Work]({{ '/engage/review-the-work/' | relative_url }}).
 
 ---
 
@@ -173,9 +187,17 @@ This media kit is not a peer-review certificate, not a claim that every result i
     <h3>Social Media Kit</h3>
     <p>Suggested posts for X, LinkedIn, Bluesky, Mastodon · hashtags · share-card recommendations · email signature blocks. All CC BY 4.0.</p>
   </a>
-  <a class="v2-tile" href="{{ '/media/review-kit/' | relative_url }}">
-    <h3>Review Kit</h3>
-    <p>Reviewer-facing entry paths, verification surfaces, audit orientation, domain-specific paths, suggested first-pass workflow.</p>
+  <a class="v2-tile" href="{{ '/verify/how-to-verify/' | relative_url }}">
+    <h3>How to Verify</h3>
+    <p>Practical entry points for inspecting the program from obligations, construction steps, results, TauLib, predictions, and protocols.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/verify/assessment-protocols/' | relative_url }}">
+    <h3>Assessment Protocols</h3>
+    <p>Structured manual and LLM-assisted review workflows for holding claims accountable.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/review-the-work/' | relative_url }}">
+    <h3>Review the Work</h3>
+    <p>How to offer bounded review, critique, correction, or contribution without implying endorsement.</p>
   </a>
   <a class="v2-tile" href="{{ '/media/posters/' | relative_url }}">
     <h3>Scientific Plates</h3>
@@ -345,8 +367,8 @@ For social-media share cards, see [Social Media Kit → Share cards]({{ '/media/
 
 **Institutional contact**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site)
 
-**Peer review**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
+**Structured review / technical inspection**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
 
 **Errata & corrections**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
 
-See also: [Journalist FAQ]({{ '/media/journalist-faq/' | relative_url }}) for press Q&A, [Story Angles]({{ '/media/story-angles/' | relative_url }}) for suggested framings, [Social Media Kit]({{ '/media/social-media-kit/' | relative_url }}) for share-ready posts, [Review Kit]({{ '/media/review-kit/' | relative_url }}) for reviewer-specific entry paths, [Engage · Media]({{ '/engage/media/' | relative_url }}) for press and public-communication context, and [Engage · Contact]({{ '/engage/contact/' | relative_url }}) for the full list of topic-specific routes.
+See also: [Journalist FAQ]({{ '/media/journalist-faq/' | relative_url }}) for press Q&A, [Story Angles]({{ '/media/story-angles/' | relative_url }}) for suggested framings, [Social Media Kit]({{ '/media/social-media-kit/' | relative_url }}) for share-ready posts, [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}) and [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) for inspection routes, [Engage · Review the Work]({{ '/engage/review-the-work/' | relative_url }}) for bounded review, and [Engage · Contact]({{ '/engage/contact/' | relative_url }}) for the full list of topic-specific routes.
