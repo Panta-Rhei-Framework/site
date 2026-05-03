@@ -19,7 +19,7 @@ ALT = (
 CANONICAL_CAPTION = (
     "Results are not isolated claims. They are consequences of the built Corpus, "
     "organized through Landmark Results, World Readouts, Problem Ledger Answers, "
-    "Recovery Target Status, Additional Derived Results, and Progress Against Agenda, "
+    "Core Semantics Status, Additional Derived Results, and Progress Against Agenda, "
     "with internal status labels separated from external acceptance."
 )
 
@@ -122,8 +122,8 @@ def main() -> int:
         ],
         "/results/progress-against-agenda/": [
             "Progress as a Results surface",
-            "Progress Against Agenda is one of the Results surfaces: a dashboard over obligations, recovery targets, and current program stance.",
-            "Progress Against Agenda tracks current program stance against public obligations and recovery targets.",
+            "Progress Against Agenda is one of the Results surfaces: a dashboard over obligations, core semantic targets, and current program stance.",
+            "Progress Against Agenda tracks current program stance against public obligations and core semantic targets.",
         ],
     }
 

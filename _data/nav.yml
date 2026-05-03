@@ -111,7 +111,7 @@ lane_nav:
                 url: "/program/research-agenda/problem-ledger/life/"
               - title: "Metaphysics / Philosophy"
                 url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/"
-          - title: "Recovery Requirements"
+          - title: "Core Semantics"
             url: "/program/research-agenda/recovery-requirements/"
             children:
               - title: "Mathematics"
@@ -283,7 +283,7 @@ lane_nav:
             children:
               - title: "Landmarks"
                 url: "/results/world-readout/mathematics/"
-              - title: "Recovery Targets"
+              - title: "Core Semantics"
                 url: "/results/recovery-target-status/mathematics/"
               - title: "Problem Answers"
                 url: "/results/problem-ledger-answers/mathematics/"
@@ -309,7 +309,7 @@ lane_nav:
                 url: "/results/life/glossary/"
               - title: "Calibration Tree"
                 url: "/results/life/cascade/"
-              - title: "Recovery Targets"
+              - title: "Core Semantics"
                 url: "/results/recovery-target-status/life/"
           - title: "Metaphysics"
             url: "/results/metaphysics/"
@@ -320,7 +320,7 @@ lane_nav:
                 url: "/results/metaphysics/glossary/"
               - title: "Architecture"
                 url: "/results/metaphysics/cascade/"
-              - title: "Recovery Targets"
+              - title: "Core Semantics"
                 url: "/results/recovery-target-status/metaphysics/"
       - title: "Cross-cutting"
         links:
@@ -328,7 +328,7 @@ lane_nav:
             url: "/results/landmark-results/"
           - title: "Problem Ledger Answers"
             url: "/results/problem-ledger-answers/"
-          - title: "Recovery Target Status"
+          - title: "Core Semantics Status"
             url: "/results/recovery-target-status/"
           - title: "Progress Against Agenda"
             url: "/results/progress-against-agenda/"
@@ -390,7 +390,7 @@ lane_nav:
           - title: "Life"
             url: "/verify/domain-verification/life/"
             children:
-              - title: "Life Recovery Requirements"
+              - title: "Life Core Semantics"
                 url: "/program/research-agenda/recovery-requirements/life/"
               - title: "How to Audit (Philosopher)"
                 url: "/verify/how-to-audit/philosopher/"

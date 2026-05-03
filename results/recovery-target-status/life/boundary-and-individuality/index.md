@@ -4,13 +4,13 @@ title: "Boundary and Individuality"
 permalink: "/results/recovery-target-status/life/boundary-and-individuality/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Boundary and Individuality."
+summary_short: "Current Results-side Core Semantics status for Boundary and Individuality."
 canonical_recovery_id: "LREC-L1"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "LREC-L1"
 - Verification state: **Pending life verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Boundary and Individuality
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending life verification**
 - Program ledger item: [LREC-L1](/program/research-agenda/recovery-requirements/life/boundary-and-individuality/)
 - Verification mode: `life_structural_recovery_target`

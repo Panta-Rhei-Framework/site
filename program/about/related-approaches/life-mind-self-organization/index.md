@@ -58,9 +58,9 @@ The shared pressure is that life and mind cannot be handled as optional decorati
 
 Panta Rhei does not begin with life, inference, or consciousness as primitives.
 
-It treats life, mind, language, and theoryhood as necessary recovery targets because a theory of reality must include the conditions under which theories can exist inside reality.
+It treats life, mind, language, and theoryhood as necessary core semantic targets because a theory of reality must include the conditions under which theories can exist inside reality.
 
-Panta Rhei includes life, mind, and language not to broaden the theory rhetorically, but because theoryhood itself must be recovered from within reality.
+Panta Rhei includes life, mind, and language not to broaden the theory rhetorically, but because theoryhood itself must be accounted for from within reality.
 
 ## Where to inspect next
 

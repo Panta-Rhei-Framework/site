@@ -23,6 +23,9 @@
 {%- when 'result-page' -%}
 {% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}{{ page.title }} — Key result in the {{ page.layer | default: page.domain_group }} domain.{% endif %}
 
+{%- when 'recovery-requirement-item' -%}
+{% if page.item_type == "mathematical_refusal" %}Mathematical refusal in Core Semantics: {{ page.title }}.{% else %}{{ page.display_domain | default: page.domain | capitalize }} Core Semantics item: {{ page.title }}.{% endif %}
+
 {%- when 'publication-book' -%}
 {{ page.title }}{% if page.subtitle %} — {{ page.subtitle }}{% endif %}. Book {{ page.book_id }} of the Panta Rhei Research Program, 2nd Edition (2026).
 

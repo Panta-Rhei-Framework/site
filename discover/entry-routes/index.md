@@ -51,7 +51,7 @@ The site is large because the research system has several public projections. Ch
   </a>
   <a class="v2-tile" href="{{ '/results/progress-against-agenda/' | relative_url }}">
     <h3>I want the current status against the agenda</h3>
-    <p>Start with Progress Against Agenda, then move to Problem Ledger Answers and Recovery Target Status.</p>
+    <p>Start with Progress Against Agenda, then move to Problem Ledger Answers and Core Semantics Status.</p>
   </a>
   <a class="v2-tile" href="{{ '/publications/' | relative_url }}">
     <h3>I want the published artifacts</h3>

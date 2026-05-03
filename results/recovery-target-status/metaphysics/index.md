@@ -1,15 +1,15 @@
 ---
 layout: "program-doc"
-title: "Recovery Target Status: Metaphysics"
+title: "Core Semantics Status: Metaphysics"
 permalink: "/results/recovery-target-status/metaphysics/"
 lane: "results"
 v2_lane: "results"
 type: "Result Mirror Domain"
 status: "Canonical"
-summary_short: "Current recovery status for Metaphysics targets."
+summary_short: "Current Core Semantics status for Metaphysics targets."
 ---
 
-<div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
+<div class="notice note"><strong>Status note.</strong> Core Semantics status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items
 

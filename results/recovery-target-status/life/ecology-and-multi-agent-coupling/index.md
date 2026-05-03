@@ -4,13 +4,13 @@ title: "Ecology and Multi-Agent Coupling"
 permalink: "/results/recovery-target-status/life/ecology-and-multi-agent-coupling/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Ecology and Multi-Agent Coupling."
+summary_short: "Current Results-side Core Semantics status for Ecology and Multi-Agent Coupling."
 canonical_recovery_id: "LREC-L8"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "LREC-L8"
 - Verification state: **Pending life verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Ecology and Multi-Agent Coupling
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending life verification**
 - Program ledger item: [LREC-L8](/program/research-agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/)
 - Verification mode: `life_structural_recovery_target`

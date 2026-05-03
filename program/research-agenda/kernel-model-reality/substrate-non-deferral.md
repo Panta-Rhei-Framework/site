@@ -28,7 +28,7 @@ right_rail:
       url: /program/research-agenda/kernel-model-reality/no-externalities/
     - title: "Diagrammatic Access"
       url: /program/research-agenda/kernel-model-reality/diagrammatic-access/
-    - title: "Physics Recovery Requirements"
+    - title: "Physics Core Semantics"
       url: /program/research-agenda/recovery-requirements/physics/
     - title: "Formal Verification Stack"
       url: /verify/formal-verification-stack/

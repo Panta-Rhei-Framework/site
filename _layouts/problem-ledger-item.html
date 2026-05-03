@@ -190,14 +190,14 @@ layout: default
       {% endif %}
     </div>
 
-    <h2>Related Recovery Requirements</h2>
+    <h2>Related Core Semantic Targets</h2>
     <div class="dep-list">
       {% if page.related.recovery_requirements.size > 0 %}
       {% for recovery_id in page.related.recovery_requirements %}
       <div class="dep-link"><span class="dep-id">Recovery</span><span class="dep-title">{{ recovery_id }}</span></div>
       {% endfor %}
       {% else %}
-      <div class="dep-link"><span class="dep-id">Recovery</span><span class="dep-title">No Recovery Requirement mapping yet</span></div>
+      <div class="dep-link"><span class="dep-id">Core Semantics</span><span class="dep-title">No Core Semantics mapping yet</span></div>
       {% endif %}
     </div>
 

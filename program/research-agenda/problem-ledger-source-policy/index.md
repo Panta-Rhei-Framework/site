@@ -11,7 +11,7 @@ right_rail:
   related:
     - title: "Problem Ledger"
       url: /program/research-agenda/problem-ledger/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Results Mirror"
       url: /results/problem-ledger-answers/
@@ -26,9 +26,9 @@ right_rail:
 
 The Problem Ledger exists to keep the Research Agenda accountable to external stress tests. It is not a list of preferred victories. It is a source-pinned record of problems the program agrees should remain visible.
 
-## Open problems vs recovery requirements
+## Open problems vs Core Semantics
 
-Open problems test whether the kernel illuminates what is not yet settled. Recovery requirements test whether the kernel recovers what is already established and must not be broken.
+Open problems test whether the kernel illuminates what is not yet settled. Core Semantics tests whether the theory earns the language those problems presuppose: what must be carried, refined, retyped, bridged, replaced, or explicitly challenged.
 
 The two burdens are related, but they are not the same ledger.
 

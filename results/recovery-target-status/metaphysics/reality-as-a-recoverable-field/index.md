@@ -4,13 +4,13 @@ title: "Reality as a Recoverable Field"
 permalink: "/results/recovery-target-status/metaphysics/reality-as-a-recoverable-field/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Reality as a Recoverable Field."
+summary_short: "Current Results-side Core Semantics status for Reality as a Recoverable Field."
 canonical_recovery_id: "METH-R0"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R0"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Reality as a Recoverable Field
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R0](/program/research-agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/)
 - Verification mode: `metaphysical_recovery_target`

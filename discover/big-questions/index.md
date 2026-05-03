@@ -11,7 +11,7 @@ tags:
   - discover
   - research-agenda
   - problem-ledger
-  - recovery-requirements
+  - core-semantics
   - construction-roadmap
   - construction-spine
 right_rail:
@@ -20,7 +20,7 @@ right_rail:
       url: /program/research-agenda/
     - title: "Problem Ledger Source Policy"
       url: /program/research-agenda/problem-ledger-source-policy/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Kernel, Model & Reality"
       url: /program/research-agenda/kernel-model-reality/
@@ -70,7 +70,7 @@ This page is not the full research agenda and not the full Results ledger. It is
 The questions are not left as broad prompts. They are organized into four Research Agenda surfaces:
 
 - Problem Ledger - open and foundational problems the kernel must be able to see, classify, address, or reframe.
-- Recovery Requirements - known structures the kernel must recover before it can be taken seriously.
+- Core Semantics - the language the theory must earn before it can answer.
 - Kernel, Model & Reality - ontic-status burden, no externalities, diagrammatic access, and answer-shape requirements.
 - Construction Roadmap - the logical build-order required by the program's own goals.
 
@@ -79,7 +79,7 @@ The questions are not left as broad prompts. They are organized into four Resear
 Use the [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) for the full research contract:
 
 - [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) for external stress-test questions.
-- [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) for what the kernel must recover.
+- [Core Semantics]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) for the domain language the theory must earn.
 - [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) for the ontic-status burden.
 - [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for the logical build-order.
 

@@ -17,7 +17,7 @@ right_rail:
       url: /results/metaphysics/
     - title: "Kernel, Model & Reality"
       url: /program/research-agenda/kernel-model-reality/
-    - title: "Metaphysics Recovery Requirements"
+    - title: "Metaphysics Core Semantics"
       url: /program/research-agenda/recovery-requirements/metaphysics/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
@@ -92,9 +92,9 @@ glossary_term_ids:
     <p>68 entries across registers / principles / architecture / ontology / commitment / phenomenology.</p>
   </a>
   <a class="v2-tile v2-tile-metaphysics" href="{{ '/program/research-agenda/recovery-requirements/metaphysics/' | relative_url }}">
-    <span class="eyebrow">Recovery</span>
-    <h3>Metaphysics Recovery Requirements</h3>
-    <p>Categorical structures the kernel must rederive (recovery targets + status).</p>
+    <span class="eyebrow">Semantics</span>
+    <h3>Metaphysics Core Semantics</h3>
+    <p>Core semantic targets the theory must earn, with current status separated from verification and external acceptance.</p>
   </a>
   <a class="v2-tile v2-tile-metaphysics" href="{{ '/verify/how-to-audit/philosopher/' | relative_url }}">
     <span class="eyebrow">Audit</span>

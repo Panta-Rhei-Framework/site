@@ -4,13 +4,13 @@ title: "Fundamental Constants"
 permalink: "/results/recovery-target-status/physics/fundamental-constants/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Fundamental Constants."
+summary_short: "Current Results-side Core Semantics status for Fundamental Constants."
 canonical_recovery_id: "PREC-P4"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "PREC-P4"
 - Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Fundamental Constants
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P4](/program/research-agenda/recovery-requirements/physics/fundamental-constants/)
 - Verification mode: `constants_and_calibration_review`

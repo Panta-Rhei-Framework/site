@@ -142,7 +142,7 @@ def main() -> int:
         "Program definition",
         "The four agenda surfaces",
         "Problem Ledger",
-        "Recovery Requirements",
+        "Core Semantics",
         "Kernel, Model & Reality",
         "Construction Roadmap",
         "Together, these four surfaces define the public research contract",

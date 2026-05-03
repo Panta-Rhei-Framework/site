@@ -54,12 +54,12 @@
     - /discover/
   caption: >
     The Research Agenda is the program's public obligation layer: it records
-    the open problems, recovery requirements, answer-shape burden, and
+    the open problems, core semantic obligations, answer-shape burden, and
     construction order that must be stated before Results are read as consequences.
   alt: >
     Scientific plate titled The Public Obligation Layer, showing the Research Agenda
     as a public research contract connected to four surfaces: Problem Ledger,
-    Recovery Requirements, Kernel, Model & Reality, and Construction Roadmap.
+    Core Semantics, Kernel, Model & Reality, and Construction Roadmap.
 - id: plate-04-construction-spine
   title: The Construction Spine
   status: published
@@ -97,7 +97,7 @@
   caption: >
     Results are not isolated claims. They are consequences of the built Corpus,
     organized through Landmark Results, World Readouts, Problem Ledger Answers,
-    Recovery Target Status, Additional Derived Results, and Progress Against Agenda,
+    Core Semantics Status, Additional Derived Results, and Progress Against Agenda,
     with internal status labels separated from external acceptance.
   alt: >
     Scientific plate titled The Results World Readout, showing Results at the center

@@ -51,7 +51,7 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
     </a>
     <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
       <h3>Agenda</h3>
-      <p>Obligations: what must be asked, recovered, built, refused, answered, and left open.</p>
+      <p>Obligations: what language must be earned, what questions must be faced, what answer could count, and what must be built.</p>
     </a>
     <a class="v2-tile" href="{{ '/corpus/' | relative_url }}">
       <h3>Corpus</h3>
@@ -59,7 +59,7 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
     </a>
     <a class="v2-tile" href="{{ '/results/' | relative_url }}">
       <h3>Results</h3>
-      <p>Consequences: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</p>
+      <p>Consequences: Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, and Progress Against Agenda.</p>
     </a>
     <a class="v2-tile" href="{{ '/verify/' | relative_url }}">
       <h3>Verify</h3>
@@ -115,11 +115,11 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
   <h2>One research program, several public surfaces</h2>
   <p>Agenda states the burden. Corpus carries the construction. Results presents current consequence surfaces. Verify exposes formal, empirical, bridge, and review routes. Publications crystallize selected surfaces into citable artifacts.</p>
   <div class="v2-system-strip">
-    <div class="v2-system-node"><strong>Agenda</strong>Problem ledgers, recovery requirements, answer-shape discipline, and construction roadmap.</div>
+    <div class="v2-system-node"><strong>Agenda</strong>Problem ledgers, core semantic obligations, answer-shape discipline, and construction roadmap.</div>
     <div class="v2-system-node"><strong>Kernel</strong>Five generators, one operator, and K0-K6 axioms, with the foundational-hinge route.</div>
     <div class="v2-system-node"><strong>Corpus</strong>{% include release-metric.html id="registry.registry_total.grand_total" %} registry objects, monograph drilldowns, construction spine, foundational hinges, and dependency graph.</div>
     <div class="v2-system-node"><strong>TauLib</strong>Pinned Lean&nbsp;4 formalization with {% include release-metric.html id="taulib.modules" %} modules, {% include release-metric.html id="taulib.sorry" %} sorry, and {% include release-metric.html id="taulib.custom_axioms" %} custom axioms in Book&nbsp;III bridge territory.</div>
-    <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</div>
+    <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, and Progress Against Agenda.</div>
     <div class="v2-system-node"><strong>Verify</strong>Release Manifest, audit routes, prediction timing, falsification pack, and TCB disclosure.</div>
     <div class="v2-system-node"><strong>Publications</strong>Research Monographs, research papers, supplements, notes, briefings, white papers, release artifacts, and errata.</div>
   </div>

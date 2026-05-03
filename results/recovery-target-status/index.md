@@ -1,19 +1,20 @@
 ---
 layout: "program-doc"
-title: "Recovery Target Status"
+title: "Core Semantics Status"
+title_plain: "Core Semantics Status"
 permalink: "/results/recovery-target-status/"
 lane: "results"
 v2_lane: "results"
 type: "Result Mirror"
 status: "Canonical"
-summary_short: "Current Results-side status against public Recovery Requirements."
+summary_short: "Current Results-side status against public Core Semantics obligations."
 ---
 
-> Current program status against the structures the kernel promised to recover.
+> Current program status against the semantic load the theory must earn before it can answer.
 
-This is the Results-side mirror of the Program-side Recovery Requirements ledger. Recovery requirements remain obligations; this surface reports their current public status.
+This is the Results-side mirror of the Program-side Core Semantics surface. Core semantic targets remain obligations; this surface reports their current public status.
 
-<div class="notice note"><strong>Status note.</strong> Partial or internally addressed recovery is not the same as formal verification or external acceptance.</div>
+<div class="notice note"><strong>Status note.</strong> Partial or internally addressed Core Semantics status is not the same as formal verification or external acceptance.</div>
 
 ## Browse by domain
 
@@ -30,14 +31,14 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
   {% elsif not_applicable_count >= partial_count and not_applicable_count >= pending_count %}
     {% assign dominant_status = "Not applicable / refused" %}
   {% else %}
-    {% assign dominant_status = "Pending recovery" %}
+    {% assign dominant_status = "Pending Core Semantics" %}
   {% endif %}
   <li>
     <article class="v2-tile">
       <h3>{{ domain | replace: '-', ' ' | capitalize }}</h3>
-      <p>{{ domain_items | size }} public recovery/refusal item{% unless domain_items.size == 1 %}s{% endunless %}.</p>
+      <p>{{ domain_items | size }} public core semantic/refusal item{% unless domain_items.size == 1 %}s{% endunless %}.</p>
       <p><strong>Dominant status:</strong> {{ dominant_status }}</p>
-      <p><a href="{{ '/results/recovery-target-status/' | append: domain | append: '/' | relative_url }}">Results mirror</a> · <a href="{{ '/program/research-agenda/recovery-requirements/' | append: domain | append: '/' | relative_url }}">Recovery Requirements</a></p>
+      <p><a href="{{ '/results/recovery-target-status/' | append: domain | append: '/' | relative_url }}">Results mirror</a> · <a href="{{ '/program/research-agenda/recovery-requirements/' | append: domain | append: '/' | relative_url }}">Core Semantics</a></p>
     </article>
   </li>
 {% endfor %}

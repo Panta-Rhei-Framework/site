@@ -138,7 +138,7 @@ def main() -> int:
         "Panta Rhei is currently:",
         "organized through the v4 public spine",
         "with Publications preserved as the stable artifact and release layer",
-        "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
+        "publicly inspectable through Problem Ledger v1.0, Core Semantics, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
         "open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email",
         "not socially settled and not a substitute for expert peer review",
         "Corpus shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph",

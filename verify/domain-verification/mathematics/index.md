@@ -109,7 +109,7 @@ glossary_term_ids:
   <a class="v2-tile v2-tile-mathematics" href="{{ '/results/mathematics/' | relative_url }}">
     <span class="eyebrow">Results</span>
     <h3>Mathematics Results Hub</h3>
-    <p>Landmark theorems, world readout, and recovery targets for the mathematics layer.</p>
+    <p>Landmark theorems, world readout, and core semantic targets for the mathematics layer.</p>
   </a>
 </div>
 
@@ -143,7 +143,7 @@ Any theorem claimed as formally certified is certified in the precise sense stat
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/results/mathematics/' | relative_url }}">
     <strong>Results · Mathematics</strong>
-    <span>Hub for mathematics-domain results, world readout, and recovery targets.</span>
+    <span>Hub for mathematics-domain results, world readout, and core semantic targets.</span>
   </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <strong>Corpus Registry</strong>

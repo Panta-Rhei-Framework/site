@@ -1,15 +1,15 @@
 ---
 layout: "program-doc"
-title: "Recovery Target Status: Mathematics"
+title: "Core Semantics Status: Mathematics"
 permalink: "/results/recovery-target-status/mathematics/"
 lane: "results"
 v2_lane: "results"
 type: "Result Mirror Domain"
 status: "Canonical"
-summary_short: "Current recovery status for Mathematics targets."
+summary_short: "Current Core Semantics status for Mathematics targets."
 ---
 
-<div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
+<div class="notice note"><strong>Status note.</strong> Core Semantics status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items
 

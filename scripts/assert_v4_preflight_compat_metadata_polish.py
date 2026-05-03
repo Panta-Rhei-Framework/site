@@ -110,7 +110,7 @@ def main() -> int:
 
     recovery = read(repo / "program" / "research-agenda" / "recovery-requirements" / "index.md")
     if "label: \"Metaphysics\"" not in recovery:
-        fail("Recovery Requirements hero CTAs must include Metaphysics")
+        fail("Core Semantics hero CTAs must include Metaphysics")
 
     source_policy = repo / "program" / "research-agenda" / "problem-ledger-source-policy" / "index.md"
     assert_contains_source(source_policy, "url: /results/problem-ledger-answers/")

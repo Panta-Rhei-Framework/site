@@ -4,13 +4,13 @@ title: "Modality: Possibility, Necessity, and Contingency"
 permalink: "/results/recovery-target-status/metaphysics/modality-possibility-necessity-and-contingency/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Modality: Possibility, Necessity, and Contingency."
+summary_short: "Current Results-side Core Semantics status for Modality: Possibility, Necessity, and Contingency."
 canonical_recovery_id: "METH-R5"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R5"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Modality: Possibility, Necessity, and Contingency
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R5](/program/research-agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/)
 - Verification mode: `metaphysical_recovery_target`

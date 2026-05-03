@@ -105,7 +105,7 @@ def main() -> int:
     visible = normalize(" ".join(page.text))
     assert_contains(visible, "Research Monographs, a structured Corpus, typed Results, verification routes, and empirical challenge commitments.", "/")
     assert_contains(visible, "Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.", "/")
-    assert_contains(visible, "Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.", "/")
+    assert_contains(visible, "Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, Additional Derived Results, and Progress Against Agenda.", "/")
     assert_not_contains(visible, "books, a structured research corpus, typed results", "/")
     assert_not_contains(visible, "Typed answer surfaces, problem mappings, and world readouts", "/")
 

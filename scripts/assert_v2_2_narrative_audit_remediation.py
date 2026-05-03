@@ -139,7 +139,7 @@ def main() -> int:
 
     _, visible, _ = read_page(site, "/")
     require(visible, "independent open research program dedicated to building a coherent theory of reality", "/")
-    require(visible, "Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.", "/")
+    require(visible, "Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, and Progress Against Agenda.", "/")
     forbid(visible, "Typed answer surfaces and problem mappings.", "/")
 
     _, visible, parser = read_page(site, "/program/")
@@ -147,9 +147,9 @@ def main() -> int:
     for needle in [
         "organized through the v4 public spine",
         "with Publications preserved as the stable artifact and release layer",
-        "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
+        "publicly inspectable through Problem Ledger v1.0, Core Semantics, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
         "GitHub Discussions, Issues, Pull Requests, and email",
-        "Agenda states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.",
+        "Agenda states the burden of proof: Problem Ledger, Core Semantics, Kernel/Model/Reality, and Construction Roadmap.",
         "Publications provides stable artifacts: Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.",
     ]:
         require(visible, needle, "/program/")

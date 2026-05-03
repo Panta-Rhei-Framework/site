@@ -4,13 +4,13 @@ title: "SI / Empirical Calibration Bridge"
 permalink: "/results/recovery-target-status/physics/si-empirical-calibration-bridge/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for SI / Empirical Calibration Bridge."
+summary_short: "Current Results-side Core Semantics status for SI / Empirical Calibration Bridge."
 canonical_recovery_id: "PREC-P3"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "PREC-P3"
 - Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 SI / Empirical Calibration Bridge
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P3](/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/)
 - Verification mode: `si_bridge_and_calibration`

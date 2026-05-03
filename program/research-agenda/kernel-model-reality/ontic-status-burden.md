@@ -26,7 +26,7 @@ right_rail:
       url: /program/research-agenda/kernel-model-reality/
     - title: "Kant, Phenomena & Noumena"
       url: /program/research-agenda/kernel-model-reality/kant-phenomena-noumena/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Problem Ledger"
       url: /program/research-agenda/problem-ledger/

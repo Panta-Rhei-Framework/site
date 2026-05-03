@@ -17,7 +17,7 @@ right_rail:
       url: /verify/predictions-and-falsification/
     - title: "Numerical Physics Ledger"
       url: /publications/monograph-supplements/numerical-physics-ledger/
-    - title: "Physics Recovery Requirements"
+    - title: "Physics Core Semantics"
       url: /program/research-agenda/recovery-requirements/physics/
     - title: "Physics Results"
       url: /results/physics/

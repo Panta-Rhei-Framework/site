@@ -59,7 +59,7 @@ The first story is the inspection standard.
 
 Open science makes research more accessible and shareable, but it raises a hard question: how should journalists, researchers, and readers assess high-scope claims from outside ordinary institutional channels?
 
-Panta Rhei can be covered as a case study in inspection architecture: a public research observatory exposing its Program doctrine, Agenda, source-pinned Problem Ledger, Recovery Requirements, Construction Spine, Corpus, TauLib formalization, Results, status markers, prediction/falsification surfaces, errata, and assessment protocols.
+Panta Rhei can be covered as a case study in inspection architecture: a public research observatory exposing its Program doctrine, Agenda, source-pinned Problem Ledger, Core Semantics, Construction Spine, Corpus, TauLib formalization, Results, status markers, prediction/falsification surfaces, errata, and assessment protocols.
 
 For comparisons with neighboring structural, computational, geometric, life, consciousness, and metaphysical programs, use [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}). It is a positioning map, not a takedown.
 
@@ -72,7 +72,7 @@ Suggested framing:
 - Panta Rhei has built an unusually structured public interface for inspecting a high-scope research program.
 - The site exposes Program, Agenda, Corpus, Results, Verify, Impact, and Engage surfaces.
 - It distinguishes internal program results from external verification or acceptance.
-- It provides source-pinned problem ledgers, recovery requirements, formalization surfaces, predictions, falsification paths, and correction routes.
+- It provides source-pinned problem ledgers, core semantic obligations, formalization surfaces, predictions, falsification paths, and correction routes.
 - Its inspection architecture is itself a public-facing artifact.
 
 ## What should not be said without further review
@@ -216,7 +216,7 @@ The program publishes its research papers as standalone PDFs under [`/publicatio
 - [Program]({{ '/program/' | relative_url }}) — identity, doctrine, scope, status, and inspection-observatory rationale.
 - [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}) — the short public doctrine behind the canonical v4 statement.
 - [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }}) — why the site asks first for structured inspection.
-- [Agenda]({{ '/program/research-agenda/' | relative_url }}) — obligations, problem ledgers, recovery requirements, and construction roadmap.
+- [Agenda]({{ '/program/research-agenda/' | relative_url }}) — obligations, problem ledgers, core semantic obligations, and construction roadmap.
 - [Corpus]({{ '/corpus/' | relative_url }}) — central research artifact and registry projection.
 - [Results]({{ '/results/' | relative_url }}) — typed answer surfaces and world readouts.
 - [Verify]({{ '/verify/' | relative_url }}) — formalization, falsification, and assessment protocols.

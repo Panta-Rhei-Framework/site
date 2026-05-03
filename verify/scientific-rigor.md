@@ -49,7 +49,7 @@ Before asking whether a specific result is true, a reviewer can ask whether the 
 <div class="v2-grid v2-grid-2">
   <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
     <h3>Agenda accountability</h3>
-    <p>Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap name the obligations before results are defended.</p>
+    <p>Problem Ledger, Core Semantics, Kernel/Model/Reality, and Construction Roadmap name the obligations before results are defended.</p>
   </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <h3>Corpus traceability</h3>

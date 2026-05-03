@@ -1,22 +1,23 @@
 ---
 layout: program-doc
-title: "Mathematics Recovery Requirements"
-lane: program
-v2_lane: program
+title: "Mathematics Core Semantics"
+title_plain: "Mathematics Core Semantics"
+lane: agenda
+v2_lane: agenda
 section: research-agenda
-type: "Recovery Domain"
+type: "Core Semantic Domain"
 status: "Canonical"
-summary_short: "What the tau-kernel must recover mathematically before it can function as a foundation for reality-description."
+summary_short: "The mathematical language the tau-kernel must earn before it can function as a foundation for reality-description."
 right_rail:
   related:
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Mathematical Refusals"
       url: /program/research-agenda/recovery-requirements/mathematics/refusals/
     - title: "Mathematics Problem Ledger"
       url: /program/research-agenda/problem-ledger/mathematics/
   meta:
-    type: "Recovery Domain"
+    type: "Core Semantic Domain"
     scope: "Mathematics"
     status: "Canonical"
     updated: "April 2026"
@@ -24,17 +25,17 @@ right_rail:
 
 {% assign items = site.recovery_requirements | where: "domain", "mathematics" | sort: "canonical_recovery_id" %}
 
-## Why recovery differs from open problems
+## Why core semantics differs from open problems
 
-The Mathematics Problem Ledger asks whether the kernel can express or re-ground Clay- and Langlands-scale stress tests. Mathematics Recovery asks which mathematical capacities must be recovered before those stress tests can even be handled responsibly.
+The Mathematics Problem Ledger asks whether the kernel can express or re-ground Clay- and Langlands-scale stress tests. Mathematics Core Semantics asks which mathematical capacities must be earned before those stress tests can even be handled responsibly.
 
-The recovery burden is not to import standard foundations wholesale. It is to recover formal checkability, finite syntax and proof objects, finite arithmetic and algebraic calculation, Euclidean geometry, representation of standard formal systems as object theories, and explicit bridge criteria into standard mathematics.
+The semantic burden is not to import standard foundations wholesale. It is to carry formal checkability, finite syntax and proof objects, finite arithmetic and algebraic calculation, Euclidean geometry, representation of standard formal systems as object theories, and explicit bridge criteria into standard mathematics.
 
 ## Mathematical refusals
 
-These recovery targets must be read together with the [Mathematical Refusals]({{ '/program/research-agenda/recovery-requirements/mathematics/refusals/' | relative_url }}). The tau-kernel does not recover mathematics by silently importing unrestricted classical background assumptions.
+These core semantic targets must be read together with the [Mathematical Refusals]({{ '/program/research-agenda/recovery-requirements/mathematics/refusals/' | relative_url }}). The tau-kernel does not earn mathematical language by silently importing unrestricted classical background assumptions.
 
-## Recovery targets
+## Core semantic targets
 
 <div class="dep-list">
   {% for item in items %}
@@ -50,4 +51,4 @@ These recovery targets must be read together with the [Mathematical Refusals]({{
 
 ## Relation to Verify
 
-Mathematics recovery connects directly to formal verification, bridge verification, TauLib, and the meta-verification frontier. The page fixes the public burden; the Verify lane records how much of that burden has actually been discharged.
+Mathematics Core Semantics connects directly to formal verification, bridge verification, TauLib, and the meta-verification frontier. The page fixes the public burden; the Verify lane records how much of that burden has actually been discharged.

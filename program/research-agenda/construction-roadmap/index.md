@@ -20,7 +20,7 @@ right_rail:
   related:
     - title: "Problem Ledger"
       url: /program/research-agenda/problem-ledger/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Verify the Construction Spine"
       url: /verify/construction-spine-verification/
@@ -52,7 +52,7 @@ The Construction Roadmap states the build-order obligation. The Construction Spi
 
 ## Why construction order matters
 
-The other Research Agenda surfaces state what the program must face: open problems, recovery requirements, and the ontic-status burden. The Construction Roadmap explains how those burdens become a construction sequence.
+The other Research Agenda surfaces state what the program must face: open problems, core semantic obligations, and the ontic-status burden. The Construction Roadmap explains how those burdens become a construction sequence.
 
 <div class="v2-system-strip" aria-label="Construction sequence across lanes">
   <a href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">Agenda obligation</a>
@@ -88,7 +88,7 @@ In [Verify the Construction Spine]({{ '/verify/construction-spine-verification/'
 
 ## How this roadmap appears in Results
 
-In Results, the sequence is not the primary organizing principle. Results is where the built Corpus becomes a world: landmark consequences, world readouts, Problem Ledger answers, Recovery Target status, and the [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) dashboard.
+In Results, the sequence is not the primary organizing principle. Results is where the built Corpus becomes a world: landmark consequences, world readouts, Problem Ledger answers, Core Semantics status, and the [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) dashboard.
 
 ## Current status and next reading
 

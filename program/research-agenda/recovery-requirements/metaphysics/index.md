@@ -1,22 +1,23 @@
 ---
 layout: program-doc
-title: "Metaphysics Recovery Requirements"
-lane: program
-v2_lane: program
+title: "Metaphysics Core Semantics"
+title_plain: "Metaphysics Core Semantics"
+lane: agenda
+v2_lane: agenda
 section: research-agenda
-type: "Recovery Domain"
+type: "Core Semantic Domain"
 status: "Canonical"
-summary_short: "What the tau-kernel must recover at the level of ontology, intelligibility, mind, meaning, and value."
+summary_short: "The metaphysical language the tau-kernel must earn at the level of ontology, intelligibility, mind, meaning, and value."
 right_rail:
   related:
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Metaphysics / Philosophy Problem Ledger"
       url: /program/research-agenda/problem-ledger/metaphysics-philosophy/
     - title: "Metaphysics World Readout"
       url: /results/world-readout/metaphysics/
   meta:
-    type: "Recovery Domain"
+    type: "Core Semantic Domain"
     scope: "Metaphysics"
     status: "Canonical"
     updated: "April 2026"
@@ -24,13 +25,13 @@ right_rail:
 
 {% assign items = site.recovery_requirements | where: "domain", "metaphysics" | sort: "canonical_recovery_id" %}
 
-## Conceptual grammar recovery
+## Conceptual grammar
 
-Metaphysics recovery is not the claim that the program has solved all philosophy. It is the requirement that the kernel recover the conceptual grammar by which reality becomes intelligible at all: being, identity, relation, grounding, causality, modality, time, truth, mind, language, value, and ultimate boundary.
+Metaphysics Core Semantics is not the claim that the program has solved all philosophy. It is the requirement that the kernel carry the conceptual grammar by which reality becomes intelligible at all: being, identity, relation, grounding, causality, modality, time, truth, mind, language, value, and ultimate boundary.
 
 Ultimate questions must not be invisible to the kernel, but this page does not claim final answers to all ultimate questions.
 
-## Recovery targets
+## Core semantic targets
 
 <div class="dep-list">
   {% for item in items %}
@@ -42,6 +43,6 @@ Ultimate questions must not be invisible to the kernel, but this page does not c
   {% endfor %}
 </div>
 
-## Relation to Life Recovery
+## Relation to Life Core Semantics
 
-The life-mind bridge belongs to Life Recovery, while metaphysics recovery asks how mind, subjectivity, meaning, and value become intelligible in the larger architecture of reality-description.
+The life-mind bridge belongs to Life Core Semantics, while Metaphysics Core Semantics asks how mind, subjectivity, meaning, and value become intelligible in the larger architecture of reality-description.

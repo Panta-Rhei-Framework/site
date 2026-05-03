@@ -4,13 +4,13 @@ title: "Completed Uncountable Totalities"
 permalink: "/results/recovery-target-status/mathematics/refusals/completed-uncountable-totalities/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Completed Uncountable Totalities."
+summary_short: "Current Results-side Core Semantics status for Completed Uncountable Totalities."
 canonical_recovery_id: "MREF-R5"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "MREF-R5"
 - Verification state: **Not yet verified**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Completed Uncountable Totalities
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Not Applicable**
+- Core Semantics status: **Not Applicable**
 - Verification status: **Not yet verified**
 - Program ledger item: [MREF-R5](/program/research-agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/)
 - Verification mode: `coherence_constraint`

@@ -4,13 +4,13 @@ title: "Truth, Knowledge, and Intelligibility"
 permalink: "/results/recovery-target-status/metaphysics/truth-knowledge-and-intelligibility/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Truth, Knowledge, and Intelligibility."
+summary_short: "Current Results-side Core Semantics status for Truth, Knowledge, and Intelligibility."
 canonical_recovery_id: "METH-R7"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R7"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Truth, Knowledge, and Intelligibility
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R7](/program/research-agenda/recovery-requirements/metaphysics/truth-knowledge-and-intelligibility/)
 - Verification mode: `metaphysical_recovery_target`

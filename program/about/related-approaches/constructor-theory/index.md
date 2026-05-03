@@ -30,7 +30,7 @@ right_rail:
       url: /program/research-agenda/construction-roadmap/
     - title: "Construction Spine"
       url: /corpus/construction-spine/
-    - title: "Recovery Target Status"
+    - title: "Core Semantics Status"
       url: /results/recovery-target-status/
   meta:
     type: "Comparison Page"
@@ -62,5 +62,5 @@ Constructor theory asks which transformations are possible. Panta Rhei first ask
 
 - [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for Agenda-side build order.
 - [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) for Corpus-side construction.
-- [Recovery Target Status]({{ '/results/recovery-target-status/' | relative_url }}) for status-marked recovery surfaces.
+- [Core Semantics Status]({{ '/results/recovery-target-status/' | relative_url }}) for status-marked semantic obligations.
 - [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) for the inspection matrix.

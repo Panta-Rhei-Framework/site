@@ -71,10 +71,10 @@ Use this chain to read the site: obligations first, construction second, consequ
 
 ## Before Results, there is obligation
 
-{% capture discover_plate_03_caption %}Before Results, there is obligation: the Research Agenda records the external problems, recovery requirements, answer-shape discipline, and logical build-order of the program.{% endcapture %}
+{% capture discover_plate_03_caption %}Before Results, there is obligation: the Research Agenda records core semantics, external problems, answer-shape discipline, and logical build-order of the program.{% endcapture %}
 {% include scientific-plate.html id="plate-03-public-obligation-layer" variant="thumb" class="scientific-plate--compact" caption=discover_plate_03_caption loading="lazy" %}
 
-The Research Agenda states the burden: what must be kept visible, what must be recovered, what kind of answer could count, and what must be built first.
+The Research Agenda states the burden: what language must be earned, what questions must be kept visible, what kind of answer could count, and what must be built first.
 
 ## Choose your entry
 
@@ -92,9 +92,9 @@ The Research Agenda states the burden: what must be kept visible, what must be r
 This is not a blog, not a monograph landing page, and not a documentation dump. It is organized around public research surfaces:
 
 - **Program** explains identity, doctrine, scope, status, and why the public release is built as an inspection observatory.
-- **Agenda** states the obligations: problem ledgers, recovery requirements, answer-shape burden, refusals, and construction roadmap.
+- **Agenda** states the obligations: Core Semantics, Problem Ledger, answer-shape burden, refusals, and Construction Roadmap.
 - **Corpus** shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.
-- **Results** is where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Additional Derived Results.
+- **Results** is where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, and Additional Derived Results.
 - **Verify** explains how claims can be checked, challenged, formalized, bridged, falsified, or audited.
 - **Impact** maps conditional consequences if the work holds.
 - **Engage** gives open scrutiny, participation, contact, and contribution routes.

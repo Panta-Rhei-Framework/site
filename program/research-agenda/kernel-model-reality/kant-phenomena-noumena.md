@@ -28,7 +28,7 @@ right_rail:
       url: /program/research-agenda/kernel-model-reality/diagrammatic-access/
     - title: "No Externalities"
       url: /program/research-agenda/kernel-model-reality/no-externalities/
-    - title: "Metaphysics Recovery Requirements"
+    - title: "Metaphysics Core Semantics"
       url: /program/research-agenda/recovery-requirements/metaphysics/
   meta:
     type: "Kernel Boundary"

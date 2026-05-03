@@ -8,9 +8,9 @@ The website materializes the public research spine:
 
 - **Discover** -- first-contact orientation.
 - **Program** -- identity, doctrine, scope, status, and scrutiny posture.
-- **Agenda** -- obligations: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
+- **Agenda** -- obligations: Problem Ledger, Core Semantics, Kernel/Model/Reality, and Construction Roadmap.
 - **Corpus** -- construction body: Construction Spine, Registry, TauLib projection, books, and dependency graph.
-- **Results** -- consequence layer: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
+- **Results** -- consequence layer: Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, Additional Derived Results, and Progress Against Agenda.
 - **Verify** -- inspection routes: formalization, construction-step verification, bridge checks, predictions, falsification, release manifest, and assessment protocols.
 - **Impact** -- conditional public relevance if the work survives inspection.
 - **Engage** -- structured scrutiny, correction, contribution, communication, and participation without requiring endorsement.

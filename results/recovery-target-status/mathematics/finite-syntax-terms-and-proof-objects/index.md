@@ -4,13 +4,13 @@ title: "Finite Syntax, Terms, and Proof Objects"
 permalink: "/results/recovery-target-status/mathematics/finite-syntax-terms-and-proof-objects/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Finite Syntax, Terms, and Proof Objects."
+summary_short: "Current Results-side Core Semantics status for Finite Syntax, Terms, and Proof Objects."
 canonical_recovery_id: "MREC-M1"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "MREC-M1"
 - Verification state: **Pending formal verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Finite Syntax, Terms, and Proof Objects
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending formal verification**
 - Program ledger item: [MREC-M1](/program/research-agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/)
 - Verification mode: `foundational_recovery_target`

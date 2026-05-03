@@ -6,13 +6,13 @@ lane: results
 v2_lane: results
 type: "Lane Root"
 status: "Canonical"
-summary_short: "Where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda."
+summary_short: "Where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, Additional Derived Results, and Progress Against Agenda."
 og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
-og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Answers, Recovery Target Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
+og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Answers, Core Semantics Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
 summary_cards:
   - title: "Consequence surfaces"
-    body: "Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda."
+    body: "Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, Additional Derived Results, and Progress Against Agenda."
   - title: "Calibration cascades"
     body: "Physics anchored at m_n; Life at K_χ; Metaphysics is categorical-only."
   - title: "Status grammar"
@@ -33,7 +33,7 @@ right_rail:
       url: /results/landmark-results/
     - title: "Problem Answers"
       url: /results/problem-ledger-answers/
-    - title: "Recovery Target Status"
+    - title: "Core Semantics Status"
       url: /results/recovery-target-status/
     - title: "Progress Against Agenda"
       url: /results/progress-against-agenda/
@@ -108,7 +108,7 @@ Every result should be read with its status markers. An internally addressed res
 
 ## The consequence layer at a glance
 
-{% include scientific-plate.html id="plate-05-results-world-readout" loading="lazy" caption="Results are not isolated claims. They are consequences of the built Corpus, organized through Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda, with internal status labels separated from external acceptance." %}
+{% include scientific-plate.html id="plate-05-results-world-readout" loading="lazy" caption="Results are not isolated claims. They are consequences of the built Corpus, organized through Landmark Results, World Readouts, Problem Ledger Answers, Core Semantics Status, Additional Derived Results, and Progress Against Agenda, with internal status labels separated from external acceptance." %}
 
 **The Results World Readout** frames Results as a status-marked consequence layer. Results are not isolated claims. They are consequences of the built Corpus, organized through status-marked result surfaces and routed toward inspection.
 
@@ -170,13 +170,13 @@ Every result should be read with its status markers. An internally addressed res
   </a>
 
   <a class="v2-tile" href="{{ '/results/recovery-target-status/' | relative_url }}">
-    <strong>Recovery Target Status</strong>
-    <span>Current recovery status against declared recovery requirements.</span>
+    <strong>Core Semantics Status</strong>
+    <span>Current status against declared Core Semantics obligations.</span>
   </a>
 
   <a class="v2-tile" href="{{ '/results/progress-against-agenda/' | relative_url }}">
     <strong>Progress Against Agenda</strong>
-    <span>Dashboard over problem and recovery obligations.</span>
+    <span>Dashboard over problem and Core Semantics obligations.</span>
   </a>
 
   <a class="v2-tile" href="{{ '/results/additional-noteworthy-results/' | relative_url }}">

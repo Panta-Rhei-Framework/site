@@ -14,11 +14,11 @@ PLATE_03_OG = "/assets/images/plates/plate-03-public-obligation-layer-og.jpg"
 ALT = (
     "Scientific plate titled The Public Obligation Layer, showing the Research Agenda "
     "as a public research contract connected to four surfaces: Problem Ledger, "
-    "Recovery Requirements, Kernel, Model & Reality, and Construction Roadmap."
+    "Core Semantics, Kernel, Model & Reality, and Construction Roadmap."
 )
 CANONICAL_CAPTION = (
     "The Research Agenda is the program's public obligation layer: it records "
-    "the open problems, recovery requirements, answer-shape burden, and "
+    "the open problems, core semantic obligations, answer-shape burden, and "
     "construction order that must be stated before Results are read as consequences."
 )
 
@@ -116,16 +116,16 @@ def main() -> int:
             "The obligation layer at a glance",
             "The public obligation layer",
             CANONICAL_CAPTION,
-            "It states what the program accepts as a burden before Results are allowed to sound like consequences.",
+            "It states the semantic load, open questions, answer-shape burden, and build-order the program accepts before Results are allowed to sound like consequences.",
             "Open the Problem Ledger",
-            "Read Recovery Requirements",
+            "Read Core Semantics",
             "Explore Kernel, Model & Reality",
             "Follow the Construction Roadmap",
         ],
         "/discover/": [
             "Before Results, there is obligation",
-            "Before Results, there is obligation: the Research Agenda records the external problems",
-            "The Research Agenda states the burden: what must be kept visible",
+            "Before Results, there is obligation: the Research Agenda records core semantics, external problems, answer-shape discipline, and logical build-order of the program.",
+            "The Research Agenda states the burden: what language must be earned, what questions must be kept visible, what kind of answer could count, and what must be built first.",
         ],
     }
 

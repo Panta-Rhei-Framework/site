@@ -18,7 +18,7 @@ right_rail:
   related:
     - title: "Problem Ledger"
       url: /program/research-agenda/problem-ledger/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Status and Claim Typing"
       url: /results/status-and-claim-typing/
@@ -37,7 +37,7 @@ right_rail:
 
 A claim counts as a program result only when it can be placed in a public chain of reasons. That chain may be prose, registry-backed, computational, formalized, or empirically mapped, but it must be inspectable enough that a reader can see what would have to fail.
 
-The [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) and [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) define two different burdens. The first asks how the program handles open stress-test problems; the second asks whether the kernel recovers the known structures those problems presuppose.
+The [Core Semantics]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) and [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) define two different burdens. The first asks what domain language the theory must earn; the second asks how the program handles open stress-test problems.
 
 ## Result classes
 

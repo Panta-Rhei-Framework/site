@@ -4,13 +4,13 @@ title: "Mechanical Formal Checkability"
 permalink: "/results/recovery-target-status/mathematics/mechanical-formal-checkability/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Mechanical Formal Checkability."
+summary_short: "Current Results-side Core Semantics status for Mechanical Formal Checkability."
 canonical_recovery_id: "MREC-M0"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "MREC-M0"
 - Verification state: **Pending formal verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Mechanical Formal Checkability
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending formal verification**
 - Program ledger item: [MREC-M0](/program/research-agenda/recovery-requirements/mathematics/mechanical-formal-checkability/)
 - Verification mode: `foundational_recovery_target`

@@ -163,7 +163,7 @@ def main() -> int:
         fail(f"/program/research-agenda/ should contain exactly one h1, found {len(parser.h1)}")
     if 'data-lane="agenda"' not in html or 'class="site-body lane-agenda' not in html:
         fail("/program/research-agenda/ must render as the Agenda lane")
-    require(visible, "The Agenda lane states the public burden of the program: what must be asked, recovered, built, refused, answered, and left open.", "/program/research-agenda/")
+    require(visible, "The Agenda lane states the public burden of the program: what language must be earned, what questions must be faced, what answer could count, and what must be built.", "/program/research-agenda/")
     require(visible, "Agenda is the program's public obligation layer", "/program/research-agenda/")
 
     _, visible, _ = read_page(site, "/discover/")

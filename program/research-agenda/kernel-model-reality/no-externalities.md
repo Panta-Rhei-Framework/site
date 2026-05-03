@@ -31,7 +31,7 @@ right_rail:
       url: /program/research-agenda/kernel-model-reality/substrate-non-deferral/
     - title: "What the Program Refuses"
       url: /program/research-agenda/what-the-program-refuses/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Meta-Verification Frontier"
       url: /verify/meta-verification-frontier/

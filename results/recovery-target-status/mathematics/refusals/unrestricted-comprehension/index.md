@@ -4,13 +4,13 @@ title: "Unrestricted Comprehension"
 permalink: "/results/recovery-target-status/mathematics/refusals/unrestricted-comprehension/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Unrestricted Comprehension."
+summary_short: "Current Results-side Core Semantics status for Unrestricted Comprehension."
 canonical_recovery_id: "MREF-R2"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "MREF-R2"
 - Verification state: **Not yet verified**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Unrestricted Comprehension
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Not Applicable**
+- Core Semantics status: **Not Applicable**
 - Verification status: **Not yet verified**
 - Program ledger item: [MREF-R2](/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-comprehension/)
 - Verification mode: `coherence_constraint`

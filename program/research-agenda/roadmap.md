@@ -48,7 +48,7 @@ The roadmap is therefore not only about adding more material. It is about making
   </div>
   <div class="v2-tile">
     <strong>Agenda ledgers</strong>
-    <span>Keep the source-pinned Problem Ledger, Recovery Requirements projection, and Corpus integration synchronized.</span>
+    <span>Keep the source-pinned Problem Ledger, Core Semantics projection, and Corpus integration synchronized.</span>
   </div>
   <div class="v2-tile">
     <strong>Formalization</strong>

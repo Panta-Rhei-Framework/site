@@ -4,13 +4,13 @@ title: "Finite Arithmetic and Algebraic Structure"
 permalink: "/results/recovery-target-status/mathematics/finite-arithmetic-and-algebraic-structure/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Finite Arithmetic and Algebraic Structure."
+summary_short: "Current Results-side Core Semantics status for Finite Arithmetic and Algebraic Structure."
 canonical_recovery_id: "MREC-M2"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "MREC-M2"
 - Verification state: **Pending bridge verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Finite Arithmetic and Algebraic Structure
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending bridge verification**
 - Program ledger item: [MREC-M2](/program/research-agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/)
 - Verification mode: `foundational_recovery_target`

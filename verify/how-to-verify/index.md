@@ -45,7 +45,7 @@ The matrix is not a single checklist. It is a routing layer that helps a reader 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
     <strong>Start from the Research Agenda</strong>
-    <span>Check the Problem Ledger, Recovery Requirements, Kernel/Model/Reality burden, and Construction Roadmap.</span>
+    <span>Check Core Semantics, the Problem Ledger, Kernel/Model/Reality burden, and Construction Roadmap.</span>
   </a>
   <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
     <strong>Start from the Construction Spine</strong>
@@ -53,7 +53,7 @@ The matrix is not a single checklist. It is a routing layer that helps a reader 
   </a>
   <a class="v2-tile" href="{{ '/results/browse/' | relative_url }}">
     <strong>Start from a Result</strong>
-    <span>Choose a result page, follow its agenda mapping, Corpus support, recovery target status, and verification route.</span>
+    <span>Choose a result page, follow its agenda mapping, Corpus support, Core Semantics status, and verification route.</span>
   </a>
   <a class="v2-tile" href="{{ '/verify/taulib/' | relative_url }}">
     <strong>Start from TauLib</strong>

@@ -18,19 +18,24 @@ layout: default
   {% if page.verification_status == "not_yet_verified" %}
     {% assign verification_badge_class = "badge-muted" %}
   {% endif %}
+  {% capture display_summary %}{% if page.item_type == "mathematical_refusal" %}Mathematical refusal in Core Semantics: {{ page.title }}.{% else %}{{ page.display_domain | default: page.domain | capitalize }} Core Semantics item: {{ page.title }}.{% endif %}{% endcapture %}
   <div class="module-eyebrow-row">
     <span class="badge {{ recovery_badge_class }}">{{ page.recovery_status | replace: "_", " " | capitalize }}</span>
     <span class="badge {{ verification_badge_class }}">{{ page.verification_status | replace: "_", " " | capitalize }}</span>
     <span class="badge badge-muted">{{ page.projection_version | default: "v0.1" }} Projection</span>
   </div>
   <h1>{{ page.title }}</h1>
-  {% if page.summary_short %}
-  <p>{{ page.summary_short }}</p>
-  {% endif %}
+  <p>{{ display_summary | strip }}</p>
   <p class="projection-note">v0.1 public projection. Item-level rationale and verification links may deepen as the Corpus projection matures.</p>
+  {% assign item_type_label = page.item_type | replace: "_", " " | capitalize %}
+  {% if page.item_type == "recovery_requirement" %}
+    {% assign item_type_label = "Core semantic target" %}
+  {% elsif page.item_type == "mathematical_refusal" %}
+    {% assign item_type_label = "Mathematical refusal" %}
+  {% endif %}
   <div class="chip-row">
     <span class="chip">{{ page.canonical_recovery_id }}</span>
-    <span class="chip">{{ page.item_type | replace: "_", " " | capitalize }}</span>
+    <span class="chip">{{ item_type_label }}</span>
     <span class="chip">{{ page.program_role | replace: "_", " " | capitalize }}</span>
   </div>
 </header>
@@ -45,13 +50,13 @@ layout: default
       {% assign has_rich_recovery = true %}
     {% endif %}
     {% if has_rich_recovery %}
-    <h2>Requirement</h2>
+    <h2>Core Semantic Target</h2>
     {% if public_summary_text != "" %}
     <p>{{ page.public_summary }}</p>
     {% elsif summary_text != "" %}
     <p>{{ page.summary }}</p>
     {% else %}
-    <p>{{ page.summary_short }}</p>
+    <p>{{ display_summary | strip }}</p>
     {% endif %}
 
     {% if expanded_rationale_text != "" %}
@@ -90,8 +95,8 @@ layout: default
     {% if fallback_content != "" %}
     {{ content }}
     {% else %}
-    <h2>Requirement</h2>
-    <p>{{ page.summary_short }}</p>
+    <h2>Core Semantic Target</h2>
+    <p>{{ display_summary | strip }}</p>
     <h2>Current Status</h2>
     <p>This v0.1 item fixes the public burden of proof. Detailed formal, empirical, or bridge verification remains routed through the Verify and Results lanes.</p>
     {% endif %}
@@ -101,13 +106,13 @@ layout: default
     <div class="dep-list">
       <div class="dep-link"><span class="dep-id">ID</span><span class="dep-title">{{ page.canonical_recovery_id }}</span></div>
       <div class="dep-link"><span class="dep-id">Domain</span><span class="dep-title">{{ page.display_domain }}</span></div>
-      <div class="dep-link"><span class="dep-id">Recovery</span><span class="dep-title">{{ page.recovery_status | replace: "_", " " }}</span></div>
+      <div class="dep-link"><span class="dep-id">Core status</span><span class="dep-title">{{ page.recovery_status | replace: "_", " " }}</span></div>
       <div class="dep-link"><span class="dep-id">Verification</span><span class="dep-title">{{ page.verification_status | replace: "_", " " }}</span></div>
       <div class="dep-link"><span class="dep-id">Role</span><span class="dep-title">{{ page.program_role | replace: "_", " " }}</span></div>
     </div>
 
     {% if page.related_recovery_targets and page.related_recovery_targets.size > 0 %}
-    <h2>Related Recovery Targets</h2>
+    <h2>Related Core Semantic Targets</h2>
     <div class="dep-list">
       {% for target_id in page.related_recovery_targets %}
       {% assign matches = site.recovery_requirements | where: "canonical_recovery_id", target_id %}
@@ -118,7 +123,7 @@ layout: default
         <span class="dep-title">{{ target.title }}</span>
       </a>
       {% else %}
-      <div class="dep-link"><span class="dep-id">{{ target_id }}</span><span class="dep-title">Recovery target pending</span></div>
+      <div class="dep-link"><span class="dep-id">{{ target_id }}</span><span class="dep-title">Core semantic target pending</span></div>
       {% endif %}
       {% endfor %}
     </div>

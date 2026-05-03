@@ -15,7 +15,7 @@ right_rail:
   related:
     - title: "Life Results"
       url: /results/life/
-    - title: "Life Recovery Requirements"
+    - title: "Life Core Semantics"
       url: /program/research-agenda/recovery-requirements/life/
     - title: "Origin of Life Problem Answer"
       url: /results/problem-ledger-answers/life/origin-of-life/
@@ -92,9 +92,9 @@ glossary_term_ids:
     <p>78 sealed entries · biomarker correlates · 5 K_χ branches.</p>
   </a>
   <a class="v2-tile v2-tile-life" href="{{ '/program/research-agenda/recovery-requirements/life/' | relative_url }}">
-    <span class="eyebrow">Recovery</span>
-    <h3>Life Recovery Requirements</h3>
-    <p>Known biological structures the kernel must rederive (recovery targets + status).</p>
+    <span class="eyebrow">Semantics</span>
+    <h3>Life Core Semantics</h3>
+    <p>Core semantic targets the theory must earn, with current status separated from verification and external acceptance.</p>
   </a>
   <a class="v2-tile v2-tile-life" href="{{ '/verify/how-to-audit/philosopher/' | relative_url }}">
     <span class="eyebrow">Audit</span>

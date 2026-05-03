@@ -523,11 +523,11 @@ def generate_recovery_status_pages() -> None:
     root = SITE_ROOT / "results" / "recovery-target-status"
     domains = ["mathematics", "physics", "life", "metaphysics"]
 
-    root_body = """> Current program status against the structures the kernel promised to recover.
+    root_body = """> Current program status against the semantic load the theory must earn before it can answer.
 
-This is the Results-side mirror of the Program-side Recovery Requirements ledger. Recovery requirements remain obligations; this surface reports their current public status.
+This is the Results-side mirror of the Program-side Core Semantics surface. Core semantic targets remain obligations; this surface reports their current public status.
 
-<div class="notice note"><strong>Status note.</strong> Partial or internally addressed recovery is not the same as formal verification or external acceptance.</div>
+<div class="notice note"><strong>Status note.</strong> Partial or internally addressed Core Semantics status is not the same as formal verification or external acceptance.</div>
 
 ## Browse by domain
 
@@ -544,14 +544,14 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
   {% elsif not_applicable_count >= partial_count and not_applicable_count >= pending_count %}
     {% assign dominant_status = "Not applicable / refused" %}
   {% else %}
-    {% assign dominant_status = "Pending recovery" %}
+    {% assign dominant_status = "Pending Core Semantics" %}
   {% endif %}
   <li>
     <article class="v2-tile">
       <h3>{{ domain | replace: '-', ' ' | capitalize }}</h3>
-      <p>{{ domain_items | size }} public recovery/refusal item{% unless domain_items.size == 1 %}s{% endunless %}.</p>
+      <p>{{ domain_items | size }} public core semantic/refusal item{% unless domain_items.size == 1 %}s{% endunless %}.</p>
       <p><strong>Dominant status:</strong> {{ dominant_status }}</p>
-      <p><a href="{{ '/results/recovery-target-status/' | append: domain | append: '/' | relative_url }}">Results mirror</a> · <a href="{{ '/program/research-agenda/recovery-requirements/' | append: domain | append: '/' | relative_url }}">Recovery Requirements</a></p>
+      <p><a href="{{ '/results/recovery-target-status/' | append: domain | append: '/' | relative_url }}">Results mirror</a> · <a href="{{ '/program/research-agenda/recovery-requirements/' | append: domain | append: '/' | relative_url }}">Core Semantics</a></p>
     </article>
   </li>
 {% endfor %}
@@ -561,13 +561,13 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
         root / "index.md",
         {
             "layout": "program-doc",
-            "title": "Recovery Target Status",
+            "title": "Core Semantics Status",
             "permalink": "/results/recovery-target-status/",
             "lane": "results",
             "v2_lane": "results",
             "type": "Result Mirror",
             "status": "Canonical",
-            "summary_short": "Current Results-side status against public Recovery Requirements.",
+            "summary_short": "Current Results-side status against public Core Semantics obligations.",
         },
         root_body,
     )
@@ -579,15 +579,15 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
             root / domain / "index.md",
             {
                 "layout": "program-doc",
-                "title": f"Recovery Target Status: {domain_label(domain)}",
+                "title": f"Core Semantics Status: {domain_label(domain)}",
                 "permalink": f"/results/recovery-target-status/{domain}/",
                 "lane": "results",
                 "v2_lane": "results",
                 "type": "Result Mirror Domain",
                 "status": "Canonical",
-                "summary_short": f"Current recovery status for {domain_label(domain)} targets.",
+                "summary_short": f"Current Core Semantics status for {domain_label(domain)} targets.",
             },
-            f"""<div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
+            f"""<div class="notice note"><strong>Status note.</strong> Core Semantics status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items
 
@@ -606,7 +606,7 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
         verify_body = bullet_lines(verification.get("related_verify_pages", related.get("verify", [])), "Dedicated Verify surface pending.")
         corpus_steps_body = bullet_lines(verification.get("related_corpus_steps", related.get("construction_steps", [])), "Construction Spine mapping pending.")
         verification_results_body = bullet_lines(verification.get("related_results", result_lines), "Granular Result mapping pending.")
-        body = f"""<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+        body = f"""<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -614,13 +614,13 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
 - Verification state: **{result_status_label(verification.get('status', item.get('verification_status', 'not_yet_verified')))}**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 {item.get('public_summary') or item.get('short_title', item['title'])}
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **{result_status_label(item.get('recovery_status', 'pending'))}**
+- Core Semantics status: **{result_status_label(item.get('recovery_status', 'pending'))}**
 - Verification status: **{result_status_label(verification.get('status', item.get('verification_status', 'not_yet_verified')))}**
 - Program ledger item: [{item['id']}]({item['url']})
 - Verification mode: `{verification.get('mode', item.get('program_role', 'pending'))}`
@@ -659,9 +659,9 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
                 "permalink": recovery_result_path(item),
                 "lane": "results",
                 "v2_lane": "results",
-                "type": "Recovery Target Status",
+                "type": "Core Semantics Status",
                 "status": "Canonical",
-                "summary_short": f"Current Results-side recovery status for {item['title']}.",
+                "summary_short": f"Current Results-side Core Semantics status for {item['title']}.",
                 "canonical_recovery_id": item["id"],
             },
             body,

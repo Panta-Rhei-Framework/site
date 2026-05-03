@@ -35,8 +35,19 @@
     {% endunless %}
 
     <main class="main-content" id="main-content" data-lane="{{ search_lane }}" data-pagefind-body>
+      {% assign pagefind_type_label = page.type %}
+      {% assign pagefind_summary_label = page.summary_short %}
+      {% if page.layout == "recovery-requirement-item" %}
+        {% if page.item_type == "mathematical_refusal" %}
+          {% assign pagefind_type_label = "Mathematical refusal" %}
+          {% capture pagefind_summary_label %}Mathematical refusal in Core Semantics: {{ page.title }}.{% endcapture %}
+        {% else %}
+          {% assign pagefind_type_label = "Core semantic target" %}
+          {% capture pagefind_summary_label %}{{ page.display_domain | default: page.domain | capitalize }} Core Semantics item: {{ page.title }}.{% endcapture %}
+        {% endif %}
+      {% endif %}
       <span class="sr-only" data-pagefind-filter="lane">{{ search_lane | capitalize }}</span>
-      {% if page.type %}<span class="sr-only" data-pagefind-filter="type">{{ page.type }}</span>{% endif %}
+      {% if pagefind_type_label %}<span class="sr-only" data-pagefind-filter="type">{{ pagefind_type_label }}</span>{% endif %}
       {% if page.status %}<span class="sr-only" data-pagefind-meta="status">{{ page.status }}</span>{% endif %}
       {% if page.domain %}<span class="sr-only" data-pagefind-meta="domain">{{ page.domain }}</span>{% endif %}
       {% if page.publication_type %}<span class="sr-only" data-pagefind-meta="publication_type">{{ page.publication_type }}</span>{% endif %}
@@ -48,7 +59,7 @@
       {% if page.tags %}<span class="sr-only" data-pagefind-meta="tags">{{ page.tags | join: ', ' }}</span>{% endif %}
       {% if page.topics %}<span class="sr-only" data-pagefind-meta="topics">{{ page.topics | join: ', ' }}</span>{% endif %}
       {% if page.search_keywords %}<span class="sr-only" data-pagefind-meta="search_keywords">{{ page.search_keywords | join: ', ' }}</span>{% endif %}
-      {% if page.summary_short %}<span class="sr-only" data-pagefind-meta="summary">{{ page.summary_short | strip_html }}</span>{% endif %}
+      {% if pagefind_summary_label %}<span class="sr-only" data-pagefind-meta="summary">{{ pagefind_summary_label | strip_html }}</span>{% endif %}
       {{ content }}
     </main>
 

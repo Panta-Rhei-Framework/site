@@ -1,22 +1,23 @@
 ---
 layout: program-doc
-title: "Physics Recovery Requirements"
-lane: program
-v2_lane: program
+title: "Physics Core Semantics"
+title_plain: "Physics Core Semantics"
+lane: agenda
+v2_lane: agenda
 section: research-agenda
-type: "Recovery Domain"
+type: "Core Semantic Domain"
 status: "Canonical"
-summary_short: "What the tau-kernel must recover from established physics before it can claim to describe physical reality."
+summary_short: "The physical language the tau-kernel must earn before it can claim to describe physical reality."
 right_rail:
   related:
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Physics Problem Ledger"
       url: /program/research-agenda/problem-ledger/physics/
     - title: "Physics Results"
       url: /results/topic/physics/
   meta:
-    type: "Recovery Domain"
+    type: "Core Semantic Domain"
     scope: "Physics"
     status: "Canonical"
     updated: "April 2026"
@@ -24,13 +25,13 @@ right_rail:
 
 {% assign items = site.recovery_requirements | where: "domain", "physics" | sort: "canonical_recovery_id" %}
 
-## Why physics recovery begins with measurement
+## Why physics semantics begins with measurement
 
-Physics recovery is not just equation recovery. A candidate kernel must recover physical quantity types, dimensional algebra, internal units, empirical calibration bridges, constants, dynamical laws, regime transitions, and measurement conditions.
+Physics Core Semantics is not just equation recovery. A candidate kernel must carry physical quantity types, dimensional algebra, internal units, empirical calibration bridges, constants, dynamical laws, regime transitions, and measurement conditions.
 
 SI is a bridge target, not a primitive input. Dimensionful constants require unit bridges; dimensionless constants and ratios are sharper numerical targets.
 
-## Recovery targets
+## Core semantic targets
 
 <div class="dep-list">
   {% for item in items %}
@@ -44,4 +45,4 @@ SI is a bridge target, not a primitive input. Dimensionful constants require uni
 
 ## Relation to the Physics Problem Ledger
 
-The Physics Problem Ledger tracks open questions. Physics Recovery tracks the baseline measurement-and-law architecture those questions presuppose.
+The Physics Problem Ledger tracks open questions. Physics Core Semantics tracks the baseline measurement-and-law architecture those questions presuppose.

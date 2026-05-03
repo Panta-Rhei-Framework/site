@@ -70,7 +70,7 @@ This means:
 
 1. Is the scope and burden of proof explicit?
 2. Are the Problem Ledger and source-policy rules visible?
-3. Are Recovery Requirements stated separately from open problems?
+3. Are Core Semantics stated separately from open problems?
 4. Is there a Construction Roadmap / Construction Spine?
 5. Is there a Corpus with stable IDs and dependency routes?
 6. Is there a formalization surface, and are its limits stated?

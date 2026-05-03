@@ -164,7 +164,7 @@ For the longer expert-facing matrix and expanded discussion, see [Related Approa
 The program's difference is not that it is more ambitious in slogan form. The difference is the burden grammar:
 
 - problem-ledger accountability
-- recovery requirements
+- core semantic obligations
 - no externalities
 - substrate non-deferral
 - diagrammatic access

@@ -4,13 +4,13 @@ title: "Language, Symbol, and Narrative"
 permalink: "/results/recovery-target-status/metaphysics/language-symbol-and-narrative/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Language, Symbol, and Narrative."
+summary_short: "Current Results-side Core Semantics status for Language, Symbol, and Narrative."
 canonical_recovery_id: "METH-R9"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R9"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Language, Symbol, and Narrative
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R9](/program/research-agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/)
 - Verification mode: `metaphysical_recovery_target`

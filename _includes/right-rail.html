@@ -60,10 +60,18 @@
     {% assign has_frontmatter_meta = true %}
   {% endif %}
   {% if has_frontmatter_meta and page.right_rail.meta == nil %}
+  {% assign rail_type_label = page.type %}
+  {% if page.layout == "recovery-requirement-item" %}
+    {% if page.item_type == "mathematical_refusal" %}
+      {% assign rail_type_label = "Mathematical refusal" %}
+    {% else %}
+      {% assign rail_type_label = "Core semantic target" %}
+    {% endif %}
+  {% endif %}
   <div class="rail-section">
     <div class="rail-section-title">Page metadata</div>
     <div class="meta-list">
-      {% if page.type %}<div class="meta-item"><span>Type</span><span class="meta-value">{{ page.type }}</span></div>{% endif %}
+      {% if rail_type_label %}<div class="meta-item"><span>Type</span><span class="meta-value">{{ rail_type_label }}</span></div>{% endif %}
       {% if page.status %}<div class="meta-item"><span>Status</span><span class="meta-value">{{ page.status }}</span></div>{% endif %}
       {% if page.domain %}<div class="meta-item"><span>Domain</span><span class="meta-value">{{ page.domain }}</span></div>{% endif %}
       {% if page.publication_type %}<div class="meta-item"><span>Publication</span><span class="meta-value">{{ page.publication_type }}</span></div>{% endif %}

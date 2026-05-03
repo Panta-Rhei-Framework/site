@@ -49,7 +49,7 @@ The Program-side [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' 
 
 The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page is now a compatibility bridge to the [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) mirror.
 
-Recovery-facing burden tracking belongs to the Program-side [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ledger.
+Recovery-facing burden tracking belongs to the Program-side [Core Semantics]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ledger.
 
 ## Current status distribution
 

@@ -43,8 +43,8 @@ What it has instead is an architectural backbone: the four canonical readout reg
   </a>
 
   <a class="v2-tile" href="{{ '/results/recovery-target-status/metaphysics/' | relative_url }}">
-    <strong>Recovery Targets</strong>
-    <span>Metaphysics-sector recovery requirements — categorical structures the kernel must rederive.</span>
+    <strong>Core Semantic Targets</strong>
+    <span>Metaphysics-sector core semantic obligations — the metaphysical language the theory must earn.</span>
   </a>
 
 </div>

@@ -4,13 +4,13 @@ title: "Value, Normativity, and Ethics"
 permalink: "/results/recovery-target-status/metaphysics/value-normativity-and-ethics/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Value, Normativity, and Ethics."
+summary_short: "Current Results-side Core Semantics status for Value, Normativity, and Ethics."
 canonical_recovery_id: "METH-R10"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R10"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Value, Normativity, and Ethics
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R10](/program/research-agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/)
 - Verification mode: `metaphysical_recovery_target`

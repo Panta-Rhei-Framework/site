@@ -43,8 +43,8 @@ Every life-sector empirical correlate inherits its observable signature from thi
   </a>
 
   <a class="v2-tile" href="{{ '/results/recovery-target-status/life/' | relative_url }}">
-    <strong>Recovery Targets</strong>
-    <span>Life-sector recovery requirements — known structures the kernel must rederive.</span>
+    <strong>Core Semantic Targets</strong>
+    <span>Life-sector core semantic obligations — the life-language the theory must earn.</span>
   </a>
 
 </div>

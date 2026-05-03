@@ -28,7 +28,7 @@ right_rail:
   related:
     - title: "Problem Ledger"
       url: /program/research-agenda/problem-ledger/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Result Criteria"
       url: /program/research-agenda/result-criteria/
@@ -47,7 +47,7 @@ right_rail:
 
 ## Why this section exists
 
-The Research Agenda cannot end with a list of open problems and recovery requirements. It also has to state the deepest question the program is willing to carry:
+The Research Agenda cannot end with a list of open problems and core semantic obligations. It also has to state the deepest question the program is willing to carry:
 
 **If a kernel organizes mathematics, physics, life, and metaphysics, what would it take for that kernel to be more than a useful model?**
 
@@ -101,7 +101,7 @@ The gap between these levels is not treated as a decorative philosophical caveat
   </a>
   <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}">
     <strong>KMR Deep Comparison</strong>
-    <span>A longer expert-facing matrix of neighboring approaches under the no-externalities and recovery burdens.</span>
+    <span>A longer expert-facing matrix of neighboring approaches under the no-externalities and Core Semantics burdens.</span>
   </a>
 </div>
 
@@ -109,7 +109,7 @@ The gap between these levels is not treated as a decorative philosophical caveat
 
 The [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) records open questions the program accepts as public stress tests.
 
-The [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) record known structures the kernel must not break.
+The [Core Semantics]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) identifies the semantic load the theory must carry, preserve, refine, retype, bridge, or explicitly challenge.
 
 Kernel, Model & Reality asks a still deeper question: what sort of answer would make either ledger matter ontologically, rather than merely as a useful classificatory exercise?
 

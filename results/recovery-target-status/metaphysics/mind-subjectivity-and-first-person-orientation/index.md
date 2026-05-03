@@ -4,13 +4,13 @@ title: "Mind, Subjectivity, and First-Person Orientation"
 permalink: "/results/recovery-target-status/metaphysics/mind-subjectivity-and-first-person-orientation/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Mind, Subjectivity, and First-Person Orientation."
+summary_short: "Current Results-side Core Semantics status for Mind, Subjectivity, and First-Person Orientation."
 canonical_recovery_id: "METH-R8"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R8"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Mind, Subjectivity, and First-Person Orientation
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R8](/program/research-agenda/recovery-requirements/metaphysics/mind-subjectivity-and-first-person-orientation/)
 - Verification mode: `metaphysical_recovery_target`

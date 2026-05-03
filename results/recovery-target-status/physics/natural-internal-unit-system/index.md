@@ -4,13 +4,13 @@ title: "Natural / Internal Unit System"
 permalink: "/results/recovery-target-status/physics/natural-internal-unit-system/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Natural / Internal Unit System."
+summary_short: "Current Results-side Core Semantics status for Natural / Internal Unit System."
 canonical_recovery_id: "PREC-P2"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "PREC-P2"
 - Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Natural / Internal Unit System
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P2](/program/research-agenda/recovery-requirements/physics/natural-internal-unit-system/)
 - Verification mode: `internal_unit_architecture`

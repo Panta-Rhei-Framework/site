@@ -1,22 +1,23 @@
 ---
 layout: program-doc
-title: "Life Recovery Requirements"
-lane: program
-v2_lane: program
+title: "Life Core Semantics"
+title_plain: "Life Core Semantics"
+lane: agenda
+v2_lane: agenda
 section: research-agenda
-type: "Recovery Domain"
+type: "Core Semantic Domain"
 status: "Canonical"
-summary_short: "What the tau-kernel must recover about living systems before it can claim to describe life."
+summary_short: "The life-language the tau-kernel must earn before it can claim to describe living systems."
 right_rail:
   related:
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Life Problem Ledger"
       url: /program/research-agenda/problem-ledger/life/
     - title: "Life Results"
       url: /results/topic/biology/
   meta:
-    type: "Recovery Domain"
+    type: "Core Semantic Domain"
     scope: "Life"
     status: "Canonical"
     updated: "April 2026"
@@ -26,11 +27,11 @@ right_rail:
 
 ## Structural, not instance-level
 
-The life recovery burden is not to derive the contingent inventory of Earth biology. It is to recover the structural grammar that makes life possible: boundary, energy throughput, encoding, heredity, reproduction, variation, evolution, development, classification, ecology, and the bridge from living regulation to cognition.
+The life semantic burden is not to derive the contingent inventory of Earth biology. It is to carry the structural grammar that makes life possible: boundary, energy throughput, encoding, heredity, reproduction, variation, evolution, development, classification, ecology, and the bridge from living regulation to cognition.
 
 Earth life is the known calibration case, not the definition of life itself.
 
-## Recovery targets
+## Core semantic targets
 
 <div class="dep-list">
   {% for item in items %}
@@ -44,4 +45,4 @@ Earth life is the known calibration case, not the definition of life itself.
 
 ## Relation to the Life Problem Ledger
 
-Biology and neuroscience remain external stress-test ledgers. Life Recovery names the structural preconditions that make those open problems addressable without assuming that life reduces to physics as an input premise.
+Biology and neuroscience remain external stress-test ledgers. Life Core Semantics names the structural preconditions that make those open problems addressable without assuming that life reduces to physics as an input premise.

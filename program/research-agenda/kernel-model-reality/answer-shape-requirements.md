@@ -26,7 +26,7 @@ right_rail:
       url: /program/research-agenda/kernel-model-reality/
     - title: "Problem Ledger"
       url: /program/research-agenda/problem-ledger/
-    - title: "Recovery Requirements"
+    - title: "Core Semantics"
       url: /program/research-agenda/recovery-requirements/
     - title: "Result Criteria"
       url: /program/research-agenda/result-criteria/

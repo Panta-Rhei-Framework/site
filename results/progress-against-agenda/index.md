@@ -6,12 +6,12 @@ v2_lane: results
 permalink: /results/progress-against-agenda/
 type: "Result Index"
 status: "Canonical"
-summary_short: "Dashboard view of the program's current public status against declared problem and recovery obligations."
+summary_short: "Dashboard view of the program's current public status against declared problem and Core Semantics obligations."
 summary_cards:
   - title: "Agenda mirror"
-    body: "Aggregates public Problem Ledger and Recovery Requirement status without replacing the detailed mirrors."
+    body: "Aggregates public Problem Ledger and Core Semantics status without replacing the detailed mirrors."
   - title: "Full public ledger"
-    body: "All promoted Problem Ledger v1.0 items plus forty-five Recovery/Refusal items."
+    body: "All promoted Problem Ledger v1.0 items plus forty-five Core Semantics/refusal items."
   - title: "Status discipline"
     body: "Internal progress remains separate from verification state and external acceptance."
 right_rail:
@@ -20,7 +20,7 @@ right_rail:
       url: /program/research-agenda/
     - title: "Problem Answers"
       url: /results/problem-ledger-answers/
-    - title: "Recovery Target Status"
+    - title: "Core Semantics Status"
       url: /results/recovery-target-status/
     - title: "Verify"
       url: /verify/
@@ -46,29 +46,29 @@ right_rail:
 
 ## Status disclaimer
 
-Status indicates the current internal state of the research program. A proposed answer, partial recovery, or internally addressed status does not mean external verification, scientific acceptance, or final settlement.
+Status indicates the current internal state of the research program. A proposed answer, partial Core Semantics status, or internally addressed status does not mean external verification, scientific acceptance, or final settlement.
 
 ## Progress as a Results surface
 
-{% capture progress_plate_caption %}Progress Against Agenda is one of the Results surfaces: a dashboard over obligations, recovery targets, and current program stance.{% endcapture %}
+{% capture progress_plate_caption %}Progress Against Agenda is one of the Results surfaces: a dashboard over obligations, core semantic targets, and current program stance.{% endcapture %}
 {% include scientific-plate.html id="plate-05-results-world-readout" variant="thumb" class="scientific-plate--compact" caption=progress_plate_caption loading="lazy" %}
 
-Progress Against Agenda tracks current program stance against public obligations and recovery targets.
+Progress Against Agenda tracks current program stance against public obligations and core semantic targets.
 
 ## Summary metrics
 
 <div class="v2-grid">
   <div class="v2-tile">
     <strong>{{ total_count }} total public items</strong>
-    <span>{{ problems | size }} Problem Ledger items, {{ recovery_requirements | size }} Recovery Requirements, and {{ refusals | size }} Mathematical Refusals.</span>
+    <span>{{ problems | size }} Problem Ledger items, {{ recovery_requirements | size }} Core Semantics, and {{ refusals | size }} Mathematical Refusals.</span>
   </div>
   <div class="v2-tile">
     <strong>{{ partial_answers | size }} partially addressed problems</strong>
     <span>Current public answer mirrors where the program has taken a visible stance without claiming final settlement.</span>
   </div>
   <div class="v2-tile">
-    <strong>{{ partial_recovery | size }} partial recovery items</strong>
-    <span>Recovery targets that are publicly framed but still await further build, bridge, or verification work.</span>
+    <strong>{{ partial_recovery | size }} partial Core Semantics items</strong>
+    <span>Core semantic targets that are publicly framed but still await further build, bridge, or verification work.</span>
   </div>
   <div class="v2-tile">
     <strong>{{ not_yet_touched | size }} not-yet-touched item(s)</strong>
@@ -104,7 +104,7 @@ Progress Against Agenda tracks current program stance against public obligations
       <span class="filter-label">Item type</span>
       <div class="filter-chips">
         <button class="filter-chip" data-filter="item_kind" data-value="problem" type="button">Problem Ledger item</button>
-        <button class="filter-chip" data-filter="item_kind" data-value="recovery_requirement" type="button">Recovery requirement</button>
+        <button class="filter-chip" data-filter="item_kind" data-value="recovery_requirement" type="button">Core semantic target</button>
         <button class="filter-chip" data-filter="item_kind" data-value="mathematical_refusal" type="button">Mathematical refusal</button>
       </div>
     </div>
@@ -175,7 +175,7 @@ Progress Against Agenda tracks current program stance against public obligations
           data-title="{{ item.title | downcase }}">
         <a class="result-card-link" href="{{ item.canonical_program_url | relative_url }}">
           <div class="result-card-top">
-            <span class="chip chip-kind">{{ item.item_kind_label }}</span>
+            <span class="chip chip-kind">{% if item.item_kind == 'recovery_requirement' %}Core semantic target{% else %}{{ item.item_kind_label }}{% endif %}</span>
             <span class="chip chip-status">{{ item.display_status_label }}</span>
           </div>
           <h3 class="result-card-title">{{ item.title }}</h3>
@@ -215,7 +215,7 @@ Progress Against Agenda tracks current program stance against public obligations
   {% for item in recently_updated limit: 8 %}
     <a class="v2-tile" href="{{ item.canonical_program_url | relative_url }}">
       <strong>{{ item.title }}</strong>
-      <span>{{ item.last_modified }} · {{ item.item_kind_label }} · {{ item.display_status_label }}</span>
+      <span>{{ item.last_modified }} · {% if item.item_kind == 'recovery_requirement' %}Core semantic target{% else %}{{ item.item_kind_label }}{% endif %} · {{ item.display_status_label }}</span>
     </a>
   {% endfor %}
 </div>
@@ -223,13 +223,13 @@ Progress Against Agenda tracks current program stance against public obligations
 ## Not yet touched
 
 {% if not_yet_touched.size > 0 %}
-<p>These public agenda obligations remain visible precisely because the Results lane has not yet published a substantive answer, recovery state, or internally addressed account for them.</p>
+<p>These public agenda obligations remain visible precisely because the Results lane has not yet published a substantive answer, Core Semantics state, or internally addressed account for them.</p>
 
 <div class="v2-grid">
   {% for item in not_yet_touched %}
     <a class="v2-tile" href="{{ item.canonical_program_url | relative_url }}">
       <strong>{{ item.title }}</strong>
-      <span>{{ item.display_domain }} · {{ item.item_kind_label }}</span>
+      <span>{{ item.display_domain }} · {% if item.item_kind == 'recovery_requirement' %}Core semantic target{% else %}{{ item.item_kind_label }}{% endif %}</span>
     </a>
   {% endfor %}
 </div>

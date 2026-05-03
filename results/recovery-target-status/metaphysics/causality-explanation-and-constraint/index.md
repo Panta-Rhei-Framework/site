@@ -4,13 +4,13 @@ title: "Causality, Explanation, and Constraint"
 permalink: "/results/recovery-target-status/metaphysics/causality-explanation-and-constraint/"
 lane: "results"
 v2_lane: "results"
-type: "Recovery Target Status"
+type: "Core Semantics Status"
 status: "Canonical"
-summary_short: "Current Results-side recovery status for Causality, Explanation, and Constraint."
+summary_short: "Current Results-side Core Semantics status for Causality, Explanation, and Constraint."
 canonical_recovery_id: "METH-R4"
 ---
 
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+<div class="notice note"><strong>Status note.</strong> This page reports current Core Semantics status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
@@ -18,13 +18,13 @@ canonical_recovery_id: "METH-R4"
 - Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
-## Requirement
+## Core Semantic Target
 
 Causality, Explanation, and Constraint
 
-## Current Recovery Status
+## Current Core Semantics Status
 
-- Recovery status: **Partial**
+- Core Semantics status: **Partial**
 - Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R4](/program/research-agenda/recovery-requirements/metaphysics/causality-explanation-and-constraint/)
 - Verification mode: `metaphysical_recovery_target`
