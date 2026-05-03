@@ -28,6 +28,10 @@ right_rail:
     url: /media/theory-of-reality-brief/
   - title: Theory of Reality White Paper
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
+  - title: Public Research Observatory Brief
+    url: /media/public-research-observatory-brief/
+  - title: Public Research Observatory White Paper
+    url: /publications/white-papers/building-a-public-research-observatory/
   - title: Verify
     url: /verify/
   - title: Assessment Protocols
@@ -113,6 +117,30 @@ Use this 12-point doctrine checklist before treating any result as representativ
 10. Does Impact use conditional relevance rather than adoption, deployment, or delivery language?
 11. Does Related Approaches function as a positioning map rather than a takedown?
 12. Does Engage make scrutiny possible without implying endorsement?
+
+## Auditing the observatory architecture
+
+Package 3 adds the technical review question: does the public system actually let outsiders inspect the program?
+
+Start with the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}). It is not a validation claim. It is a blueprint for the public interface: source, route, status, verification, publication, search, correction, and engagement surfaces arranged so that claims can be followed without relying on trust.
+
+Use this 15-point observatory checklist before treating the public site as a serious inspection surface:
+
+1. Does the homepage state the research category without overclaiming completion?
+2. Can a first-time reader move from Discover into Program, Agenda, Corpus, Results, Verify, Impact, and Engage?
+3. Does Program own identity, doctrine, scope, status, and scrutiny posture?
+4. Does Agenda state obligations before answer claims?
+5. Does Corpus expose construction, monographs, registry objects, TauLib projection, and dependency routes?
+6. Do Results separate consequence/status from verification and external acceptance?
+7. Does Verify expose formal checks, bridge checks, predictions, falsification, release manifest, and assessment protocols?
+8. Does Publications keep stable artifacts separate from live Corpus exposition?
+9. Does Impact remain conditional rather than claiming adoption or delivery?
+10. Does Engage provide critique, correction, contribution, and discussion routes without implying endorsement?
+11. Are dynamic public metrics pinned to the Release Manifest rather than hand-owned prose?
+12. Are publication PDFs accompanied by manifest hashes and DOI posture?
+13. Does search help readers find source, status, verification, and artifact routes?
+14. Are compatibility routes, redirects, and legacy labels handled intentionally?
+15. Is the architecture honest about what it cannot prove?
 
 ## Research-form legitimacy
 
