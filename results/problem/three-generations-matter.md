@@ -39,7 +39,7 @@ do_not_edit: true
 
 ## Overview
 
-Three independent structural proofs establish that the number of matter generations is exactly three. First: H₁(τ³;ℤ) ≅ ℤ³ — the first homology of the fibered product τ³ = τ¹ ×_f T² has rank 3 (IV.T171). Second: exactly three primitive winding classes exist on the fiber T². Third: the [lemniscate]({{ '/corpus/monographs/' | relative_url }}) L = S¹ ∨ S¹ has exactly three topologically distinguishable regions (two lobes plus crossing). Independent agreement of three proofs makes this one of the most rigorously supported results in the physics programme.
+Three independent structural proofs establish that the number of matter generations is exactly three. First: H₁(τ³;ℤ) ≅ ℤ³ — the first homology of the fibered product τ³ = τ¹ ×_f T² has rank 3 (IV.T171). Second: exactly three primitive winding classes exist on the fiber T². Third: the [lemniscate]({{ '/corpus/monograph-corpus/' | relative_url }}) L = S¹ ∨ S¹ has exactly three topologically distinguishable regions (two lobes plus crossing). Independent agreement of three proofs makes this one of the most rigorously supported results in the physics programme.
 
 ## Detail
 

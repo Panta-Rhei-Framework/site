@@ -22,7 +22,7 @@ do_not_edit: true
 
 is it a member of the order Zygentoma (silverfishes) or an independent ancient lineage of insects?
 
-- Program Problem Ledger item: [life-biology-taxonomic-position-of-tricholepidion-gertschi](/program/research-agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/)
+- Program Problem Ledger item: [life-biology-taxonomic-position-of-tricholepidion-gertschi](/agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-taxonomic-position-of-tricholepidion-gertschi.md`
 

@@ -39,7 +39,7 @@ do_not_edit: true
 
 ## Overview
 
-The Mutual Determination Theorem (II.T27) proves that five a priori distinct characterizations of τ-holomorphic functions are equivalent: (R) refinement sequence convergence, (S) spectral decomposition on τ³, (G) omega-germ transformation, (C) boundary character on L = S¹ ∨ S¹, and (H) [Hartogs extension]({{ '/corpus/monographs/' | relative_url }}) from the boundary. Equivalence of all five is the structural core of Book II, demonstrating that holomorphic functions in τ are not defined by arbitrary choice but by a multiply-convergent characterization.
+The Mutual Determination Theorem (II.T27) proves that five a priori distinct characterizations of τ-holomorphic functions are equivalent: (R) refinement sequence convergence, (S) spectral decomposition on τ³, (G) omega-germ transformation, (C) boundary character on L = S¹ ∨ S¹, and (H) [Hartogs extension]({{ '/corpus/monograph-corpus/' | relative_url }}) from the boundary. Equivalence of all five is the structural core of Book II, demonstrating that holomorphic functions in τ are not defined by arbitrary choice but by a multiply-convergent characterization.
 
 ## Detail
 

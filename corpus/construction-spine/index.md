@@ -18,7 +18,7 @@ hero_ctas:
   - label: "Foundational Hinges"
     url: /corpus/foundational-hinges/
   - label: "Construction Roadmap"
-    url: /program/research-agenda/construction-roadmap/
+    url: /agenda/construction-roadmap/
   - label: "Progress Against Agenda"
     url: /results/progress-against-agenda/
 right_rail:
@@ -64,7 +64,8 @@ The ten construction steps show how the Corpus is built: not as a timeline or sp
 
 - [Registry]({{ '/corpus/registry/' | relative_url }}) is the atomic item projection.
 - [TauLib]({{ '/verify/taulib/' | relative_url }}) is the Lean formalization projection.
-- [Publications]({{ '/publications/' | relative_url }}) are narrative proof-order projections.
+- The [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}) is the narrative proof-order projection.
+- [Publications]({{ '/publications/' | relative_url }}) are the citable artifact and release shelf.
 - [Corpus Graph]({{ '/corpus/graph/' | relative_url }}) is the dependency projection.
 - [Bi-Square Spine]({{ '/corpus/bi-square/' | relative_url }}) is the diagrammatic-shape route: tower coherence, spectral naturality, and pasting across the main algebraic, geometric, enriched, and computational lifts.
 
@@ -103,46 +104,22 @@ The first three construction steps are supported by a foundational hinge route: 
 
 ## End-to-end construction view
 
-The grid above shows the steps as separate tiles for navigation. The same ten steps also form a single construction chain — read here as one continuous build-up so the inheritance pattern is visible at a glance.
+The ten construction steps are not isolated pages. They form one construction chain.
 
-The ten steps are not isolated essays. They glue into a single construction chain that starts at the kernel's primitive signature and closes at the boundary collapse where proof and commitment coincide. The chain has three manuscript-grounded arcs and one closing-pattern summary:
+Each step inherits exactly what earlier steps have earned and hands forward what later steps need:
 
-### Arc I — Mathematics (CS-01 → CS-03; Books I–II)
+1. the kernel establishes the constrained formal core;
+2. core mathematics earns syntax, number, geometry, topology, and bridge discipline;
+3. self-enrichment begins the internalization of logic and meta-language;
+4. the physical carrier identifies where physics can live;
+5. internal physical grammar builds τ-time, τ-space, τ-mass, τ-energy, observables, and laws;
+6. measurement bridges connect internal physics to empirical accountability;
+7. life is recovered as a structural class;
+8. reflective structure recovers mind, language, meaning, truth, value, and normativity;
+9. formal systems and the kernel itself become internal objects;
+10. ontic closure tests no-externalities, substrate non-deferral, proof/commitment boundary, and residual frontiers.
 
-The kernel-and-mathematics arc earns the foundation:
-
-- **CS-01** posits the categorical kernel (K0–K6, five generators, one progression operator) and earns hyperfactorization, prime polarity, the split-complex boundary algebra, τ-holomorphy, and the τ-topos with four-valued internal logic.
-- **CS-02** recovers core mathematics under kernel discipline: an internal set theory from divisibility-as-membership (Cantor mirage refuted by K5); the earned number tower `ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ`; Tarski geometry as theorems II.T15–T18; earned transcendentals π, e, j, ι_τ; the Fork's five-mode comparison against orthodox mathematics.
-- **CS-03** internalizes self-enrichment: hom-objects as τ-objects; Yoneda as theorem (II.T36); the Central Theorem `O(τ³) ≅ A_spec(L)` (II.T40); Categoricity (II.T42) — moduli space `{pt}`, zero parameters, "τ³ is discovered, not constructed".
-
-By the end of Arc I, the framework has built a τ-internal mathematical layer that is **categoric**, **rigid**, and **without free parameters** — and the boundary↔interior holographic duality is established as a τ-internal theorem.
-
-### Arc II — Physics (CS-04 → CS-06; Books III–V)
-
-The physical arc earns the carrier and the bridge to measurement:
-
-- **CS-04** identifies the physical carrier as `E_1` — the structural layer where physics becomes definable. The 4+1 sector template is induced (not posited) by Langlands_0 functoriality; the Hinge Theorem (III.T20) establishes that all Books IV–VII results are sector instantiations of Book III; the Global Cartesian Gluing (III.T21) earns the 3+1 spacetime signature; the Eight Guarantees (Spatial / Harmonic / Regular / Discrete / Legible / Codable / Coherent / Predictive) close the physics layer.
-- **CS-05** populates the carrier with internal physical grammar: the Joint Core ontic sequence (vacuum → neutron → β-decay → hydrogen) with **`α = (121/225)·ι_τ⁴`** at 9.8 ppm; QM as address obstruction; time from τ¹ as proper-time = geodesic arc length; Gravity Earned with `G = (c³/ℏ)·ι_τ²`, the τ-Einstein equation as boundary-character identity, Lorentz Without Minkowski, and the gravitational closing identity `α_G = α¹⁸·√3·(1 − (3/π)·α)`. The Hermetic Principle declares fiber + base exhaust E_1.
-- **CS-06** builds the measurement bridges: the constants ledger (ten couplings as rational functions of `ι_τ`); the running-vs-readout distinction (no RG flow); the 10-link mass-ratio chain to sub-ppm; the neutron lifetime as crown of calibration; the Cosmic Stack API; and the **decisive falsification** — CMB-S4 r ≈ ι_τ⁴ ≈ 0.0136 (~2030).
-
-By the end of Arc II, the framework has earned a τ-internal physics layer with **zero free dimensionless constants** and a published falsification ledger committing the framework in advance to specific experimental outcomes.
-
-### Arc III — Life and Metaphysics (CS-07 → CS-10; Books VI–VII)
-
-The reflection-and-closure arc earns the upper enrichment layers and runs the final closure test:
-
-- **CS-07** recovers life as a structural class via two predicates: τ-Distinction ∧ SelfDesc; the Layer Separation Lemma (VI.T02) establishes life is genuinely E_2 (non-reducible to physics); the Parity Bridge Theorem (VI.T03) seeds self/non-self distinction from the weak sector; the 4+1 sector template instantiates as Archaea / Bacteria / Plants / Fungi / Animals; the Seven Hallmarks are derived as theorems; Predictions by Absence (virus / neutron / neutron star) establish falsifiability; the bridge to E_3 opens at consciousness as SelfDesc-of-SelfDesc.
-- **CS-08** recovers reflective structure: the four-register model (E / P / D / C); the 4+1 template at E_3 (S_E / S_D / S_P / S_C / S_L); the **Saturation Theorem** (`Enrich⁴ = Enrich³`) closes the enrichment ladder; minds as internal topoi (VII.D90) — self-models with story functors, consciousness as global section; the Categorical Imperative as fixed point on the commitment lattice.
-- **CS-09** self-hosts: ZFC, Lean-like kernels, and the τ-kernel itself as object theories inside τ; proof-as-act vs proof-as-static-relation; computation-as-process vs equation; the Logos sector S_L as the mediator where proof-validity = stance-stability (VII.T80); the boundary collapse lemma (VII.T81).
-- **CS-10** runs the closure test: Categorical Ontology (relations precede relata); the Inevitability Argument (VII.T55) — six ontic requirements converge uniquely to τ; the Metaphysical Problem Map (~17 problems classified resolved / reframed / open); ω-uniqueness (VII.T60); the boundary collapse lemma as the structural climax; the closing question — *what am I willing to live as true?*
-
-By the end of Arc III, the framework has run an end-to-end audit of the no-externalities discipline across all 9 prior steps; the residual commitment register is honestly disclosed as belonging to the reader.
-
-### The closing pattern
-
-The ten steps share a single voice: every later step inherits exactly what earlier steps earned, and hands forward exactly what the next step needs. The kernel's K0–K6 power the Central Theorem; the Central Theorem powers the Hinge Theorem; the Hinge Theorem powers the calibration cascade; the calibration cascade powers the falsification ledger; the falsification ledger powers life's predictions-by-absence; life's SelfDesc² powers reflective structure; reflective structure's Logos sector powers self-hosting; self-hosting's boundary collapse lemma powers ontic closure.
-
-**One algebraic seed (`ι_τ`); one empirical anchor (`m_n`); zero free parameters; one categorical kernel that hosts itself.**
+The [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}) shows how the seven books realize this chain across their parts and chapters.
 
 ## How to read this section
 

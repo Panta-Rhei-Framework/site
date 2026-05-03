@@ -39,11 +39,11 @@ do_not_edit: true
 
 ## Overview
 
-The Hodge Conjecture (one of the seven Clay Millennium Problems) asks whether every Hodge class on a smooth projective algebraic variety is a rational linear combination of classes of algebraic cycles. The <math><mi>&tau;</mi></math>-framework addresses this through the [spectral algebra]({{ '/corpus/monographs/' | relative_url }}) and the ABCD grading of cohomology classes.
+The Hodge Conjecture (one of the seven Clay Millennium Problems) asks whether every Hodge class on a smooth projective algebraic variety is a rational linear combination of classes of algebraic cycles. The <math><mi>&tau;</mi></math>-framework addresses this through the [spectral algebra]({{ '/corpus/monograph-corpus/' | relative_url }}) and the ABCD grading of cohomology classes.
 
 ## Detail
 
-The [4+1 sector template]({{ '/corpus/monographs/' | relative_url }}) at <math><msub><mi>E</mi><mn>0</mn></msub></math> decomposes the cohomology of <math><msup><mi>&tau;</mi><mn>3</mn></msup></math> into ABCD-graded components. The Hodge decomposition corresponds to the bipolar spectral decomposition via the [lemniscate]({{ '/corpus/monographs/' | relative_url }}) characters <math><msub><mi>&chi;</mi><mo>+</mo></msub></math> and <math><msub><mi>&chi;</mi><mo>&minus;</mo></msub></math>. The tau-effective statement is that Hodge classes correspond to spectral components with specific polarity signatures in the B/C classifier (III.D23). The structural framework is in place -- the [Master Schema]({{ '/corpus/monographs/' | relative_url }}) frames the Hodge Conjecture as an instance of the Eternal Force -- but the full proof chain from spectral polarity to algebraic representability remains incomplete.
+The [4+1 sector template]({{ '/corpus/monograph-corpus/' | relative_url }}) at <math><msub><mi>E</mi><mn>0</mn></msub></math> decomposes the cohomology of <math><msup><mi>&tau;</mi><mn>3</mn></msup></math> into ABCD-graded components. The Hodge decomposition corresponds to the bipolar spectral decomposition via the [lemniscate]({{ '/corpus/monograph-corpus/' | relative_url }}) characters <math><msub><mi>&chi;</mi><mo>+</mo></msub></math> and <math><msub><mi>&chi;</mi><mo>&minus;</mo></msub></math>. The tau-effective statement is that Hodge classes correspond to spectral components with specific polarity signatures in the B/C classifier (III.D23). The structural framework is in place -- the [Master Schema]({{ '/corpus/monograph-corpus/' | relative_url }}) frames the Hodge Conjecture as an instance of the Eternal Force -- but the full proof chain from spectral polarity to algebraic representability remains incomplete.
 
 ## Result Statement
 

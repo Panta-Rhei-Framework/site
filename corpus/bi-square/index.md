@@ -103,7 +103,7 @@ Use this page as the synthesis route. Use the linked chapters, registry entries,
 The bi-square should be inspected through three public projections:
 
 1. [Registry]({{ '/corpus/registry/' | relative_url }}) for atomic objects and dependencies.
-2. [Corpus Monographs]({{ '/corpus/monographs/' | relative_url }}) for narrative proof order.
+2. [Monograph Corpus]({{ '/corpus/monograph-corpus/' | relative_url }}) for narrative proof order.
 3. [TauLib]({{ '/verify/taulib/' | relative_url }}) for formalization surfaces where the corresponding modules are available.
 
 The key TauLib routes are:
