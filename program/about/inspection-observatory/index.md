@@ -37,8 +37,16 @@ right_rail:
       url: /program/about/scope-status-and-scrutiny/
     - title: "Media Kit"
       url: /media/
+    - title: "Open Research Brief"
+      url: /media/open-research-brief/
     - title: "Review Kit"
       url: /media/review-kit/
+    - title: "Inspection Architecture White Paper"
+      url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+    - title: "Public Research Observatory Brief"
+      url: /media/public-research-observatory-brief/
+    - title: "Public Observatory White Paper"
+      url: /publications/white-papers/building-a-public-research-observatory/
     - title: "Engage"
       url: /engage/
   meta:
@@ -78,13 +86,20 @@ The observatory structure exists so those questions have public routes.
 
 The same discipline applies to comparisons with neighboring programs. [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) is the Program-side positioning map: it explains what Panta Rhei shares with serious adjacent approaches and where its semantic or construction burden is placed differently.
 
+## Technical blueprint
+
+Package 3 documents the implementation side of this doctrine. The white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) explains how the public site and GitHub organization materialize the observatory as source paths, lane routes, generated projections, release manifests, search, publications, review kits, and correction channels.
+
+That architecture does not validate the theory. It makes the public inspection path visible enough for validation, challenge, correction, review, and refusal to begin.
+
 ## For journalists and reviewers
 
 If you are covering or reviewing the program, start with the inspection standard before evaluating individual claims.
 
 - [Media Kit]({{ '/media/' | relative_url }})
 - [Review Kit]({{ '/media/review-kit/' | relative_url }})
-- Inspection Architecture for High-Scope Open Research -- white paper forthcoming
+- [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) -- white paper, DOI forthcoming
+- [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) -- technical blueprint, DOI forthcoming
 
 ## What this page does not claim
 

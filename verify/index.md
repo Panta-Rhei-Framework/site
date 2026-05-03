@@ -44,6 +44,8 @@ right_rail:
       url: /results/
     - title: "Corpus Registry"
       url: /corpus/registry/
+    - title: "Public Observatory Blueprint"
+      url: /publications/white-papers/building-a-public-research-observatory/
   artifacts:
     - title: "Release Manifest"
       url: /verify/release-manifest/
@@ -98,6 +100,8 @@ Verification in this program is not one thing. It includes research-form legitim
 Verification is not a single operation. It begins with traceability: what obligation is being answered, what construction supports it, what result follows, and how can it be challenged?
 
 Formal checking is essential, but it is not empirical truth.
+
+For the architecture-level audit route, see [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}). It explains how Verify fits into the larger public observatory without claiming that infrastructure validates the scientific theory.
 
 <div class="btn-group section-ctas">
   <a class="btn-secondary" href="{{ '/verify/construction-spine-verification/' | relative_url }}">Verify the Construction Spine</a>
