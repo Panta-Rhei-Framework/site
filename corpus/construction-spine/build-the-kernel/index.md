@@ -167,11 +167,37 @@ construction_step_id: "CS-01"
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step is required to do
+## 1. What this step must build
 
 The program must build a kernel precise enough to generate objects, constrain admissible construction, retain global address structure, and expose the boundary behavior needed by later mathematics, physics, life, reflection, and ontic-closure tests.
 
-## What the corpus built
+By the end of this step:
+
+- A **primitive signature** must exist: five generators plus one primitive progression operator plus a fixed-point absorber.
+- An **axiom cluster (K0–K6)** must determine which objects exist, how they generate, and how the universe of discourse closes.
+- **Global address structure** must be available so later layers can refer to objects without inventing addressing machinery downstream.
+- A **boundary algebra** and a **holomorphic transformation grammar** must exist so τ-internal analytic discipline is in place before measurement bridges or empirical work begins.
+- An **internal truth substrate** (τ-topos / four-valued internal logic) must exist so circularity, paraconsistency, and self-reference can be addressed *inside* the kernel rather than outsourced to external metalanguage.
+
+What cannot yet be assumed: ZFC ambient set theory, the real numbers as background algebra, classical first-order logic as substrate, dimensionful constants, observation, life, mind, language, ontic closure. Those obligations are deferred to later construction steps.
+
+## 2. The construction challenge
+
+This step is hard for six interlocking reasons. Each names a hidden externality the construction must avoid.
+
+**2.1 Avoid importing mathematics as already given.** The kernel must not begin from "the real numbers + ZFC + classical logic" as a pre-existing background. Once a substrate is presumed, the program loses the ability to test whether mathematics, physics, and the rest are *recoverable* under categorical discipline rather than *imported*.
+
+**2.2 Avoid hidden substrate or runtime.** No implicit "execution engine," no presumed observer, no implicit time. Substrate-deferral is the standard escape hatch: when a question is hard, it is offloaded to "the universe in which everything is happening." That offload destroys the program's no-externalities discipline.
+
+**2.3 Define primitives without overgeneration.** The primitive signature must be small enough to be inspectable and large enough to determine downstream object generation. Picking too few primitives makes the kernel too weak to build; picking too many silently encodes structure that should be derived. Five generators plus one operator is a deliberate constraint, not a stylistic choice.
+
+**2.4 Define existence, generation, and closure without circularity.** K0–K6 must specify *which objects exist* (K6 closure), *how they generate* (K3 + K4 orbit rays), *what acts as fixed point* (K2), and *how the order is constrained* (K1) — without circular reference to "objects" as a prior class.
+
+**2.5 Make the kernel inspectable and formalizable.** The kernel cannot be merely descriptive prose. It must surface as a Lean-checkable signature, a registry of atomic items, and a foundational hinge route that an external reviewer can read independently. Most foundational programs end at prose; this construction does not.
+
+**2.6 Don't flatten multiplicative or exponential structure too early.** The natural temptation is to flatten the kernel into ordinary additive/distributive arithmetic on a pre-existing carrier. The kernel must instead preserve the global multiplicative and exponential structure that the progression operator generates — the structure that hyperfactorization and prime polarity later read off as kernel-generated.
+
+## 3. What Panta Rhei builds
 
 The Corpus presents the five generators, progression operator, K0-K6 axioms, boundary behavior, diagonal/resource discipline, hyperfactorization, prime polarity, split-complex boundary algebra, τ-holomorphy, and τ-topos/four-valued internal logic as kernel machinery rather than downstream applications.
 
@@ -329,6 +355,35 @@ The kernel page should be read with the following failure map in mind:
 | Multiplicative and exponential structure is flattened too early. | Hyperfactorization, prime polarity, and global address claims lose their source. |
 | Boundary algebra is optional rather than forced. | Split-complex boundary analysis becomes a modeling choice rather than a kernel consequence. |
 | Internal truth remains external semantics. | Step 3 self-enrichment and later ontic-status burdens inherit an unexplained metalanguage. |
+
+## 4. Why this matches the required answer-shape
+
+Step 1 is the construction's origin; it has no predecessors to glue to. Its admissibility is therefore evaluated against the Research Agenda's required answer-shape directly: *can the kernel be the foundation a categorical theory of mathematics, physics, life, reflection, and ontic closure rests on?*
+
+**No-externalities discipline.** The kernel does not import:
+
+- ZFC ambient set theory — the object class `Obj(τ)` is *generated* by K6 closure, not assumed.
+- Classical first-order logic as primitive — the τ-topos provides a four-valued internal logic as kernel substrate.
+- The real numbers as ambient algebra — the multiplicative and exponential structure is preserved as kernel-generated, not flattened into classical arithmetic.
+- A physical or semantic substrate — no presumed runtime, observer, or narrator.
+- Standard complex analysis — the boundary algebra is forced as split-complex; τ-holomorphy is τ-internal, not relabeled classical holomorphy.
+
+**Earned language, earned question, earned answer.** Every kernel notion is reachable by finite K1–K5 composition under K6 closure; this is the kernel's analogue of "earned" structure. The internal-logic substrate (τ-topos, four-valued) makes the question of "what counts as true here" itself internal to the kernel. There is no external standpoint from which kernel claims are made.
+
+**Internal standpoint preserved throughout.** All kernel notions are stated from inside τ. The progression operator ρ acts on `Obj(τ)`; the boundary algebra lives on the τ-boundary; the topos is the τ-internal Cat-enriched topos. The construction does not slip into a meta-mathematical view from outside.
+
+**Step gluing — what later steps does it enable.** Step 1 sets up:
+
+- **CS-02 Recover Core Mathematics** — reads off rank coordinates `(n, k)` from hyperfactorization; uses τ-holomorphy to recover classical mathematics under boundary-respecting bridges; uses K6 to enumerate construction inputs.
+- **CS-03 Internalize Self-Enrichment** — uses the τ-topos as its base topos; lifts the four-valued internal logic into the self-enrichment construction.
+- **CS-04 Identify Physical Carrier** — carries the split-complex boundary algebra and prime polarity into the physical carrier; uses τ-holomorphy to identify the analytic grammar of the carrier.
+- **CS-05 Recover Internal Physical Grammar** — inherits the four-atom dictionary as the source of physical-grammar primitives.
+- **CS-08 Recover Reflective Structure** — uses the four-valued logic as the substrate for symbolic mediation and circularity.
+- **CS-10 Test Ontic Closure** — reads the four-valued logic for handling self-referential commitment; tests whether the no-externalities discipline holds end-to-end.
+
+**Bridge status.** No bridges yet. Bridges to standard mathematics begin in CS-02; bridges to standard physics in CS-04 → CS-06; bridges to empirical observation only at CS-06. The kernel is *internally addressed* at canonical scope; the *bridge-adequacy burden* is explicitly handed off to later steps.
+
+**This is an internal construction claim, not external acceptance.** Step 1 builds the kernel machinery; reviewer scrutiny is invited via the foundational hinge route, the registry, and the TauLib formalization. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
 
 ## Reviewer route
 
