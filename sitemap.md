@@ -16,7 +16,7 @@ right_rail:
   - title: Discover
     url: /discover/
   - title: Agenda
-    url: /program/research-agenda/
+    url: /agenda/
   - title: XML Sitemap
     url: /sitemap.xml
   meta:

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Do black holes produce thermal radiation, as expected on theoretical grounds? Does this radiation contain information about their inner structure, as suggested by gauge–gravity duality, or not, as implied by Hawking's original calculation? If not, and black holes can evaporate away, what happens to the information stored in them (since quantum mechanics does not provide for the destruction of information)? Or does the radiation stop at some point, leaving black hole remnants? Is there another way to probe their internal structure somehow, if such a structure even exists?
 
-- Program Problem Ledger item: [phys-black-holes-black-hole-information-paradox-and-black-hole-radiation](/program/research-agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/)
+- Program Problem Ledger item: [phys-black-holes-black-hole-information-paradox-and-black-hole-radiation](/agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-black-holes-black-hole-information-paradox-and-black-hole-radiation.md`
 

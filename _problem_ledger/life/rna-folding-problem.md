@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "RNA folding problem"
-permalink: "/program/research-agenda/problem-ledger/life/rna-folding-problem/"
+permalink: "/agenda/problem-ledger/life/rna-folding-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "rna-folding-problem"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/rna-folding-problem/"
+url: "/agenda/problem-ledger/life/rna-folding-problem/"
 results_mirror:
   exists: false
   result_id: ""

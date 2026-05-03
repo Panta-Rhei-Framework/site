@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "p-nuclei"
-permalink: "/program/research-agenda/problem-ledger/physics/p-nuclei/"
+permalink: "/agenda/problem-ledger/physics/p-nuclei/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "p-nuclei"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/p-nuclei/"
+url: "/agenda/problem-ledger/physics/p-nuclei/"
 results_mirror:
   exists: false
   result_id: ""

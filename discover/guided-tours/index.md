@@ -36,7 +36,7 @@ Guided Tours are structured reading and inspection routes for different levels o
     <h3>Quick Overview</h3>
     <p>Fast path for first-time visitors who want orientation before depth.</p>
   </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <h3>Program Tour</h3>
     <p>Research contract, Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.</p>
   </a>

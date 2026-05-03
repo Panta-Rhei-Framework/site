@@ -21,15 +21,15 @@ hero_ctas:
   - label: "Coherent Theory"
     url: /program/about/coherent-theory-of-reality/
   - label: "Ontic Status Burden"
-    url: /program/research-agenda/kernel-model-reality/ontic-status-burden/
+    url: /agenda/kernel-model-reality/ontic-status-burden/
 right_rail:
   related:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Core Design Principles"
-      url: /program/research-agenda/core-design-principles/
+      url: /agenda/core-design-principles/
     - title: "Ontic Status Burden"
-      url: /program/research-agenda/kernel-model-reality/ontic-status-burden/
+      url: /agenda/kernel-model-reality/ontic-status-burden/
     - title: "Meta-Verification Frontier"
       url: /verify/meta-verification-frontier/
   meta:
@@ -58,7 +58,7 @@ Ontic structural realism gives priority to structure. Panta Rhei asks what const
 
 ## Where to inspect next
 
-- [Core Design Principles]({{ '/program/research-agenda/core-design-principles/' | relative_url }}) for relationality and earnedness.
-- [Ontic Status Burden]({{ '/program/research-agenda/kernel-model-reality/ontic-status-burden/' | relative_url }}) for what ontic seriousness requires.
+- [Core Design Principles]({{ '/agenda/core-design-principles/' | relative_url }}) for relationality and earnedness.
+- [Ontic Status Burden]({{ '/agenda/kernel-model-reality/ontic-status-burden/' | relative_url }}) for what ontic seriousness requires.
 - [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) for the build route.
 - [Meta-Verification Frontier]({{ '/verify/meta-verification-frontier/' | relative_url }}) for the remaining verification boundary.

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Sonoluminescence"
-permalink: "/program/research-agenda/problem-ledger/physics/sonoluminescence/"
+permalink: "/agenda/problem-ledger/physics/sonoluminescence/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "sonoluminescence"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/sonoluminescence/"
+url: "/agenda/problem-ledger/physics/sonoluminescence/"
 results_mirror:
   exists: false
   result_id: ""

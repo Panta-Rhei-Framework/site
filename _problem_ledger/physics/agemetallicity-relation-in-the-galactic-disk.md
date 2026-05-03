@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Age–metallicity relation in the Galactic disk"
-permalink: "/program/research-agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/"
+permalink: "/agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "agemetallicity-relation-in-the-galactic-disk"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/"
+url: "/agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/"
 results_mirror:
   exists: false
   result_id: ""

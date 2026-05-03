@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cognition and decisions"
-permalink: "/program/research-agenda/problem-ledger/life/cognition-and-decisions/"
+permalink: "/agenda/problem-ledger/life/cognition-and-decisions/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -185,7 +185,7 @@ tags:
   - "cognition-and-decisions"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/cognition-and-decisions/"
+url: "/agenda/problem-ledger/life/cognition-and-decisions/"
 results_mirror:
   exists: false
   result_id: ""

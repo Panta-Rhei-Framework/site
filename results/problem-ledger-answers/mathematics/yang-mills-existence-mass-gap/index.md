@@ -22,7 +22,7 @@ do_not_edit: true
 
 Yang-Mills Existence and Mass Gap is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-yang-mills-existence-mass-gap](/program/research-agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/)
+- Program Problem Ledger item: [math-yang-mills-existence-mass-gap](/agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-yang-mills-existence-mass-gap.md`
 

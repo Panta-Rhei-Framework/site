@@ -22,7 +22,7 @@ do_not_edit: true
 
 How are the final shape and size of organs so reliably formed? These processes are in part controlled by the Hippo signaling pathway
 
-- Program Problem Ledger item: [life-biology-how-do-organs-grow-to-the-correct-shape-and-size](/program/research-agenda/problem-ledger/life/how-do-organs-grow-to-the-correct-shape-and-size/)
+- Program Problem Ledger item: [life-biology-how-do-organs-grow-to-the-correct-shape-and-size](/agenda/problem-ledger/life/how-do-organs-grow-to-the-correct-shape-and-size/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-how-do-organs-grow-to-the-correct-shape-and-size.md`
 

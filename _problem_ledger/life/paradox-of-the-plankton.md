@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Paradox of the plankton"
-permalink: "/program/research-agenda/problem-ledger/life/paradox-of-the-plankton/"
+permalink: "/agenda/problem-ledger/life/paradox-of-the-plankton/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -131,7 +131,7 @@ tags:
   - "paradox-of-the-plankton"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/paradox-of-the-plankton/"
+url: "/agenda/problem-ledger/life/paradox-of-the-plankton/"
 results_mirror:
   exists: false
   result_id: ""

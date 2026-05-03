@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Love"
-permalink: "/program/research-agenda/problem-ledger/life/love/"
+permalink: "/agenda/problem-ledger/life/love/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-biology"
   - "love"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/love/"
+url: "/agenda/problem-ledger/life/love/"
 results_mirror:
   exists: false
   result_id: ""

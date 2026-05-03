@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Metal whiskering"
-permalink: "/program/research-agenda/problem-ledger/physics/metal-whiskering/"
+permalink: "/agenda/problem-ledger/physics/metal-whiskering/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "metal-whiskering"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/metal-whiskering/"
+url: "/agenda/problem-ledger/physics/metal-whiskering/"
 results_mirror:
   exists: false
   result_id: ""

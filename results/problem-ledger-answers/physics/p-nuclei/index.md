@@ -22,7 +22,7 @@ do_not_edit: true
 
 What astrophysical process is responsible for the nucleogenesis of these rare isotopes?
 
-- Program Problem Ledger item: [phys-p-nuclei](/program/research-agenda/problem-ledger/physics/p-nuclei/)
+- Program Problem Ledger item: [phys-p-nuclei](/agenda/problem-ledger/physics/p-nuclei/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-p-nuclei.md`
 

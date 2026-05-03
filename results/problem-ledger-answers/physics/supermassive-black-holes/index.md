@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the origin of the M–sigma relation between supermassive black hole mass and galaxy velocity dispersion? How did the most distant quasars grow their supermassive black holes up to 10 solar masses so early in the history of the universe?
 
-- Program Problem Ledger item: [phys-supermassive-black-holes](/program/research-agenda/problem-ledger/physics/supermassive-black-holes/)
+- Program Problem Ledger item: [phys-supermassive-black-holes](/agenda/problem-ledger/physics/supermassive-black-holes/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-supermassive-black-holes.md`
 

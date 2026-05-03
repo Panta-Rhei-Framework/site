@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can religious belief be justified? When? According to the Cambridge Dictionary of Philosophy, religious epistemology "investigates the epistemic status of propositional attitudes about religious claims." Philosophers like Kant, Kierkegaard, William James, and Alvin Plantinga have debated stances towards the epistemic status of religious belief like reformed epistemology, fideism, and evidentialism
 
-- Program Problem Ledger item: [meta-epistemology-of-religion](/program/research-agenda/problem-ledger/metaphysics-philosophy/epistemology-of-religion/)
+- Program Problem Ledger item: [meta-epistemology-of-religion](/agenda/problem-ledger/metaphysics-philosophy/epistemology-of-religion/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-epistemology-of-religion.md`
 

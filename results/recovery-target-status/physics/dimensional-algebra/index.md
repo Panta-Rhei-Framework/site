@@ -26,7 +26,7 @@ Dimensional Algebra
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P1](/program/research-agenda/recovery-requirements/physics/dimensional-algebra/)
+- Program ledger item: [PREC-P1](/agenda/recovery-requirements/physics/dimensional-algebra/)
 - Verification mode: `dimensional_consistency`
 
 ## Result Summary

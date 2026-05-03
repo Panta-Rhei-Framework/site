@@ -64,7 +64,7 @@ Large scope does not mean completed status. It means the program has chosen a ha
 
 The public website therefore distinguishes the major surfaces:
 
-- [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) states the obligations.
+- [Research Agenda]({{ '/agenda/' | relative_url }}) states the obligations.
 - [Corpus]({{ '/corpus/' | relative_url }}) shows the construction.
 - [Results]({{ '/results/' | relative_url }}) records consequences and status.
 - [Verify]({{ '/verify/' | relative_url }}) exposes inspection routes.

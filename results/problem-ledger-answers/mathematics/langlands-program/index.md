@@ -22,7 +22,7 @@ do_not_edit: true
 
 Langlands Program is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-langlands-program](/program/research-agenda/problem-ledger/mathematics/langlands-program/)
+- Program Problem Ledger item: [math-langlands-program](/agenda/problem-ledger/mathematics/langlands-program/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-langlands-program.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Flyby anomaly"
-permalink: "/program/research-agenda/problem-ledger/physics/flyby-anomaly/"
+permalink: "/agenda/problem-ledger/physics/flyby-anomaly/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "flyby-anomaly"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/flyby-anomaly/"
+url: "/agenda/problem-ledger/physics/flyby-anomaly/"
 results_mirror:
   exists: false
   result_id: ""

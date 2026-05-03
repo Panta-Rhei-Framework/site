@@ -22,7 +22,7 @@ do_not_edit: true
 
 How should Ediacaran biota be classified? Even what kingdom they belong to is unclear. Why were they so decisively displaced by Cambrian biota?
 
-- Program Problem Ledger item: [life-biology-ediacaran-biota](/program/research-agenda/problem-ledger/life/ediacaran-biota/)
+- Program Problem Ledger item: [life-biology-ediacaran-biota](/agenda/problem-ledger/life/ediacaran-biota/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-ediacaran-biota.md`
 

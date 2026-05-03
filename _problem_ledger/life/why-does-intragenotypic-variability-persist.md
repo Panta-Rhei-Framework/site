@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Why does intragenotypic variability persist?"
-permalink: "/program/research-agenda/problem-ledger/life/why-does-intragenotypic-variability-persist/"
+permalink: "/agenda/problem-ledger/life/why-does-intragenotypic-variability-persist/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -99,7 +99,7 @@ tags:
   - "why-does-intragenotypic-variability-persist"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/why-does-intragenotypic-variability-persist/"
+url: "/agenda/problem-ledger/life/why-does-intragenotypic-variability-persist/"
 results_mirror:
   exists: false
   result_id: ""

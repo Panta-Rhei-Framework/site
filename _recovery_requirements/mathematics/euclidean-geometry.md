@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Euclidean Geometry"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/euclidean-geometry/"
+permalink: "/agenda/recovery-requirements/mathematics/euclidean-geometry/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "mathematics"
   - "recovery-requirements"
   - "mrec-m3"
-url: "/program/research-agenda/recovery-requirements/mathematics/euclidean-geometry/"
+url: "/agenda/recovery-requirements/mathematics/euclidean-geometry/"
 verification:
   status: "pending_bridge_verification"
   mode: "foundational_recovery_target"

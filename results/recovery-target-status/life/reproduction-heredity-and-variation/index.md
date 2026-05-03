@@ -26,7 +26,7 @@ Reproduction, Heredity, and Variation
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L4](/program/research-agenda/recovery-requirements/life/reproduction-heredity-and-variation/)
+- Program ledger item: [LREC-L4](/agenda/recovery-requirements/life/reproduction-heredity-and-variation/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

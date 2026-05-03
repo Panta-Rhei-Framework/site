@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Strange matter"
-permalink: "/program/research-agenda/problem-ledger/physics/strange-matter/"
+permalink: "/agenda/problem-ledger/physics/strange-matter/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "strange-matter"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/strange-matter/"
+url: "/agenda/problem-ledger/physics/strange-matter/"
 results_mirror:
   exists: false
   result_id: ""

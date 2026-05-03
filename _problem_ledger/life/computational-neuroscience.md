@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Computational neuroscience"
-permalink: "/program/research-agenda/problem-ledger/life/computational-neuroscience/"
+permalink: "/agenda/problem-ledger/life/computational-neuroscience/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -143,7 +143,7 @@ tags:
   - "computational-neuroscience"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/computational-neuroscience/"
+url: "/agenda/problem-ledger/life/computational-neuroscience/"
 results_mirror:
   exists: false
   result_id: ""

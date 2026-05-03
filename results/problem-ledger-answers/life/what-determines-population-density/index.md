@@ -22,7 +22,7 @@ do_not_edit: true
 
 There is disagreement over which regulatory mechanisms of population are density-dependent, or density-independent
 
-- Program Problem Ledger item: [life-biology-what-determines-population-density](/program/research-agenda/problem-ledger/life/what-determines-population-density/)
+- Program Problem Ledger item: [life-biology-what-determines-population-density](/agenda/problem-ledger/life/what-determines-population-density/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-determines-population-density.md`
 

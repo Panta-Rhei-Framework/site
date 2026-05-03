@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is there a singular, all-encompassing, coherent theoretical framework of physics that fully explains and links together all physical aspects of the universe?
 
-- Program Problem Ledger item: [phys-theory-of-everything](/program/research-agenda/problem-ledger/physics/theory-of-everything/)
+- Program Problem Ledger item: [phys-theory-of-everything](/agenda/problem-ledger/physics/theory-of-everything/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-theory-of-everything.md`
 

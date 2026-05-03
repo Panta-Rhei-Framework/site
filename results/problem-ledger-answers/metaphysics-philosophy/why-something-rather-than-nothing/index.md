@@ -22,7 +22,7 @@ do_not_edit: true
 
 The question about why is there anything at all instead of nothing has been raised or commented on by philosophers including Gottfried Wilhelm Leibniz, Martin Heidegger, and Ludwig Wittgenstein – who called it the fundamental question of metaphysics. The question is general, rather than concerning the existence of anything specific such as the universe/s, the Big Bang, mathematical laws, physical laws, time, consciousness or God
 
-- Program Problem Ledger item: [meta-why-something-rather-than-nothing](/program/research-agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/)
+- Program Problem Ledger item: [meta-why-something-rather-than-nothing](/agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-why-something-rather-than-nothing.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Are they a sister group to Argulidae or an ancient lineage of Panarthropoda?
 
-- Program Problem Ledger item: [life-biology-taxonomic-position-of-pentastomids](/program/research-agenda/problem-ledger/life/taxonomic-position-of-pentastomids/)
+- Program Problem Ledger item: [life-biology-taxonomic-position-of-pentastomids](/agenda/problem-ledger/life/taxonomic-position-of-pentastomids/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-taxonomic-position-of-pentastomids.md`
 

@@ -23,7 +23,7 @@ right_rail:
     - title: "Inspection Observatory"
       url: "/program/about/inspection-observatory/"
     - title: "Agenda"
-      url: "/program/research-agenda/"
+      url: "/agenda/"
     - title: "Corpus"
       url: "/corpus/"
     - title: "Verify"
@@ -82,7 +82,7 @@ Zenodo DOI metadata is prepared, but no DOI has been reserved for this draft rel
 - [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
 - [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 - [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }})
-- [Agenda]({{ '/program/research-agenda/' | relative_url }})
+- [Agenda]({{ '/agenda/' | relative_url }})
 - [Corpus]({{ '/corpus/' | relative_url }})
 - [Verify]({{ '/verify/' | relative_url }})
 - [Engage]({{ '/engage/' | relative_url }})

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Biosynthesis"
-permalink: "/program/research-agenda/problem-ledger/life/biosynthesis/"
+permalink: "/agenda/problem-ledger/life/biosynthesis/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "biosynthesis"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/biosynthesis/"
+url: "/agenda/problem-ledger/life/biosynthesis/"
 results_mirror:
   exists: false
   result_id: ""

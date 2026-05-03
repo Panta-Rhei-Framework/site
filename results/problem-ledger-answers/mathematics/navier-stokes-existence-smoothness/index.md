@@ -22,7 +22,7 @@ do_not_edit: true
 
 Navier-Stokes Existence and Smoothness is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-navier-stokes-existence-smoothness](/program/research-agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/)
+- Program Problem Ledger item: [math-navier-stokes-existence-smoothness](/agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-navier-stokes-existence-smoothness.md`
 

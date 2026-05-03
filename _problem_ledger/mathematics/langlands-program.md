@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Langlands Program"
-permalink: "/program/research-agenda/problem-ledger/mathematics/langlands-program/"
+permalink: "/agenda/problem-ledger/mathematics/langlands-program/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -101,7 +101,7 @@ tags:
   - "langlands"
   - "unification"
   - "number-theory"
-url: "/program/research-agenda/problem-ledger/mathematics/langlands-program/"
+url: "/agenda/problem-ledger/mathematics/langlands-program/"
 results_mirror:
   exists: true
   result_id: "result-231"

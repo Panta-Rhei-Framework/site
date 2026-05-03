@@ -22,7 +22,7 @@ do_not_edit: true
 
 What causes the photic sneeze effect? Why is it so common yet not universal?
 
-- Program Problem Ledger item: [life-biology-photic-sneeze-effect](/program/research-agenda/problem-ledger/life/photic-sneeze-effect/)
+- Program Problem Ledger item: [life-biology-photic-sneeze-effect](/agenda/problem-ledger/life/photic-sneeze-effect/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-photic-sneeze-effect.md`
 

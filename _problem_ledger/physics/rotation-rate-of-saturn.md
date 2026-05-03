@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Rotation rate of Saturn"
-permalink: "/program/research-agenda/problem-ledger/physics/rotation-rate-of-saturn/"
+permalink: "/agenda/problem-ledger/physics/rotation-rate-of-saturn/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "rotation-rate-of-saturn"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/rotation-rate-of-saturn/"
+url: "/agenda/problem-ledger/physics/rotation-rate-of-saturn/"
 results_mirror:
   exists: false
   result_id: ""

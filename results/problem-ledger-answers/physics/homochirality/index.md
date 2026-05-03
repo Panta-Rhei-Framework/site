@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the origin of the preponderance of specific enantiomers in biochemical systems?
 
-- Program Problem Ledger item: [phys-homochirality](/program/research-agenda/problem-ledger/physics/homochirality/)
+- Program Problem Ledger item: [phys-homochirality](/agenda/problem-ledger/physics/homochirality/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-homochirality.md`
 

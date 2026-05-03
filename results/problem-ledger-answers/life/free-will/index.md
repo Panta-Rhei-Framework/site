@@ -22,7 +22,7 @@ do_not_edit: true
 
 Do humans or other organisms possess free will? Particularly studied by the neuroscience of free will
 
-- Program Problem Ledger item: [life-biology-free-will](/program/research-agenda/problem-ledger/life/free-will/)
+- Program Problem Ledger item: [life-biology-free-will](/agenda/problem-ledger/life/free-will/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-free-will.md`
 

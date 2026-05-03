@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can we go beyond the noisy intermediate-scale quantum era? Can quantum computers reach fault tolerance? Is it possible to have enough qubit scalability to implement quantum error correction? What are the most promising candidate platforms to physically implement qubits?
 
-- Program Problem Ledger item: [phys-threshold-problem](/program/research-agenda/problem-ledger/physics/threshold-problem/)
+- Program Problem Ledger item: [phys-threshold-problem](/agenda/problem-ledger/physics/threshold-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-threshold-problem.md`
 

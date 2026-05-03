@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What are the endogenous ligands of orphan receptors?"
-permalink: "/program/research-agenda/problem-ledger/life/what-are-the-endogenous-ligands-of-orphan-receptors/"
+permalink: "/agenda/problem-ledger/life/what-are-the-endogenous-ligands-of-orphan-receptors/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "what-are-the-endogenous-ligands-of-orphan-receptors"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/what-are-the-endogenous-ligands-of-orphan-receptors/"
+url: "/agenda/problem-ledger/life/what-are-the-endogenous-ligands-of-orphan-receptors/"
 results_mirror:
   exists: false
   result_id: ""

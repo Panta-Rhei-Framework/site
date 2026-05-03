@@ -6,7 +6,7 @@ short_title: "Self-Enrichment"
 slug: "internalize-self-enrichment"
 redirect_from:
   - "/corpus/construction-spine/internalize-logic/"
-agenda_path: "/program/research-agenda/construction-roadmap/#internalize-self-enrichment"
+agenda_path: "/agenda/construction-roadmap/#internalize-self-enrichment"
 corpus_path: "/corpus/construction-spine/internalize-self-enrichment/"
 results_path: "/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/"
 summary: "Moves from an externally described kernel toward self-enrichment: hom-objects as τ-objects, Yoneda as theorem, iterated enrichment, and the first formal reduction of metalanguage externality."

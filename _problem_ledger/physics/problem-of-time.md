@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Problem of time"
-permalink: "/program/research-agenda/problem-ledger/physics/problem-of-time/"
+permalink: "/agenda/problem-ledger/physics/problem-of-time/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "problem-of-time"
   - "quantum-gravity"
-url: "/program/research-agenda/problem-ledger/physics/problem-of-time/"
+url: "/agenda/problem-ledger/physics/problem-of-time/"
 results_mirror:
   exists: false
   result_id: ""

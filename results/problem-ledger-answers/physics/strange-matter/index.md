@@ -22,7 +22,7 @@ do_not_edit: true
 
 Does strange matter exist? Is it stable? Can they form Strange stars? Is strange matter stable at 0 pressure (i.e. in the vacuum)?
 
-- Program Problem Ledger item: [phys-strange-matter](/program/research-agenda/problem-ledger/physics/strange-matter/)
+- Program Problem Ledger item: [phys-strange-matter](/agenda/problem-ledger/physics/strange-matter/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-strange-matter.md`
 

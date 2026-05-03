@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Bridge Adequacy to Standard Mathematics"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/"
+permalink: "/agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "mathematics"
   - "recovery-requirements"
   - "mrec-m5"
-url: "/program/research-agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/"
+url: "/agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/"
 verification:
   status: "pending_bridge_verification"
   mode: "foundational_recovery_target"

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Persistence paradox"
-permalink: "/program/research-agenda/problem-ledger/life/persistence-paradox/"
+permalink: "/agenda/problem-ledger/life/persistence-paradox/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -99,7 +99,7 @@ tags:
   - "persistence-paradox"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/persistence-paradox/"
+url: "/agenda/problem-ledger/life/persistence-paradox/"
 results_mirror:
   exists: false
   result_id: ""

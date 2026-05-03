@@ -26,7 +26,7 @@ Core Dynamical Laws
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P5](/program/research-agenda/recovery-requirements/physics/core-dynamical-laws/)
+- Program ledger item: [PREC-P5](/agenda/recovery-requirements/physics/core-dynamical-laws/)
 - Verification mode: `law_family_recovery`
 
 ## Result Summary

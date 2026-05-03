@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "The lithium problem"
-permalink: "/program/research-agenda/problem-ledger/physics/the-lithium-problem/"
+permalink: "/agenda/problem-ledger/physics/the-lithium-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "the-lithium-problem"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/the-lithium-problem/"
+url: "/agenda/problem-ledger/physics/the-lithium-problem/"
 results_mirror:
   exists: false
   result_id: ""

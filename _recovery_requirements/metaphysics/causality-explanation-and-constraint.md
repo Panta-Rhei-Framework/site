@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Causality, Explanation, and Constraint"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/causality-explanation-and-constraint/"
+permalink: "/agenda/recovery-requirements/metaphysics/causality-explanation-and-constraint/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r4"
-url: "/program/research-agenda/recovery-requirements/metaphysics/causality-explanation-and-constraint/"
+url: "/agenda/recovery-requirements/metaphysics/causality-explanation-and-constraint/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

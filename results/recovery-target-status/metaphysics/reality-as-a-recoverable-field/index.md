@@ -26,7 +26,7 @@ Reality as a Recoverable Field
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R0](/program/research-agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/)
+- Program ledger item: [METH-R0](/agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Ultimate Boundary, Closure, and the Question of Why"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/ultimate-boundary-closure-and-the-question-of-why/"
+permalink: "/agenda/recovery-requirements/metaphysics/ultimate-boundary-closure-and-the-question-of-why/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r11"
-url: "/program/research-agenda/recovery-requirements/metaphysics/ultimate-boundary-closure-and-the-question-of-why/"
+url: "/agenda/recovery-requirements/metaphysics/ultimate-boundary-closure-and-the-question-of-why/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Human sex pheromones"
-permalink: "/program/research-agenda/problem-ledger/life/human-sex-pheromones/"
+permalink: "/agenda/problem-ledger/life/human-sex-pheromones/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "human-sex-pheromones"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/human-sex-pheromones/"
+url: "/agenda/problem-ledger/life/human-sex-pheromones/"
 results_mirror:
   exists: false
   result_id: ""

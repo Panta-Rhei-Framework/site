@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the brain basis of subjective experience, cognition, wakefulness, alertness, arousal, and attention? What is the precise mechanism behind how phenomenal binding occurs? Is there a "hard problem of consciousness"? If so, how is it solved? What, if any, is the function of consciousness, and what is the mechanism behind the function of consciousness?
 
-- Program Problem Ledger item: [life-consciousness](/program/research-agenda/problem-ledger/life/consciousness/)
+- Program Problem Ledger item: [life-consciousness](/agenda/problem-ledger/life/consciousness/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-consciousness.md`
 

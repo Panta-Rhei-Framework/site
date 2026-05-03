@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Stochasticity and robustness to noise in gene expression"
-permalink: "/program/research-agenda/problem-ledger/physics/stochasticity-and-robustness-to-noise-in-gene-expression/"
+permalink: "/agenda/problem-ledger/physics/stochasticity-and-robustness-to-noise-in-gene-expression/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -144,7 +144,7 @@ tags:
   - "wikipedia-physics"
   - "stochasticity-and-robustness-to-noise-in-gene-expression"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/stochasticity-and-robustness-to-noise-in-gene-expression/"
+url: "/agenda/problem-ledger/physics/stochasticity-and-robustness-to-noise-in-gene-expression/"
 results_mirror:
   exists: false
   result_id: ""

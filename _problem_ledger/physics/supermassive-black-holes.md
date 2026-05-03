@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Supermassive black holes"
-permalink: "/program/research-agenda/problem-ledger/physics/supermassive-black-holes/"
+permalink: "/agenda/problem-ledger/physics/supermassive-black-holes/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "supermassive-black-holes"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/supermassive-black-holes/"
+url: "/agenda/problem-ledger/physics/supermassive-black-holes/"
 results_mirror:
   exists: false
   result_id: ""

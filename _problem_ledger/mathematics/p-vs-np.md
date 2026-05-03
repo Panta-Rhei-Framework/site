@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "P vs NP"
-permalink: "/program/research-agenda/problem-ledger/mathematics/p-vs-np/"
+permalink: "/agenda/problem-ledger/mathematics/p-vs-np/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -100,7 +100,7 @@ tags:
   - "complexity"
   - "computation"
   - "millennium-problem"
-url: "/program/research-agenda/problem-ledger/mathematics/p-vs-np/"
+url: "/agenda/problem-ledger/mathematics/p-vs-np/"
 results_mirror:
   exists: false
   result_id: ""

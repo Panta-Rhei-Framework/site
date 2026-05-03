@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Hierarchy problem"
-permalink: "/program/research-agenda/problem-ledger/physics/hierarchy-problem/"
+permalink: "/agenda/problem-ledger/physics/hierarchy-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "hierarchy-problem"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/hierarchy-problem/"
+url: "/agenda/problem-ledger/physics/hierarchy-problem/"
 results_mirror:
   exists: false
   result_id: ""

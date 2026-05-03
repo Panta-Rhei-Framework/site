@@ -22,7 +22,7 @@ do_not_edit: true
 
 are they deuterostomes, forming a clade Xenambulacraria together with echinoderms and hemichordates, or rather primitive bilaterians and a sister group to Nephrozoa?
 
-- Program Problem Ledger item: [life-biology-xenacoelomorpha](/program/research-agenda/problem-ledger/life/xenacoelomorpha/)
+- Program Problem Ledger item: [life-biology-xenacoelomorpha](/agenda/problem-ledger/life/xenacoelomorpha/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-xenacoelomorpha.md`
 

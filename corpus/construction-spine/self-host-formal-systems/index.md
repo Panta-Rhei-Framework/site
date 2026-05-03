@@ -4,7 +4,7 @@ sequence: 9
 title: "Step 9 — Self-Host Formal Systems and the Kernel Itself"
 short_title: "Self-Hosting"
 slug: "self-host-formal-systems"
-agenda_path: "/program/research-agenda/construction-roadmap/#self-host-formal-systems-and-the-kernel-itself"
+agenda_path: "/agenda/construction-roadmap/#self-host-formal-systems-and-the-kernel-itself"
 corpus_path: "/corpus/construction-spine/self-host-formal-systems/"
 results_path: "/results/world-readout/metaphysics/pattern-language-and-proof/"
 summary: "Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects."

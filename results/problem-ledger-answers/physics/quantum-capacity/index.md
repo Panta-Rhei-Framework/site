@@ -22,7 +22,7 @@ do_not_edit: true
 
 The capacity of a quantum channel is in general not known
 
-- Program Problem Ledger item: [phys-quantum-capacity](/program/research-agenda/problem-ledger/physics/quantum-capacity/)
+- Program Problem Ledger item: [phys-quantum-capacity](/agenda/problem-ledger/physics/quantum-capacity/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-capacity.md`
 

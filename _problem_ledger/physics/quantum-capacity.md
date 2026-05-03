@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum capacity"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-capacity/"
+permalink: "/agenda/problem-ledger/physics/quantum-capacity/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "quantum-capacity"
   - "quantum-computing-and-quantum-information"
-url: "/program/research-agenda/problem-ledger/physics/quantum-capacity/"
+url: "/agenda/problem-ledger/physics/quantum-capacity/"
 results_mirror:
   exists: false
   result_id: ""

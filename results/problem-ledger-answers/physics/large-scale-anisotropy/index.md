@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is the universe at very large scales anisotropic, making the cosmological principle an invalid assumption? The number count and intensity dipole anisotropy in radio, NRAO VLA Sky Survey (NVSS) catalogue is inconsistent with the local motion as derived from cosmic microwave background and indicate an intrinsic dipole anisotropy. The same NVSS radio data also shows an intrinsic dipole in polarization density and degree of polarization in the same direction as in number count and intensity. There are several other observations revealing large-scale anisotropy. The optical polarization from quasars shows polarization alignment over a very large scale of Gpc. The cosmic-microwave-background data shows several features of anisotropy, which are not consistent with the Big Bang model
 
-- Program Problem Ledger item: [phys-large-scale-anisotropy](/program/research-agenda/problem-ledger/physics/large-scale-anisotropy/)
+- Program Problem Ledger item: [phys-large-scale-anisotropy](/agenda/problem-ledger/physics/large-scale-anisotropy/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-large-scale-anisotropy.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 the taxonomic position of this animal is unknown and more research is needed to establish it
 
-- Program Problem Ledger item: [life-biology-jennaria-pulchra](/program/research-agenda/problem-ledger/life/jennaria-pulchra/)
+- Program Problem Ledger item: [life-biology-jennaria-pulchra](/agenda/problem-ledger/life/jennaria-pulchra/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-jennaria-pulchra.md`
 

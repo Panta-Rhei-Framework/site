@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What do all the unknown proteins do?"
-permalink: "/program/research-agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/"
+permalink: "/agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "what-do-all-the-unknown-proteins-do"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/"
+url: "/agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 There is an anomaly in the existing body of data regarding the antineutrino flux from nuclear reactors around the world. Measured values of this flux appears to be only 94% of the value expected from theory. It is unknown whether this is due to unknown physics (such as sterile neutrinos), experimental error in the measurements, or errors in the theoretical flux calculations
 
-- Program Problem Ledger item: [phys-reactor-antineutrino-anomaly](/program/research-agenda/problem-ledger/physics/reactor-antineutrino-anomaly/)
+- Program Problem Ledger item: [phys-reactor-antineutrino-anomaly](/agenda/problem-ledger/physics/reactor-antineutrino-anomaly/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-reactor-antineutrino-anomaly.md`
 

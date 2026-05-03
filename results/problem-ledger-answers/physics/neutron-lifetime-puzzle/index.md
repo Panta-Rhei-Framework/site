@@ -22,7 +22,7 @@ do_not_edit: true
 
 While the neutron lifetime has been studied for decades, there currently exists a lack of consilience on its exact value, due to different results from two experimental methods ("bottle" versus "beam")
 
-- Program Problem Ledger item: [phys-neutron-lifetime-puzzle](/program/research-agenda/problem-ledger/physics/neutron-lifetime-puzzle/)
+- Program Problem Ledger item: [phys-neutron-lifetime-puzzle](/agenda/problem-ledger/physics/neutron-lifetime-puzzle/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-neutron-lifetime-puzzle.md`
 

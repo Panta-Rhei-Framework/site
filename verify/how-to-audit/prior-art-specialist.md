@@ -13,7 +13,7 @@ right_rail:
     - title: "How to Audit (Hub)"
       url: /verify/how-to-audit/
     - title: "Prior-Art Comparisons"
-      url: /program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/
+      url: /agenda/kernel-model-reality/related-approaches/deep-comparison/
     - title: "Red-team FAQ"
       url: /program/about/red-team-faq/
   meta:
@@ -23,13 +23,13 @@ right_rail:
     updated: "April 2026"
 ---
 
-This route is the most-specialized in the hub: it addresses the "relabeling risk" concern that all three frontier-LLM first-pass assessments raised as a high-priority novelty check. The framework's authors have written [five prior-art comparison pages]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) summarizing the contrast in each zone. This route tells a specialist exactly how to evaluate that comparison.
+This route is the most-specialized in the hub: it addresses the "relabeling risk" concern that all three frontier-LLM first-pass assessments raised as a high-priority novelty check. The framework's authors have written [five prior-art comparison pages]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) summarizing the contrast in each zone. This route tells a specialist exactly how to evaluate that comparison.
 
 If you are a specialist in one of the five zones below, the fastest way to form an opinion is to read the comparison page in your zone, then test the claimed distinctions against your actual literature knowledge. The comparison pages are written to make this test concrete rather than rhetorical.
 
 ## The five zones
 
-### 1. [Fueter-Regular / Quaternionic Analysis]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+### 1. [Fueter-Regular / Quaternionic Analysis]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 
 The τ Central Theorem 𝒪(τ³) ≅ A_spec(𝕃) sits in territory occupied by Fueter (1935), slice-regular (Gentili-Struppa), discrete Cauchy-Fueter, Moisil-Théodoresco systems, octonionic holomorphy, and twistor theory.
 
@@ -38,7 +38,7 @@ The τ Central Theorem 𝒪(τ³) ≅ A_spec(𝕃) sits in territory occupied by
 - Does the τ reproducing kernel reduce to the Fueter kernel K(x) = x̄/|x|⁴ on a suitable slice, or is it a genuinely different kernel?
 - The Central Theorem claims a **ring isomorphism**, not just integral reproduction. Is this actually unconditional, or does it require τ-admissibility side conditions that reduce to a tautology?
 
-### 2. [Spectral ζ / Hilbert-Pólya / Connes / Berry-Keating]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+### 2. [Spectral ζ / Hilbert-Pólya / Connes / Berry-Keating]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 
 Book III's Critical Line Theorem III.T19 sits in territory occupied by Hilbert-Pólya, Montgomery-Odlyzko, Berry-Keating H = xp, Connes' adelic trace formula, de Branges spaces, and Selberg analogues.
 
@@ -48,7 +48,7 @@ Book III's Critical Line Theorem III.T19 sits in territory occupied by Hilbert-P
 - Do τ-zeros satisfy Montgomery-Odlyzko pair correlation (GUE statistics)? If yes, strong consistency with classical ζ; if no, τ is making a different prediction.
 - The Master Schema (III.T27) is the formal bridge between τ-internal and classical RH. What is the functor, explicitly?
 
-### 3. [Three Generations / Octonionic / Twistor / Preon]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+### 3. [Three Generations / Octonionic / Twistor / Preon]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 
 The τ claim H₁(τ³; ℤ) ≅ ℤ³ competes with Furey's octonionic SM, Dixon's ℝ⊗ℂ⊗ℍ⊗𝕆 triality, Manogue-Dray, twistor approaches, and preon models.
 
@@ -57,7 +57,7 @@ The τ claim H₁(τ³; ℤ) ≅ ℤ³ competes with Furey's octonionic SM, Dixo
 - What is the map from the three H₁ generators to the three Standard-Model fermion generations? Is this map natural, or does it require case-by-case identification?
 - Is there a translation between Furey's three octonionic ideals and τ's three H₁ classes? If yes, the two programs may be equivalent; if no, they are genuinely different.
 
-### 4. [Autopoiesis / IIT / FEP]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+### 4. [Autopoiesis / IIT / FEP]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 
 τ-Distinction + SelfDesc competes with Maturana-Varela autopoiesis, Rosen (M,R)-systems, Kauffman autocatalytic sets, Tononi IIT (Φ), and Friston FEP.
 
@@ -67,7 +67,7 @@ The τ claim H₁(τ³; ℤ) ≅ ℤ³ competes with Furey's octonionic SM, Dixo
 - Does Γ(Mind) > 0 imply Φ > 0? Does Φ > 0 imply the τ-life predicate? If the predicates partially agree, what are the discriminating cases?
 - The Black Holes Alive claim (VI.T32) is unusual — no other formal-life program makes this verdict. Specialist review should walk through the 5+3 conditions and verify each for a black hole.
 
-### 5. [MOND / Verlinde / Entropic Gravity]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+### 5. [MOND / Verlinde / Entropic Gravity]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 
 τ's no-dark-sectors claim sits adjacent to Milgrom's MOND, Bekenstein's TeVeS, Verlinde's entropic gravity (2010/2016), Moffat's MOG, and chameleon-screening programs.
 
@@ -114,7 +114,7 @@ Your feedback is the single most valuable kind of input the program can receive.
 
 ## Cross-links
 
-- [Prior-Art Comparisons index]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — the five zone-by-zone comparisons
+- [Prior-Art Comparisons index]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — the five zone-by-zone comparisons
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — question 9 addresses priority concerns directly
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — for verifying Lean-formalization state of specific claims
 - [How to Audit (Hub)]({{ '/verify/how-to-audit/' | relative_url }}) — all six reviewer routes

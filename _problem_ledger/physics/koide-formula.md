@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Koide formula"
-permalink: "/program/research-agenda/problem-ledger/physics/koide-formula/"
+permalink: "/agenda/problem-ledger/physics/koide-formula/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "koide-formula"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/koide-formula/"
+url: "/agenda/problem-ledger/physics/koide-formula/"
 results_mirror:
   exists: false
   result_id: ""

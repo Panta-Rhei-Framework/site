@@ -22,7 +22,7 @@ do_not_edit: true
 
 a taxonomic position of this fossil organism is unknown
 
-- Program Problem Ledger item: [life-biology-tullimonstrum](/program/research-agenda/problem-ledger/life/tullimonstrum/)
+- Program Problem Ledger item: [life-biology-tullimonstrum](/agenda/problem-ledger/life/tullimonstrum/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-tullimonstrum.md`
 

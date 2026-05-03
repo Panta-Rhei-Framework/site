@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Language"
-permalink: "/program/research-agenda/problem-ledger/life/language/"
+permalink: "/agenda/problem-ledger/life/language/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -156,7 +156,7 @@ tags:
   - "language"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/language/"
+url: "/agenda/problem-ledger/life/language/"
 results_mirror:
   exists: false
   result_id: ""

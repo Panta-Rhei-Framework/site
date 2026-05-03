@@ -22,7 +22,7 @@ do_not_edit: true
 
 While it is generally accepted that laughing evolved as a form of social communication, the exact neurobiological process that leads humans to laugh is not well understood
 
-- Program Problem Ledger item: [life-biology-laughter](/program/research-agenda/problem-ledger/life/laughter/)
+- Program Problem Ledger item: [life-biology-laughter](/agenda/problem-ledger/life/laughter/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-laughter.md`
 

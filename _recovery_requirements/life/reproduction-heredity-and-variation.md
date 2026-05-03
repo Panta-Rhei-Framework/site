@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Reproduction, Heredity, and Variation"
-permalink: "/program/research-agenda/recovery-requirements/life/reproduction-heredity-and-variation/"
+permalink: "/agenda/recovery-requirements/life/reproduction-heredity-and-variation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l4"
-url: "/program/research-agenda/recovery-requirements/life/reproduction-heredity-and-variation/"
+url: "/agenda/recovery-requirements/life/reproduction-heredity-and-variation/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the cause of the nonparabolicity of the energy-size dependence for the lowest optical absorption transition of quantum dots?
 
-- Program Problem Ledger item: [phys-semiconductor-nanocrystals](/program/research-agenda/problem-ledger/physics/semiconductor-nanocrystals/)
+- Program Problem Ledger item: [phys-semiconductor-nanocrystals](/agenda/problem-ledger/physics/semiconductor-nanocrystals/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-semiconductor-nanocrystals.md`
 

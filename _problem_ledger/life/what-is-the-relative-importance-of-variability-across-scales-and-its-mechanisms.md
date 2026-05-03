@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What is the relative importance of variability, across scales, and its mechanisms?"
-permalink: "/program/research-agenda/problem-ledger/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/"
+permalink: "/agenda/problem-ledger/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/"
+url: "/agenda/problem-ledger/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Can developing biological systems tell the time?"
-permalink: "/program/research-agenda/problem-ledger/life/can-developing-biological-systems-tell-the-time/"
+permalink: "/agenda/problem-ledger/life/can-developing-biological-systems-tell-the-time/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "can-developing-biological-systems-tell-the-time"
   - "general-biology"
   - "other"
-url: "/program/research-agenda/problem-ledger/life/can-developing-biological-systems-tell-the-time/"
+url: "/agenda/problem-ledger/life/can-developing-biological-systems-tell-the-time/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Dark flow"
-permalink: "/program/research-agenda/problem-ledger/physics/dark-flow/"
+permalink: "/agenda/problem-ledger/physics/dark-flow/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "dark-flow"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/dark-flow/"
+url: "/agenda/problem-ledger/physics/dark-flow/"
 results_mirror:
   exists: false
   result_id: ""

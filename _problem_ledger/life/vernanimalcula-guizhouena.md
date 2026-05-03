@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Vernanimalcula guizhouena"
-permalink: "/program/research-agenda/problem-ledger/life/vernanimalcula-guizhouena/"
+permalink: "/agenda/problem-ledger/life/vernanimalcula-guizhouena/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "vernanimalcula-guizhouena"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/vernanimalcula-guizhouena/"
+url: "/agenda/problem-ledger/life/vernanimalcula-guizhouena/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Tullimonstrum"
-permalink: "/program/research-agenda/problem-ledger/life/tullimonstrum/"
+permalink: "/agenda/problem-ledger/life/tullimonstrum/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "tullimonstrum"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/tullimonstrum/"
+url: "/agenda/problem-ledger/life/tullimonstrum/"
 results_mirror:
   exists: false
   result_id: ""

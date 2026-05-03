@@ -22,7 +22,7 @@ do_not_edit: true
 
 Where is the onset of deconfinement: 1) as a function of temperature and chemical potentials? 2) as a function of relativistic heavy-ion collision energy and system size? What is the mechanism of energy and baryon-number stopping leading to creation of quark-gluon plasma in relativistic heavy-ion collisions? Why is sudden hadronization and the statistical-hadronization model a near-to-perfect description of hadron production from quark–gluon plasma? Is quark flavor conserved in quark–gluon plasma? Are strangeness and charm in chemical equilibrium in quark–gluon plasma? Does strangeness in quark–gluon plasma flow at the same speed as up and down quark flavours? Why does deconfined matter show ideal flow?
 
-- Program Problem Ledger item: [phys-quarkgluon-plasma](/program/research-agenda/problem-ledger/physics/quarkgluon-plasma/)
+- Program Problem Ledger item: [phys-quarkgluon-plasma](/agenda/problem-ledger/physics/quarkgluon-plasma/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quarkgluon-plasma.md`
 

@@ -26,7 +26,7 @@ Truth, Knowledge, and Intelligibility
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R7](/program/research-agenda/recovery-requirements/metaphysics/truth-knowledge-and-intelligibility/)
+- Program ledger item: [METH-R7](/agenda/recovery-requirements/metaphysics/truth-knowledge-and-intelligibility/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

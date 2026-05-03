@@ -26,7 +26,7 @@ Modality: Possibility, Necessity, and Contingency
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R5](/program/research-agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/)
+- Program ledger item: [METH-R5](/agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

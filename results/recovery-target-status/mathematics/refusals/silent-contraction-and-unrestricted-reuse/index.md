@@ -26,7 +26,7 @@ Silent Contraction and Unrestricted Reuse
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R6](/program/research-agenda/recovery-requirements/mathematics/refusals/silent-contraction-and-unrestricted-reuse/)
+- Program ledger item: [MREF-R6](/agenda/recovery-requirements/mathematics/refusals/silent-contraction-and-unrestricted-reuse/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

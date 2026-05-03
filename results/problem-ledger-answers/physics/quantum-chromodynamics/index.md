@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the phases of strongly interacting matter, and what roles do they play in the evolution of the cosmos? What is the detailed partonic structure of the nucleons? What does QCD predict for the properties of strongly interacting matter? What determines the key features of QCD, and what is their relation to the nature of gravity and spacetime? Does QCD truly lack CP violations?
 
-- Program Problem Ledger item: [phys-quantum-chromodynamics](/program/research-agenda/problem-ledger/physics/quantum-chromodynamics/)
+- Program Problem Ledger item: [phys-quantum-chromodynamics](/agenda/problem-ledger/physics/quantum-chromodynamics/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-chromodynamics.md`
 

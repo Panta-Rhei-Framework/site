@@ -22,7 +22,7 @@ do_not_edit: true
 
 In the solar wind and the turbulence in solar flares, coronal mass ejections, and magnetospheric substorms are major unsolved problems in space plasma physics
 
-- Program Problem Ledger item: [phys-alfvenic-turbulence](/program/research-agenda/problem-ledger/physics/alfvenic-turbulence/)
+- Program Problem Ledger item: [phys-alfvenic-turbulence](/agenda/problem-ledger/physics/alfvenic-turbulence/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-alfvenic-turbulence.md`
 

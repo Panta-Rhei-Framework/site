@@ -22,7 +22,7 @@ do_not_edit: true
 
 Related to the problem of universals, the principle of individuation is what individuates universals
 
-- Program Problem Ledger item: [meta-principle-of-individuation](/program/research-agenda/problem-ledger/metaphysics-philosophy/principle-of-individuation/)
+- Program Problem Ledger item: [meta-principle-of-individuation](/agenda/problem-ledger/metaphysics-philosophy/principle-of-individuation/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-principle-of-individuation.md`
 

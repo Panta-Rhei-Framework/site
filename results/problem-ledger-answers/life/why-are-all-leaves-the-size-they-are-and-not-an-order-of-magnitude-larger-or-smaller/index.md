@@ -22,7 +22,7 @@ do_not_edit: true
 
 How is the upper limit on leaf size set?
 
-- Program Problem Ledger item: [life-biology-why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller](/program/research-agenda/problem-ledger/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/)
+- Program Problem Ledger item: [life-biology-why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller](/agenda/problem-ledger/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller.md`
 

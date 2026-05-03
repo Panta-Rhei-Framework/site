@@ -37,7 +37,7 @@ right_rail:
     - title: "Domain Verification"
       url: /verify/domain-verification/
     - title: "Construction Roadmap"
-      url: /program/research-agenda/construction-roadmap/
+      url: /agenda/construction-roadmap/
     - title: "Corpus Construction Spine"
       url: /corpus/construction-spine/
     - title: "Results"

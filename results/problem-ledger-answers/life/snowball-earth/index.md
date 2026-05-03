@@ -22,7 +22,7 @@ do_not_edit: true
 
 what was the effect of Cryogenian glaciations on the origin and evolution of early animals?
 
-- Program Problem Ledger item: [life-biology-snowball-earth](/program/research-agenda/problem-ledger/life/snowball-earth/)
+- Program Problem Ledger item: [life-biology-snowball-earth](/agenda/problem-ledger/life/snowball-earth/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-snowball-earth.md`
 

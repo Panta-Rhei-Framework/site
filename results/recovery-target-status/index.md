@@ -37,7 +37,7 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
       <h3>{{ domain | replace: '-', ' ' | capitalize }}</h3>
       <p>{{ domain_items | size }} public recovery/refusal item{% unless domain_items.size == 1 %}s{% endunless %}.</p>
       <p><strong>Dominant status:</strong> {{ dominant_status }}</p>
-      <p><a href="{{ '/results/recovery-target-status/' | append: domain | append: '/' | relative_url }}">Results mirror</a> · <a href="{{ '/program/research-agenda/recovery-requirements/' | append: domain | append: '/' | relative_url }}">Recovery Requirements</a></p>
+      <p><a href="{{ '/results/recovery-target-status/' | append: domain | append: '/' | relative_url }}">Results mirror</a> · <a href="{{ '/agenda/recovery-requirements/' | append: domain | append: '/' | relative_url }}">Recovery Requirements</a></p>
     </article>
   </li>
 {% endfor %}

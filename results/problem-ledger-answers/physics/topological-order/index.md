@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is topological order stable at non-zero temperature? Equivalently, is it possible to have three-dimensional self-correcting quantum memory?
 
-- Program Problem Ledger item: [phys-topological-order](/program/research-agenda/problem-ledger/physics/topological-order/)
+- Program Problem Ledger item: [phys-topological-order](/agenda/problem-ledger/physics/topological-order/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-topological-order.md`
 

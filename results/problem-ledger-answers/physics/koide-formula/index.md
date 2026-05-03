@@ -22,7 +22,7 @@ do_not_edit: true
 
 An aspect of the problem of particle generations. The sum of the masses of the three charged leptons, divided by the square of the sum of the roots of these masses, to within one standard deviation of observations, is . It is unknown how such a simple value comes about, and why it is the exact arithmetic average of the possible extreme values of (equal masses) and 1 (one mass dominates)
 
-- Program Problem Ledger item: [phys-koide-formula](/program/research-agenda/problem-ledger/physics/koide-formula/)
+- Program Problem Ledger item: [phys-koide-formula](/agenda/problem-ledger/physics/koide-formula/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-koide-formula.md`
 

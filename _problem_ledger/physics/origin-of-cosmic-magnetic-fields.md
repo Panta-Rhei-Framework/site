@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origin of cosmic magnetic fields"
-permalink: "/program/research-agenda/problem-ledger/physics/origin-of-cosmic-magnetic-fields/"
+permalink: "/agenda/problem-ledger/physics/origin-of-cosmic-magnetic-fields/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -96,7 +96,7 @@ tags:
   - "wikipedia-physics"
   - "origin-of-cosmic-magnetic-fields"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/origin-of-cosmic-magnetic-fields/"
+url: "/agenda/problem-ledger/physics/origin-of-cosmic-magnetic-fields/"
 results_mirror:
   exists: false
   result_id: ""

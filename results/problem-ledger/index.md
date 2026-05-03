@@ -19,13 +19,13 @@ hero_ctas:
     url: /results/problem-ledger-answers/
     primary: true
   - label: "Agenda Ledger"
-    url: /program/research-agenda/problem-ledger/
+    url: /agenda/problem-ledger/
   - label: "Classifications"
     url: /results/classifications/
 right_rail:
   related:
     - title: "Program Problem Ledger"
-      url: /program/research-agenda/problem-ledger/
+      url: /agenda/problem-ledger/
     - title: "Browse All Results"
       url: /results/browse/
     - title: "World Readout"
@@ -45,11 +45,11 @@ right_rail:
 
 This page is retained as a compatibility bridge. The Results-side mirror now lives at [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}).
 
-The Program-side [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) names external stress-test problems and records source policy. The Results-side mirror shows where the current Results lane already has an answer, partial answer, structural constraint, or open stance.
+The Program-side [Problem Ledger]({{ '/agenda/problem-ledger/' | relative_url }}) names external stress-test problems and records source policy. The Results-side mirror shows where the current Results lane already has an answer, partial answer, structural constraint, or open stance.
 
 The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page is now a compatibility bridge to the [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) mirror.
 
-Recovery-facing burden tracking belongs to the Program-side [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ledger.
+Recovery-facing burden tracking belongs to the Program-side [Recovery Requirements]({{ '/agenda/recovery-requirements/' | relative_url }}) ledger.
 
 ## Current status distribution
 

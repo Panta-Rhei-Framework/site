@@ -22,7 +22,7 @@ do_not_edit: true
 
 Are there non-local phenomena in quantum physics? If they exist, are non-local phenomena limited to the entanglement revealed in the violations of the Bell inequalities, or can information and conserved quantities also move in a non-local way? Under what circumstances are non-local phenomena observed? What does the existence or absence of non-local phenomena imply about the fundamental structure of spacetime? How does this elucidate the proper interpretation of the fundamental nature of quantum physics?
 
-- Program Problem Ledger item: [phys-locality](/program/research-agenda/problem-ledger/physics/locality/)
+- Program Problem Ledger item: [phys-locality](/agenda/problem-ledger/physics/locality/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-locality.md`
 

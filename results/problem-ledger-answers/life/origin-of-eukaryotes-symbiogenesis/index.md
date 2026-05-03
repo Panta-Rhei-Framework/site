@@ -22,7 +22,7 @@ do_not_edit: true
 
 How and why did cells combine to form the eukaryotic cell? Did one or more random events lead to the first eukaryotic cells, or can the formation of eukaryotic cells be explained by physical and biological principles? How did the mitochondria's mitosis cycle come in sync with its host cell? Did the mitochondria or the nucleus develop first in eukaryotes?
 
-- Program Problem Ledger item: [life-biology-origin-of-eukaryotes-symbiogenesis](/program/research-agenda/problem-ledger/life/origin-of-eukaryotes-symbiogenesis/)
+- Program Problem Ledger item: [life-biology-origin-of-eukaryotes-symbiogenesis](/agenda/problem-ledger/life/origin-of-eukaryotes-symbiogenesis/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-origin-of-eukaryotes-symbiogenesis.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Encoding, Heredity, and Genotype/Phenotype Split"
-permalink: "/program/research-agenda/recovery-requirements/life/encoding-heredity-and-genotype-phenotype-split/"
+permalink: "/agenda/recovery-requirements/life/encoding-heredity-and-genotype-phenotype-split/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l3"
-url: "/program/research-agenda/recovery-requirements/life/encoding-heredity-and-genotype-phenotype-split/"
+url: "/agenda/recovery-requirements/life/encoding-heredity-and-genotype-phenotype-split/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

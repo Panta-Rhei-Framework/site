@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Personal identity"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/personal-identity/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/personal-identity/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -256,7 +256,7 @@ tags:
   - "wikipedia-philosophy"
   - "personal-identity"
   - "philosophy-of-mind"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/personal-identity/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/personal-identity/"
 results_mirror:
   exists: false
   result_id: ""

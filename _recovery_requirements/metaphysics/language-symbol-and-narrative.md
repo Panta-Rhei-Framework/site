@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Language, Symbol, and Narrative"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/"
+permalink: "/agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r9"
-url: "/program/research-agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/"
+url: "/agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Heritable components of homosexuality"
-permalink: "/program/research-agenda/problem-ledger/life/heritable-components-of-homosexuality/"
+permalink: "/agenda/problem-ledger/life/heritable-components-of-homosexuality/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "heritable-components-of-homosexuality"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/heritable-components-of-homosexuality/"
+url: "/agenda/problem-ledger/life/heritable-components-of-homosexuality/"
 results_mirror:
   exists: false
   result_id: ""

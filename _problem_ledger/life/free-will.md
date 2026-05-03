@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Free will"
-permalink: "/program/research-agenda/problem-ledger/life/free-will/"
+permalink: "/agenda/problem-ledger/life/free-will/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -117,7 +117,7 @@ tags:
   - "free-will"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/free-will/"
+url: "/agenda/problem-ledger/life/free-will/"
 results_mirror:
   exists: false
   result_id: ""

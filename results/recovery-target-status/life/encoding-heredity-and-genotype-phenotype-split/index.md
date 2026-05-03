@@ -26,7 +26,7 @@ Encoding, Heredity, and Genotype/Phenotype Split
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L3](/program/research-agenda/recovery-requirements/life/encoding-heredity-and-genotype-phenotype-split/)
+- Program ledger item: [LREC-L3](/agenda/recovery-requirements/life/encoding-heredity-and-genotype-phenotype-split/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

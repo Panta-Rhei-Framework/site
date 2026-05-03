@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the nature of the glass transition between a fluid or regular solid and a glassy phase? What are the physical processes giving rise to the general properties of glasses and the glass transition?
 
-- Program Problem Ledger item: [phys-amorphous-solids](/program/research-agenda/problem-ledger/physics/amorphous-solids/)
+- Program Problem Ledger item: [phys-amorphous-solids](/agenda/problem-ledger/physics/amorphous-solids/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-amorphous-solids.md`
 

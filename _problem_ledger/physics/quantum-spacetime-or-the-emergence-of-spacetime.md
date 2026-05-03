@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum spacetime or the emergence of spacetime"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-spacetime-or-the-emergence-of-spacetime/"
+permalink: "/agenda/problem-ledger/physics/quantum-spacetime-or-the-emergence-of-spacetime/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-physics"
   - "quantum-spacetime-or-the-emergence-of-spacetime"
   - "quantum-gravity"
-url: "/program/research-agenda/problem-ledger/physics/quantum-spacetime-or-the-emergence-of-spacetime/"
+url: "/agenda/problem-ledger/physics/quantum-spacetime-or-the-emergence-of-spacetime/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 The metabolic processes of this phylum of archaea are so far unclear
 
-- Program Problem Ledger item: [life-biology-korarchaeota-archaea](/program/research-agenda/problem-ledger/life/korarchaeota-archaea/)
+- Program Problem Ledger item: [life-biology-korarchaeota-archaea](/agenda/problem-ledger/life/korarchaeota-archaea/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-korarchaeota-archaea.md`
 

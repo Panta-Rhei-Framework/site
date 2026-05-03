@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Completed Uncountable Totalities"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -48,7 +48,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r5"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/"
+url: "/agenda/recovery-requirements/mathematics/refusals/completed-uncountable-totalities/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

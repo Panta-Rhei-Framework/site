@@ -26,7 +26,7 @@ Physical Regime Bridges
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P6](/program/research-agenda/recovery-requirements/physics/physical-regime-bridges/)
+- Program ledger item: [PREC-P6](/agenda/recovery-requirements/physics/physical-regime-bridges/)
 - Verification mode: `regime_bridge_review`
 
 ## Result Summary

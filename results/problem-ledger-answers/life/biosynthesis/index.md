@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can desired molecules, natural products or otherwise, be produced in high yield through biosynthetic pathway manipulation?
 
-- Program Problem Ledger item: [life-biology-biosynthesis](/program/research-agenda/problem-ledger/life/biosynthesis/)
+- Program Problem Ledger item: [life-biology-biosynthesis](/agenda/problem-ledger/life/biosynthesis/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-biosynthesis.md`
 

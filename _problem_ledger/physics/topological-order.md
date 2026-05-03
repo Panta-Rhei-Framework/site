@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Topological order"
-permalink: "/program/research-agenda/problem-ledger/physics/topological-order/"
+permalink: "/agenda/problem-ledger/physics/topological-order/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "topological-order"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/topological-order/"
+url: "/agenda/problem-ledger/physics/topological-order/"
 results_mirror:
   exists: false
   result_id: ""

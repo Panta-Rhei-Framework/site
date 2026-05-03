@@ -4,9 +4,9 @@ sequence: 10
 title: "Step 10 — Test Universal Closure and Ontic Status"
 short_title: "Ontic Closure"
 slug: "test-ontic-closure"
-agenda_path: "/program/research-agenda/construction-roadmap/#test-universal-closure-and-ontic-status"
+agenda_path: "/agenda/construction-roadmap/#test-universal-closure-and-ontic-status"
 corpus_path: "/corpus/construction-spine/test-ontic-closure/"
-results_path: "/program/research-agenda/kernel-model-reality/ontic-status-burden/"
+results_path: "/agenda/kernel-model-reality/ontic-status-burden/"
 summary: "Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden."
 required_to_do: "The program must test whether the kernel can earn ontic seriousness after mathematics, physics, life, reflection, and self-hosting have been built."
 what_built: "The Corpus exposes the closure question as the final evaluation point, not as a premise asserted at the beginning."
@@ -39,7 +39,7 @@ related_verify:
     url: "/verify/meta-verification-frontier/"
   -
     title: "Kernel, Model & Reality"
-    url: "/program/research-agenda/kernel-model-reality/"
+    url: "/agenda/kernel-model-reality/"
 related_publications:
   -
     title: "Publications"
@@ -62,7 +62,7 @@ verification:
       url: "/verify/meta-verification-frontier/"
     -
       title: "Kernel, Model & Reality"
-      url: "/program/research-agenda/kernel-model-reality/"
+      url: "/agenda/kernel-model-reality/"
     -
       title: "How to Verify"
       url: "/verify/how-to-verify/"
@@ -106,7 +106,7 @@ right_rail:
       - title: "Meta-Verification Frontier"
         url: "/verify/meta-verification-frontier/"
       - title: "Kernel, Model & Reality"
-        url: "/program/research-agenda/kernel-model-reality/"
+        url: "/agenda/kernel-model-reality/"
       - title: "How to Verify"
         url: "/verify/how-to-verify/"
     publications:

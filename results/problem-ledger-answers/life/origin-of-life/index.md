@@ -22,7 +22,7 @@ do_not_edit: true
 
 Exactly how, where, and when did life on Earth originate? Which, if any, of the many hypotheses is correct? What were the metabolic pathways used by the earliest life forms? How did genetic code originate? What was the molecular mechanism that allows the association of the amino acids with their triplet codons? What were the biochemical paths from individual bio-building blocks like amino acids or nucleic acids to functional polymers such as proteins and DNA?
 
-- Program Problem Ledger item: [life-origin-of-life](/program/research-agenda/problem-ledger/life/origin-of-life/)
+- Program Problem Ledger item: [life-origin-of-life](/agenda/problem-ledger/life/origin-of-life/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-origin-of-life.md`
 

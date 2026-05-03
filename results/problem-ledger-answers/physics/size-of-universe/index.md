@@ -22,7 +22,7 @@ do_not_edit: true
 
 The diameter of the observable universe is about 93 billion light-years (or equivalently a radius of about 14 Gpc), but what is the size of the whole universe? Is the universe infinite?
 
-- Program Problem Ledger item: [phys-size-of-universe](/program/research-agenda/problem-ledger/physics/size-of-universe/)
+- Program Problem Ledger item: [phys-size-of-universe](/agenda/problem-ledger/physics/size-of-universe/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-size-of-universe.md`
 

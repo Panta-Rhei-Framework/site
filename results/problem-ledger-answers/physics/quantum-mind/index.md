@@ -22,7 +22,7 @@ do_not_edit: true
 
 Do quantum mechanical phenomena, such as entanglement and superposition, play an important part in the brain's function and can it explain critical aspects of consciousness?
 
-- Program Problem Ledger item: [phys-quantum-mind](/program/research-agenda/problem-ledger/physics/quantum-mind/)
+- Program Problem Ledger item: [phys-quantum-mind](/agenda/problem-ledger/physics/quantum-mind/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-mind.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 A problem in supersymmetric theories, concerned with understanding the reasons for parameter values of the theory
 
-- Program Problem Ledger item: [phys-mu-problem](/program/research-agenda/problem-ledger/physics/mu-problem/)
+- Program Problem Ledger item: [phys-mu-problem](/agenda/problem-ledger/physics/mu-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-mu-problem.md`
 

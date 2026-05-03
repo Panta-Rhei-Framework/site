@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "What are the potentials and limits of living systems?"
-permalink: "/program/research-agenda/problem-ledger/life/what-are-the-potentials-and-limits-of-living-systems/"
+permalink: "/agenda/problem-ledger/life/what-are-the-potentials-and-limits-of-living-systems/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -96,7 +96,7 @@ tags:
   - "wikipedia-biology"
   - "what-are-the-potentials-and-limits-of-living-systems"
   - "artificial-life"
-url: "/program/research-agenda/problem-ledger/life/what-are-the-potentials-and-limits-of-living-systems/"
+url: "/agenda/problem-ledger/life/what-are-the-potentials-and-limits-of-living-systems/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can quantum computing be performed at non-cryogenic temperatures? Can we build room temperature quantum computers?
 
-- Program Problem Ledger item: [phys-temperature](/program/research-agenda/problem-ledger/physics/temperature/)
+- Program Problem Ledger item: [phys-temperature](/agenda/problem-ledger/physics/temperature/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-temperature.md`
 

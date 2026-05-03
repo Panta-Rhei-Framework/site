@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Stegosaur osteoderms/scutes"
-permalink: "/program/research-agenda/problem-ledger/life/stegosaur-osteoderms-scutes/"
+permalink: "/agenda/problem-ledger/life/stegosaur-osteoderms-scutes/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "stegosaur-osteoderms-scutes"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/stegosaur-osteoderms-scutes/"
+url: "/agenda/problem-ledger/life/stegosaur-osteoderms-scutes/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Turbulent flow"
-permalink: "/program/research-agenda/problem-ledger/physics/turbulent-flow/"
+permalink: "/agenda/problem-ledger/physics/turbulent-flow/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "turbulent-flow"
   - "fluid-dynamics"
-url: "/program/research-agenda/problem-ledger/physics/turbulent-flow/"
+url: "/agenda/problem-ledger/physics/turbulent-flow/"
 results_mirror:
   exists: false
   result_id: ""

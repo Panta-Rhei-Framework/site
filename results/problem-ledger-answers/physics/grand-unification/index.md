@@ -22,7 +22,7 @@ do_not_edit: true
 
 Are the electromagnetic and nuclear forces different aspects of a Grand Unified Theory? If so, what symmetry governs this force and its behaviours?
 
-- Program Problem Ledger item: [phys-grand-unification](/program/research-agenda/problem-ledger/physics/grand-unification/)
+- Program Problem Ledger item: [phys-grand-unification](/agenda/problem-ledger/physics/grand-unification/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-grand-unification.md`
 

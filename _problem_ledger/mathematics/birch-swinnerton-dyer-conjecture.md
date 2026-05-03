@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Birch and Swinnerton-Dyer Conjecture"
-permalink: "/program/research-agenda/problem-ledger/mathematics/birch-swinnerton-dyer-conjecture/"
+permalink: "/agenda/problem-ledger/mathematics/birch-swinnerton-dyer-conjecture/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -100,7 +100,7 @@ tags:
   - "number-theory"
   - "arithmetic-geometry"
   - "millennium-problem"
-url: "/program/research-agenda/problem-ledger/mathematics/birch-swinnerton-dyer-conjecture/"
+url: "/agenda/problem-ledger/mathematics/birch-swinnerton-dyer-conjecture/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the relative importance of variability, across scales, and its mechanisms?
 
-- Program Problem Ledger item: [life-biology-what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms](/program/research-agenda/problem-ledger/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/)
+- Program Problem Ledger item: [life-biology-what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms](/agenda/problem-ledger/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms.md`
 

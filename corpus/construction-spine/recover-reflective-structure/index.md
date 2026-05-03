@@ -4,7 +4,7 @@ sequence: 8
 title: "Step 8 — Recover Reflective Structure"
 short_title: "Reflection"
 slug: "recover-reflective-structure"
-agenda_path: "/program/research-agenda/construction-roadmap/#recover-reflective-structure"
+agenda_path: "/agenda/construction-roadmap/#recover-reflective-structure"
 corpus_path: "/corpus/construction-spine/recover-reflective-structure/"
 results_path: "/results/world-readout/metaphysics/"
 summary: "Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity."
@@ -63,7 +63,7 @@ verification:
       url: "/verify/meta-verification-frontier/"
     -
       title: "Answer-Shape Requirements"
-      url: "/program/research-agenda/kernel-model-reality/answer-shape-requirements/"
+      url: "/agenda/kernel-model-reality/answer-shape-requirements/"
 what_not_establish: "This step does not claim a complete solution of consciousness by itself. It constructs the structural layer where consciousness and meaning become addressable."
 next_step_id: "CS-09"
 tags:
@@ -99,7 +99,7 @@ right_rail:
       - title: "Meta-Verification Frontier"
         url: "/verify/meta-verification-frontier/"
       - title: "Answer-Shape Requirements"
-        url: "/program/research-agenda/kernel-model-reality/answer-shape-requirements/"
+        url: "/agenda/kernel-model-reality/answer-shape-requirements/"
     publications:
       - title: "Publications"
         url: "/publications/"

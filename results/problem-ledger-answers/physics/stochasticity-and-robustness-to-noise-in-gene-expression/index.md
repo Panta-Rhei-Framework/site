@@ -22,7 +22,7 @@ do_not_edit: true
 
 How do genes govern our body, withstanding different external pressures and internal stochasticity? Certain models exist for genetic processes, but we are far from understanding the whole picture, in particular in development where gene expression must be tightly regulated
 
-- Program Problem Ledger item: [phys-stochasticity-and-robustness-to-noise-in-gene-expression](/program/research-agenda/problem-ledger/physics/stochasticity-and-robustness-to-noise-in-gene-expression/)
+- Program Problem Ledger item: [phys-stochasticity-and-robustness-to-noise-in-gene-expression](/agenda/problem-ledger/physics/stochasticity-and-robustness-to-noise-in-gene-expression/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-stochasticity-and-robustness-to-noise-in-gene-expression.md`
 

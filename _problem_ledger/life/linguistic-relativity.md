@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Linguistic relativity"
-permalink: "/program/research-agenda/problem-ledger/life/linguistic-relativity/"
+permalink: "/agenda/problem-ledger/life/linguistic-relativity/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-neuroscience"
   - "linguistic-relativity"
   - "language"
-url: "/program/research-agenda/problem-ledger/life/linguistic-relativity/"
+url: "/agenda/problem-ledger/life/linguistic-relativity/"
 results_mirror:
   exists: false
   result_id: ""

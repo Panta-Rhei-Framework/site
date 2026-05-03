@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is it that some cosmic rays appear to possess energies that are impossibly high, given that there are no sufficiently energetic cosmic ray sources near the Earth? Why is it that (apparently) some cosmic rays emitted by distant sources have energies above the Greisen–Zatsepin–Kuzmin limit?
 
-- Program Problem Ledger item: [phys-ultra-high-energy-cosmic-ray](/program/research-agenda/problem-ledger/physics/ultra-high-energy-cosmic-ray/)
+- Program Problem Ledger item: [phys-ultra-high-energy-cosmic-ray](/agenda/problem-ledger/physics/ultra-high-energy-cosmic-ray/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-ultra-high-energy-cosmic-ray.md`
 

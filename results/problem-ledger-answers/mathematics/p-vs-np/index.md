@@ -22,7 +22,7 @@ do_not_edit: true
 
 P vs NP is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-p-vs-np](/program/research-agenda/problem-ledger/mathematics/p-vs-np/)
+- Program Problem Ledger item: [math-p-vs-np](/agenda/problem-ledger/mathematics/p-vs-np/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-p-vs-np.md`
 

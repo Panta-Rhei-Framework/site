@@ -22,7 +22,7 @@ do_not_edit: true
 
 At least seven groups of insects, in six orders, have independently evolved the gall-inducing habit. Several adaptation hypotheses have been proposed, but it is largely unknown why this habit evolved and how gall-inducing insects induce gall formation in plants; chemical, mechanical, and viral triggers have been discussed
 
-- Program Problem Ledger item: [life-biology-gall-inducing-insects](/program/research-agenda/problem-ledger/life/gall-inducing-insects/)
+- Program Problem Ledger item: [life-biology-gall-inducing-insects](/agenda/problem-ledger/life/gall-inducing-insects/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-gall-inducing-insects.md`
 

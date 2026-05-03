@@ -22,7 +22,7 @@ do_not_edit: true
 
 The problem of universals refers to the question of whether properties exist, and if so, what they are. Properties are qualities or relations or names that two or more entities have in common. The various kinds of properties, such as qualities and relations, are referred to as universals. For instance, one can imagine three cup holders on a table that have in common the quality of being circular or exemplifying circularity, or bear the same name, "circular cup" or two daughters that have in common being the female offsprings of Frank. There are many such properties, such as being human, red, male or female, liquid, big or small, taller than, father of, etc. While philosophers agree that human beings talk and think about properties, they disagree on whether these universals exist in reality or merely in thought, speech and sight
 
-- Program Problem Ledger item: [meta-problem-of-universals](/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-universals/)
+- Program Problem Ledger item: [meta-problem-of-universals](/agenda/problem-ledger/metaphysics-philosophy/problem-of-universals/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-problem-of-universals.md`
 

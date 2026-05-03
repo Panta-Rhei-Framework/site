@@ -22,7 +22,7 @@ do_not_edit: true
 
 Free will, particularly the neuroscience of free will
 
-- Program Problem Ledger item: [life-neuroscience-free-will-particularly-the-neuroscience-of-free-will](/program/research-agenda/problem-ledger/life/free-will-particularly-the-neuroscience-of-free-will/)
+- Program Problem Ledger item: [life-neuroscience-free-will-particularly-the-neuroscience-of-free-will](/agenda/problem-ledger/life/free-will-particularly-the-neuroscience-of-free-will/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-neuroscience-free-will-particularly-the-neuroscience-of-free-will.md`
 

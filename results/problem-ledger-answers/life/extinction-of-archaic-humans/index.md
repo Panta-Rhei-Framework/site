@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why did archaic human species such as Neanderthals become extinct, leaving Homo sapiens the only surviving species of humans?
 
-- Program Problem Ledger item: [life-biology-extinction-of-archaic-humans](/program/research-agenda/problem-ledger/life/extinction-of-archaic-humans/)
+- Program Problem Ledger item: [life-biology-extinction-of-archaic-humans](/agenda/problem-ledger/life/extinction-of-archaic-humans/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-extinction-of-archaic-humans.md`
 

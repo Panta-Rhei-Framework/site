@@ -22,7 +22,7 @@ do_not_edit: true
 
 Does nature have more than four spacetime dimensions? If so, what is their size? Are dimensions a fundamental property of the universe or an emergent result of other physical laws? Can we experimentally observe evidence of higher spatial dimensions?
 
-- Program Problem Ledger item: [phys-extra-dimensions](/program/research-agenda/problem-ledger/physics/extra-dimensions/)
+- Program Problem Ledger item: [phys-extra-dimensions](/agenda/problem-ledger/physics/extra-dimensions/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-extra-dimensions.md`
 

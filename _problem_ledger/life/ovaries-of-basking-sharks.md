@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Ovaries of basking sharks"
-permalink: "/program/research-agenda/problem-ledger/life/ovaries-of-basking-sharks/"
+permalink: "/agenda/problem-ledger/life/ovaries-of-basking-sharks/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "ovaries-of-basking-sharks"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/ovaries-of-basking-sharks/"
+url: "/agenda/problem-ledger/life/ovaries-of-basking-sharks/"
 results_mirror:
   exists: false
   result_id: ""

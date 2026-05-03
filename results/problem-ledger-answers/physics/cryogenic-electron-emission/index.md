@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why does the electron emission in the absence of light increase as the temperature of a photomultiplier is decreased?
 
-- Program Problem Ledger item: [phys-cryogenic-electron-emission](/program/research-agenda/problem-ledger/physics/cryogenic-electron-emission/)
+- Program Problem Ledger item: [phys-cryogenic-electron-emission](/agenda/problem-ledger/physics/cryogenic-electron-emission/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-cryogenic-electron-emission.md`
 

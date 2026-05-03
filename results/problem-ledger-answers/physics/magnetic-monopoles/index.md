@@ -22,7 +22,7 @@ do_not_edit: true
 
 Did particles that carry "magnetic charge" exist in some past, higher-energy epoch? If so, do any remain today? (Paul Dirac showed the existence of some types of magnetic monopoles would explain charge quantization.){ {cite journal
 
-- Program Problem Ledger item: [phys-magnetic-monopoles](/program/research-agenda/problem-ledger/physics/magnetic-monopoles/)
+- Program Problem Ledger item: [phys-magnetic-monopoles](/agenda/problem-ledger/physics/magnetic-monopoles/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-magnetic-monopoles.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why do only certain accretion discs surrounding certain astronomical objects emit relativistic jets along their polar axes? Why are there quasi-periodic oscillations in many accretion discs? Why does the period of these oscillations scale as the inverse of the mass of the central object? Why are there sometimes overtones, and why do these appear at different frequency ratios in different objects?
 
-- Program Problem Ledger item: [phys-astrophysical-jet](/program/research-agenda/problem-ledger/physics/astrophysical-jet/)
+- Program Problem Ledger item: [phys-astrophysical-jet](/agenda/problem-ledger/physics/astrophysical-jet/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-astrophysical-jet.md`
 

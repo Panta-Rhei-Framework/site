@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why does the number of objects in the Solar System's Kuiper belt fall off rapidly and unexpectedly beyond a radius of 50 astronomical units?
 
-- Program Problem Ledger item: [phys-kuiper-cliff](/program/research-agenda/problem-ledger/physics/kuiper-cliff/)
+- Program Problem Ledger item: [phys-kuiper-cliff](/agenda/problem-ledger/physics/kuiper-cliff/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-kuiper-cliff.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the cause of the apparent rapid diversification of multicellular animal life around the beginning of the Cambrian, resulting in the emergence of almost all modern animal phyla?
 
-- Program Problem Ledger item: [life-biology-cambrian-explosion](/program/research-agenda/problem-ledger/life/cambrian-explosion/)
+- Program Problem Ledger item: [life-biology-cambrian-explosion](/agenda/problem-ledger/life/cambrian-explosion/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-cambrian-explosion.md`
 

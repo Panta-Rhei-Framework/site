@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Mechanism of Golgi's method"
-permalink: "/program/research-agenda/problem-ledger/life/mechanism-of-golgi-s-method/"
+permalink: "/agenda/problem-ledger/life/mechanism-of-golgi-s-method/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "mechanism-of-golgi-s-method"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/mechanism-of-golgi-s-method/"
+url: "/agenda/problem-ledger/life/mechanism-of-golgi-s-method/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Two decades since the first eukaryotes were sequenced, the "biological role" of around 20% of proteins are still unknown. Many of these proteins are conserved across most eukaryotic species and some are conserved in bacteria, indicating a role fundamental for life
 
-- Program Problem Ledger item: [life-biology-what-do-all-the-unknown-proteins-do](/program/research-agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/)
+- Program Problem Ledger item: [life-biology-what-do-all-the-unknown-proteins-do](/agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-do-all-the-unknown-proteins-do.md`
 

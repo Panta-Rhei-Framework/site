@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Gallium anomaly"
-permalink: "/program/research-agenda/problem-ledger/physics/gallium-anomaly/"
+permalink: "/agenda/problem-ledger/physics/gallium-anomaly/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "gallium-anomaly"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/gallium-anomaly/"
+url: "/agenda/problem-ledger/physics/gallium-anomaly/"
 results_mirror:
   exists: false
   result_id: ""

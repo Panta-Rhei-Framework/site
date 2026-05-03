@@ -4,7 +4,7 @@ sequence: 6
 title: "Step 6 — Build Measurement, Prediction, and Empirical Bridges"
 short_title: "Empirical Bridges"
 slug: "measurement-empirical-bridges"
-agenda_path: "/program/research-agenda/construction-roadmap/#build-measurement-prediction-and-empirical-bridges"
+agenda_path: "/agenda/construction-roadmap/#build-measurement-prediction-and-empirical-bridges"
 corpus_path: "/corpus/construction-spine/measurement-empirical-bridges/"
 results_path: "/results/predictions/browse/"
 summary: "Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths."

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Matter–antimatter asymmetry Theoretical models suggest that the early universe should have produced equal amounts of matter and antimatter"
-permalink: "/program/research-agenda/problem-ledger/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/"
+permalink: "/agenda/problem-ledger/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/"
+url: "/agenda/problem-ledger/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/"
 results_mirror:
   exists: false
   result_id: ""

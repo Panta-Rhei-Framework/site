@@ -22,7 +22,7 @@ do_not_edit: true
 
 People have a rather clear idea of what if-then means. In formal logic however, material implication defines if-then, which is not consistent with the common understanding of conditionals. In formal logic, the statement "If today is Saturday, then 1+1=2" is true. However, '1+1=2' is true regardless of the content of the antecedent; a causal or meaningful relation is not required. The statement as a whole must be true, because 1+1=2 cannot be false. (If it could, then on a given Saturday, so could the statement). Formal logic has shown itself extremely useful in formalizing argumentation, philosophical reasoning, and mathematics. The discrepancy between material implication and the general conception of conditionals however is a topic of intense investigation: whether it is an inadequacy in formal logic, an ambiguity of ordinary language, or as championed by H. P. Grice, that no discrepancy exists
 
-- Program Problem Ledger item: [meta-material-implication](/program/research-agenda/problem-ledger/metaphysics-philosophy/material-implication/)
+- Program Problem Ledger item: [meta-material-implication](/agenda/problem-ledger/metaphysics-philosophy/material-implication/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-material-implication.md`
 

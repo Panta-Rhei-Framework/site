@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can quantum mechanics and general relativity be realized as a fully consistent theory (perhaps as a quantum field theory)? Is spacetime fundamentally continuous or discrete? Would a consistent theory involve a force mediated by a hypothetical graviton, or be a product of a discrete structure of spacetime itself (as in loop quantum gravity)? Are there deviations from the predictions of general relativity at very small or very large scales or in other extreme circumstances that flow from a quantum gravity mechanism?
 
-- Program Problem Ledger item: [phys-quantum-gravity](/program/research-agenda/problem-ledger/physics/quantum-gravity/)
+- Program Problem Ledger item: [phys-quantum-gravity](/agenda/problem-ledger/physics/quantum-gravity/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-gravity.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Fundamental Constants"
-permalink: "/program/research-agenda/recovery-requirements/physics/fundamental-constants/"
+permalink: "/agenda/recovery-requirements/physics/fundamental-constants/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p4"
-url: "/program/research-agenda/recovery-requirements/physics/fundamental-constants/"
+url: "/agenda/recovery-requirements/physics/fundamental-constants/"
 verification:
   status: "pending_physics_verification"
   mode: "constants_and_calibration_review"

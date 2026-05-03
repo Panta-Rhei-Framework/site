@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the relationship between science and religion? Philosophers like Paul Feyerabend, A. C. Grayling, and Alvin Plantinga have debated whether they are in conflict, incompatible, incommensurable, or independent
 
-- Program Problem Ledger item: [meta-relationship-between-science-and-religion](/program/research-agenda/problem-ledger/metaphysics-philosophy/relationship-between-science-and-religion/)
+- Program Problem Ledger item: [meta-relationship-between-science-and-religion](/agenda/problem-ledger/metaphysics-philosophy/relationship-between-science-and-religion/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-relationship-between-science-and-religion.md`
 

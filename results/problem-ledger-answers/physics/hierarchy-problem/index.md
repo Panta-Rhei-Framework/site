@@ -22,7 +22,7 @@ do_not_edit: true
 
 The ratio between the strong force and gravity is on the order of . Why is gravity so much weaker than the strong force?
 
-- Program Problem Ledger item: [phys-hierarchy-problem](/program/research-agenda/problem-ledger/physics/hierarchy-problem/)
+- Program Problem Ledger item: [phys-hierarchy-problem](/agenda/problem-ledger/physics/hierarchy-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-hierarchy-problem.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 How does the quantum description of reality, which includes elements such as the superposition of states and wavefunction collapse or quantum decoherence, give rise to the reality we perceive? Another way of stating this question regards the measurement problem: What constitutes a "measurement" which apparently causes the wave function to collapse into a definite state? Unlike classical physical processes, some quantum mechanical processes (such as quantum teleportation arising from quantum entanglement) cannot be simultaneously "local", "causal", and "real", but it is not obvious which of these properties must be sacrificed, or if an attempt to describe quantum mechanical processes in these senses is a category error such that a proper understanding of quantum mechanics would render the question meaningless
 
-- Program Problem Ledger item: [phys-interpretation-of-quantum-mechanics](/program/research-agenda/problem-ledger/physics/interpretation-of-quantum-mechanics/)
+- Program Problem Ledger item: [phys-interpretation-of-quantum-mechanics](/agenda/problem-ledger/physics/interpretation-of-quantum-mechanics/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-interpretation-of-quantum-mechanics.md`
 

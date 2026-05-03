@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Physical Regime Bridges"
-permalink: "/program/research-agenda/recovery-requirements/physics/physical-regime-bridges/"
+permalink: "/agenda/recovery-requirements/physics/physical-regime-bridges/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p6"
-url: "/program/research-agenda/recovery-requirements/physics/physical-regime-bridges/"
+url: "/agenda/recovery-requirements/physics/physical-regime-bridges/"
 verification:
   status: "pending_physics_verification"
   mode: "regime_bridge_review"

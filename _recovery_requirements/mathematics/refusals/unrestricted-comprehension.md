@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Unrestricted Comprehension"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-comprehension/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/unrestricted-comprehension/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -48,7 +48,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r2"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-comprehension/"
+url: "/agenda/recovery-requirements/mathematics/refusals/unrestricted-comprehension/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

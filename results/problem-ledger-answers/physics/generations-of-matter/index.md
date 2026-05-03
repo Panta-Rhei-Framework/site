@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why are there three generations of quarks and leptons? Is there a theory that can explain the masses of particular quarks and leptons in particular generations from first principles (a theory of Yukawa couplings)?
 
-- Program Problem Ledger item: [phys-generations-of-matter](/program/research-agenda/problem-ledger/physics/generations-of-matter/)
+- Program Problem Ledger item: [phys-generations-of-matter](/agenda/problem-ledger/physics/generations-of-matter/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-generations-of-matter.md`
 

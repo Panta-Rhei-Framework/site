@@ -22,7 +22,7 @@ do_not_edit: true
 
 In quantum mechanics, time is a classical background parameter, and the flow of time is universal and absolute. In general relativity, time is one component of four-dimensional spacetime, and the flow of time changes depending on the curvature of spacetime and the spacetime trajectory of the observer. How can these two concepts of time be reconciled?
 
-- Program Problem Ledger item: [phys-problem-of-time](/program/research-agenda/problem-ledger/physics/problem-of-time/)
+- Program Problem Ledger item: [phys-problem-of-time](/agenda/problem-ledger/physics/problem-of-time/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-problem-of-time.md`
 

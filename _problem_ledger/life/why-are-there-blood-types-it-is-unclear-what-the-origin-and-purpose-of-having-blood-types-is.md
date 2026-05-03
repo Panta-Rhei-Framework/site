@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Why are there blood types? It is unclear what the origin and purpose of having blood types is"
-permalink: "/program/research-agenda/problem-ledger/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/"
+permalink: "/agenda/problem-ledger/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/"
+url: "/agenda/problem-ledger/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/"
 results_mirror:
   exists: false
   result_id: ""

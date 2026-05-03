@@ -35,7 +35,7 @@ hero_ctas:
   - label: "Coherent Theory"
     url: /program/about/coherent-theory-of-reality/
   - label: "Kernel, Model & Reality"
-    url: /program/research-agenda/kernel-model-reality/
+    url: /agenda/kernel-model-reality/
   - label: "Theory White Paper"
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
 right_rail:
@@ -111,8 +111,8 @@ Panta Rhei's distinctive move is not only a different result. It is a different 
 
 This Program page explains identity and positioning. The existing Agenda pages remain burden-specific comparison surfaces:
 
-- [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) states the ontic-status burden.
-- [KMR Related Approaches]({{ '/program/research-agenda/kernel-model-reality/related-approaches/' | relative_url }}) compares neighboring approaches under the no-externalities rule.
-- [KMR Deep Comparison]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) is the specialist matrix.
+- [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}) states the ontic-status burden.
+- [KMR Related Approaches]({{ '/agenda/kernel-model-reality/related-approaches/' | relative_url }}) compares neighboring approaches under the no-externalities rule.
+- [KMR Deep Comparison]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) is the specialist matrix.
 
 Use [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) and [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) when you want to inspect how a comparison burden enters the public construction and verification routes.

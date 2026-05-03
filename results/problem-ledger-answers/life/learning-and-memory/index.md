@@ -22,7 +22,7 @@ do_not_edit: true
 
 Where do our memories get stored and how are they retrieved again? How can learning be improved? What is the difference between explicit and implicit memories? What molecule is responsible for synaptic tagging?
 
-- Program Problem Ledger item: [life-biology-learning-and-memory](/program/research-agenda/problem-ledger/life/learning-and-memory/)
+- Program Problem Ledger item: [life-biology-learning-and-memory](/agenda/problem-ledger/life/learning-and-memory/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-learning-and-memory.md`
 

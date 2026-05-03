@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Computational theory of mind"
-permalink: "/program/research-agenda/problem-ledger/life/computational-theory-of-mind/"
+permalink: "/agenda/problem-ledger/life/computational-theory-of-mind/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -130,7 +130,7 @@ tags:
   - "computational-theory-of-mind"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/computational-theory-of-mind/"
+url: "/agenda/problem-ledger/life/computational-theory-of-mind/"
 results_mirror:
   exists: false
   result_id: ""

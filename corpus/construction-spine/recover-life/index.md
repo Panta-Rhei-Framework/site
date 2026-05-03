@@ -4,7 +4,7 @@ sequence: 7
 title: "Step 7 — Recover Life as a Structural Class"
 short_title: "Life"
 slug: "recover-life"
-agenda_path: "/program/research-agenda/construction-roadmap/#recover-life-as-a-structural-class"
+agenda_path: "/agenda/construction-roadmap/#recover-life-as-a-structural-class"
 corpus_path: "/corpus/construction-spine/recover-life/"
 results_path: "/results/world-readout/life/"
 summary: "Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances."

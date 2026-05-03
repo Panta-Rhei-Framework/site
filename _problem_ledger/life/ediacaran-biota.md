@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Ediacaran biota"
-permalink: "/program/research-agenda/problem-ledger/life/ediacaran-biota/"
+permalink: "/agenda/problem-ledger/life/ediacaran-biota/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "ediacaran-biota"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/ediacaran-biota/"
+url: "/agenda/problem-ledger/life/ediacaran-biota/"
 results_mirror:
   exists: false
   result_id: ""

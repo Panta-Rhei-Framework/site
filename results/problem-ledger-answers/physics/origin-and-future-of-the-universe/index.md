@@ -22,7 +22,7 @@ do_not_edit: true
 
 How did the conditions for anything to exist arise? Is the universe heading towards a Big Freeze, a Big Rip, a Big Crunch, or a Big Bounce?
 
-- Program Problem Ledger item: [phys-origin-and-future-of-the-universe](/program/research-agenda/problem-ledger/physics/origin-and-future-of-the-universe/)
+- Program Problem Ledger item: [phys-origin-and-future-of-the-universe](/agenda/problem-ledger/physics/origin-and-future-of-the-universe/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-origin-and-future-of-the-universe.md`
 

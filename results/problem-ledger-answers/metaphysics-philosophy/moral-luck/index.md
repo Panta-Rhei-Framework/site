@@ -22,7 +22,7 @@ do_not_edit: true
 
 The problem of moral luck is that some people are born into, live within, and experience circumstances that seem to change their moral culpability when all other factors remain the same For instance, a case of circumstantial moral luck: a poor person is born into a poor family, and has no other way to feed himself so he steals his food. Another person, born into a very wealthy family, does very little but has ample food and does not need to steal to get it. Should the poor person be more morally blameworthy than the rich person? After all, it is not this person's fault that they were born into such circumstances, but a matter of "luck" A related case is resultant moral luck. For instance, two persons behave in a morally culpable way, such as driving carelessly, but end up producing unequal amounts of harm: two people drive while intoxicated, but one strikes a pedestrian and kills him, while the other does not. That one driver caused a death and the other did not is no part of the drivers' intentional actions; yet most observers would likely ascribe greater blame to the driver who killed (compare consequentialism and choice) The fundamental question of moral luck is how our moral responsibility is changed by factors over which we have no control
 
-- Program Problem Ledger item: [meta-moral-luck](/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-luck/)
+- Program Problem Ledger item: [meta-moral-luck](/agenda/problem-ledger/metaphysics-philosophy/moral-luck/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-moral-luck.md`
 

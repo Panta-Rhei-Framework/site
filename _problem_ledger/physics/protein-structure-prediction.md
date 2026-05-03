@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Protein structure prediction"
-permalink: "/program/research-agenda/problem-ledger/physics/protein-structure-prediction/"
+permalink: "/agenda/problem-ledger/physics/protein-structure-prediction/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "protein-structure-prediction"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/protein-structure-prediction/"
+url: "/agenda/problem-ledger/physics/protein-structure-prediction/"
 results_mirror:
   exists: false
   result_id: ""

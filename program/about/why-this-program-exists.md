@@ -21,11 +21,11 @@ summary_cards:
 right_rail:
   related:
   - title: Research Aim & Desiderata
-    url: /program/research-agenda/research-aim-and-desiderata/
+    url: /agenda/research-aim-and-desiderata/
   - title: Science, Humanities & Coherence
-    url: /program/research-agenda/science-humanities-and-coherence/
+    url: /agenda/science-humanities-and-coherence/
   - title: Historical Context
-    url: /program/research-agenda/historical-context/
+    url: /agenda/historical-context/
   meta:
     type: Essay
     scope: Program-wide
@@ -88,14 +88,14 @@ That is the beginning of the program.
 
 The answer cannot simply be "a bigger theory" in the ordinary sense. It must be a framework whose foundations are themselves disciplined enough to make global answerability at least possible in principle.
 
-That is why the program turns so much attention to its kernel, its methods, and its [refusal of certain familiar shortcuts]({{ '/program/research-agenda/what-the-program-refuses/' | relative_url }}).
+That is why the program turns so much attention to its kernel, its methods, and its [refusal of certain familiar shortcuts]({{ '/agenda/what-the-program-refuses/' | relative_url }}).
 
 ## A research program, not a protest
 
 The program is therefore not best understood as a rejection of modern science. It is better understood as an attempt to push some of its deepest questions further than the usual compartmentalized settlement allows.
 
 It asks whether reality may require:
-- stronger [foundational discipline]({{ '/program/research-agenda/foundational-discipline/' | relative_url }})
+- stronger [foundational discipline]({{ '/agenda/foundational-discipline/' | relative_url }})
 - more internal coherence
 - more explicit constraint
 - and less tolerance for unresolved fragmentation

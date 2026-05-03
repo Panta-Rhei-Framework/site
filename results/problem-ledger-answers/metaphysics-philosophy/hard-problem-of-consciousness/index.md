@@ -22,7 +22,7 @@ do_not_edit: true
 
 The hard problem of consciousness is the question of what consciousness is and why we have consciousness as opposed to being philosophical zombies. The adjective "hard" is to contrast with the "easy" consciousness problems, which seek to explain the mechanisms of consciousness ("why" as compared with "how", or final cause versus efficient cause). The hard problem of consciousness is questioning whether all beings undergo an experience of consciousness rather than questioning the neurological makeup of beings. Ned Block believes that there also exists a "Harder Problem of Consciousness", due to the possibility of different physical and functional neurological systems potentially having phenomenal overlap
 
-- Program Problem Ledger item: [meta-hard-problem-of-consciousness](/program/research-agenda/problem-ledger/metaphysics-philosophy/hard-problem-of-consciousness/)
+- Program Problem Ledger item: [meta-hard-problem-of-consciousness](/agenda/problem-ledger/metaphysics-philosophy/hard-problem-of-consciousness/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-hard-problem-of-consciousness.md`
 

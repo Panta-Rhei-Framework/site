@@ -22,7 +22,7 @@ do_not_edit: true
 
 In epistemology, the Münchhausen trilemma is a thought experiment intended to demonstrate the theoretical impossibility of proving any truth, even in the fields of logic and mathematics, without appealing to accepted assumptions. If it is asked how any given proposition is known to be true, proof may be provided. The Münchhausen trilemma is that there are only three ways of completing a proof The circular argument, in which the proof of some proposition presupposes the truth of that very proposition The regressive argument, in which each proof requires a further proof, ad infinitum The dogmatic argument, which rests on accepted precepts which are merely asserted rather than defended The trilemma, then, is the decision among the three equally unsatisfying options. Karl Popper's suggestion was to accept the trilemma as unsolvable and work with knowledge by way of conjecture and criticism
 
-- Program Problem Ledger item: [meta-munchhausen-trilemma](/program/research-agenda/problem-ledger/metaphysics-philosophy/munchhausen-trilemma/)
+- Program Problem Ledger item: [meta-munchhausen-trilemma](/agenda/problem-ledger/metaphysics-philosophy/munchhausen-trilemma/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-munchhausen-trilemma.md`
 

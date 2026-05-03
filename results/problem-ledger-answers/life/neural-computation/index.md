@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are all the different types of neuron and what do they do in the brain?
 
-- Program Problem Ledger item: [life-biology-neural-computation](/program/research-agenda/problem-ledger/life/neural-computation/)
+- Program Problem Ledger item: [life-biology-neural-computation](/agenda/problem-ledger/life/neural-computation/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-neural-computation.md`
 

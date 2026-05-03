@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Last universal common ancestor"
-permalink: "/program/research-agenda/problem-ledger/life/last-universal-common-ancestor/"
+permalink: "/agenda/problem-ledger/life/last-universal-common-ancestor/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "last-universal-common-ancestor"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/last-universal-common-ancestor/"
+url: "/agenda/problem-ledger/life/last-universal-common-ancestor/"
 results_mirror:
   exists: false
   result_id: ""

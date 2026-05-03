@@ -22,7 +22,7 @@ do_not_edit: true
 
 There is contradictory evidence on the existence of human pheromones. Do they actually exist, and if so, how do they affect behavior?
 
-- Program Problem Ledger item: [life-biology-human-sex-pheromones](/program/research-agenda/problem-ledger/life/human-sex-pheromones/)
+- Program Problem Ledger item: [life-biology-human-sex-pheromones](/agenda/problem-ledger/life/human-sex-pheromones/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-human-sex-pheromones.md`
 

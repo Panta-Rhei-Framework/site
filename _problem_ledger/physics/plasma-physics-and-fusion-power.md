@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Plasma physics and fusion power"
-permalink: "/program/research-agenda/problem-ledger/physics/plasma-physics-and-fusion-power/"
+permalink: "/agenda/problem-ledger/physics/plasma-physics-and-fusion-power/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "plasma-physics-and-fusion-power"
   - "plasma-physics"
-url: "/program/research-agenda/problem-ledger/physics/plasma-physics-and-fusion-power/"
+url: "/agenda/problem-ledger/physics/plasma-physics-and-fusion-power/"
 results_mirror:
   exists: false
   result_id: ""

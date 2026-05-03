@@ -18,7 +18,7 @@ right_rail:
     - title: "Numerical Physics Ledger"
       url: /publications/monograph-supplements/numerical-physics-ledger/
     - title: "Physics Recovery Requirements"
-      url: /program/research-agenda/recovery-requirements/physics/
+      url: /agenda/recovery-requirements/physics/
     - title: "Physics Results"
       url: /results/physics/
     - title: "How to Audit (Physicist)"

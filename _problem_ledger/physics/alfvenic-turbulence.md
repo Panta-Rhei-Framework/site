@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Alfvénic turbulence"
-permalink: "/program/research-agenda/problem-ledger/physics/alfvenic-turbulence/"
+permalink: "/agenda/problem-ledger/physics/alfvenic-turbulence/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "alfvenic-turbulence"
   - "plasma-physics"
-url: "/program/research-agenda/problem-ledger/physics/alfvenic-turbulence/"
+url: "/agenda/problem-ledger/physics/alfvenic-turbulence/"
 results_mirror:
   exists: false
   result_id: ""

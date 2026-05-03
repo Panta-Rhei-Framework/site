@@ -22,7 +22,7 @@ do_not_edit: true
 
 Hodge Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-- Program Problem Ledger item: [math-hodge-conjecture](/program/research-agenda/problem-ledger/mathematics/hodge-conjecture/)
+- Program Problem Ledger item: [math-hodge-conjecture](/agenda/problem-ledger/mathematics/hodge-conjecture/)
 - Domain: **Mathematics**
 - Source item path: `problem-ledger/items/mathematics/math-hodge-conjecture.md`
 

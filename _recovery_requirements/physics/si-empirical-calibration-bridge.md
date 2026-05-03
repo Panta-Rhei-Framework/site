@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "SI / Empirical Calibration Bridge"
-permalink: "/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/"
+permalink: "/agenda/recovery-requirements/physics/si-empirical-calibration-bridge/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p3"
-url: "/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/"
+url: "/agenda/recovery-requirements/physics/si-empirical-calibration-bridge/"
 verification:
   status: "pending_physics_verification"
   mode: "si_bridge_and_calibration"

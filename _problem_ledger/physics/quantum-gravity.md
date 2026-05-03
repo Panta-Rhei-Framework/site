@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum gravity"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-gravity/"
+permalink: "/agenda/problem-ledger/physics/quantum-gravity/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -143,7 +143,7 @@ tags:
   - "physics"
   - "wikipedia-physics"
   - "quantum-gravity"
-url: "/program/research-agenda/problem-ledger/physics/quantum-gravity/"
+url: "/agenda/problem-ledger/physics/quantum-gravity/"
 results_mirror:
   exists: false
   result_id: ""

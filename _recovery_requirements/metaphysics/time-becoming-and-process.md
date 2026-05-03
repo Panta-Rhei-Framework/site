@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Time, Becoming, and Process"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/time-becoming-and-process/"
+permalink: "/agenda/recovery-requirements/metaphysics/time-becoming-and-process/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r6"
-url: "/program/research-agenda/recovery-requirements/metaphysics/time-becoming-and-process/"
+url: "/agenda/recovery-requirements/metaphysics/time-becoming-and-process/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

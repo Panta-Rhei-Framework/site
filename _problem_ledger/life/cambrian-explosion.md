@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cambrian explosion"
-permalink: "/program/research-agenda/problem-ledger/life/cambrian-explosion/"
+permalink: "/agenda/problem-ledger/life/cambrian-explosion/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "cambrian-explosion"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/cambrian-explosion/"
+url: "/agenda/problem-ledger/life/cambrian-explosion/"
 results_mirror:
   exists: false
   result_id: ""

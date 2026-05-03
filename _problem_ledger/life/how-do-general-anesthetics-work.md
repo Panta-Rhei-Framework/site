@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "How do general anesthetics work?"
-permalink: "/program/research-agenda/problem-ledger/life/how-do-general-anesthetics-work/"
+permalink: "/agenda/problem-ledger/life/how-do-general-anesthetics-work/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-neuroscience"
   - "how-do-general-anesthetics-work"
   - "computational-neuroscience"
-url: "/program/research-agenda/problem-ledger/life/how-do-general-anesthetics-work/"
+url: "/agenda/problem-ledger/life/how-do-general-anesthetics-work/"
 results_mirror:
   exists: false
   result_id: ""

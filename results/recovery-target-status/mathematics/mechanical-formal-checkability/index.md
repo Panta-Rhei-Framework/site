@@ -26,7 +26,7 @@ Mechanical Formal Checkability
 
 - Recovery status: **Partial**
 - Verification status: **Pending formal verification**
-- Program ledger item: [MREC-M0](/program/research-agenda/recovery-requirements/mathematics/mechanical-formal-checkability/)
+- Program ledger item: [MREC-M0](/agenda/recovery-requirements/mathematics/mechanical-formal-checkability/)
 - Verification mode: `foundational_recovery_target`
 
 ## Result Summary

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Could the Earth be a superorganism, or a unit of selection?
 
-- Program Problem Ledger item: [life-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms](/program/research-agenda/problem-ledger/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/)
+- Program Problem Ledger item: [life-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms](/agenda/problem-ledger/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms.md`
 

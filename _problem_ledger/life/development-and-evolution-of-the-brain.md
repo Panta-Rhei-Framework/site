@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Development and evolution of the brain"
-permalink: "/program/research-agenda/problem-ledger/life/development-and-evolution-of-the-brain/"
+permalink: "/agenda/problem-ledger/life/development-and-evolution-of-the-brain/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -131,7 +131,7 @@ tags:
   - "development-and-evolution-of-the-brain"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/development-and-evolution-of-the-brain/"
+url: "/agenda/problem-ledger/life/development-and-evolution-of-the-brain/"
 results_mirror:
   exists: false
   result_id: ""

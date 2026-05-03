@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Mitochondria in loriciferans living in anoxic conditions"
-permalink: "/program/research-agenda/problem-ledger/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/"
+permalink: "/agenda/problem-ledger/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -139,7 +139,7 @@ tags:
   - "mitochondria-in-loriciferans-living-in-anoxic-conditions"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/"
+url: "/agenda/problem-ledger/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/"
 results_mirror:
   exists: false
   result_id: ""

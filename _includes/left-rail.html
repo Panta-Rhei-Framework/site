@@ -9,7 +9,7 @@
   {% assign v2_lane_key = page.v2_lane | default: page.lane | default: "" %}
   {% if v2_lane_key == "" %}
     {% if page.url contains "/discover/" %}{% assign v2_lane_key = "discover" %}
-    {% elsif page.url contains "/program/research-agenda/" %}{% assign v2_lane_key = "agenda" %}
+    {% elsif page.url contains "/agenda/" %}{% assign v2_lane_key = "agenda" %}
     {% elsif page.url contains "/program/" or page.url contains "/research-program/" %}{% assign v2_lane_key = "program" %}
     {% elsif page.url contains "/corpus/" or page.url contains "/registry/" %}{% assign v2_lane_key = "corpus" %}
     {% elsif page.url contains "/results/" %}{% assign v2_lane_key = "results" %}
@@ -20,7 +20,7 @@
     {% else %}{% assign v2_lane_key = "program" %}
     {% endif %}
   {% endif %}
-  {% if page.url contains "/program/research-agenda/" %}{% assign v2_lane_key = "agenda" %}{% endif %}
+  {% if page.url contains "/agenda/" %}{% assign v2_lane_key = "agenda" %}{% endif %}
   {% if v2_lane_key == "research-program" %}{% assign v2_lane_key = "program" %}{% endif %}
   {% if v2_lane_key == "registry" or v2_lane_key == "framework" %}{% assign v2_lane_key = "corpus" %}{% endif %}
   {% if v2_lane_key == "bibliography" or v2_lane_key == "utility" %}{% assign v2_lane_key = "support" %}{% endif %}

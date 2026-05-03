@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Consciousness"
-permalink: "/program/research-agenda/problem-ledger/life/consciousness/"
+permalink: "/agenda/problem-ledger/life/consciousness/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -333,7 +333,7 @@ tags:
   - "neuroscience"
   - "consciousness"
   - "mind"
-url: "/program/research-agenda/problem-ledger/life/consciousness/"
+url: "/agenda/problem-ledger/life/consciousness/"
 results_mirror:
   exists: true
   result_id: "result-025"

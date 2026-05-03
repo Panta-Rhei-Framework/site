@@ -22,7 +22,7 @@ do_not_edit: true
 
 How and why did the brain evolve? What are the molecular determinants of individual brain development?
 
-- Program Problem Ledger item: [life-biology-development-and-evolution-of-the-brain](/program/research-agenda/problem-ledger/life/development-and-evolution-of-the-brain/)
+- Program Problem Ledger item: [life-biology-development-and-evolution-of-the-brain](/agenda/problem-ledger/life/development-and-evolution-of-the-brain/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-development-and-evolution-of-the-brain.md`
 

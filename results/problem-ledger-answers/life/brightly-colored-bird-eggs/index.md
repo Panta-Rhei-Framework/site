@@ -22,7 +22,7 @@ do_not_edit: true
 
 It is unknown what evolutionary process would lead birds to having brightly colored eggs given the increased visibility to predators
 
-- Program Problem Ledger item: [life-biology-brightly-colored-bird-eggs](/program/research-agenda/problem-ledger/life/brightly-colored-bird-eggs/)
+- Program Problem Ledger item: [life-biology-brightly-colored-bird-eggs](/agenda/problem-ledger/life/brightly-colored-bird-eggs/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-brightly-colored-bird-eggs.md`
 

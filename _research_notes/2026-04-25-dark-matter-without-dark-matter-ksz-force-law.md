@@ -60,7 +60,7 @@ relations:
       url: /verify/predictions-and-falsification/
   recovery:
     - title: "Physics Recovery Requirements"
-      url: /program/research-agenda/recovery-requirements/physics/
+      url: /agenda/recovery-requirements/physics/
   publications:
     - title: "Numerical Physics Ledger"
       url: /publications/monograph-supplements/numerical-physics-ledger/

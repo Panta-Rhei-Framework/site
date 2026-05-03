@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is the Sun's corona (atmosphere layer) so much hotter than the Sun's surface? Why is the magnetic reconnection effect many orders of magnitude faster than predicted by standard models?
 
-- Program Problem Ledger item: [phys-coronal-heating-problem](/program/research-agenda/problem-ledger/physics/coronal-heating-problem/)
+- Program Problem Ledger item: [phys-coronal-heating-problem](/agenda/problem-ledger/physics/coronal-heating-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-coronal-heating-problem.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can the nematic to smectic (A) phase transition in liquid crystal states be characterized as a universal phase transition?
 
-- Program Problem Ledger item: [phys-liquid-crystals](/program/research-agenda/problem-ledger/physics/liquid-crystals/)
+- Program Problem Ledger item: [phys-liquid-crystals](/agenda/problem-ledger/physics/liquid-crystals/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-liquid-crystals.md`
 

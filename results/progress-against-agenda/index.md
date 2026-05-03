@@ -17,7 +17,7 @@ summary_cards:
 right_rail:
   related:
     - title: "Research Agenda"
-      url: /program/research-agenda/
+      url: /agenda/
     - title: "Problem Answers"
       url: /results/problem-ledger-answers/
     - title: "Recovery Target Status"

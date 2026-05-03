@@ -17,11 +17,11 @@ right_rail:
     - title: "Coherent Theory of Reality"
       url: "/program/about/coherent-theory-of-reality/"
     - title: "Agenda"
-      url: "/program/research-agenda/"
+      url: "/agenda/"
     - title: "Core Design Principles"
-      url: "/program/research-agenda/core-design-principles/"
+      url: "/agenda/core-design-principles/"
     - title: "Construction Roadmap"
-      url: "/program/research-agenda/construction-roadmap/"
+      url: "/agenda/construction-roadmap/"
     - title: "Related Approaches"
       url: "/program/about/related-approaches/"
     - title: "How to Verify"
@@ -97,10 +97,10 @@ The core line is:
 
 - [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }})
 - [What We Mean by a Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }})
-- [Agenda]({{ '/program/research-agenda/' | relative_url }})
-- [Core Design Principles]({{ '/program/research-agenda/core-design-principles/' | relative_url }})
-- [Answer-Shape Requirements]({{ '/program/research-agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }})
-- [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }})
+- [Agenda]({{ '/agenda/' | relative_url }})
+- [Core Design Principles]({{ '/agenda/core-design-principles/' | relative_url }})
+- [Answer-Shape Requirements]({{ '/agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }})
+- [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }})
 - [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }})
 - [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
 - [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})

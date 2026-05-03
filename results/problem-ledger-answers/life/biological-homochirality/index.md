@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the origin of homochirality in living organisms? In biological organisms, amino acids appear almost exclusively in the left-handed form and sugars in the right-handed form. Homochirality is an obvious characteristic of life on Earth, yet extraterrestrial samples contain largely racemic compounds. It is not known whether homochirality existed before life, whether the building blocks of life must have this particular chirality, or whether life must be homochiral at all
 
-- Program Problem Ledger item: [life-biology-biological-homochirality](/program/research-agenda/problem-ledger/life/biological-homochirality/)
+- Program Problem Ledger item: [life-biology-biological-homochirality](/agenda/problem-ledger/life/biological-homochirality/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-biological-homochirality.md`
 

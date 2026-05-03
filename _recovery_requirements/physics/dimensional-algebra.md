@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Dimensional Algebra"
-permalink: "/program/research-agenda/recovery-requirements/physics/dimensional-algebra/"
+permalink: "/agenda/recovery-requirements/physics/dimensional-algebra/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p1"
-url: "/program/research-agenda/recovery-requirements/physics/dimensional-algebra/"
+url: "/agenda/recovery-requirements/physics/dimensional-algebra/"
 verification:
   status: "pending_physics_verification"
   mode: "dimensional_consistency"

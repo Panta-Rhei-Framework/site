@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is the strong nuclear interaction invariant to parity and charge conjugation? Is Peccei–Quinn theory the solution to this problem? Could axions be the main component of dark matter?
 
-- Program Problem Ledger item: [phys-strong-cp-problem-and-axions](/program/research-agenda/problem-ledger/physics/strong-cp-problem-and-axions/)
+- Program Problem Ledger item: [phys-strong-cp-problem-and-axions](/agenda/problem-ledger/physics/strong-cp-problem-and-axions/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-strong-cp-problem-and-axions.md`
 

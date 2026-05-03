@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Protein design"
-permalink: "/program/research-agenda/problem-ledger/life/protein-design/"
+permalink: "/agenda/problem-ledger/life/protein-design/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "protein-design"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/protein-design/"
+url: "/agenda/problem-ledger/life/protein-design/"
 results_mirror:
   exists: false
   result_id: ""
