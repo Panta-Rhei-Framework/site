@@ -137,7 +137,7 @@ primary_lanes:
 
   - title: "Results"
     role: "Consequences"
-    description: "World-facing consequences, readouts, mirrors, predictions, and result browse surfaces."
+    description: "Where the built Corpus becomes a world: landmark results, world readouts, ledger answers, recovery status, predictions, and result browsing."
     root_label: "Open Results"
     root_url: "/results/"
     links:
@@ -275,7 +275,7 @@ primary_lanes:
 
 support:
   title: "Artifacts, Media & Infrastructure"
-  role: "Artifact, media, infrastructure, and legal layer"
+  role: "Support layer"
   description: "Stable publication artifacts, release records, citation surfaces, media resources, infrastructure, and legal pages."
   root_label: "Open Publications"
   root_url: "/publications/"
