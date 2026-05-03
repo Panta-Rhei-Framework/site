@@ -27,6 +27,7 @@ hero_ctas:
     url: /corpus/bi-square/
   - label: "Foundational Hinges"
     url: /corpus/foundational-hinges/
+    event: cta.hinges
   - label: "Browse the Registry"
     url: /corpus/registry/
   - label: "How to Read"
@@ -111,7 +112,7 @@ The [Bi-Square Spine]({{ '/corpus/bi-square/' | relative_url }}) is the Corpus r
 The first three construction steps now have a dedicated reviewer route: eight foundational hinge papers plus a bundle memo, surfaced through Corpus-native hinge pages. These pages explain how the kernel is built, how core mathematics is recovered, and how self-enrichment begins.
 
 <div class="btn-group section-ctas">
-  <a class="btn-secondary" href="{{ '/corpus/foundational-hinges/' | relative_url }}">Open the Foundational Hinges</a>
+  <a class="btn-secondary" href="{{ '/corpus/foundational-hinges/' | relative_url }}" data-umami-event="cta.hinges" data-umami-event-location="section" data-umami-event-type="internal">Open the Foundational Hinges</a>
   <a class="btn-ghost" href="{{ '/publications/research-papers/' | relative_url }}">Research Papers</a>
   <a class="btn-ghost" href="{{ '/verify/how-to-audit/mathematician/' | relative_url }}">Mathematician Audit Route</a>
 </div>

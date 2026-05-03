@@ -60,6 +60,13 @@
   {% include footer.html %}
 
   <!-- Search overlay -->
+  <!-- NOTE: inline onclick handlers below are duplicated by addEventListener bindings in the
+       data-cfasync="false" script further down. Cloudflare Rocket Loader rewrites onclick
+       attributes to gate them behind __cfRLUnblockHandlers, which on mobile networks/CPUs
+       can leave search non-functional. The bind-script strips the onclick attributes and
+       binds the same handlers via addEventListener so they fire reliably regardless of
+       Rocket Loader timing. Do not remove the inline onclick attributes — they remain as a
+       progressive-enhancement fallback for environments where the bind-script is blocked. -->
   <div id="search-overlay" class="search-overlay" role="dialog" aria-modal="true" aria-labelledby="search-overlay-title" onclick="if (event.target === this) closeSearch()" hidden>
     <div class="search-overlay-backdrop" onclick="closeSearch()"></div>
     <div class="search-overlay-panel glass" tabindex="-1" onclick="event.stopPropagation()">
@@ -75,8 +82,10 @@
     </div>
   </div>
 
-  <script>
+  <script data-cfasync="false">
     // Pagefind search initialization (uses globally loaded PagefindUI from head.html)
+    // data-cfasync="false" opts this script out of Cloudflare Rocket Loader so the
+    // openSearch/closeSearch globals are defined synchronously on mobile.
     document.addEventListener('DOMContentLoaded', function() {
       if (typeof PagefindUI !== 'undefined') {
         new PagefindUI({
@@ -165,6 +174,52 @@
         syncGoogleSearchLink();
       }
     });
+
+    // Rocket-Loader-safe binding: strip inline onclick attributes (which CF rewrites to
+    // gate behind __cfRLUnblockHandlers) and re-bind via addEventListener so search fires
+    // reliably on mobile regardless of Rocket Loader bootstrap timing.
+    (function bindSearchTriggers() {
+      function bindAll() {
+        var openSelectors = ['.header-search', '.footer-search-trigger'];
+        openSelectors.forEach(function(sel) {
+          document.querySelectorAll(sel).forEach(function(el) {
+            if (el.dataset.searchBound) return;
+            el.removeAttribute('onclick');
+            el.addEventListener('click', function(e) { e.preventDefault(); openSearch(); });
+            el.dataset.searchBound = '1';
+          });
+        });
+        var overlay = document.getElementById('search-overlay');
+        if (overlay && !overlay.dataset.searchBound) {
+          overlay.removeAttribute('onclick');
+          overlay.addEventListener('click', function(e) { if (e.target === overlay) closeSearch(); });
+          overlay.dataset.searchBound = '1';
+        }
+        var backdrop = document.querySelector('.search-overlay-backdrop');
+        if (backdrop && !backdrop.dataset.searchBound) {
+          backdrop.removeAttribute('onclick');
+          backdrop.addEventListener('click', function() { closeSearch(); });
+          backdrop.dataset.searchBound = '1';
+        }
+        var panel = document.querySelector('.search-overlay-panel');
+        if (panel && !panel.dataset.searchBound) {
+          panel.removeAttribute('onclick');
+          panel.addEventListener('click', function(e) { e.stopPropagation(); });
+          panel.dataset.searchBound = '1';
+        }
+        var closeBtn = document.querySelector('.search-overlay-close');
+        if (closeBtn && !closeBtn.dataset.searchBound) {
+          closeBtn.removeAttribute('onclick');
+          closeBtn.addEventListener('click', function() { closeSearch(); });
+          closeBtn.dataset.searchBound = '1';
+        }
+      }
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', bindAll);
+      } else {
+        bindAll();
+      }
+    })();
   </script>
 
   <script>

@@ -23,7 +23,8 @@ Auto-derived at corpus export time by walking the registry depends_on graph.
       <a href="https://github.com/Panta-Rhei-Research/taulib/blob/main/{{ module_path }}"
          class="chip chip-verify-coverage"
          title="Origin: {{ mod.registry_id_origin }} · {{ mod.formalization }}"
-         target="_blank" rel="noopener"><code>{{ mod.module }}</code></a>
+         target="_blank" rel="noopener"
+         data-umami-event="outbound.github" data-umami-event-location="prediction-lean-modules" data-umami-event-type="external" data-umami-event-outbound="github" data-umami-event-variant="taulib-module"><code>{{ mod.module }}</code></a>
     {%- endfor -%}
   </div>
 </section>

@@ -32,7 +32,7 @@ Postfach 3670
 85276 Pfaffenhofen
 Deutschland
 
-E-Mail: [thorsten.fuchs@panta-rhei.site](mailto:thorsten.fuchs@panta-rhei.site)
+E-Mail: [legal@panta-rhei.site](mailto:legal@panta-rhei.site)
 LinkedIn: [linkedin.com/in/thorfuchs](https://www.linkedin.com/in/thorfuchs/)
 
 ## Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV

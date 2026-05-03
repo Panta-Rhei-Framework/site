@@ -89,7 +89,7 @@ layout: default
       </div>
       <div class="btn-group" style="margin-top: 14px;">
         <a class="btn-primary" href="{{ note.url | relative_url }}">Read note</a>
-        {% if note_pdf %}<a class="btn-secondary" href="{{ note_pdf | relative_url }}">Download PDF</a>{% endif %}
+        {% if note_pdf %}<a class="btn-secondary" href="{{ note_pdf | relative_url }}" data-umami-event="download.pdf" data-umami-event-location="research-notes-index" data-umami-event-type="internal" data-umami-event-slug="{{ note.slug | default: note.url }}">Download PDF</a>{% endif %}
       </div>
     </article>
     {% endfor %}

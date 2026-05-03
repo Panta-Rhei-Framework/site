@@ -53,7 +53,12 @@ layout: default
     {%- endif -%}
     {%- assign is_external = false -%}
     {%- if cta.url contains '://' -%}{%- assign is_external = true -%}{%- endif -%}
-    <a href="{{ cta.url | relative_url }}" class="{{ cta_class }}"{% if is_external %} target="_blank" rel="noopener"{% endif %} {% include cta-attrs.html location="hero" label=cta.label href=cta.url event=cta.event %}>{{ cta.label }}</a>
+    {%- comment -%} Lane-aware hero event: primary CTA on a lane root (type "Lane Root")
+                    emits the canonical `cta.hero.{lane-slug}` event. Non-primary CTAs and
+                    non-lane-root pages fall back to the label-derived auto-slug. {%- endcomment -%}
+    {%- assign _hero_lane = "" -%}
+    {%- if cta.primary and page.lane and page.type == "Lane Root" -%}{%- assign _hero_lane = page.lane -%}{%- endif -%}
+    <a href="{{ cta.url | relative_url }}" class="{{ cta_class }}"{% if is_external %} target="_blank" rel="noopener"{% endif %} {% include cta-attrs.html location="hero" label=cta.label href=cta.url event=cta.event lane=_hero_lane %}>{{ cta.label }}</a>
     {% endfor %}
   </div>
   {% if page.hero_supporting_line %}

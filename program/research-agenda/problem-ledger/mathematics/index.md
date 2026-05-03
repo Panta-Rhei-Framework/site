@@ -1,8 +1,8 @@
 ---
 layout: program-doc
 title: "Mathematics Problem Ledger"
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 type: "Problem Ledger Domain"
 status: "Canonical"

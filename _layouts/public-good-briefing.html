@@ -32,7 +32,7 @@ layout: default
     <a href="{{ page.full_html_path | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="publication" event="read-public-good-full-html" href=page.full_html_path %}>Read full text as HTML</a>
     {% endif %}
     {% if pdf_status == "available" and pdf_path %}
-    <a href="{{ pdf_path | relative_url }}" class="btn-ghost" download>Download PDF dossier</a>
+    <a href="{{ pdf_path | relative_url }}" class="btn-ghost" download data-umami-event="download.pdf" data-umami-event-location="public-good-briefing" data-umami-event-type="internal" data-umami-event-slug="{{ page.slug | default: page.url }}">Download PDF dossier</a>
     {% else %}
     <span class="btn-ghost is-disabled" aria-disabled="true">PDF pending</span>
     {% endif %}
