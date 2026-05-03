@@ -5,6 +5,7 @@ lane: support
 type: support_page
 support_type: changelog
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 permalink: /changelog/
 summary: "Operational ledger for the Panta Rhei Research Program site."

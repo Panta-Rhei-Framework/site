@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-grid-digital-twins-reliability-dispatch-resilience.pdf
 full_html_path: /impact/papers/grid-digital-twins-reliability-dispatch-resilience/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing showing how a law-faithful tau grid twin could improve bulk-power
   reliability, weather-aware dispatch, cascading-failure prevention, and restoration—addressing USD

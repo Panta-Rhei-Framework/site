@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Published"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "The Panta Rhei Foundational Bundle"
 subtitle: "Research memo and reading guide for an eight-paper standalone-hinge peer-review package"

@@ -5,6 +5,7 @@ lane: support
 type: support_page
 support_type: bibliography
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 permalink: /bibliography/
 summary: "Reference infrastructure for the public release surfaces of the Panta Rhei Research Program."

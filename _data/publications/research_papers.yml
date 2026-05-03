@@ -1,0 +1,66 @@
+# Research Papers — first batch.
+# Drives the card grid on /publications/research-papers/.
+# Each paper has a cover thumbnail at /assets/thumbnails/papers/{slug}-cover.png.
+- slug: hyperfactorization-theorem
+  title: "The Hyperfactorization Theorem"
+  role: "Hinge 1 preprint"
+  summary_short: "Unique tower-atom decomposition in ZFC and Category τ."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-hyperfactorization-theorem.pdf
+  doi: "10.5281/zenodo.19818957"
+  date: "2026-04-27"
+- slug: prime-polarity-theorem
+  title: "The Prime Polarity Theorem"
+  role: "Hinge 2 preprint"
+  summary_short: "Polarity structure on the primes inside the τ-architecture."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-prime-polarity-theorem.pdf
+  doi: "10.5281/zenodo.19819869"
+  date: "2026-04-27"
+- slug: master-constant-iota-tau
+  title: "The Master Constant ι_τ"
+  role: "Hinge 3 preprint"
+  summary_short: "Definition and role of the master constant ι_τ."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-master-constant-iota-tau.pdf
+  doi: "10.5281/zenodo.19820352"
+  date: "2026-04-27"
+- slug: split-complex-boundary-algebra
+  title: "The Split-Complex Boundary Algebra D"
+  role: "Hinge 4 preprint"
+  summary_short: "Construction of the split-complex boundary algebra D."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-split-complex-boundary-algebra.pdf
+  doi: "10.5281/zenodo.19818743"
+  date: "2026-04-27"
+- slug: tau-holomorphy-boundary-algebra
+  title: "τ-Holomorphy on the Boundary Algebra"
+  role: "Hinge 5 preprint"
+  summary_short: "τ-holomorphy as the operative condition on the boundary algebra."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-tau-holomorphy-boundary-algebra.pdf
+  doi: "10.5281/zenodo.19818852"
+  date: "2026-04-27"
+- slug: tau-topos-four-valued-internal-logic
+  title: "The τ-Topos and Its Four-Valued Internal Logic"
+  role: "Hinge 6 preprint"
+  summary_short: "The τ-topos and its associated four-valued internal logic."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-tau-topos-four-valued-internal-logic.pdf
+  doi: "10.5281/zenodo.19820194"
+  date: "2026-04-27"
+- slug: address-resolution-not-calculation
+  title: "Address Resolution, Not Calculation"
+  role: "Hinge 7 preprint"
+  summary_short: "Reframing computational practice as address resolution rather than calculation."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-address-resolution-not-calculation.pdf
+  doi: "10.5281/zenodo.19818628"
+  date: "2026-04-27"
+- slug: tau-kernel-foundational-architecture
+  title: "The τ-Kernel as Foundational Architecture"
+  role: "Hinge 8 entry preprint"
+  summary_short: "The τ-kernel positioned as foundational architecture."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-tau-kernel-foundational-architecture.pdf
+  doi: "10.5281/zenodo.19820600"
+  date: "2026-04-27"
+- slug: panta-rhei-foundational-bundle
+  title: "The Panta Rhei Foundational Bundle"
+  role: "Bundle research memo"
+  summary_short: "Bundle memo gathering the eight hinge contributions."
+  pdf_path: /assets/pdfs/research-papers/research-paper-2026-04-27-panta-rhei-foundational-bundle.pdf
+  doi: "10.5281/zenodo.19820855"
+  date: "2026-04-27"

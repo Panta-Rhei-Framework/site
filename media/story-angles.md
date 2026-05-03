@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 summary: "Five story angles for journalists, podcast hosts, and editors covering the Panta Rhei Research Program — each with a suggested headline, a 30-second elevator pitch, and a key-fact anchor that lands the angle without losing scope discipline."
 summary_short: "Five framings for journalists, with headlines, ledes, and key-fact anchors."

@@ -5,6 +5,7 @@ lane: support
 type: support_page
 support_type: credits
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 permalink: /credits/
 summary: "Third-party assets, open-source libraries, tooling, and license notes for panta-rhei.site."

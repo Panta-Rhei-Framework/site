@@ -87,6 +87,31 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden."
 construction_step_id: "CS-10"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.K0"
+        url: "/registry/object/I.K0/"
+      - title: "I.D77"
+        url: "/registry/object/I.D77/"
+      - title: "I.D80"
+        url: "/registry/object/I.D80/"
+    results:
+      - title: "Logos and the Final Boundary"
+        url: "/results/world-readout/metaphysics/logos-and-the-final-boundary/"
+      - title: "The Final Self-Enrichment"
+        url: "/results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/"
+    verify:
+      - title: "Meta-Verification Frontier"
+        url: "/verify/meta-verification-frontier/"
+      - title: "Kernel, Model & Reality"
+        url: "/program/research-agenda/kernel-model-reality/"
+      - title: "How to Verify"
+        url: "/verify/how-to-verify/"
+    publications:
+      - title: "Publications"
+        url: "/publications/"
 ---
 
 > Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden.
@@ -232,25 +257,6 @@ These are not gaps. They are the discipline.
 
 The spine ends not with a verdict but with the question that the discipline preserves intact: **what am I willing to live as true?**
 
-## Registry spine
-
-- `I.K0`
-- `I.D77`
-- `I.D80`
-
-## TauLib modules
-
-_Mapping pending._
-
-## Book locations
-
-- Metaphysics and closure-facing materials
-
-## Related Results
-
-- [Logos and the Final Boundary](/results/world-readout/metaphysics/logos-and-the-final-boundary/)
-- [The Final Self-Enrichment](/results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/)
-
 ## Verification Modes
 
 - no-externalities audit
@@ -265,16 +271,6 @@ _Mapping pending._
 ## Empirical Checks
 
 _Mapping pending._
-
-## Related Verify surfaces
-
-- [Meta-Verification Frontier](/verify/meta-verification-frontier/)
-- [Kernel, Model & Reality](/program/research-agenda/kernel-model-reality/)
-- [How to Verify](/verify/how-to-verify/)
-
-## Publication projection
-
-- [Publications](/publications/)
 
 ## Current build status
 

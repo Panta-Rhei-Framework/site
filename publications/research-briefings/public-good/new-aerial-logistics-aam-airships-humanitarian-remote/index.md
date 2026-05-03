@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-new-aerial-logistics-aam-airships-humanitarian-remote.pdf
 full_html_path: /impact/papers/new-aerial-logistics-aam-airships-humanitarian-remote/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing on how τ could enable new aerial logistics through improved low-altitude
   weather intelligence for advanced air mobility, heavy-lift airships, humanitarian corridors, and

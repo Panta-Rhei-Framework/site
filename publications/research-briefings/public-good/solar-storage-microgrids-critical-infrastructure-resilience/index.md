@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-solar-storage-microgrids-critical-infrastructure-resilience.pdf
 full_html_path: /impact/papers/solar-storage-microgrids-critical-infrastructure-resilience/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing on how τ could improve solar-plus-storage system design, microgrid
   operations, and critical-infrastructure resilience for hospitals, water systems, and community hubs.

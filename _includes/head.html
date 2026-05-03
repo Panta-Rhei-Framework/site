@@ -51,7 +51,51 @@
 
 {%- comment -%} Robots directive: honor page.robots front matter, default to full indexing {%- endcomment -%}
 {%- assign robots_directive = page.robots | default: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' -%}
-{%- assign og_image = page.og_image | default: '/assets/og-image.png' -%}
+{%- comment -%}
+  OG image resolution chain:
+    1. page.og_image (explicit override — Tier 2 hand-crafted artwork)
+    2. /assets/og-cards/<slug>.png (auto-generated PNG, when rasterized by _plugins/og_card_generator.rb)
+    3. /assets/og-cards/<slug>.svg (auto-generated SVG, written for every page)
+    4. /assets/og-image.png (legacy site-wide fallback)
+
+  The page-slug derivation must mirror PantaRhei::OgCardGenerator.slug_for:
+  drop the leading slash, drop the trailing slash, replace path separators with
+  `__`. Empty paths fall back to "index".
+{%- endcomment -%}
+{%- assign _slug = page.url -%}
+{%- if _slug == nil or _slug == "" or _slug == "/" -%}
+  {%- assign og_card_slug = 'index' -%}
+{%- else -%}
+  {%- assign _slug = _slug | remove_first: '/' -%}
+  {%- assign _slug_size = _slug | size | minus: 1 -%}
+  {%- assign _slug_last = _slug | slice: _slug_size, 1 -%}
+  {%- if _slug_last == '/' -%}
+    {%- assign _slug = _slug | slice: 0, _slug_size -%}
+  {%- endif -%}
+  {%- assign og_card_slug = _slug | replace: '/', '__' -%}
+{%- endif -%}
+{%- assign og_card_png = '/assets/og-cards/' | append: og_card_slug | append: '.png' -%}
+{%- assign og_card_svg = '/assets/og-cards/' | append: og_card_slug | append: '.svg' -%}
+{%- comment -%}
+  Bibliography entries (~8.4k) skip rasterization to keep build time bounded and
+  serve SVG directly — modern OG consumers (Twitter/X, Discord, WhatsApp) render
+  SVG. Pages can override via `og_card_rasterize: true|false` in front matter.
+  Keep this branch in sync with PantaRhei::OgCardGenerator#rasterize? (Ruby).
+{%- endcomment -%}
+{%- if page.og_card_rasterize == false -%}{%- assign og_card_has_png = false -%}
+{%- elsif page.og_card_rasterize == true -%}{%- assign og_card_has_png = true -%}
+{%- elsif page.collection == 'bibliography' -%}{%- assign og_card_has_png = false -%}
+{%- else -%}{%- assign og_card_has_png = true -%}
+{%- endif -%}
+{%- if page.og_image and page.og_image != '' -%}
+  {%- assign og_image = page.og_image -%}
+{%- elsif page.og_card == false -%}
+  {%- assign og_image = '/assets/og-image.png' -%}
+{%- elsif og_card_has_png -%}
+  {%- assign og_image = og_card_png -%}
+{%- else -%}
+  {%- assign og_image = og_card_svg -%}
+{%- endif -%}
 {%- assign twitter_image = page.twitter_image | default: og_image -%}
 {%- assign og_image_alt = page.og_image_alt | default: site.title -%}
 

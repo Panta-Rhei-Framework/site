@@ -1,38 +1,48 @@
-# panta-rhei.site -- Jekyll source
+# panta-rhei.site — Jekyll source
 
-This repository contains the Jekyll source for **[panta-rhei.site](https://panta-rhei.site)**, the public research observatory of the **Panta Rhei Research Program**.
+Jekyll source for **[panta-rhei.site](https://panta-rhei.site)**, the public research observatory of the **Panta Rhei Research Program**.
 
 The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality.
 
-The website materializes the public research spine:
+## 🌐 What This Is
 
-- **Discover** -- first-contact orientation.
-- **Program** -- identity, doctrine, scope, status, and scrutiny posture.
-- **Agenda** -- obligations: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
-- **Corpus** -- construction body: Construction Spine, Registry, TauLib projection, books, and dependency graph.
-- **Results** -- consequence layer: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
-- **Verify** -- inspection routes: formalization, construction-step verification, bridge checks, predictions, falsification, release manifest, and assessment protocols.
-- **Impact** -- conditional public relevance if the work survives inspection.
-- **Engage** -- structured scrutiny, correction, contribution, communication, and participation without requiring endorsement.
+This repository contains the Jekyll source that builds the public observatory at `panta-rhei.site`. The website materializes the public research spine as eight inspection lanes:
+
+- **Discover** — first-contact orientation.
+- **Program** — identity, doctrine, scope, status, and scrutiny posture.
+- **Agenda** — obligations: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
+- **Corpus** — construction body: Construction Spine, Registry, TauLib projection, books, and dependency graph.
+- **Results** — consequence layer: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
+- **Verify** — inspection routes: formalization, construction-step verification, bridge checks, predictions, falsification, release manifest, and assessment protocols.
+- **Impact** — conditional public relevance if the work survives inspection.
+- **Engage** — structured scrutiny, correction, contribution, communication, and participation without requiring endorsement.
 
 Publications are exposed as the stable artifact and release layer.
 
-## What's in the program
+For the technical blueprint behind this repository's role as the public observatory source, see **Building a Public Research Observatory for High-Scope Open Research**: [`/publications/white-papers/building-a-public-research-observatory/`](https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/).
 
-| Surface | Repo | Purpose |
+## 🎯 Key Links
+
+- 🌐 **Website:** [panta-rhei.site](https://panta-rhei.site)
+- 📖 **Publications:** [`/publications/`](https://panta-rhei.site/publications/)
+- 🔬 **TauLib formalization:** [`/verify/`](https://panta-rhei.site/verify/) · [taulib.site](https://taulib.site)
+- 💬 **Public discussions:** [Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions)
+- 🪞 **Release Manifest:** [`/verify/release-manifest/`](https://panta-rhei.site/verify/release-manifest/)
+- 📜 **Cite:** [`/cite/`](https://panta-rhei.site/cite/)
+
+## 🧩 What's in the Program
+
+| Surface | Repo | Role |
 |---|---|---|
-| **Public website** | [`Panta-Rhei-Research/site`](https://github.com/Panta-Rhei-Research/site) (this repo) | Jekyll source for `panta-rhei.site` — the program hub |
-| **Publications** | [`Panta-Rhei-Research/publications`](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artifacts and source files |
-| **TauLib** | [`Panta-Rhei-Research/taulib`](https://github.com/Panta-Rhei-Research/taulib) | Lean 4 formalization source. Current metrics and trusted-base details are published in the [Release Manifest](https://panta-rhei.site/verify/release-manifest/); dedicated Lean documentation is hosted at [`taulib.site`](https://taulib.site). |
-| **Research** | [`Panta-Rhei-Research/research`](https://github.com/Panta-Rhei-Research/research) | Public workspace for open notebooks, scripts, and supplementary analyses |
-| **Community** | [`Panta-Rhei-Research/community`](https://github.com/Panta-Rhei-Research/community) | Public discussion and onboarding surface |
+| 🌐 **Public website** | [`Panta-Rhei-Research/site`](https://github.com/Panta-Rhei-Research/site) (this repo) | Jekyll source for `panta-rhei.site` — the program hub |
+| 📖 **Publications** | [`Panta-Rhei-Research/publications`](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artifacts and source files |
+| 🔬 **TauLib** | [`Panta-Rhei-Research/taulib`](https://github.com/Panta-Rhei-Research/taulib) | Lean 4 formalization source. Current metrics and trusted-base details are published in the [Release Manifest](https://panta-rhei.site/verify/release-manifest/); dedicated Lean documentation is hosted at [`taulib.site`](https://taulib.site). |
+| 🧩 **Research** | [`Panta-Rhei-Research/research`](https://github.com/Panta-Rhei-Research/research) | Public workspace for open notebooks, scripts, and supplementary analyses |
+| 💬 **Community** | [`Panta-Rhei-Research/community`](https://github.com/Panta-Rhei-Research/community) | Public discussion and onboarding surface |
 
 The program is published as a canonical monograph series with a free **Numerical Physics Ledger** companion and manifest-pinned Corpus, Results, and Verify surfaces. Current release-changing numbers are generated from the Atlas release manifest below rather than hand-owned in README prose.
 
-For the technical blueprint behind this repository's role as the public observatory source, see **Building a Public Research Observatory for High-Scope Open Research**:
-https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/
-
-## Research content note
+## 📐 Research Content Note
 
 The site presents the program's current public corpus, including the Category τ kernel, Construction Spine, Registry, TauLib projection, Results, Verify surfaces, Publications, and ongoing Research Notes.
 
@@ -40,7 +50,7 @@ Repository README prose should not be treated as the authority for release-chang
 
 Do not hand-update headline metrics in this README except from the Release Manifest generation step.
 
-## Current Release Metrics
+## 🚀 Current Release Metrics
 
 <!-- release-metrics:start -->
 <!-- Generated by atlas/scripts/render_downstream_metric_blocks.py. Do not edit manually. -->
@@ -55,7 +65,7 @@ Do not hand-update headline metrics in this README except from the Release Manif
 | Total objects | 4,547 registry objects |
 <!-- release-metrics:end -->
 
-## Building locally
+## ⚙️ Building Locally
 
 ```bash
 bundle install
@@ -65,12 +75,9 @@ bundle exec jekyll serve
 
 Requires Ruby 3.3+ and Bundler. The full deploy runs on GitHub Pages via `.github/workflows/jekyll.yml`.
 
-## Edge headers
+### Edge headers
 
-GitHub Pages does not interpret repository `_headers` files. The `_headers`
-file remains the portable declaration for Cloudflare Pages / Netlify-style
-hosts, while the current GitHub Pages + Cloudflare proxy setup uses the
-Cloudflare Worker in `workers/site-edge-headers.js`.
+GitHub Pages does not interpret repository `_headers` files. The `_headers` file remains the portable declaration for Cloudflare Pages / Netlify-style hosts, while the current GitHub Pages + Cloudflare proxy setup uses the Cloudflare Worker in `workers/site-edge-headers.js`.
 
 ```bash
 npm run headers:test
@@ -85,22 +92,22 @@ Deploy the Worker with Wrangler from the repository root:
 npm run headers:deploy
 ```
 
-## Content license
+## 🪞 Verification Note
 
-All original site content — prose, diagrams, mathematics, registry objects, and results — is released under [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/). TauLib is separately licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Website source, release manifests, generated artifacts, and repository integrity checks make parts of the program inspectable. They do not by themselves establish empirical truth, bridge adequacy, semantic correspondence, peer review, or external scientific acceptance.
 
-See [`/credits/`](https://panta-rhei.site/credits/) for the full attribution list.
+For current formalization metrics, trusted-base details, and verification boundaries, see the [Release Manifest](https://panta-rhei.site/verify/release-manifest/).
 
-## Corrections, reviews, collaboration
+## 💬 Engagement, Correction, Review
 
-- **Public questions, critique, and review offers:** [GitHub Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions)
-- **Concrete defects:** open an Issue in the relevant public repo, for example [site issues](https://github.com/Panta-Rhei-Research/site/issues), [TauLib issues](https://github.com/Panta-Rhei-Research/taulib/issues), or [publications issues](https://github.com/Panta-Rhei-Research/publications/issues).
-- **Concrete changes:** use Pull Requests against the relevant public repo.
-- **Private, institutional, media, or sensitive contact:** use the typed routes on [`/engage/contact/`](https://panta-rhei.site/engage/contact/).
-- **Specialist review routes:** [`/verify/assessment-protocols/`](https://panta-rhei.site/verify/assessment-protocols/) and [`/verify/how-to-audit/`](https://panta-rhei.site/verify/how-to-audit/)
-- **Legal:** [`/impressum/`](https://panta-rhei.site/impressum/) · [`/datenschutz/`](https://panta-rhei.site/datenschutz/)
+- 💬 **Public questions, critique, and review offers:** [GitHub Organization Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions)
+- 🐛 **Concrete defects:** open an Issue in the relevant public repo — for example [site issues](https://github.com/Panta-Rhei-Research/site/issues), [TauLib issues](https://github.com/Panta-Rhei-Research/taulib/issues), or [publications issues](https://github.com/Panta-Rhei-Research/publications/issues).
+- 🔁 **Concrete changes:** open a Pull Request against the relevant public repo.
+- 📬 **Private, institutional, media, or sensitive contact:** use the typed routes on [`/engage/contact/`](https://panta-rhei.site/engage/contact/).
+- 🪞 **Specialist review routes:** [`/verify/assessment-protocols/`](https://panta-rhei.site/verify/assessment-protocols/) and [`/verify/how-to-audit/`](https://panta-rhei.site/verify/how-to-audit/).
+- 📜 **Legal:** [`/impressum/`](https://panta-rhei.site/impressum/) · [`/datenschutz/`](https://panta-rhei.site/datenschutz/).
 
-## Engagement without endorsement
+## 📐 Engagement Without Endorsement
 
 We do not ask first for agreement.
 
@@ -108,13 +115,12 @@ We ask for structured open-research engagement: careful reading, public question
 
 Participation does not imply endorsement of the framework. A reader may ask a question without accepting the theory. A reviewer may challenge a result without joining the program. A contributor may improve documentation, metadata, tooling, packaging, or formalization without endorsing any conclusion.
 
-## Verification note
+## 📜 License & Cite
 
-Website source, release manifests, generated artifacts, and repository integrity checks make parts of the program inspectable. They do not by themselves establish empirical truth, bridge adequacy, semantic correspondence, peer review, or external scientific acceptance.
+All original site content — prose, diagrams, mathematics, registry objects, and results — is released under [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/). TauLib is separately licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-For current formalization metrics, trusted-base details, and verification boundaries, see the Release Manifest:
-https://panta-rhei.site/verify/release-manifest/
+See [`/credits/`](https://panta-rhei.site/credits/) for the full attribution list and [`/cite/`](https://panta-rhei.site/cite/) for canonical citations, DOIs, and ORCID IDs.
 
-## How to cite
+---
 
-See [`/cite/`](https://panta-rhei.site/cite/) for canonical citations, DOIs, and ORCID IDs.
+Panta Rhei — Everything Flows.

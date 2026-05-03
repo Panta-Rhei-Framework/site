@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media
 status: canonical
+last_updated: 2026-05-31
 updated: "May 2026"
 summary_short: "A newsroom-length brief for the first safe story: inspection architecture before belief."
 right_rail:

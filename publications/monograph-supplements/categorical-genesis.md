@@ -14,6 +14,7 @@ claim_role: supplemental_exposition
 canonical_relation: "Book VII supplement / genesis appendix"
 domain: "Metaphysics"
 status: "Canonical"
+last_updated: 2026-04-30
 updated: "April 2026"
 summary_short: "A structural exegesis of Genesis 1–3 using the formal apparatus of Category τ. Companion to Book VII (Categorical Metaphysics), Part XI. Free PDF download."
 right_rail:

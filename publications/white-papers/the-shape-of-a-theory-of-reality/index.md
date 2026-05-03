@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Draft white paper / conceptual briefing"
+last_updated: 2026-05-31
 updated: "May 2026"
 title: "The Shape of a Theory of Reality"
 subtitle: "Why a serious theory of reality must earn its language, build its answer, disclose its limits, and state its conditional public relevance"

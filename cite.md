@@ -5,6 +5,7 @@ lane: support
 type: support_page
 support_type: cite
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 permalink: /cite/
 summary: "Citation guidance for the Panta Rhei Research Program, the public website, the books, TauLib, Research Notes, and individual public artifacts."

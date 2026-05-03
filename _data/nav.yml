@@ -593,16 +593,27 @@ lane_nav:
             url: "/media/social-media-kit/"
           - title: "Engage"
             url: "/engage/"
-      - title: "Operations & Legal"
+      - title: "External"
         links:
-          - title: "Changelog"
-            url: "/changelog/"
-          - title: "Credits"
-            url: "/credits/"
-          - title: "Legal"
+          - title: "GitHub Organization"
+            url: "https://github.com/Panta-Rhei-Research"
+            external: true
+          - title: "TauLib Source"
+            url: "https://github.com/Panta-Rhei-Research/taulib"
+            external: true
+          - title: "TauLib Docs"
+            url: "https://taulib.site"
+            external: true
+      - title: "Legal"
+        links:
+          - title: "Impressum"
             url: "/impressum/"
           - title: "Datenschutz"
             url: "/datenschutz/"
+          - title: "Credits"
+            url: "/credits/"
+          - title: "Changelog"
+            url: "/changelog/"
 
 results_nav:
   - title: "Overview"

@@ -89,6 +89,31 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Builds internally meaningful physical semantics before empirical calibration."
 construction_step_id: "CS-05"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.D34"
+        url: "/registry/object/I.D34/"
+      - title: "I.D95"
+        url: "/registry/object/I.D95/"
+      - title: "I.D99"
+        url: "/registry/object/I.D99/"
+    results:
+      - title: "Physics World Readout"
+        url: "/results/world-readout/physics/"
+      - title: "The Fabric of Physical Reality in Tau"
+        url: "/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/"
+    verify:
+      - title: "Domain Verification: Physics"
+        url: "/verify/domain-verification/physics/"
+      - title: "Predictions and Falsification"
+        url: "/verify/predictions-and-falsification/"
+      - title: "Verification Framework"
+        url: "/verify/verification-framework/"
+    publications:
+      - title: "Physics-facing publications"
+        url: "/publications/"
 ---
 
 > Builds internally meaningful physical semantics before empirical calibration.
@@ -241,25 +266,6 @@ These are explicit handoffs, not concealed gaps.
 
 **This is an internal construction claim, not external acceptance.** Step 5 develops τ-physics as a closed-form internal grammar; reviewer scrutiny is invited via Books IV–V manuscripts, the Joint Core's α derivation, the gravitational closing identity, and the No Knobs Ledger from CS-04. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
 
-## Registry spine
-
-- `I.D34`
-- `I.D95`
-- `I.D99`
-
-## TauLib modules
-
-- `TauLib.BookI.Measure`
-
-## Book locations
-
-- Physics-facing books and world-readout materials
-
-## Related Results
-
-- [Physics World Readout](/results/world-readout/physics/)
-- [The Fabric of Physical Reality in Tau](/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/)
-
 ## Verification Modes
 
 - internal law-structure checks
@@ -273,16 +279,6 @@ These are explicit handoffs, not concealed gaps.
 ## Empirical Checks
 
 _Mapping pending._
-
-## Related Verify surfaces
-
-- [Domain Verification: Physics](/verify/domain-verification/physics/)
-- [Predictions and Falsification](/verify/predictions-and-falsification/)
-- [Verification Framework](/verify/verification-framework/)
-
-## Publication projection
-
-- [Physics-facing publications](/publications/)
 
 ## Current build status
 

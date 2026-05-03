@@ -94,6 +94,35 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths."
 construction_step_id: "CS-06"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.D34"
+        url: "/registry/object/I.D34/"
+      - title: "I.D95"
+        url: "/registry/object/I.D95/"
+      - title: "I.D99"
+        url: "/registry/object/I.D99/"
+    results:
+      - title: "Predictions"
+        url: "/results/predictions/browse/"
+      - title: "Falsification Paths"
+        url: "/results/falsifications/browse/"
+      - title: "From Ratio to Measurement"
+        url: "/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/"
+    verify:
+      - title: "Predictions and Falsification"
+        url: "/verify/predictions-and-falsification/"
+      - title: "Predictions"
+        url: "/verify/predictions-and-falsification/predictions/"
+      - title: "Falsification Paths"
+        url: "/verify/predictions-and-falsification/falsification-paths/"
+      - title: "Falsification Packs"
+        url: "/verify/predictions-and-falsification/falsification-packs/"
+    publications:
+      - title: "Publications"
+        url: "/publications/"
 ---
 
 > Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths.
@@ -210,26 +239,6 @@ These are explicit handoffs. The empirical-pending status of falsification claim
 
 **This is an internal construction claim, not external acceptance.** Step 6 builds the bridge layer between τ-internal physics and measurement; reviewer scrutiny is invited via the Numerical Physics Ledger, the Falsification Pack, the prediction-timing surface, and the registry. The construction is claimed to be admissible relative to the required answer-shape; empirical adequacy is a separate accountability question, owned by the experiments named in the falsification ledger.
 
-## Registry spine
-
-- `I.D34`
-- `I.D95`
-- `I.D99`
-
-## TauLib modules
-
-_Mapping pending._
-
-## Book locations
-
-- Physics ledger and falsification-facing materials
-
-## Related Results
-
-- [Predictions](/results/predictions/browse/)
-- [Falsification Paths](/results/falsifications/browse/)
-- [From Ratio to Measurement](/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/)
-
 ## Verification Modes
 
 - bridge verification
@@ -244,17 +253,6 @@ _Mapping pending._
 ## Empirical Checks
 
 - Check numerical predictions against current measurements and named falsification targets.
-
-## Related Verify surfaces
-
-- [Predictions and Falsification](/verify/predictions-and-falsification/)
-- [Predictions](/verify/predictions-and-falsification/predictions/)
-- [Falsification Paths](/verify/predictions-and-falsification/falsification-paths/)
-- [Falsification Packs](/verify/predictions-and-falsification/falsification-packs/)
-
-## Publication projection
-
-- [Publications](/publications/)
 
 ## Current build status
 

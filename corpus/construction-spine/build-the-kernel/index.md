@@ -161,6 +161,97 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Builds the full internal kernel machine: five generators, one primitive progression operator, K0-K6, multiplicative and exponential address structure, boundary algebra, τ-holomorphy, and internal truth machinery."
 construction_step_id: "CS-01"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.K0"
+        url: "/registry/object/I.K0/"
+      - title: "I.D01"
+        url: "/registry/object/I.D01/"
+      - title: "I.D02"
+        url: "/registry/object/I.D02/"
+      - title: "I.K1"
+        url: "/registry/object/I.K1/"
+      - title: "I.K2"
+        url: "/registry/object/I.K2/"
+      - title: "I.K3"
+        url: "/registry/object/I.K3/"
+      - title: "I.K4"
+        url: "/registry/object/I.K4/"
+      - title: "I.K5"
+        url: "/registry/object/I.K5/"
+      - title: "I.K6"
+        url: "/registry/object/I.K6/"
+      - title: "I.P01"
+        url: "/registry/object/I.P01/"
+      - title: "I.T04"
+        url: "/registry/object/I.T04/"
+      - title: "I.T05"
+        url: "/registry/object/I.T05/"
+      - title: "I.T10"
+        url: "/registry/object/I.T10/"
+      - title: "I.D20"
+        url: "/registry/object/I.D20/"
+      - title: "I.D21"
+        url: "/registry/object/I.D21/"
+      - title: "I.D42"
+        url: "/registry/object/I.D42/"
+      - title: "I.D43"
+        url: "/registry/object/I.D43/"
+      - title: "I.D47"
+        url: "/registry/object/I.D47/"
+      - title: "I.D57"
+        url: "/registry/object/I.D57/"
+      - title: "I.T25"
+        url: "/registry/object/I.T25/"
+      - title: "I.P27"
+        url: "/registry/object/I.P27/"
+    taulib:
+      - title: "TauLib.BookI.Kernel.Signature"
+        url: "/corpus/taulib/docs/book-i-kernel-signature/"
+      - title: "TauLib.BookI.Kernel.Axioms"
+        url: "/corpus/taulib/docs/book-i-kernel-axioms/"
+      - title: "TauLib.BookI.Kernel.Diagonal"
+        url: "/corpus/taulib/docs/book-i-kernel-diagonal/"
+      - title: "TauLib.BookI.Boundary.SplitComplex"
+        url: "/corpus/taulib/docs/book-i-boundary-split-complex/"
+      - title: "TauLib.BookI.Holomorphy.TauHolomorphic"
+        url: "/corpus/taulib/docs/book-i-holomorphy-tau-holomorphic/"
+      - title: "TauLib.BookI.Topos.EarnedTopos"
+        url: "/corpus/taulib/docs/book-i-topos-earned-topos/"
+    monograph:
+      - title: "Book I"
+        url: "/publications/books/book-i/"
+      - title: "Book I Registry Dashboard"
+        url: "/registry/dashboards/book-i/"
+    results:
+      - title: "Tau Kernel Coherence"
+        url: "/results/problem/tau-kernel-coherence/"
+    verify:
+      - title: "Formal Verification Stack"
+        url: "/verify/formal-verification-stack/"
+      - title: "TauLib"
+        url: "/verify/taulib/"
+      - title: "TCB Disclosure"
+        url: "/verify/tcb/"
+      - title: "Mathematician Audit Route"
+        url: "/verify/how-to-audit/mathematician/"
+    publications:
+      - title: "The Panta Rhei Foundational Bundle"
+        url: "/publications/research-papers/panta-rhei-foundational-bundle/"
+      - title: "The τ-Kernel as Foundational Architecture"
+        url: "/publications/research-papers/tau-kernel-foundational-architecture/"
+      - title: "The Hyperfactorization Theorem"
+        url: "/publications/research-papers/hyperfactorization-theorem/"
+      - title: "The Prime Polarity Theorem"
+        url: "/publications/research-papers/prime-polarity-theorem/"
+      - title: "The Split-Complex Boundary Algebra D"
+        url: "/publications/research-papers/split-complex-boundary-algebra/"
+      - title: "τ-Holomorphy on the Boundary Algebra"
+        url: "/publications/research-papers/tau-holomorphy-boundary-algebra/"
+      - title: "The τ-Topos and Its Four-Valued Internal Logic"
+        url: "/publications/research-papers/tau-topos-four-valued-internal-logic/"
 ---
 
 > Builds the full internal kernel machine: five generators, one primitive progression operator, K0-K6, multiplicative and exponential address structure, boundary algebra, τ-holomorphy, and internal truth machinery.
@@ -413,48 +504,6 @@ Recommended first pass:
 - Does τ-holomorphy define a real transformation grammar rather than a relabeling of known split-complex analysis?
 - Does the four-valued internal logic solve a structural semantic problem, or only name it?
 
-## Registry spine
-
-- `I.K0`
-- `I.D01`
-- `I.D02`
-- `I.K1`
-- `I.K2`
-- `I.K3`
-- `I.K4`
-- `I.K5`
-- `I.K6`
-- `I.P01`
-- `I.T04`
-- `I.T05`
-- `I.T10`
-- `I.D20`
-- `I.D21`
-- `I.D42`
-- `I.D43`
-- `I.D47`
-- `I.D57`
-- `I.T25`
-- `I.P27`
-
-## TauLib modules
-
-- [TauLib.BookI.Kernel.Signature](/corpus/taulib/docs/book-i-kernel-signature/)
-- [TauLib.BookI.Kernel.Axioms](/corpus/taulib/docs/book-i-kernel-axioms/)
-- [TauLib.BookI.Kernel.Diagonal](/corpus/taulib/docs/book-i-kernel-diagonal/)
-- [TauLib.BookI.Boundary.SplitComplex](/corpus/taulib/docs/book-i-boundary-split-complex/)
-- [TauLib.BookI.Holomorphy.TauHolomorphic](/corpus/taulib/docs/book-i-holomorphy-tau-holomorphic/)
-- [TauLib.BookI.Topos.EarnedTopos](/corpus/taulib/docs/book-i-topos-earned-topos/)
-
-## Book locations
-
-- [Book I](/publications/books/book-i/)
-- [Book I Registry Dashboard](/registry/dashboards/book-i/)
-
-## Related Results
-
-- [Tau Kernel Coherence](/results/problem/tau-kernel-coherence/)
-
 ## Verification Modes
 
 - formal proof checking
@@ -470,23 +519,6 @@ Not applicable at this step. Later bridge claims depend on the kernel but are ve
 ## Empirical Checks
 
 Not applicable at this step. Empirical accountability begins after internal physical grammar and measurement bridges are constructed.
-
-## Related Verify surfaces
-
-- [Formal Verification Stack](/verify/formal-verification-stack/)
-- [TauLib](/verify/taulib/)
-- [TCB Disclosure](/verify/tcb/)
-- [Mathematician Audit Route](/verify/how-to-audit/mathematician/)
-
-## Publication projection
-
-- [The Panta Rhei Foundational Bundle](/publications/research-papers/panta-rhei-foundational-bundle/)
-- [The τ-Kernel as Foundational Architecture](/publications/research-papers/tau-kernel-foundational-architecture/)
-- [The Hyperfactorization Theorem](/publications/research-papers/hyperfactorization-theorem/)
-- [The Prime Polarity Theorem](/publications/research-papers/prime-polarity-theorem/)
-- [The Split-Complex Boundary Algebra D](/publications/research-papers/split-complex-boundary-algebra/)
-- [τ-Holomorphy on the Boundary Algebra](/publications/research-papers/tau-holomorphy-boundary-algebra/)
-- [The τ-Topos and Its Four-Valued Internal Logic](/publications/research-papers/tau-topos-four-valued-internal-logic/)
 
 ## Current build status
 

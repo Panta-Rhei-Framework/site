@@ -85,6 +85,24 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity."
 construction_step_id: "CS-08"
+right_rail:
+  actions: true
+  metadata_links:
+    results:
+      - title: "Metaphysics World Readout"
+        url: "/results/world-readout/metaphysics/"
+      - title: "Mind, Consciousness, and the Self-Model"
+        url: "/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/"
+    verify:
+      - title: "Domain Verification: Metaphysics"
+        url: "/verify/domain-verification/metaphysics/"
+      - title: "Meta-Verification Frontier"
+        url: "/verify/meta-verification-frontier/"
+      - title: "Answer-Shape Requirements"
+        url: "/program/research-agenda/kernel-model-reality/answer-shape-requirements/"
+    publications:
+      - title: "Publications"
+        url: "/publications/"
 ---
 
 > Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity.
@@ -235,23 +253,6 @@ Step 8 builds reflective structure as a τ-categorical layer at E<sub>3</sub>. I
 
 **This is an internal construction claim, not external acceptance.** Step 8 builds reflective structure under τ-discipline; reviewer scrutiny is invited via Book VII's Saturation proof, the four-register architecture, and the mind-as-topos formalization.
 
-## Registry spine
-
-_Mapping pending._
-
-## TauLib modules
-
-_Mapping pending._
-
-## Book locations
-
-- Metaphysics and reflective-structure materials
-
-## Related Results
-
-- [Metaphysics World Readout](/results/world-readout/metaphysics/)
-- [Mind, Consciousness, and the Self-Model](/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/)
-
 ## Verification Modes
 
 - answer-shape checks
@@ -265,16 +266,6 @@ _Mapping pending._
 ## Empirical Checks
 
 _Mapping pending._
-
-## Related Verify surfaces
-
-- [Domain Verification: Metaphysics](/verify/domain-verification/metaphysics/)
-- [Meta-Verification Frontier](/verify/meta-verification-frontier/)
-- [Answer-Shape Requirements](/program/research-agenda/kernel-model-reality/answer-shape-requirements/)
-
-## Publication projection
-
-- [Publications](/publications/)
 
 ## Current build status
 

@@ -18,6 +18,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation.pdf
 full_html_path: /impact/papers/chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing showing how a law-faithful tau causal integration substrate could
   unlock major public-good gains in toxic-release detection, cross-medium plume intelligence, lead/PFAS/mercury

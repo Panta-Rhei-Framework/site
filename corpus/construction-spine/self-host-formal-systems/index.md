@@ -88,6 +88,34 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects."
 construction_step_id: "CS-09"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.D77"
+        url: "/registry/object/I.D77/"
+      - title: "I.D80"
+        url: "/registry/object/I.D80/"
+      - title: "I.D82"
+        url: "/registry/object/I.D82/"
+    taulib:
+      - title: "TauLib.BookI.Kernel.Signature"
+        url: "/corpus/taulib/docs/book-i-kernel-signature/"
+    results:
+      - title: "Pattern, Language, and Proof"
+        url: "/results/world-readout/metaphysics/pattern-language-and-proof/"
+      - title: "Translation Functor Tau-ZFC"
+        url: "/results/problem/translation-functor-tau-zfc/"
+    verify:
+      - title: "Formal Verification Stack"
+        url: "/verify/formal-verification-stack/"
+      - title: "Meta-Verification Frontier"
+        url: "/verify/meta-verification-frontier/"
+      - title: "Verification Framework"
+        url: "/verify/verification-framework/"
+    publications:
+      - title: "Publications"
+        url: "/publications/"
 ---
 
 > Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects.
@@ -197,25 +225,6 @@ Step 9 builds self-hosting under τ-discipline. Its admissibility is evaluated a
 
 **This is an internal construction claim, not external acceptance.** Step 9 builds self-hosting under τ-discipline; reviewer scrutiny is invited via the Proof-Theoretic Mirror, the Logos sector apparatus, and the TauLib representation of formal systems.
 
-## Registry spine
-
-- `I.D77`
-- `I.D80`
-- `I.D82`
-
-## TauLib modules
-
-- `TauLib.BookI.Kernel.Signature`
-
-## Book locations
-
-- Self-hosting and meta-language materials
-
-## Related Results
-
-- [Pattern, Language, and Proof](/results/world-readout/metaphysics/pattern-language-and-proof/)
-- [Translation Functor Tau-ZFC](/results/problem/translation-functor-tau-zfc/)
-
 ## Verification Modes
 
 - `meta-verification`
@@ -229,16 +238,6 @@ Step 9 builds self-hosting under τ-discipline. Its admissibility is evaluated a
 ## Empirical Checks
 
 _Mapping pending._
-
-## Related Verify surfaces
-
-- [Formal Verification Stack](/verify/formal-verification-stack/)
-- [Meta-Verification Frontier](/verify/meta-verification-frontier/)
-- [Verification Framework](/verify/verification-framework/)
-
-## Publication projection
-
-- [Publications](/publications/)
 
 ## Current build status
 

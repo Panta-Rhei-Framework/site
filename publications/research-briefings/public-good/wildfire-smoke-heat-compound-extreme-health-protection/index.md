@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-wildfire-smoke-heat-compound-extreme-health-protection.pdf
 full_html_path: /impact/papers/wildfire-smoke-heat-compound-extreme-health-protection/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing on how τ could improve wildfire prediction, smoke-dispersion forecasting,
   heat-event warning, and compound-extreme health protection.
