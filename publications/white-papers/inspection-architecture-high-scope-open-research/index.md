@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Draft white paper / technical briefing"
+last_updated: 2026-05-31
 updated: "May 2026"
 title: "Inspection Architecture for High-Scope Open Research"
 subtitle: "A practical blueprint for publishing ambitious independent research before asking for belief"

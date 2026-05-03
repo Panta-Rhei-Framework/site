@@ -5,6 +5,7 @@ lane: support
 type: support_page
 support_type: legal
 status: canonical
+last_updated: 2026-04-30
 updated: "April 2026"
 lang: de
 permalink: /impressum/

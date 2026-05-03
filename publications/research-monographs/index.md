@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Canonical"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "Research Monographs"
 permalink: "/publications/research-monographs/"

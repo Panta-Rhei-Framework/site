@@ -85,6 +85,31 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Identifies where physics can live inside the kernel before empirical physics is claimed."
 construction_step_id: "CS-04"
+right_rail:
+  actions: true
+  metadata_links:
+    registry:
+      - title: "I.P28"
+        url: "/registry/object/I.P28/"
+      - title: "I.D80"
+        url: "/registry/object/I.D80/"
+      - title: "I.D82"
+        url: "/registry/object/I.D82/"
+    results:
+      - title: "How Physical Things First Appear"
+        url: "/results/world-readout/physics/how-physical-things-first-appear/"
+      - title: "Physical Reality as a Semantic Reading"
+        url: "/results/problem/physical-reality-as-a-semantic-reading-of-e1/"
+    verify:
+      - title: "Domain Verification: Physics"
+        url: "/verify/domain-verification/physics/"
+      - title: "Verification Framework"
+        url: "/verify/verification-framework/"
+      - title: "How to Verify"
+        url: "/verify/how-to-verify/"
+    publications:
+      - title: "Physics-facing publications"
+        url: "/publications/"
 ---
 
 > Identifies where physics can live inside the kernel before empirical physics is claimed.
@@ -227,25 +252,6 @@ These are explicit handoffs, not concealed gaps.
 
 **This is an internal construction claim, not external acceptance.** Step 4 derives the physical carrier under τ-discipline; reviewer scrutiny is invited via Book III's full dependency chain, the No Knobs Ledger, the registry, and the TauLib formalization.
 
-## Registry spine
-
-- `I.P28`
-- `I.D80`
-- `I.D82`
-
-## TauLib modules
-
-- `TauLib.BookI.Category`
-
-## Book locations
-
-- Book II and physics-facing construction materials
-
-## Related Results
-
-- [How Physical Things First Appear](/results/world-readout/physics/how-physical-things-first-appear/)
-- [Physical Reality as a Semantic Reading](/results/problem/physical-reality-as-a-semantic-reading-of-e1/)
-
 ## Verification Modes
 
 - carrier identification
@@ -259,16 +265,6 @@ These are explicit handoffs, not concealed gaps.
 ## Empirical Checks
 
 _Mapping pending._
-
-## Related Verify surfaces
-
-- [Domain Verification: Physics](/verify/domain-verification/physics/)
-- [Verification Framework](/verify/verification-framework/)
-- [How to Verify](/verify/how-to-verify/)
-
-## Publication projection
-
-- [Physics-facing publications](/publications/)
 
 ## Current build status
 

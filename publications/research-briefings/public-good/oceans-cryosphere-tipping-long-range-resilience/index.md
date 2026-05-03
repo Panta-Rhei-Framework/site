@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-oceans-cryosphere-tipping-long-range-resilience.pdf
 full_html_path: /impact/papers/oceans-cryosphere-tipping-long-range-resilience/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing on how τ could improve understanding of ocean systems, cryosphere
   dynamics, tipping elements, and long-range climate resilience planning.

@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-pest-disease-livestock-stress-early-warning.pdf
 full_html_path: /impact/papers/pest-disease-livestock-stress-early-warning/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing showing how a law-faithful tau weather-pathogen-vector-host twin could
   sharpen plant-health, animal-disease, and livestock heat-stress early warning across the full agricultural

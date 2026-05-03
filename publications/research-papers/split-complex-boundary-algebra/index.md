@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Published"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "The Split-Complex Boundary Algebra D"
 subtitle: "Canonical uniqueness, countable profinite construction, and the four-atom generator dictionary"

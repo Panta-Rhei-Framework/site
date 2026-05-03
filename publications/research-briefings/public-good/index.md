@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Canonical"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "Public-Good Briefings"
 permalink: "/publications/research-briefings/public-good/"
@@ -80,16 +81,26 @@ If any upstream link weakens, the public-good claim weakens with it.
 {% assign briefing_count = portfolio_briefings | size %}
 <section class="briefing-portfolio-group" aria-labelledby="briefings-{{ portfolio.slug }}">
   <h3 id="briefings-{{ portfolio.slug }}"><span class="impact-portfolio-pill" style="{% include impact-portfolio-style.html portfolio=portfolio %}">{% include icon.html name=portfolio.icon class="impact-portfolio-icon" label=portfolio.icon_alt %}<span>{{ portfolio.title }}</span></span> — {{ briefing_count }} {% if briefing_count == 1 %}briefing{% else %}briefings{% endif %}</h3>
-  <ul class="briefing-list">
+  <ul class="pub-card-grid">
   {% for briefing in portfolio_briefings %}
   {% assign release = site.data.impact.public_good_dossier_release[briefing.slug] %}
+  {% assign cover = "/assets/thumbnails/briefings/" | append: briefing.slug | append: "-cover.png" %}
     <li>
-      <article class="briefing-card">
-        <h4><a href="{{ briefing.landing_url | relative_url }}">{{ briefing.title }}</a></h4>
-        <p>{{ briefing.summary_short }}</p>
-        {% if release %}
-        <p class="briefing-release-row"><span class="chip chip-small">PDF available</span><span>{{ release.release_date }} · {{ release.pdf_pages }} pages</span></p>
-        {% endif %}
+      <article class="pub-card">
+        <a href="{{ briefing.landing_url | relative_url }}" aria-hidden="true" tabindex="-1">
+          <img src="{{ cover | relative_url }}" alt="" class="pub-card__cover" loading="lazy" width="96" height="128" />
+        </a>
+        <div class="pub-card__body">
+          <h4 class="pub-card__title"><a href="{{ briefing.landing_url | relative_url }}">{{ briefing.title }}</a></h4>
+          <p class="pub-card__summary">{{ briefing.summary_short }}</p>
+          {% if release %}
+          <p class="pub-card__meta"><span>{{ release.release_date }}</span><span>{{ release.pdf_pages }} pages</span></p>
+          {% endif %}
+          <div class="pub-card__actions">
+            {% if briefing.pdf_path %}<a href="{{ briefing.pdf_path | relative_url }}" class="chip chip-small">PDF</a>{% endif %}
+            {% if briefing.full_html_path %}<a href="{{ briefing.full_html_path | relative_url }}" class="chip chip-small">Full HTML</a>{% endif %}
+          </div>
+        </div>
       </article>
     </li>
   {% endfor %}

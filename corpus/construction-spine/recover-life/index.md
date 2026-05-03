@@ -87,6 +87,24 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances."
 construction_step_id: "CS-07"
+right_rail:
+  actions: true
+  metadata_links:
+    results:
+      - title: "Life World Readout"
+        url: "/results/world-readout/life/"
+      - title: "Why Life Is Structurally Favored in Tau"
+        url: "/results/world-readout/life/why-life-is-structurally-favored-in-tau/"
+    verify:
+      - title: "Domain Verification: Life"
+        url: "/verify/domain-verification/life/"
+      - title: "Assessment Protocols"
+        url: "/verify/assessment-protocols/"
+      - title: "How to Verify"
+        url: "/verify/how-to-verify/"
+    publications:
+      - title: "Publications"
+        url: "/publications/"
 ---
 
 > Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances.
@@ -226,23 +244,6 @@ These are explicit handoffs / honest limits.
 
 **This is an internal construction claim, not external acceptance.** Step 7 builds life as a structural class under τ-discipline; reviewer scrutiny is invited via Book VI's Layer Separation proof, the kingdom-as-sector mapping, and the Predictions by Absence falsification surface.
 
-## Registry spine
-
-_Mapping pending._
-
-## TauLib modules
-
-_Mapping pending._
-
-## Book locations
-
-- Life-facing manuscripts and world-readout materials
-
-## Related Results
-
-- [Life World Readout](/results/world-readout/life/)
-- [Why Life Is Structurally Favored in Tau](/results/world-readout/life/why-life-is-structurally-favored-in-tau/)
-
 ## Verification Modes
 
 - `life-recovery checks`
@@ -256,16 +257,6 @@ _Mapping pending._
 ## Empirical Checks
 
 - Check whether life-facing claims are routed to explicit biological examples, constraints, and open residuals.
-
-## Related Verify surfaces
-
-- [Domain Verification: Life](/verify/domain-verification/life/)
-- [Assessment Protocols](/verify/assessment-protocols/)
-- [How to Verify](/verify/how-to-verify/)
-
-## Publication projection
-
-- [Publications](/publications/)
 
 ## Current build status
 

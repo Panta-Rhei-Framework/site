@@ -18,6 +18,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-precision-public-health-physiology-prevention-safer-therapeutics.pdf
 full_html_path: /impact/papers/precision-public-health-physiology-prevention-safer-therapeutics/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing on how τ could enable precision public health, physiology-aware prevention,
   safer therapeutic design, and optimized health-system response.

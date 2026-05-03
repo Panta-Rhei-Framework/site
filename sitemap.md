@@ -6,6 +6,7 @@ shell: home
 type: support_page
 support_type: sitemap
 status: canonical
+last_updated: 2026-05-31
 updated: "May 2026"
 permalink: /sitemap/
 summary: "Human-readable map of the Panta Rhei public research observatory."

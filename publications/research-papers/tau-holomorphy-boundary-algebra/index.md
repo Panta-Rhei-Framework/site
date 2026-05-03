@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Published"
+last_updated: 2026-04-30
 updated: "April 2026"
 title: "tau-Holomorphy on the Boundary Algebra"
 subtitle: "omega-germ transformers, the wave-equation Cauchy-Riemann, and the earned categorical machine"

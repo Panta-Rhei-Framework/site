@@ -755,6 +755,127 @@ a.part-card {
   cursor: default;
 }
 
+// Publication cover-thumbnail cards — research papers + briefings index pages.
+// Pattern: PDF first-page cover thumbnail anchored next to the title, summary,
+// and download/DOI actions. Mobile collapses to a stacked single column.
+.pub-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+  padding-left: 0;
+  margin: 18px 0 28px;
+  list-style: none;
+}
+
+.pub-card {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 14px;
+  align-items: start;
+  height: 100%;
+  padding: 14px 16px;
+  border: var(--border-default);
+  border-radius: $radius-md;
+  background: var(--surface-card);
+  transition: transform $transition, border-color $transition, box-shadow $transition;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: var(--lane-current);
+    box-shadow: var(--shadow-card);
+  }
+}
+
+.pub-card__cover {
+  display: block;
+  width: 96px;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  border: 1px solid var(--surface-border, rgba(0, 0, 0, 0.08));
+  border-radius: 4px;
+  background: #f5f3ee;
+  object-fit: cover;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.pub-card__cover-placeholder {
+  width: 96px;
+  aspect-ratio: 3 / 4;
+  border: 1px dashed var(--surface-border, rgba(0, 0, 0, 0.16));
+  border-radius: 4px;
+  background: linear-gradient(180deg, #f7f5f0 0%, #ece7dc 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-mono;
+  font-size: 0.7rem;
+  color: $text-muted;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.pub-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+
+.pub-card__title {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.35;
+
+  a {
+    text-decoration: none;
+    color: var(--text);
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.pub-card__summary {
+  margin: 0;
+  color: $text-muted;
+  font-size: 0.86rem;
+  line-height: 1.5;
+}
+
+.pub-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  margin: 4px 0 0;
+  font-family: $font-mono;
+  font-size: 0.74rem;
+  color: $text-muted;
+}
+
+.pub-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 4px;
+
+  .chip,
+  a {
+    font-size: 0.78rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .pub-card {
+    grid-template-columns: 80px 1fr;
+    gap: 10px;
+  }
+  .pub-card__cover,
+  .pub-card__cover-placeholder {
+    width: 80px;
+  }
+}
+
 .registry-list {
   display: flex;
   flex-wrap: wrap;

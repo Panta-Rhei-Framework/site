@@ -14,6 +14,7 @@ claim_role: supplemental_exposition
 canonical_relation: "Book V supplement / numerical ledger"
 domain: "Physics"
 status: "Canonical"
+last_updated: 2026-04-30
 updated: "April 2026"
 summary_short: "The complete numerical scorecard — from one algebraic posit (ι<sub>τ</sub> = 2/(π+e)) plus one SI measurement (neutron mass m<sub>n</sub>) through a four-layer calibration cascade to observable values. Three τ-structural pillars, manifest-pinned falsification pack, zero free continuous parameters. Free PDF download."
 right_rail:

@@ -59,6 +59,72 @@
   {% endif %}
 
   {%- comment -%}
+    Position 5 — Metadata cross-links.
+    Doctrine: atlas/website/doctrine/right-rail.md §3 / §4.
+    Six structured sub-sections, in fixed order. Each sub-section renders
+    only when its frontmatter list is non-empty. Empty sub-sections collapse
+    silently — pages do not render empty headings.
+  {%- endcomment -%}
+  {% assign _meta = page.right_rail.metadata_links %}
+  {% if _meta %}
+
+  {% if _meta.registry and _meta.registry.size > 0 %}
+  <div class="rail-section">
+    <div class="rail-section-title">Registry</div>
+    {% for link in _meta.registry %}
+    <a href="{{ link.url | relative_url }}" class="artifact-link">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if _meta.taulib and _meta.taulib.size > 0 %}
+  <div class="rail-section">
+    <div class="rail-section-title">TauLib</div>
+    {% for link in _meta.taulib %}
+    <a href="{{ link.url | relative_url }}" class="artifact-link">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if _meta.monograph and _meta.monograph.size > 0 %}
+  <div class="rail-section">
+    <div class="rail-section-title">Books</div>
+    {% for link in _meta.monograph %}
+    <a href="{{ link.url | relative_url }}" class="artifact-link">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if _meta.results and _meta.results.size > 0 %}
+  <div class="rail-section">
+    <div class="rail-section-title">Results</div>
+    {% for link in _meta.results %}
+    <a href="{{ link.url | relative_url }}" class="artifact-link">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if _meta.verify and _meta.verify.size > 0 %}
+  <div class="rail-section">
+    <div class="rail-section-title">Verify</div>
+    {% for link in _meta.verify %}
+    <a href="{{ link.url | relative_url }}" class="artifact-link">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if _meta.publications and _meta.publications.size > 0 %}
+  <div class="rail-section">
+    <div class="rail-section-title">Publications</div>
+    {% for link in _meta.publications %}
+    <a href="{{ link.url | relative_url }}" class="artifact-link">{{ link.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% endif %}
+
+  {%- comment -%}
     Position 6 — Page actions (Share + Feedback).
     Gate: `page.right_rail.actions` (canonical, per doctrine).
     Legacy alias: `page.right_rail.feedback` continues to gate the same

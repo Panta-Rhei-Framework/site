@@ -3,6 +3,7 @@ layout: "program-doc"
 lane: "publications"
 v2_lane: "publications"
 status: "Distribution release"
+last_updated: 2026-05-31
 updated: "May 2026"
 title: "TauLib: A Self-Contained Lean 4 Library for Category τ"
 subtitle: "Kernel + Mathlib Bridges + Registry-Driven Correspondence"

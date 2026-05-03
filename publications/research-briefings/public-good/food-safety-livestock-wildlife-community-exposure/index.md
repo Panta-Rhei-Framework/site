@@ -17,6 +17,7 @@ pdf_status: available
 pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-food-safety-livestock-wildlife-community-exposure.pdf
 full_html_path: /impact/papers/food-safety-livestock-wildlife-community-exposure/
 date: '2026-04-26'
+last_updated: 2026-05-31
 updated: May 2026
 summary: A Public-Good Briefing showing how a law-faithful tau human-animal-environment twin could
   provide unusually high humanitarian leverage in food safety intelligence, livestock-wildlife interface

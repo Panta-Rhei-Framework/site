@@ -6,6 +6,7 @@ lane: support
 type: support_page
 support_type: media_brief
 status: canonical
+last_updated: 2026-05-31
 updated: "May 2026"
 summary_short: "A newsroom brief explaining why Panta Rhei says coherent theory of reality, not theory of everything."
 right_rail:
