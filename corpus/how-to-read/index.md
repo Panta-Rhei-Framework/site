@@ -35,9 +35,13 @@ Start with an object ID, follow its dependencies, then check where it appears in
 4. Follow its uses forward.
 5. Inspect related publications and verification surfaces.
 
-## Three entry routes
+## Four entry routes
 
 <div class="v2-grid">
+  <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
+    <strong>Start from the construction spine</strong>
+    <span>Follow the ten-step build narrative — kernel through ontic closure — organized as three manuscript-grounded arcs.</span>
+  </a>
   <a class="v2-tile" href="{{ '/results/' | relative_url }}">
     <strong>Start from a result</strong>
     <span>Use a public result page, then follow its registry anchors backward into the corpus.</span>

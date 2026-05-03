@@ -84,7 +84,7 @@ For the implementation view of how Corpus, Results, Verify, Publications, and En
 
 {% include scientific-plate.html id="plate-04-construction-spine" class="scientific-plate--construction-spine" loading="lazy" %}
 
-The Construction Spine is the primary human-readable route into the Corpus. It shows the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure.
+The Construction Spine is the primary human-readable route into the Corpus. It shows the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure. The spine's [End-to-end construction view]({{ '/corpus/construction-spine/#end-to-end-construction-view' | relative_url }}) organizes the ten steps as three manuscript-grounded arcs — Mathematics (CS-01–03), Physics (CS-04–06), and Life + Metaphysics (CS-07–10) — glued by a single theorem chain.
 
 <div class="btn-group section-ctas">
   <a class="btn-secondary" href="{{ '/corpus/construction-spine/' | relative_url }}">Open the Construction Spine</a>

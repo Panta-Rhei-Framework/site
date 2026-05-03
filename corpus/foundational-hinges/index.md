@@ -31,7 +31,7 @@ right_rail:
 
 ## What this route is
 
-The foundational hinge route isolates the make-or-break mathematical constructions behind the first three construction steps of the Corpus. These pages do not replace the monographs, the Registry, or TauLib. They provide a human-readable stress-test route into the kernel construction.
+The foundational hinge route isolates the make-or-break mathematical constructions behind the first three construction steps of the Corpus — the Mathematics arc of the [End-to-end construction view](/corpus/construction-spine/#end-to-end-construction-view). These pages do not replace the monographs, the Registry, or TauLib. They provide a human-readable stress-test route into the kernel construction.
 
 The bundle has three public layers:
 
