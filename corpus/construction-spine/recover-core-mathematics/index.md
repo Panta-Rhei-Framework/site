@@ -161,11 +161,36 @@ construction_step_id: "CS-02"
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step is required to do
+## 1. What this step must build
 
 The program must recover enough mathematics for proof, arithmetic, topology, geometry, scalar readout, and later domain construction without silently importing unrestricted classical externalities.
 
-## What the corpus built
+By the end of this step:
+
+- Finite syntax + proof objects must be available so later books can reason inside τ.
+- Address-resolution arithmetic must replace free symbolic calculation: every arithmetic claim must terminate at canonical addresses, normal forms, and finite witnesses.
+- An **internal set theory** must arise from the kernel rather than being imported from ZFC. The full number tower **`ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ`** must be earned algebraically.
+- Topology + geometry must be recoverable as readouts of the coherence kernel — including τ-internal proofs of Tarski's geometry axioms (betweenness, congruence, Pasch, parallel postulate) as **theorems** (II.T15–II.T18) rather than as imported axioms.
+- The transcendentals `π`, `e`, `j`, `ι_τ` must be earned from purely countable discrete structure.
+- A **Fork** against orthodox mathematics must be made explicit through five comparison modes (Same / Parallel / Refused / Gained / Earned) and the master switch `j² = +1` vs `i² = −1`.
+
+What cannot yet be assumed: classical real analysis as substrate, ZFC ambient set theory, unrestricted self-reference, the standard physical constants, observation, calibration data.
+
+## 2. The construction challenge
+
+This step is hard for five interlocking reasons. Each names a hidden externality the construction must avoid.
+
+**2.1 Recover arithmetic, algebra, geometry without unrestricted classical externalities.** Most foundational programs assume classical real analysis or ZFC as substrate, then "show" arithmetic / algebra / geometry. CS-02 must recover them from the kernel without that import. The natural moves of working mathematics — "let `R` be a complete ordered field," "consider the metric topology on `ℝⁿ`," "embed in classical Euclidean space" — all depend on a substrate the kernel does not provide.
+
+**2.2 Handle infinity and boundary without unearned uncountables.** Cantor's diagonal argument generates uncountable infinities under unrestricted self-reference. K5 (diagonal discipline) prohibits exactly that operation. The kernel must therefore handle infinity in a different way — yet "infinity is unique" is a strong structural claim that must be defended without simply refusing to talk about infinity.
+
+**2.3 Avoid hidden ZFC ambient ontology.** Modern mathematics often runs on an implicit ZFC background. ZFC primacy is so deep in mathematical practice that recognizing where it leaks in is itself a discipline. Sets are normally primitive and arithmetic is derived; CS-02 must reverse the order — earn arithmetic from the kernel first, derive sets from arithmetic.
+
+**2.4 Create bridge discipline to standard mathematics.** Even after recovery, there must be a clear, public discipline for which τ-results match orthodox mathematics, which are parallel, which are structurally refused, which are gained, and which are earned-rather-than-imported. The Fork cannot be hand-waved. "Same answer for different reasons" is not the same epistemic situation as "answer impossible in orthodox foundations" or "answer derivable in τ but assumed in orthodox."
+
+**2.5 Make recovery inspectable and Lean-formalizable.** The recovered mathematics must surface as Lean-checkable definitions and theorems, not merely descriptive prose. Otherwise the program cannot be audited as mathematics. Constructive number theory, Tarski geometry, address arithmetic, and transcendental construction each have different formalization requirements; all must surface.
+
+## 3. What Panta Rhei builds
 
 The Corpus builds finite syntax, proof objects, address-resolution arithmetic, normal forms, canonical addresses, algebraic usability, ultrametric topology, Euclidean/Tarski-style geometry, constructive scalar systems, and explicit bridge criteria into standard mathematics.
 
@@ -176,6 +201,45 @@ This step asks a direct question: what mathematics can be earned from the kernel
 The central conceptual shift is that arithmetic is treated as address resolution rather than free equational calculation. Objects are not manipulated as if they lived inside an already available global ring. They are resolved through canonical addresses, normal forms, genealogical structure, and finite witnesses. This allows the Corpus to recover mathematical work while keeping visible what is internal, what is τ-effective, and what remains a bridge burden.
 
 Step 2 also introduces scalar-readout discipline. The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) belongs here as a scalar invariant: it must be read as a kernel-derived structural readout before it is allowed to feed any numerical physics ledger. The dedicated Master Constant paper is therefore a primary review artifact for this step.
+
+### Internal set theory from divisibility
+
+A central and deliberate inversion happens in **Book I Part VIII**: divisibility is interpreted as membership.
+
+> `A ∈_τ B ⟺ A ∣ B`
+
+This single move earns an entire internal set theory — set-theoretic operations, a bounded powerset, and a well-founded countable set universe — without importing a single ZFC axiom. In most foundations, sets are primitive and arithmetic is derived. In τ, the order is reversed: arithmetic is earned from `ρ` (Parts I–III), and **sets are derived from arithmetic**. The resulting set theory inherits the decidability, constructivity, and countability of its arithmetic substrate.
+
+**The Cantor mirage** (Book I Part VIII, last chapters) confronts the diagonal argument head-on. The framework's countability is not a limitation to be overcome but a feature: Cantor's diagonal assumes unrestricted self-reference — precisely the operation that **K5** (diagonal discipline) prohibits. The result is a τ-universe in which **infinity is unique**, **cardinality collapses to a single grade**, and a generative counting principle replaces the cardinal hierarchy.
+
+### The earned number tower
+
+**Book I Part IX** builds the chain `ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ` algebraically. The first three levels (naturals, integers, rationals) are *fully earned* from K0–K6 via finite algebraic constructions. The constructive reals `ℝ_τ` receive their complete-ordered-field structure plus the **Archimedean property** that distinguishes them from the profinite boundary ring `Ẑ_τ`. The complex field `ℂ_τ = ℝ_τ[i]` is placed alongside its hyperbolic counterpart `Ẑ_τ[j]` (with `j² = +1`), making the **elliptic–hyperbolic dichotomy** explicit. Quaternions `ℍ_τ = ℝ_τ[i, j, k]` earn non-commutativity as a structural consequence of extending beyond two dimensions; cyclotomic fields `ℚ^cyc_τ = ℚ_τ(ζ_n)` connect roots of unity to the boundary's CRT decomposition, providing the algebraic infrastructure for Galois theory in later books.
+
+Every construction in Part IX is purely algebraic — no topology, no geometry, no analysis beyond the constructive Cauchy completion.
+
+### Tarski geometry as theorems
+
+**Book II Part IV** executes the Tarski program: deriving Euclidean geometry from ultrametric foundations. The two-readout principle (II.D18a) establishes that geometry is the coarse-grain readout of the coherence kernel, parallel to (not dependent on) the fine-grain topological readout of Book II Part III. Five chapters earn the Tarski axioms as theorems:
+
+- **Theorem II.T15** — betweenness `B(x, y, z)` from ultrametric ordering on NF prefixes; satisfies Tarski axioms T1–T3.
+- **Theorem II.T16** — congruence `≅` from canonical ultrametric distance `d(x, y) = 2^(−δ(x, y))`; satisfies Tarski C1–C6. Euclidean congruence emerges from a non-Archimedean base.
+- **Theorem II.T17** — Pasch axiom from ultrametric triangle structure.
+- **Theorem II.T18** — parallel postulate from cylinder separability.
+
+Split-complex holomorphy generates wave-type PDEs (not Laplacian); characteristic curves define a causal structure; **Euclidean geometry emerges as the static limit** (wave speed → ∞). Classical `ℝ⁴` appears as a limit of τ-approximations, *not* as an ambient space. Together, these results show Euclidean geometry is a *theorem* in τ, earned from the axioms.
+
+### Earned transcendentals — π, e, j, ι_τ
+
+**Book II Part V** earns the transcendentals from purely countable discrete structure. The α-ray `ℓ_α = {α_n : n ≥ 1} ∪ {ω}` serves as the canonical "real line"; `ℝ` appears as the inverse limit of ultrametric radial sequences, not as an uncountable continuum. Circles arise as solenoidal inverse limits in A/B/C coordinates; each angular tower's inverse limit *is* `S¹` (a profinite circle), unifying geometric and topological circles.
+
+**Theorem II.T22** — three perspectives on `π` converge: topological π from the lemniscate period (I.T05); geometric π via the Archimedes polygon method (circumference / diameter); spectral π as the spectral radius of B-channel primes (I.D19 boundary ring). All three yield `π = 3.14159…`.
+
+The constant `e` is derived as the eigenvalue of the ν-iterator in the ladder ρ → μ → ν → θ — the unique self-reproducing growth base, computed in earned index arithmetic.
+
+The boundary unit `j` (with `j² = +1`) is forced by bipolar polarity structure: τ has **no continuous `SO(2)` rotation, only a discrete bipolar flip**. The idempotents `e_± = (1 ± j)/2` are canonical sector projections — the structural fingerprint of split-complex over elliptic-complex algebra.
+
+The **master constant** `ι_τ = 2/(π + e)` is confirmed (II.T25) via the **Archimedean–Non-Archimedean Bridge**: ultrametric refinement (D-depth) and Euclidean resolution (ABC precision) describe the same process from two coordinate perspectives. τ accesses transcendentals without importing `ℝ`.
 
 ## What mathematics must be recovered
 
@@ -285,6 +349,51 @@ Downstream consequence: if this hinge fails, the numerical physics ledger loses 
 - Are constructive reals and quaternions defined with enough precision to support scalar readouts?
 - Is <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) forced by the scalar/boundary machinery, or fitted after the fact?
 - Which bridges to standard mathematics remain open?
+
+### The Fork — five comparison modes vs orthodox mathematics
+
+**Book II Part XI** makes the τ-vs-orthodox-mathematics comparison structurally explicit through five modes:
+
+- **Mode A — Same.** Identical objects in both foundations: primes, π, e, ℕ.
+- **Mode B — Parallel.** Same axioms on different carriers: constructive reals, split-complex holomorphy, Stone topology.
+- **Mode C — Refused.** Structurally blocked in τ — each refusal a necessary consequence of categoricity: uncountable sets, ε-δ limits, conformal maps.
+- **Mode D — Gained.** Structurally impossible in orthodox foundations: categoricity, rigidity, the Central Theorem (II.T40), the Parallel Postulate as theorem.
+- **Mode E — Earned.** Same results, derived rather than postulated: the number tower, topos structure, Hartogs extension.
+
+The **master switch** is a single algebraic sign — `j² = +1` versus `i² = −1` — propagating through twelve levels of mathematical structure. The sign is not a choice; it is forced by prime polarity (I.T05 → I.T10).
+
+The **structural incompatibility theorem (II.T43)** proves that unique global ω and Archimedean local density cannot coexist: the Fork is not a design decision but a **mathematical necessity**. The master trade-off is **49 gains against 16 costs**, organized by five thematic patterns.
+
+This bookkeeping is the public bridge-adequacy surface. Every τ-result reachable through Step 2 carries a Mode classification: how it relates to orthodox mathematics is an explicit, not implicit, declaration.
+
+## 4. Why this matches the required answer-shape
+
+Step 2 recovers core mathematics under the kernel's discipline. Its admissibility is evaluated against the obligation to provide usable mathematics for proof, arithmetic, topology, geometry, and scalar readout — *without importing the very mathematics the kernel is supposed to be a foundation for*.
+
+**Gluing to previous step.** CS-02 inherits CS-01's primitive signature, K0–K6 axioms, address machinery, boundary algebra, holomorphy, and τ-topos. Every construction in CS-02 either uses the kernel directly (e.g., divisibility-as-membership uses K6 closure) or uses kernel-derived structure (e.g., Tarski geometry uses ultrametric distance, which is read off the kernel's coordinate chart). No new substrate is introduced.
+
+**No-externalities discipline.**
+
+- **No ZFC ambient.** The internal set theory is generated from arithmetic via divisibility-as-membership (Book I Part VIII). Sets are *derived*; arithmetic is *primitive* — the inversion of standard order.
+- **No unrestricted self-reference.** Cantor's diagonal is blocked by K5; the universe stays countable; "infinity is unique" replaces the cardinal hierarchy.
+- **No imported real analysis.** The constructive reals `ℝ_τ` are built algebraically from the rationals. Archimedean structure is a derived property, not an axiom on ambient reals.
+- **No ambient Euclidean space.** `ℝ⁴` arises as a limit of τ-approximations; classical Euclidean geometry is the static limit, not the ambient frame.
+- **No ad-hoc constants.** π, e, j, ι_τ are earned from countable discrete structure (II.T22, T23, T24, T25). The master constant ι_τ is a scalar readout *before* it becomes a physics parameter.
+
+**Earned language, earned answer.** Every recovered structure is classified explicitly under the Fork's five-mode bookkeeping (Same / Parallel / Refused / Gained / Earned). The classification is publicly inspectable, not implicit. The structural incompatibility theorem II.T43 makes the Fork **mathematical necessity** rather than design choice.
+
+**Internal standpoint preserved.** All recovery is stated from inside τ. `ℝ_τ`, `ℂ_τ`, `ℍ_τ`, the Tarski theorems, and the transcendentals are τ-internal objects with τ-internal proofs. Bridges to orthodox mathematics are *explicit denotation maps*, not silent identifications.
+
+**Step gluing — what later steps does it enable.**
+
+- **CS-03 Internalize Self-Enrichment** uses the internal set universe as the carrier for hom-objects; uses the τ-topos as enrichment base; uses Yoneda probe-naturality (already foreshadowed in Book II Part II) to prove Yoneda-as-theorem.
+- **CS-04 Identify Physical Carrier** uses τ-geometry's wave-type PDE structure to identify the physical carrier; uses the boundary algebra + spectral characters as the carrier's spectrum.
+- **CS-06 Measurement Bridges** uses the constructive reals as the calibration target for SI translation; uses ι_τ as the cascade root.
+- **CS-09 Self-Host Formal Systems** uses the τ-internal proof discipline established in Book I Part III + Part XVIII to represent ZFC and Lean-like kernels as object theories.
+
+**Bridge status.** Bridges to orthodox mathematics are *explicit*: Mode A bridges (primes, π, e, ℕ) are identifications; Mode B bridges (constructive reals, split-complex holomorphy) are parallel-axiom transfers; Mode C bridges (uncountable sets, ε-δ, conformal maps) are *refused*. The Fork's bookkeeping is the public bridge-adequacy surface.
+
+**This is an internal construction claim, not external acceptance.** Step 2 recovers core mathematics under τ-discipline; reviewer scrutiny is invited via the Fork's mode-classification, the registry, the TauLib formalization, and the H3 + H7 hinge papers. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
 
 ## Registry spine
 
