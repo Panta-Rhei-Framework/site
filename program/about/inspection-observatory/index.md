@@ -23,12 +23,16 @@ hero_ctas:
     url: /discover/
   - label: "Verify"
     url: /verify/
+  - label: "Related Approaches"
+    url: /program/about/related-approaches/
 right_rail:
   related:
     - title: "Program"
       url: /program/
     - title: "Coherent Theory of Reality"
       url: /program/about/coherent-theory-of-reality/
+    - title: "Related Approaches"
+      url: /program/about/related-approaches/
     - title: "Scope, Status & Scrutiny"
       url: /program/about/scope-status-and-scrutiny/
     - title: "Media Kit"
@@ -71,6 +75,8 @@ A large-scope theory cannot be evaluated only by reading its most confident pros
 It must let readers ask: What was the obligation? Where is the construction? Which result is being claimed? What kind of verification is available? What remains unverified? What would count as failure? Where can corrections be raised?
 
 The observatory structure exists so those questions have public routes.
+
+The same discipline applies to comparisons with neighboring programs. [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) is the Program-side positioning map: it explains what Panta Rhei shares with serious adjacent approaches and where its semantic or construction burden is placed differently.
 
 ## For journalists and reviewers
 

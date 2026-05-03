@@ -17,6 +17,8 @@ summary_cards:
     body: "What the program means by coherent, theory, and reality before presenting answer surfaces."
   - title: "Inspection observatory"
     body: "Why an independent, high-scope research program must expose obligations, construction, results, verification, and correction routes."
+  - title: "Related approaches"
+    body: "Where Panta Rhei sits among serious structural, computational, geometric, relational, life, consciousness, and metaphysical programs."
 hero_ctas:
   - label: "About the Program"
     url: /program/about/
@@ -25,6 +27,8 @@ hero_ctas:
     url: /program/about/coherent-theory-of-reality/
   - label: "Why an Inspection Observatory"
     url: /program/about/inspection-observatory/
+  - label: "Related Approaches"
+    url: /program/about/related-approaches/
   - label: "Agenda"
     url: /program/research-agenda/
   - label: "Red-team FAQ"
@@ -37,6 +41,8 @@ right_rail:
       url: /program/about/coherent-theory-of-reality/
     - title: "Inspection Observatory"
       url: /program/about/inspection-observatory/
+    - title: "Related Approaches"
+      url: /program/about/related-approaches/
     - title: "Agenda"
       url: /program/research-agenda/
     - title: "Scope, Status & Scrutiny"
@@ -77,6 +83,7 @@ The claim is deliberately ambitious: a constrained formal kernel is used to cons
   <li><article><a class="v2-tile" href="{{ '/program/about/' | relative_url }}"><strong>About the Program</strong><span>Identity, stewardship, status, scope, and public scrutiny posture.</span></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/program/about/coherent-theory-of-reality/' | relative_url }}"><strong>Coherent Theory of Reality</strong><span>What the program means by coherent, theory, and reality before its claims are read.</span></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/program/about/inspection-observatory/' | relative_url }}"><strong>Inspection Observatory</strong><span>Why public obligations, construction, results, verification, and correction routes are exposed together.</span></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/program/about/related-approaches/' | relative_url }}"><strong>Related Approaches</strong><span>How the program compares respectfully with neighboring structural, computational, geometric, life, mind, and metaphysical programs.</span></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/program/about/scope-status-and-scrutiny/' | relative_url }}"><strong>Scope, Status & Scrutiny</strong><span>How to read ambition, current public status, peer review boundaries, and external scrutiny.</span></a></article></li>
 </ul>
 
@@ -96,6 +103,7 @@ Panta Rhei is currently:
 ## Core routes
 
 - **[About the Program]({{ '/program/about/' | relative_url }})** gives the identity, stewardship, current public status, founders' statement, and scrutiny posture of the research object.
+- **[Related Approaches]({{ '/program/about/related-approaches/' | relative_url }})** positions the program among serious neighboring approaches without turning comparison into a takedown or priority claim.
 - **[Agenda]({{ '/program/research-agenda/' | relative_url }})** states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
 - **[Corpus]({{ '/corpus/' | relative_url }})** shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.
 - **[Results]({{ '/results/' | relative_url }})** reports current program stances, landmark results, world readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.

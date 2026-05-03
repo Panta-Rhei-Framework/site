@@ -26,6 +26,8 @@ right_rail:
     url: /media/social-media-kit/
   - title: Review Kit
     url: /media/review-kit/
+  - title: Related Approaches
+    url: /program/about/related-approaches/
   - title: Scientific Plates
     url: /media/posters/
   - title: Program
@@ -58,6 +60,8 @@ The first story is the inspection standard.
 Open science makes research more accessible and shareable, but it raises a hard question: how should journalists, researchers, and readers assess high-scope claims from outside ordinary institutional channels?
 
 Panta Rhei can be covered as a case study in inspection architecture: a public research observatory exposing its Program doctrine, Agenda, source-pinned Problem Ledger, Recovery Requirements, Construction Spine, Corpus, TauLib formalization, Results, status markers, prediction/falsification surfaces, errata, and assessment protocols.
+
+For comparisons with neighboring structural, computational, geometric, life, consciousness, and metaphysical programs, use [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}). It is a positioning map, not a takedown.
 
 Suggested framing:
 

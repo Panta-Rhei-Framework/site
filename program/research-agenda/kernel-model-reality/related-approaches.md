@@ -1,12 +1,12 @@
 ---
 layout: program-doc
-title: "Related Approaches"
+title: "KMR Related Approaches"
 lane: program
 v2_lane: program
 section: research-agenda
 type: "Comparative Context"
 status: "Canonical"
-summary_short: "A respectful comparison with neighboring structural, informational, computational, relational, life, mind, and metaphysical approaches under the no-externalities burden."
+summary_short: "A specialist Agenda comparison with neighboring structural, informational, computational, relational, life, mind, and metaphysical approaches under the no-externalities burden."
 summary_cards:
   - title: "Respectful"
     body: "The page treats neighboring approaches as serious attempts to reduce hidden assumptions."
@@ -18,12 +18,16 @@ hero_ctas:
   - label: "No Externalities"
     url: /program/research-agenda/kernel-model-reality/no-externalities/
     primary: true
+  - label: "Program Related Approaches"
+    url: /program/about/related-approaches/
   - label: "Deep Comparison"
     url: /program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/
   - label: "Substrate Non-Deferral"
     url: /program/research-agenda/kernel-model-reality/substrate-non-deferral/
 right_rail:
   related:
+    - title: "Program Related Approaches"
+      url: /program/about/related-approaches/
     - title: "Related Approaches: Deep Comparison"
       url: /program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/
     - title: "Kernel, Model & Reality"
@@ -47,7 +51,9 @@ right_rail:
 
 Panta Rhei is not the only program trying to reduce hidden background assumptions, rethink structure, or connect mathematics, physics, life, mind, and metaphysics.
 
-This page positions the program among related approaches without claiming that those approaches are naive or obsolete. The comparison standard is narrower: how each approach handles the no-externalities burden.
+The Program-side [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) hub gives the broader positioning map. This Agenda page is narrower: it asks how related approaches handle the no-externalities burden inside Kernel, Model & Reality.
+
+This page does not turn comparison into a takedown. It asks how each approach handles hidden scaffolding, substrate, semantics, bridge principles, and ontic-status pressure.
 
 ## Comparison standard
 

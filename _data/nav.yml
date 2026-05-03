@@ -71,6 +71,8 @@ lane_nav:
             url: "/program/about/coherent-theory-of-reality/"
           - title: "Inspection Observatory"
             url: "/program/about/inspection-observatory/"
+          - title: "Related Approaches"
+            url: "/program/about/related-approaches/"
           - title: "Red-team FAQ"
             url: "/program/about/red-team-faq/"
           - title: "Founders"
