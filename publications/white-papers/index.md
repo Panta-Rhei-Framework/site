@@ -41,6 +41,9 @@ White Papers belong to Publications because they are stable citable artifacts. T
 
 ## Released
 
+- [**Building a Public Research Observatory for High-Scope Open Research**]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) — *How panta-rhei.site materializes Agenda, Corpus, Results, Verify, Impact, Engage, and artifact release surfaces into one inspectable research system.* v0.1, May 2026. Technical Blueprint / Architecture White Paper. DOI forthcoming.
+- [**The Shape of a Theory of Reality**]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) — *Why a serious theory of reality must earn its language, build its answer, disclose its limits, and state its conditional public relevance.* v0.1, May 2026. Program Doctrine / Conceptual White Paper. DOI forthcoming.
+- [**Inspection Architecture for High-Scope Open Research**]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) — *A practical blueprint for publishing ambitious independent research before asking for belief.* v0.1, May 2026. Architecture / Methodology White Paper. DOI forthcoming.
 - [**TauLib: A Self-Contained Lean 4 Library for Category τ**]({{ '/publications/white-papers/taulib/' | relative_url }}) — *Kernel + Mathlib Bridges + Registry-Driven Correspondence.* v2.0, May 2026. Technical / Formalization White Paper. DOI: [10.5281/zenodo.19976503](https://doi.org/10.5281/zenodo.19976503).
 
 ## Initial examples (other categories)

@@ -32,6 +32,10 @@ right_rail:
     url: /program/about/coherent-theory-of-reality/
   - title: Inspection Observatory
     url: /program/about/inspection-observatory/
+  - title: Inspection Architecture White Paper
+    url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+  - title: Theory of Reality White Paper
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   - title: Related Approaches
     url: /program/about/related-approaches/
   meta:
@@ -140,5 +144,7 @@ The Program lane answers the identity and doctrine questions first:
 - **Founders** makes the current stewardship and provenance visible.
 
 The companion [Agenda]({{ '/program/research-agenda/' | relative_url }}) lane states the aim, desiderata, technical discipline, refusals, problem ledger, result criteria, and roadmap.
+
+For the current press-facing articulation of this doctrine, see the white papers [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) and [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}).
 
 This is the right starting lane for anyone who wants to understand not only what Panta Rhei says, but what kind of research object it is.

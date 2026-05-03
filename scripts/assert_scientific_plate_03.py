@@ -124,7 +124,7 @@ def main() -> int:
         ],
         "/discover/": [
             "Before Results, there is obligation",
-            "Before Results, there is obligation: the Research Agenda records the external problems",
+            "Before Results, there is obligation: the Agenda records external problems, core-semantics obligations",
             "The Research Agenda states the burden: what must be kept visible",
         ],
     }

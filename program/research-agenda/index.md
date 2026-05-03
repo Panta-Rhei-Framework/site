@@ -49,6 +49,8 @@ right_rail:
       url: /program/research-agenda/kernel-model-reality/
     - title: "Construction Roadmap"
       url: /program/research-agenda/construction-roadmap/
+    - title: "Theory of Reality White Paper"
+      url: /publications/white-papers/the-shape-of-a-theory-of-reality/
     - title: "Progress Against Agenda"
       url: /results/progress-against-agenda/
   meta:
@@ -73,6 +75,8 @@ A large-scope program cannot ask for serious engagement unless it states what it
 Agenda is that public contract. It names the questions, the foundational discipline, the design principles, the explicit refusals, and the criteria by which results should be read.
 
 Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
+
+Package 2 states the doctrine-level version of this burden in [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}): a coherent theory of reality must earn its language, earn its questions, build its answers, disclose its limits, and state conditional relevance before it asks for belief.
 
 ## The four agenda surfaces
 

@@ -24,6 +24,18 @@ right_rail:
     url: /media/story-angles/
   - title: "Journalist FAQ"
     url: /media/journalist-faq/
+  - title: "Open Research Brief"
+    url: /media/open-research-brief/
+  - title: "Inspection Architecture White Paper"
+    url: /publications/white-papers/inspection-architecture-high-scope-open-research/
+  - title: "Theory of Reality Brief"
+    url: /media/theory-of-reality-brief/
+  - title: "Theory of Reality White Paper"
+    url: /publications/white-papers/the-shape-of-a-theory-of-reality/
+  - title: "Public Research Observatory Brief"
+    url: /media/public-research-observatory-brief/
+  - title: "Public Research Observatory White Paper"
+    url: /publications/white-papers/building-a-public-research-observatory/
   - title: "Scientific Plates"
     url: /media/posters/
   - title: "Brand"
@@ -53,6 +65,82 @@ For domain-specific posts, add one of:
 - Mathematics: `#CategoryTheory`, `#Foundations`, `#TypeTheory`
 - Physics: `#Cosmology`, `#StandardModel`, `#FineStructureConstant`
 - Biology / philosophy: `#TheoreticalBiology`, `#PhilosophyOfScience`
+
+## Open Research / Inspection Architecture launch snippets
+
+Use these for Package 1, where the first story is the inspection standard, not endorsement of the theory.
+
+### X / Bluesky
+
+> High-scope open research should not ask for belief before it has made itself inspectable. Our first press package asks: what public inspection burden should ambitious independent research accept before asking anyone to care?
+> {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
+> #OpenResearch #ResearchTransparency
+
+### LinkedIn
+
+> Open science creates a hard question: what should journalists, reviewers, and readers do with ambitious independent research before external acceptance exists?
+>
+> Panta Rhei's first press package is not a request to endorse the theory. It is a public inspection standard: Program, Agenda, Corpus, Results, Verify, Impact, and Engage made inspectable before belief is requested.
+>
+> Read the brief: {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
+> White paper: {{ site.url }}{{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}
+
+### Mastodon
+
+> The first story is not whether a high-scope theory is true. The first story is whether it exposes enough obligation, construction, status, verification, failure paths, and correction routes to be responsibly inspected.
+>
+> {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
+
+## Theory of Reality launch snippets
+
+Use these for Package 2, where the story is the intellectual category: coherent theory of reality, not theory of everything.
+
+### X / Bluesky
+
+> Panta Rhei is not asking for a “theory of everything” headline. Package 2 defines the stricter burden: a coherent theory of reality must earn its language, earn its questions, build its answers, disclose limits, and stay inspectable.
+> {{ site.url }}{{ '/media/theory-of-reality-brief/' | relative_url }}
+
+### LinkedIn
+
+> What should a serious theory of reality have to expose before asking for belief?
+>
+> Package 2 of the Panta Rhei press kit answers at the category level. It distinguishes “coherent theory of reality” from theory-of-everything rhetoric and frames the public burden: Program doctrine, Agenda obligations, Corpus construction, Results readouts, Verify inspection, Impact conditionality, and Engage scrutiny.
+>
+> Brief: {{ site.url }}{{ '/media/theory-of-reality-brief/' | relative_url }}
+> White paper: {{ site.url }}{{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}
+
+### Mastodon
+
+> A theory of reality may not start with borrowed words and treat them as explanations. It must earn its language, earn its questions, and only then earn its answers.
+>
+> Package 2: The Shape of a Theory of Reality.
+> {{ site.url }}{{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}
+
+## Public Research Observatory launch snippets
+
+Use these for Package 3, where the story is the technical blueprint: how the website and GitHub organization make high-scope open research inspectable.
+
+### X / Bluesky
+
+> Package 3 asks a practical question: how should high-scope open research build the public interface that lets outsiders inspect it?
+> Program -> Agenda -> Corpus -> Results -> Verify, with Publications, Impact, Engage, search, and correction routes around the chain.
+> {{ site.url }}{{ '/media/public-research-observatory-brief/' | relative_url }}
+
+### LinkedIn
+
+> A public research observatory is not a claim that a theory is true. It is the architecture that lets readers trace a claim through obligation, construction, status, verification, artifacts, and correction paths.
+>
+> Package 3 documents how panta-rhei.site and the Panta Rhei GitHub organization implement that architecture for high-scope open research.
+>
+> Brief: {{ site.url }}{{ '/media/public-research-observatory-brief/' | relative_url }}
+> White paper: {{ site.url }}{{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}
+
+### Mastodon
+
+> Inspection architecture is not validation. It is the public structure that makes validation, challenge, correction, review, and refusal easier to begin.
+>
+> Package 3: Building a Public Research Observatory.
+> {{ site.url }}{{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}
 
 ## X (Twitter) — under 280 characters
 

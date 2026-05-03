@@ -41,6 +41,8 @@ right_rail:
       url: /program/about/independence-scope-and-scrutiny/
     - title: "Research Notes"
       url: /publications/research-notes/
+    - title: "Public Observatory Blueprint"
+      url: /publications/white-papers/building-a-public-research-observatory/
     - title: "Contact"
       url: /engage/contact/
   artifacts:
@@ -74,6 +76,8 @@ Engage is where openness becomes operational.
 The Panta Rhei Research Program does not ask first for agreement. It asks for structured open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, responsible communication, and institutional dialogue.
 
 The website is the public research observatory. GitHub is the public discussion and contribution substrate. Email remains the route for private, institutional, media, sensitive, or support-related contact.
+
+Package 3 documents that public architecture in the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}). The point is not endorsement; it is making scrutiny, correction, and contribution routes visible.
 
 ## Core Idea
 

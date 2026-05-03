@@ -32,6 +32,8 @@ right_rail:
       url: /program/research-agenda/result-criteria/
     - title: "Assessment Protocols / How to Audit"
       url: /verify/how-to-audit/
+    - title: "Theory of Reality White Paper"
+      url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   meta:
     type: "Kernel Criterion"
     scope: "Research Agenda"
@@ -44,6 +46,8 @@ right_rail:
 A large framework can fail even when individual sentences sound plausible.
 
 It can predict without explaining, formalize without bridging, simulate without substrate, classify without recovery, or make metaphysical claims without public failure conditions. Answer-Shape Requirements prevent those shortcuts from being mistaken for success.
+
+The Package 2 white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) states the public doctrine behind this page: a theory of reality may not start with borrowed words and treat them as explanations. It must earn its language, earn its questions, and only then earn its answers.
 
 ## Core requirements
 
