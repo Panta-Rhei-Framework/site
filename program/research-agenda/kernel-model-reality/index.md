@@ -22,6 +22,8 @@ hero_ctas:
     url: /program/research-agenda/kernel-model-reality/no-externalities/
   - label: "Answer-Shape Requirements"
     url: /program/research-agenda/kernel-model-reality/answer-shape-requirements/
+  - label: "Related Approaches"
+    url: /program/about/related-approaches/
 right_rail:
   related:
     - title: "Problem Ledger"
@@ -34,6 +36,8 @@ right_rail:
       url: /verify/verification-framework/
     - title: "Meta-Verification Frontier"
       url: /verify/meta-verification-frontier/
+    - title: "Related Approaches"
+      url: /program/about/related-approaches/
   meta:
     type: "Agenda Section"
     scope: "Program-wide"
@@ -92,11 +96,11 @@ The gap between these levels is not treated as a decorative philosophical caveat
     <span>The required form of a serious answer before the program calls a response adequate.</span>
   </a>
   <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/related-approaches/' | relative_url }}">
-    <strong>Related Approaches</strong>
-    <span>A respectful comparison with structural, computational, informational, relational, and mind/life theories.</span>
+    <strong>KMR Related Approaches</strong>
+    <span>A burden-specific comparison with structural, computational, informational, relational, and mind/life theories under the no-externalities rule.</span>
   </a>
   <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}">
-    <strong>Deep Comparison</strong>
+    <strong>KMR Deep Comparison</strong>
     <span>A longer expert-facing matrix of neighboring approaches under the no-externalities and recovery burdens.</span>
   </a>
 </div>
@@ -120,3 +124,5 @@ The standard is intentionally strict:
 - residual boundaries must be disclosed rather than hidden inside rhetoric
 
 The program may fail parts of this burden. If it does, the failure should be visible.
+
+For the Program-side positioning map across neighboring approaches, start with [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}). The pages in this Kernel, Model & Reality section remain the specialist Agenda route for no-externalities and ontic-status comparisons.

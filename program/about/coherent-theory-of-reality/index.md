@@ -23,6 +23,8 @@ hero_ctas:
     url: /program/research-agenda/
   - label: "Kernel, Model & Reality"
     url: /program/research-agenda/kernel-model-reality/
+  - label: "Related Approaches"
+    url: /program/about/related-approaches/
 right_rail:
   related:
     - title: "Program"
@@ -31,6 +33,8 @@ right_rail:
       url: /program/about/
     - title: "Inspection Observatory"
       url: /program/about/inspection-observatory/
+    - title: "Related Approaches"
+      url: /program/about/related-approaches/
     - title: "Kernel, Model & Reality"
       url: /program/research-agenda/kernel-model-reality/
   meta:
@@ -76,6 +80,8 @@ This page is the short public definition. The full doctrine expands the terms co
 - boundary disclosure.
 
 **Read the full doctrine -- forthcoming.**
+
+For comparison with serious neighboring approaches, see [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}). It explains how Panta Rhei shares pressures with structural, computational, geometric, life, consciousness, and metaphysical programs while placing the construction burden differently.
 
 ## What this page does not claim
 

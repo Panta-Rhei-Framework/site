@@ -11,10 +11,10 @@ from pathlib import Path
 CORE_LANE_LABELS = [
     "Discover",
     "Program",
+    "Agenda",
     "Corpus",
     "Results",
     "Verify",
-    "Publications",
     "Impact",
     "Engage",
 ]

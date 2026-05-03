@@ -37,6 +37,8 @@ right_rail:
       url: /corpus/graph/
     - title: "Results"
       url: /results/
+    - title: "Related Approaches"
+      url: /program/about/related-approaches/
   meta:
     type: "Corpus Index"
     scope: "10 construction steps"
@@ -103,6 +105,8 @@ The first three construction steps are supported by a foundational hinge route: 
 Each step page explains what the step builds, why it is required, the key constructions, related Registry items, TauLib modules, book locations, related Results, Verify surfaces, and what the step does not yet establish.
 
 Use [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) when you want the inspection matrix rather than the build narrative.
+
+Use [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) when you want to compare this construction burden with neighboring structural, computational, geometric, life, mind, and metaphysical programs.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 

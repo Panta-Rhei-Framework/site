@@ -1,12 +1,12 @@
 ---
 layout: program-doc
-title: "Related Approaches: Deep Comparison"
+title: "KMR Related Approaches: Deep Comparison"
 lane: program
 v2_lane: program
 section: research-agenda
 type: "Comparative Context"
 status: "Canonical"
-summary_short: "A long-form comparison with neighboring approaches under the no-externalities, substrate, recovery, and answer-shape burdens."
+summary_short: "A long-form Agenda comparison with neighboring approaches under the no-externalities, substrate, recovery, and answer-shape burdens."
 summary_cards:
   - title: "Long-form"
     body: "This companion expands the concise Related Approaches page without replacing it."
@@ -16,15 +16,19 @@ summary_cards:
     body: "The page positions neighboring approaches respectfully and avoids shortcut superiority claims."
 hero_ctas:
   - label: "Related Approaches"
-    url: /program/research-agenda/kernel-model-reality/related-approaches/
+    url: /program/about/related-approaches/
     primary: true
+  - label: "KMR Related Approaches"
+    url: /program/research-agenda/kernel-model-reality/related-approaches/
   - label: "No Externalities"
     url: /program/research-agenda/kernel-model-reality/no-externalities/
   - label: "Answer-Shape Requirements"
     url: /program/research-agenda/kernel-model-reality/answer-shape-requirements/
 right_rail:
   related:
-    - title: "Related Approaches"
+    - title: "Program Related Approaches"
+      url: /program/about/related-approaches/
+    - title: "KMR Related Approaches"
       url: /program/research-agenda/kernel-model-reality/related-approaches/
     - title: "No Externalities"
       url: /program/research-agenda/kernel-model-reality/no-externalities/
@@ -43,7 +47,9 @@ right_rail:
 
 ## Purpose
 
-This page expands the compact [Related Approaches]({{ '/program/research-agenda/kernel-model-reality/related-approaches/' | relative_url }}) overview. It does not claim that neighboring programs are obsolete, naive, or already refuted. The comparison is narrower and more useful: each approach is read through the burdens Panta Rhei publicly accepts.
+This page expands the compact [KMR Related Approaches]({{ '/program/research-agenda/kernel-model-reality/related-approaches/' | relative_url }}) overview. For the broader Program-side positioning map, start with [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}).
+
+This specialist page does not turn comparison into a takedown. Each approach is read through the burdens Panta Rhei publicly accepts.
 
 Those burdens are:
 

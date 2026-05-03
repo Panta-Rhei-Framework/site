@@ -32,6 +32,8 @@ right_rail:
     url: /program/about/coherent-theory-of-reality/
   - title: Inspection Observatory
     url: /program/about/inspection-observatory/
+  - title: Related Approaches
+    url: /program/about/related-approaches/
   meta:
     type: Overview
     scope: Program-wide
@@ -133,6 +135,7 @@ The Program lane answers the identity and doctrine questions first:
 - **Independence, Scope, and Scrutiny** states the founders' open-research posture and the responsibilities that follow from independent governance.
 - **What We Mean by a Coherent Theory of Reality** defines the v4 doctrine behind the site.
 - **Why We Built an Inspection Observatory** explains why the public release exposes obligations, construction, results, verification, and correction routes together.
+- **Related Approaches** explains where Panta Rhei sits among serious neighboring approaches and how its construction burden differs.
 - **Red-team FAQ** answers the hardest first-pass objections without asking for premature trust.
 - **Founders** makes the current stewardship and provenance visible.
 

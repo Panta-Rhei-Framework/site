@@ -116,6 +116,7 @@ Publications remains the stable artifact and release layer: Research Monographs,
 ## Deep links
 
 - [Start Here]({{ '/discover/start-here/' | relative_url }}) for the fastest general entry.
+- [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) for where Panta Rhei sits among serious neighboring programs.
 - [Key Results]({{ '/discover/key-results/' | relative_url }}) for a curated first set of claims.
 - [How the System Works]({{ '/discover/how-the-system-works/' | relative_url }}) for the architecture.
 - [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for the logical build-order.

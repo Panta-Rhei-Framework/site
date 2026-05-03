@@ -26,6 +26,8 @@ right_rail:
     url: /verify/assessment-protocols/
   - title: Program
     url: /program/
+  - title: Related Approaches
+    url: /program/about/related-approaches/
   - title: Problem Ledger
     url: /results/problem-ledger/
   artifacts:
@@ -82,6 +84,8 @@ This means:
 ## Research-form legitimacy
 
 Start with [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}), [What We Mean by a Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), and the [Agenda]({{ '/program/research-agenda/' | relative_url }}). These pages state what kind of research object this is, what it refuses, what obligations it accepts, and how its claims should be challenged.
+
+For prior-art and neighboring-program orientation, use [Program > Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) first. It explains what Panta Rhei shares with adjacent programs and where its construction burden differs before you move into specialist KMR comparison pages.
 
 ## Corpus and registry inspection
 
