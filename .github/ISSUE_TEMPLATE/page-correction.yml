@@ -1,0 +1,46 @@
+name: Page correction
+description: Report a correction or issue on a specific page of panta-rhei.site.
+title: "[page-correction] "
+labels: ["page-correction", "site"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the site accurate. The fields below are pre-filled
+        when you click "Raise an issue" from a page's right rail — please review
+        and edit before submitting.
+  - type: input
+    id: page-url
+    attributes:
+      label: Originating page
+      description: The URL of the page this correction applies to.
+      placeholder: "https://panta-rhei.site/corpus/..."
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Type of correction
+      description: What kind of issue is this?
+      options:
+        - Typo or wording
+        - Broken link
+        - Factual or substantive
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What needs correcting on this page?
+      description: Be as specific as you can. Quote the offending text if helpful.
+      placeholder: "On the page above, the section '...' says '...' but should say '...'"
+    validations:
+      required: true
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested fix (optional)
+      description: If you have a preferred wording or correction, share it here.
+    validations:
+      required: false
