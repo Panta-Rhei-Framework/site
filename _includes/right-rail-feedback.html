@@ -1,0 +1,32 @@
+{%- comment -%}
+  Right-rail feedback affordance.
+
+  Renders two compact links: "Comment on this page" (GitHub Discussions) and
+  "Raise an issue" (GitHub Issues, page-correction template). URL parameters
+  pre-populate the title and body with the current page's title and absolute URL.
+
+  Repos (per preflight A.6 wiring):
+    - Discussions: Panta-Rhei-Research/community  (category: page-feedback)
+    - Issues:      Panta-Rhei-Research/site       (template: page-correction.yml)
+
+  Opt-out: set `right_rail.feedback: false` in page frontmatter.
+{%- endcomment -%}
+{%- assign _page_url    = page.url | absolute_url -%}
+{%- assign _page_title  = page.title | default: site.title -%}
+{%- capture _body_raw -%}
+Page: {{ _page_url }}
+Title: {{ _page_title }}
+
+---
+
+_Your comment here_
+{%- endcapture -%}
+{%- assign _title_enc = _page_title | url_encode -%}
+{%- assign _body_enc  = _body_raw   | url_encode -%}
+{%- assign _disc_url  = "https://github.com/Panta-Rhei-Research/community/discussions/new?category=page-feedback&title=" | append: _title_enc | append: "&body=" | append: _body_enc -%}
+{%- assign _iss_url   = "https://github.com/Panta-Rhei-Research/site/issues/new?template=page-correction.yml&title=" | append: _title_enc | append: "&body=" | append: _body_enc -%}
+<div class="rail-section rail-section--feedback">
+  <div class="rail-section-title">Feedback on this page</div>
+  <a href="{{ _disc_url }}" class="artifact-link" target="_blank" rel="noopener" data-umami-event="feedback.discussion.click" data-umami-event-location="right-rail" data-umami-event-type="external">Comment on this page</a>
+  <a href="{{ _iss_url }}" class="artifact-link" target="_blank" rel="noopener" data-umami-event="feedback.issue.click" data-umami-event-location="right-rail" data-umami-event-type="external">Raise an issue</a>
+</div>

@@ -22,6 +22,7 @@ hero_ctas:
   - label: "Progress Against Agenda"
     url: /results/progress-against-agenda/
 right_rail:
+  feedback: true
   related:
     - title: "Verify the Construction Spine"
       url: /verify/construction-spine-verification/
