@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Silent Contraction and Unrestricted Reuse"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/silent-contraction-and-unrestricted-reuse/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/silent-contraction-and-unrestricted-reuse/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -48,7 +48,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r6"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/silent-contraction-and-unrestricted-reuse/"
+url: "/agenda/recovery-requirements/mathematics/refusals/silent-contraction-and-unrestricted-reuse/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

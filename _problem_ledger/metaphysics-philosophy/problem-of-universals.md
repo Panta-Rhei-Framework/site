@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Problem of universals"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-universals/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/problem-of-universals/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-philosophy"
   - "problem-of-universals"
   - "metaphysics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-universals/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/problem-of-universals/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Empirical Observability and Measurement"
-permalink: "/program/research-agenda/recovery-requirements/physics/empirical-observability-and-measurement/"
+permalink: "/agenda/recovery-requirements/physics/empirical-observability-and-measurement/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p7"
-url: "/program/research-agenda/recovery-requirements/physics/empirical-observability-and-measurement/"
+url: "/agenda/recovery-requirements/physics/empirical-observability-and-measurement/"
 verification:
   status: "pending_physics_verification"
   mode: "observability_and_measurement_review"

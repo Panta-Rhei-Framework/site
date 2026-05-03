@@ -4,7 +4,7 @@ sequence: 2
 title: "Step 2 — Recover Core Mathematics"
 short_title: "Core Mathematics"
 slug: "recover-core-mathematics"
-agenda_path: "/program/research-agenda/construction-roadmap/#recover-core-mathematics"
+agenda_path: "/agenda/construction-roadmap/#recover-core-mathematics"
 corpus_path: "/corpus/construction-spine/recover-core-mathematics/"
 results_path: "/results/world-readout/mathematics/"
 summary: "Recovers usable mathematics from the kernel: finite syntax, address-resolution arithmetic, topology, geometry, number towers, scalar systems, and bridge discipline."

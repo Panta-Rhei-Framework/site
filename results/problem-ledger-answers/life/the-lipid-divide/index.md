@@ -22,7 +22,7 @@ do_not_edit: true
 
 How did archaea end up using membrane glycerophospholipids of the opposite chirality compared to bacteria? Why do eukaryotes have bacteria-type membrane lipids?
 
-- Program Problem Ledger item: [life-biology-the-lipid-divide](/program/research-agenda/problem-ledger/life/the-lipid-divide/)
+- Program Problem Ledger item: [life-biology-the-lipid-divide](/agenda/problem-ledger/life/the-lipid-divide/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-the-lipid-divide.md`
 

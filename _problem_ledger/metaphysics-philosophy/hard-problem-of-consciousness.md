@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Hard problem of consciousness"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/hard-problem-of-consciousness/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/hard-problem-of-consciousness/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-philosophy"
   - "hard-problem-of-consciousness"
   - "philosophy-of-mind"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/hard-problem-of-consciousness/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/hard-problem-of-consciousness/"
 results_mirror:
   exists: false
   result_id: ""

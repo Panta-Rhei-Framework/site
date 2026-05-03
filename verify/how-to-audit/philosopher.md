@@ -38,7 +38,7 @@ The framework's reply is that Book VII's **No Forced Stance theorem (VII.T47)** 
 **The exposed question:** Is the life predicate a genuinely new formal criterion or a redefinition of "life" to match whatever τ-Distinction + SelfDesc picks out?
 
 **Where to look:**
-- [τ-Life vs Autopoiesis / IIT / FEP]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — prior-art contrast
+- [τ-Life vs Autopoiesis / IIT / FEP]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — prior-art contrast
 - [Biology briefing]({{ '/results/fields/biology/' | relative_url }}) — all biology claims
 - [What Is Life]({{ '/results/problem/what-is-life/' | relative_url }}) — the definition
 - [Black Holes Alive]({{ '/results/problem/black-holes-alive/' | relative_url }}) — the striking verdict
@@ -59,7 +59,7 @@ The framework's reply is that Book VII's **No Forced Stance theorem (VII.T47)** 
 - [Hard Problem of Consciousness]({{ '/results/problem/hard-problem-of-consciousness/' | relative_url }})
 - [Panpsychism Excluded]({{ '/results/problem/panpsychism-excluded/' | relative_url }}) — falsifiable opposing stance
 - [Neuroscience briefing]({{ '/results/fields/neuroscience/' | relative_url }})
-- [τ-Life vs Autopoiesis / IIT / FEP]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+- [τ-Life vs Autopoiesis / IIT / FEP]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 
 **What a philosopher of mind should check:**
 - What is the mind sheaf formally? A presheaf over what site? What are the sections, and what does "gluing" mean concretely?
@@ -135,6 +135,6 @@ Specific technical objections in any of these four clusters are the most valuabl
 - [Applied Philosophy briefing]({{ '/results/fields/philosophy-applied/' | relative_url }}) — ethics, aesthetics, language, mind
 - [Biology briefing]({{ '/results/fields/biology/' | relative_url }}) — life predicate + Seven Hallmarks
 - [Neuroscience briefing]({{ '/results/fields/neuroscience/' | relative_url }}) — consciousness + binding + free will
-- [Prior-Art Comparisons]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — all five specialist-level contrasts
+- [Prior-Art Comparisons]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — all five specialist-level contrasts
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [How to Audit (Hub)]({{ '/verify/how-to-audit/' | relative_url }}) — all six reviewer routes

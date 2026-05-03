@@ -22,7 +22,7 @@ do_not_edit: true
 
 can life be created from physical processes alone?
 
-- Program Problem Ledger item: [phys-abiogenesis](/program/research-agenda/problem-ledger/physics/abiogenesis/)
+- Program Problem Ledger item: [phys-abiogenesis](/agenda/problem-ledger/physics/abiogenesis/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-abiogenesis.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Blue whale"
-permalink: "/program/research-agenda/problem-ledger/life/blue-whale/"
+permalink: "/agenda/problem-ledger/life/blue-whale/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "blue-whale"
   - "non-human-biology"
   - "ethology"
-url: "/program/research-agenda/problem-ledger/life/blue-whale/"
+url: "/agenda/problem-ledger/life/blue-whale/"
 results_mirror:
   exists: false
   result_id: ""

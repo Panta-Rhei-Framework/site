@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why do some enzymes exhibit faster-than-diffusion kinetics?
 
-- Program Problem Ledger item: [life-biology-enzyme-kinetics](/program/research-agenda/problem-ledger/life/enzyme-kinetics/)
+- Program Problem Ledger item: [life-biology-enzyme-kinetics](/agenda/problem-ledger/life/enzyme-kinetics/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-enzyme-kinetics.md`
 

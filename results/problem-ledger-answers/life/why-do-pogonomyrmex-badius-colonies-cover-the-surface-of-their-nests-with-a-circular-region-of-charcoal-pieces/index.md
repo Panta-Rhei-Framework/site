@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?
 
-- Program Problem Ledger item: [life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces](/program/research-agenda/problem-ledger/life/why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces/)
+- Program Problem Ledger item: [life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces](/agenda/problem-ledger/life/why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces.md`
 

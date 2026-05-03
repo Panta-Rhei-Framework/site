@@ -22,7 +22,7 @@ do_not_edit: true
 
 Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy. However, it is unclear what mechanism causes those particles to initially have energies high enough for Fermi acceleration to work on them
 
-- Program Problem Ledger item: [phys-the-injection-problem](/program/research-agenda/problem-ledger/physics/the-injection-problem/)
+- Program Problem Ledger item: [phys-the-injection-problem](/agenda/problem-ledger/physics/the-injection-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-the-injection-problem.md`
 

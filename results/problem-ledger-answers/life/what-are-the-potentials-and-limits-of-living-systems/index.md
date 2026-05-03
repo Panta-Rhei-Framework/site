@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the potentials and limits of living systems?
 
-- Program Problem Ledger item: [life-biology-what-are-the-potentials-and-limits-of-living-systems](/program/research-agenda/problem-ledger/life/what-are-the-potentials-and-limits-of-living-systems/)
+- Program Problem Ledger item: [life-biology-what-are-the-potentials-and-limits-of-living-systems](/agenda/problem-ledger/life/what-are-the-potentials-and-limits-of-living-systems/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-are-the-potentials-and-limits-of-living-systems.md`
 

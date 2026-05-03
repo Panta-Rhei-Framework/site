@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Learning and memory"
-permalink: "/program/research-agenda/problem-ledger/life/learning-and-memory/"
+permalink: "/agenda/problem-ledger/life/learning-and-memory/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -182,7 +182,7 @@ tags:
   - "learning-and-memory"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/learning-and-memory/"
+url: "/agenda/problem-ledger/life/learning-and-memory/"
 results_mirror:
   exists: false
   result_id: ""

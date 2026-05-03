@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "General anaesthetic"
-permalink: "/program/research-agenda/problem-ledger/life/general-anaesthetic/"
+permalink: "/agenda/problem-ledger/life/general-anaesthetic/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -109,7 +109,7 @@ tags:
   - "general-anaesthetic"
   - "neuroscience-and-cognition"
   - "neurophysiology"
-url: "/program/research-agenda/problem-ledger/life/general-anaesthetic/"
+url: "/agenda/problem-ledger/life/general-anaesthetic/"
 results_mirror:
   exists: false
   result_id: ""

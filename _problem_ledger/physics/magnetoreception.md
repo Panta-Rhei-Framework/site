@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Magnetoreception"
-permalink: "/program/research-agenda/problem-ledger/physics/magnetoreception/"
+permalink: "/agenda/problem-ledger/physics/magnetoreception/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "magnetoreception"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/magnetoreception/"
+url: "/agenda/problem-ledger/physics/magnetoreception/"
 results_mirror:
   exists: false
   result_id: ""

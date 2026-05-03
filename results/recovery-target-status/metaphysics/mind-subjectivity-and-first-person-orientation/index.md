@@ -26,7 +26,7 @@ Mind, Subjectivity, and First-Person Orientation
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R8](/program/research-agenda/recovery-requirements/metaphysics/mind-subjectivity-and-first-person-orientation/)
+- Program ledger item: [METH-R8](/agenda/recovery-requirements/metaphysics/mind-subjectivity-and-first-person-orientation/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Post-quantum cryptography"
-permalink: "/program/research-agenda/problem-ledger/physics/post-quantum-cryptography/"
+permalink: "/agenda/problem-ledger/physics/post-quantum-cryptography/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "post-quantum-cryptography"
   - "quantum-computing-and-quantum-information"
-url: "/program/research-agenda/problem-ledger/physics/post-quantum-cryptography/"
+url: "/agenda/problem-ledger/physics/post-quantum-cryptography/"
 results_mirror:
   exists: false
   result_id: ""

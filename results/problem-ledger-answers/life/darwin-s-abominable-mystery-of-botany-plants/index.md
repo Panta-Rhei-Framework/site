@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the exact evolutionary history of flowers and what is the cause of the apparently sudden appearance of nearly modern flowers in the fossil record?
 
-- Program Problem Ledger item: [life-biology-darwin-s-abominable-mystery-of-botany-plants](/program/research-agenda/problem-ledger/life/darwin-s-abominable-mystery-of-botany-plants/)
+- Program Problem Ledger item: [life-biology-darwin-s-abominable-mystery-of-botany-plants](/agenda/problem-ledger/life/darwin-s-abominable-mystery-of-botany-plants/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-darwin-s-abominable-mystery-of-botany-plants.md`
 

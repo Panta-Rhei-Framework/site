@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is the observed energy of satellites flying by planetary bodies sometimes different by a minute amount from the value predicted by theory?
 
-- Program Problem Ledger item: [phys-flyby-anomaly](/program/research-agenda/problem-ledger/physics/flyby-anomaly/)
+- Program Problem Ledger item: [phys-flyby-anomaly](/agenda/problem-ledger/physics/flyby-anomaly/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-flyby-anomaly.md`
 

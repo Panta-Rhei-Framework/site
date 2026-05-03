@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Nervous Systems, Cognition, and Life-Mind Bridge"
-permalink: "/program/research-agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/"
+permalink: "/agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l9"
-url: "/program/research-agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/"
+url: "/agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

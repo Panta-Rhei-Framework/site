@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Identity, Difference, and Individuation"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/identity-difference-and-individuation/"
+permalink: "/agenda/recovery-requirements/metaphysics/identity-difference-and-individuation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r2"
-url: "/program/research-agenda/recovery-requirements/metaphysics/identity-difference-and-individuation/"
+url: "/agenda/recovery-requirements/metaphysics/identity-difference-and-individuation/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

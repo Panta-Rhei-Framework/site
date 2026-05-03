@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Maintenance of sexual reproduction"
-permalink: "/program/research-agenda/problem-ledger/life/maintenance-of-sexual-reproduction/"
+permalink: "/agenda/problem-ledger/life/maintenance-of-sexual-reproduction/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "maintenance-of-sexual-reproduction"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/maintenance-of-sexual-reproduction/"
+url: "/agenda/problem-ledger/life/maintenance-of-sexual-reproduction/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Gall-inducing insects"
-permalink: "/program/research-agenda/problem-ledger/life/gall-inducing-insects/"
+permalink: "/agenda/problem-ledger/life/gall-inducing-insects/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "gall-inducing-insects"
   - "non-human-biology"
   - "ethology"
-url: "/program/research-agenda/problem-ledger/life/gall-inducing-insects/"
+url: "/agenda/problem-ledger/life/gall-inducing-insects/"
 results_mirror:
   exists: false
   result_id: ""

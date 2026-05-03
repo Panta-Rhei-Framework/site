@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the relation between BQP and BPP? What is the relation between BQP and NP? Can computation in plausible physical theories (quantum algorithms) go beyond BQP?
 
-- Program Problem Ledger item: [phys-complexity-classes-problems](/program/research-agenda/problem-ledger/physics/complexity-classes-problems/)
+- Program Problem Ledger item: [phys-complexity-classes-problems](/agenda/problem-ledger/physics/complexity-classes-problems/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-complexity-classes-problems.md`
 

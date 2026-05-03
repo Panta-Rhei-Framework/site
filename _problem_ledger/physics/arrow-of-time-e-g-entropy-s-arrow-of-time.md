@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Arrow of time (e.g. entropy's arrow of time)"
-permalink: "/program/research-agenda/problem-ledger/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/"
+permalink: "/agenda/problem-ledger/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -160,7 +160,7 @@ tags:
   - "wikipedia-physics"
   - "arrow-of-time-e-g-entropy-s-arrow-of-time"
   - "foundations-of-physics"
-url: "/program/research-agenda/problem-ledger/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/"
+url: "/agenda/problem-ledger/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cosmological constant problem"
-permalink: "/program/research-agenda/problem-ledger/physics/cosmological-constant-problem/"
+permalink: "/agenda/problem-ledger/physics/cosmological-constant-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "cosmological-constant-problem"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/cosmological-constant-problem/"
+url: "/agenda/problem-ledger/physics/cosmological-constant-problem/"
 results_mirror:
   exists: false
   result_id: ""

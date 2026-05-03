@@ -93,7 +93,7 @@ The τ-framework's results organize naturally into four domains, each with its o
 ## Reading order
 
 <div class="v2-system-strip" aria-label="Results pipeline">
-  <a href="{{ '/program/research-agenda/' | relative_url }}">Agenda</a>
+  <a href="{{ '/agenda/' | relative_url }}">Agenda</a>
   <span>-></span>
   <a href="{{ '/corpus/' | relative_url }}">Corpus</a>
   <span>-></span>

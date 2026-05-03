@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Taxonomic position of Tricholepidion gertschi"
-permalink: "/program/research-agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/"
+permalink: "/agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "taxonomic-position-of-tricholepidion-gertschi"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/"
+url: "/agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/"
 results_mirror:
   exists: false
   result_id: ""

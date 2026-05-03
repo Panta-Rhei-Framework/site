@@ -22,7 +22,7 @@ do_not_edit: true
 
 It is yet to be established what the biological or social purpose of yawning is
 
-- Program Problem Ledger item: [life-biology-yawning](/program/research-agenda/problem-ledger/life/yawning/)
+- Program Problem Ledger item: [life-biology-yawning](/agenda/problem-ledger/life/yawning/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-yawning.md`
 

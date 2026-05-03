@@ -22,7 +22,7 @@ do_not_edit: true
 
 The mechanisms of action of many drugs including lithium, thalidomide, and ketamine are not completely understood
 
-- Program Problem Ledger item: [life-biology-mechanism-of-action-of-drugs](/program/research-agenda/problem-ledger/life/mechanism-of-action-of-drugs/)
+- Program Problem Ledger item: [life-biology-mechanism-of-action-of-drugs](/agenda/problem-ledger/life/mechanism-of-action-of-drugs/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-mechanism-of-action-of-drugs.md`
 

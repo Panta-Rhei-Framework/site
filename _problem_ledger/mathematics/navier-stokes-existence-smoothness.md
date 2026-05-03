@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Navier-Stokes Existence and Smoothness"
-permalink: "/program/research-agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/"
+permalink: "/agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -100,7 +100,7 @@ tags:
   - "analysis"
   - "fluid-dynamics"
   - "millennium-problem"
-url: "/program/research-agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/"
+url: "/agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Topological qubits"
-permalink: "/program/research-agenda/problem-ledger/physics/topological-qubits/"
+permalink: "/agenda/problem-ledger/physics/topological-qubits/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "topological-qubits"
   - "quantum-computing-and-quantum-information"
-url: "/program/research-agenda/problem-ledger/physics/topological-qubits/"
+url: "/agenda/problem-ledger/physics/topological-qubits/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 How and where does the brain evaluate reward value and effort (cost) to modulate behavior? How does previous experience alter perception and behavior? What are the genetic and environmental contributions to brain function?
 
-- Program Problem Ledger item: [life-biology-cognition-and-decisions](/program/research-agenda/problem-ledger/life/cognition-and-decisions/)
+- Program Problem Ledger item: [life-biology-cognition-and-decisions](/agenda/problem-ledger/life/cognition-and-decisions/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-cognition-and-decisions.md`
 

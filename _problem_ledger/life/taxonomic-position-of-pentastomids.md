@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Taxonomic position of pentastomids"
-permalink: "/program/research-agenda/problem-ledger/life/taxonomic-position-of-pentastomids/"
+permalink: "/agenda/problem-ledger/life/taxonomic-position-of-pentastomids/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "taxonomic-position-of-pentastomids"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/taxonomic-position-of-pentastomids/"
+url: "/agenda/problem-ledger/life/taxonomic-position-of-pentastomids/"
 results_mirror:
   exists: false
   result_id: ""

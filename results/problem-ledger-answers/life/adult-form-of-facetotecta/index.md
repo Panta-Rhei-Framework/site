@@ -22,7 +22,7 @@ do_not_edit: true
 
 The adult form of this animal has never been encountered in the water, and it remains a mystery what it grows into
 
-- Program Problem Ledger item: [life-biology-adult-form-of-facetotecta](/program/research-agenda/problem-ledger/life/adult-form-of-facetotecta/)
+- Program Problem Ledger item: [life-biology-adult-form-of-facetotecta](/agenda/problem-ledger/life/adult-form-of-facetotecta/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-adult-form-of-facetotecta.md`
 

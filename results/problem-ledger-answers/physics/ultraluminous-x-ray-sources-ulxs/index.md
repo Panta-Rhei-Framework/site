@@ -22,7 +22,7 @@ do_not_edit: true
 
 What powers X-ray sources that are not associated with active galactic nuclei but exceed the Eddington limit of a neutron star or stellar black hole? Are they due to intermediate-mass black holes? Some ULXs are periodic, suggesting non-isotropic emission from a neutron star. Does this apply to all ULXs? How could such a system form and remain stable?
 
-- Program Problem Ledger item: [phys-ultraluminous-x-ray-sources-ulxs](/program/research-agenda/problem-ledger/physics/ultraluminous-x-ray-sources-ulxs/)
+- Program Problem Ledger item: [phys-ultraluminous-x-ray-sources-ulxs](/agenda/problem-ledger/physics/ultraluminous-x-ray-sources-ulxs/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-ultraluminous-x-ray-sources-ulxs.md`
 

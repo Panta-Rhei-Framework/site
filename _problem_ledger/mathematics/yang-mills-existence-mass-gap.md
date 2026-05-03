@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Yang-Mills Existence and Mass Gap"
-permalink: "/program/research-agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/"
+permalink: "/agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -100,7 +100,7 @@ tags:
   - "gauge-theory"
   - "mathematical-physics"
   - "millennium-problem"
-url: "/program/research-agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/"
+url: "/agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/"
 results_mirror:
   exists: false
   result_id: ""

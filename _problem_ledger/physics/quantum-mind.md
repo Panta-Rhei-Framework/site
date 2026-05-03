@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum mind"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-mind/"
+permalink: "/agenda/problem-ledger/physics/quantum-mind/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "quantum-mind"
   - "foundations-of-physics"
-url: "/program/research-agenda/problem-ledger/physics/quantum-mind/"
+url: "/agenda/problem-ledger/physics/quantum-mind/"
 results_mirror:
   exists: false
   result_id: ""

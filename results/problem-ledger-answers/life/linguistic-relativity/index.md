@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the relations between grammatical patterns and cognitive habits of speakers of different languages? Does language use train or habituate speakers to certain cognitive habits that differ between speakers of different languages? Are effects of linguistic relativity caused by grammar structures or by cultural differences that underlie differences in language use?
 
-- Program Problem Ledger item: [life-neuroscience-linguistic-relativity](/program/research-agenda/problem-ledger/life/linguistic-relativity/)
+- Program Problem Ledger item: [life-neuroscience-linguistic-relativity](/agenda/problem-ledger/life/linguistic-relativity/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-neuroscience-linguistic-relativity.md`
 

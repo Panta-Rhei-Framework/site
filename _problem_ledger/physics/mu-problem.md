@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Mu problem"
-permalink: "/program/research-agenda/problem-ledger/physics/mu-problem/"
+permalink: "/agenda/problem-ledger/physics/mu-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "mu-problem"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/mu-problem/"
+url: "/agenda/problem-ledger/physics/mu-problem/"
 results_mirror:
   exists: false
   result_id: ""

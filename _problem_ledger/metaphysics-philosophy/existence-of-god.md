@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Existence of God"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/existence-of-god/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/existence-of-god/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -200,7 +200,7 @@ tags:
   - "wikipedia-philosophy"
   - "existence-of-god"
   - "philosophy-of-religion"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/existence-of-god/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/existence-of-god/"
 results_mirror:
   exists: false
   result_id: ""

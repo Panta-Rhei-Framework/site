@@ -17,15 +17,15 @@ tags:
 right_rail:
   related:
     - title: "Research Agenda"
-      url: /program/research-agenda/
+      url: /agenda/
     - title: "Problem Ledger Source Policy"
-      url: /program/research-agenda/problem-ledger-source-policy/
+      url: /agenda/problem-ledger-source-policy/
     - title: "Recovery Requirements"
-      url: /program/research-agenda/recovery-requirements/
+      url: /agenda/recovery-requirements/
     - title: "Kernel, Model & Reality"
-      url: /program/research-agenda/kernel-model-reality/
+      url: /agenda/kernel-model-reality/
     - title: "Construction Roadmap"
-      url: /program/research-agenda/construction-roadmap/
+      url: /agenda/construction-roadmap/
     - title: "Corpus Construction Spine"
       url: /corpus/construction-spine/
   meta:
@@ -76,11 +76,11 @@ The questions are not left as broad prompts. They are organized into four Resear
 
 ## Next
 
-Use the [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) for the full research contract:
+Use the [Research Agenda]({{ '/agenda/' | relative_url }}) for the full research contract:
 
-- [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) for external stress-test questions.
-- [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) for what the kernel must recover.
-- [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) for the ontic-status burden.
-- [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for the logical build-order.
+- [Problem Ledger]({{ '/agenda/problem-ledger/' | relative_url }}) for external stress-test questions.
+- [Recovery Requirements]({{ '/agenda/recovery-requirements/' | relative_url }}) for what the kernel must recover.
+- [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}) for the ontic-status burden.
+- [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }}) for the logical build-order.
 
 Then follow the [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) to see how the program builds against that agenda.

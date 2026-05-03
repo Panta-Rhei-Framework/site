@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Flocking (behavior)"
-permalink: "/program/research-agenda/problem-ledger/life/flocking-behavior/"
+permalink: "/agenda/problem-ledger/life/flocking-behavior/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "flocking-behavior"
   - "non-human-biology"
   - "ethology"
-url: "/program/research-agenda/problem-ledger/life/flocking-behavior/"
+url: "/agenda/problem-ledger/life/flocking-behavior/"
 results_mirror:
   exists: false
   result_id: ""

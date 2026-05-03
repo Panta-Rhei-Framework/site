@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Is the ecosystem a superorganism, or a collection of organisms?"
-permalink: "/program/research-agenda/problem-ledger/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/"
+permalink: "/agenda/problem-ledger/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "is-the-ecosystem-a-superorganism-or-a-collection-of-organisms"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/"
+url: "/agenda/problem-ledger/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/"
 results_mirror:
   exists: false
   result_id: ""

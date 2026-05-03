@@ -22,7 +22,7 @@ do_not_edit: true
 
 What combinations of quarks are possible? Are they a tightly bound system of five elementary particles, or a more weakly-bound pairing of a baryon and a meson?
 
-- Program Problem Ledger item: [phys-pentaquarks-and-other-exotic-hadrons](/program/research-agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/)
+- Program Problem Ledger item: [phys-pentaquarks-and-other-exotic-hadrons](/agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-pentaquarks-and-other-exotic-hadrons.md`
 

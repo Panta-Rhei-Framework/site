@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantitative study of the immune system"
-permalink: "/program/research-agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/"
+permalink: "/agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "quantitative-study-of-the-immune-system"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/"
+url: "/agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/"
 results_mirror:
   exists: false
   result_id: ""

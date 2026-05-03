@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Evolution and Adaptive Search"
-permalink: "/program/research-agenda/recovery-requirements/life/evolution-and-adaptive-search/"
+permalink: "/agenda/recovery-requirements/life/evolution-and-adaptive-search/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l5"
-url: "/program/research-agenda/recovery-requirements/life/evolution-and-adaptive-search/"
+url: "/agenda/recovery-requirements/life/evolution-and-adaptive-search/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

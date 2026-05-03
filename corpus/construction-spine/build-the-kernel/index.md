@@ -6,7 +6,7 @@ short_title: "τ-Kernel"
 slug: "build-the-kernel"
 redirect_from:
   - "/corpus/construction-spine/define-the-kernel/"
-agenda_path: "/program/research-agenda/construction-roadmap/#build-the-kernel"
+agenda_path: "/agenda/construction-roadmap/#build-the-kernel"
 corpus_path: "/corpus/construction-spine/build-the-kernel/"
 results_path: "/results/progress-against-agenda/"
 summary: "Builds the full internal kernel machine: five generators, one primitive progression operator, K0-K6, multiplicative and exponential address structure, boundary algebra, τ-holomorphy, and internal truth machinery."

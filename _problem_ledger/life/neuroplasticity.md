@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Neuroplasticity"
-permalink: "/program/research-agenda/problem-ledger/life/neuroplasticity/"
+permalink: "/agenda/problem-ledger/life/neuroplasticity/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -130,7 +130,7 @@ tags:
   - "neuroplasticity"
   - "neuroscience-and-cognition"
   - "neurophysiology"
-url: "/program/research-agenda/problem-ledger/life/neuroplasticity/"
+url: "/agenda/problem-ledger/life/neuroplasticity/"
 results_mirror:
   exists: false
   result_id: ""

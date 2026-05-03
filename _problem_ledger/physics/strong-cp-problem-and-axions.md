@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Strong CP problem and axions"
-permalink: "/program/research-agenda/problem-ledger/physics/strong-cp-problem-and-axions/"
+permalink: "/agenda/problem-ledger/physics/strong-cp-problem-and-axions/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-physics"
   - "strong-cp-problem-and-axions"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/strong-cp-problem-and-axions/"
+url: "/agenda/problem-ledger/physics/strong-cp-problem-and-axions/"
 results_mirror:
   exists: false
   result_id: ""

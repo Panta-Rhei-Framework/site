@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Reality as a Recoverable Field"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/"
+permalink: "/agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r0"
-url: "/program/research-agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/"
+url: "/agenda/recovery-requirements/metaphysics/reality-as-a-recoverable-field/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

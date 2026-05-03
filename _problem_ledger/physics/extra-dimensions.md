@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Extra dimensions"
-permalink: "/program/research-agenda/problem-ledger/physics/extra-dimensions/"
+permalink: "/agenda/problem-ledger/physics/extra-dimensions/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "extra-dimensions"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/extra-dimensions/"
+url: "/agenda/problem-ledger/physics/extra-dimensions/"
 results_mirror:
   exists: false
   result_id: ""

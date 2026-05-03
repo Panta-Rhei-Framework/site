@@ -29,7 +29,7 @@
   thumbnail: /assets/images/plates/plate-02-from-obligation-to-inspection-thumb.webp
   og_image: /assets/images/plates/plate-02-from-obligation-to-inspection-og.jpg
   pages:
-    - /program/research-agenda/
+    - /agenda/
     - /discover/
   caption: >
     Panta Rhei asks to be read through a public chain of accountability:
@@ -49,7 +49,7 @@
   thumbnail: /assets/images/plates/plate-03-public-obligation-layer-thumb.webp
   og_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
   pages:
-    - /program/research-agenda/
+    - /agenda/
     - /program/
     - /discover/
   caption: >
@@ -71,7 +71,7 @@
   pages:
     - /corpus/
     - /corpus/construction-spine/
-    - /program/research-agenda/construction-roadmap/
+    - /agenda/construction-roadmap/
   caption: >
     The Construction Spine is the Corpus-side build narrative: ten canonical
     steps from kernel definition through mathematics, physics, life, reflective
@@ -249,7 +249,7 @@
   og_image: /assets/images/plates/plate-12-self-enrichment-not-reduction-og.jpg
   pages:
     - /impact/foundational-science/
-    - /program/research-agenda/kernel-model-reality/
+    - /agenda/kernel-model-reality/
   caption: >
     Self-enrichment explains how a later layer can be generated from a prior
     construction while carrying new relational grammar that was not expressible
@@ -288,7 +288,7 @@
   thumbnail: /assets/images/plates/plate-14-ontic-closure-burden-thumb.webp
   og_image: /assets/images/plates/plate-14-ontic-closure-burden-og.jpg
   pages:
-    - /program/research-agenda/kernel-model-reality/no-externalities/
+    - /agenda/kernel-model-reality/no-externalities/
   caption: >
     The Ontic Closure Burden states the no-externalities discipline: a serious
     model cannot defer decisive explanatory work to a hidden runtime, hidden

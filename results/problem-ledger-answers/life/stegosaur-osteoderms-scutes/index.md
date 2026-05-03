@@ -22,7 +22,7 @@ do_not_edit: true
 
 There is a long-standing debate over whether the primary function of the osteoderms/scutes of stegosaurs is protection from predators, sexual display, species recognition, thermoregulation, or other functions
 
-- Program Problem Ledger item: [life-biology-stegosaur-osteoderms-scutes](/program/research-agenda/problem-ledger/life/stegosaur-osteoderms-scutes/)
+- Program Problem Ledger item: [life-biology-stegosaur-osteoderms-scutes](/agenda/problem-ledger/life/stegosaur-osteoderms-scutes/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-stegosaur-osteoderms-scutes.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Otherwise known as the "paradox of the heap", the question regards how one defines a "thing." Is a bale of hay still a bale of hay if you remove one straw? If so, is it still a bale of hay if you remove another straw? If you continue this way, you will eventually deplete the entire bale of hay, and the question is: at what point is it no longer a bale of hay? While this may initially seem like a superficial problem, it penetrates to fundamental issues regarding how we define objects. This is similar to Theseus' paradox and the continuum fallacy
 
-- Program Problem Ledger item: [meta-sorites-paradox](/program/research-agenda/problem-ledger/metaphysics-philosophy/sorites-paradox/)
+- Program Problem Ledger item: [meta-sorites-paradox](/agenda/problem-ledger/metaphysics-philosophy/sorites-paradox/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-sorites-paradox.md`
 

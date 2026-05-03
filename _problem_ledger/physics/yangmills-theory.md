@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Yang–Mills theory"
-permalink: "/program/research-agenda/problem-ledger/physics/yangmills-theory/"
+permalink: "/agenda/problem-ledger/physics/yangmills-theory/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -144,7 +144,7 @@ tags:
   - "wikipedia-physics"
   - "yangmills-theory"
   - "quantum-physics"
-url: "/program/research-agenda/problem-ledger/physics/yangmills-theory/"
+url: "/agenda/problem-ledger/physics/yangmills-theory/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Theseus paradox"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/theseus-paradox/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/theseus-paradox/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -106,7 +106,7 @@ tags:
   - "wikipedia-philosophy"
   - "theseus-paradox"
   - "metaphysics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/theseus-paradox/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/theseus-paradox/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Size of universe"
-permalink: "/program/research-agenda/problem-ledger/physics/size-of-universe/"
+permalink: "/agenda/problem-ledger/physics/size-of-universe/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "size-of-universe"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/size-of-universe/"
+url: "/agenda/problem-ledger/physics/size-of-universe/"
 results_mirror:
   exists: false
   result_id: ""

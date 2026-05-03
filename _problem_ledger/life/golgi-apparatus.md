@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Golgi apparatus"
-permalink: "/program/research-agenda/problem-ledger/life/golgi-apparatus/"
+permalink: "/agenda/problem-ledger/life/golgi-apparatus/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "golgi-apparatus"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/golgi-apparatus/"
+url: "/agenda/problem-ledger/life/golgi-apparatus/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Poincare Conjecture"
-permalink: "/program/research-agenda/problem-ledger/mathematics/poincare-conjecture/"
+permalink: "/agenda/problem-ledger/mathematics/poincare-conjecture/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -101,7 +101,7 @@ tags:
   - "topology"
   - "millennium-problem"
   - "regrounding"
-url: "/program/research-agenda/problem-ledger/mathematics/poincare-conjecture/"
+url: "/agenda/problem-ledger/mathematics/poincare-conjecture/"
 results_mirror:
   exists: true
   result_id: "result-228"

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Yawning"
-permalink: "/program/research-agenda/problem-ledger/life/yawning/"
+permalink: "/agenda/problem-ledger/life/yawning/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "yawning"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/yawning/"
+url: "/agenda/problem-ledger/life/yawning/"
 results_mirror:
   exists: false
   result_id: ""

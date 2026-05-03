@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origin of turtles"
-permalink: "/program/research-agenda/problem-ledger/life/origin-of-turtles/"
+permalink: "/agenda/problem-ledger/life/origin-of-turtles/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "origin-of-turtles"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/origin-of-turtles/"
+url: "/agenda/problem-ledger/life/origin-of-turtles/"
 results_mirror:
   exists: false
   result_id: ""

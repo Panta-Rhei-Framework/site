@@ -26,7 +26,7 @@ Natural / Internal Unit System
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P2](/program/research-agenda/recovery-requirements/physics/natural-internal-unit-system/)
+- Program ledger item: [PREC-P2](/agenda/recovery-requirements/physics/natural-internal-unit-system/)
 - Verification mode: `internal_unit_architecture`
 
 ## Result Summary

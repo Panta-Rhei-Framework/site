@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is it possible to accurately predict the secondary, tertiary and quaternary structure of a polyribonucleic acid sequence based on its sequence and environment?
 
-- Program Problem Ledger item: [life-biology-rna-folding-problem](/program/research-agenda/problem-ledger/life/rna-folding-problem/)
+- Program Problem Ledger item: [life-biology-rna-folding-problem](/agenda/problem-ledger/life/rna-folding-problem/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-rna-folding-problem.md`
 

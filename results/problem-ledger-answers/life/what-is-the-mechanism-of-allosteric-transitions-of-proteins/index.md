@@ -22,7 +22,7 @@ do_not_edit: true
 
 The concerted and sequential models have been hypothesised but neither has been verified
 
-- Program Problem Ledger item: [life-biology-what-is-the-mechanism-of-allosteric-transitions-of-proteins](/program/research-agenda/problem-ledger/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/)
+- Program Problem Ledger item: [life-biology-what-is-the-mechanism-of-allosteric-transitions-of-proteins](/agenda/problem-ledger/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-what-is-the-mechanism-of-allosteric-transitions-of-proteins.md`
 

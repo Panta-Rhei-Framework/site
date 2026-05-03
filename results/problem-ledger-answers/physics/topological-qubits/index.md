@@ -22,7 +22,7 @@ do_not_edit: true
 
 Topological quantum computers are promising but can they be built? Can we demonstrate Majorana zero modes conclusively?
 
-- Program Problem Ledger item: [phys-topological-qubits](/program/research-agenda/problem-ledger/physics/topological-qubits/)
+- Program Problem Ledger item: [phys-topological-qubits](/agenda/problem-ledger/physics/topological-qubits/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-topological-qubits.md`
 

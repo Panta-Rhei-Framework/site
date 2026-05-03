@@ -22,7 +22,7 @@ do_not_edit: true
 
 Are moral facts possible, what do they consist in, and how do we come to know them? Rightness and wrongness seem to be strange kinds of entities, and different from the usual properties of things in the world, such as wetness, redness, or solidity. Richmond Campbell has outlined these kinds of issues in his encyclopedia article "Moral Epistemology" In particular, he considers three alternative explanations of moral facts as: theological, (supernatural, the commands of God); non-natural (based on intuitions); or simply natural properties (such as leading to pleasure or to happiness). There are cogent arguments against each of these alternative accounts, he claims, and there has not been any fourth alternative proposed. So the existence of moral knowledge and moral facts remains dubious and in need of further investigation. But moral knowledge supposedly already plays an important part in our everyday thinking, in our legal systems and criminal investigations
 
-- Program Problem Ledger item: [meta-moral-knowledge](/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/)
+- Program Problem Ledger item: [meta-moral-knowledge](/agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-moral-knowledge.md`
 

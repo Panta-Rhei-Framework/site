@@ -22,7 +22,7 @@ do_not_edit: true
 
 The measurements of the charged-current capture rate of neutrinos on Ga from strong radioactive sources have yielded results below those expected, based on the known strength of the principal transition supplemented by theory
 
-- Program Problem Ledger item: [phys-gallium-anomaly](/program/research-agenda/problem-ledger/physics/gallium-anomaly/)
+- Program Problem Ledger item: [phys-gallium-anomaly](/agenda/problem-ledger/physics/gallium-anomaly/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-gallium-anomaly.md`
 

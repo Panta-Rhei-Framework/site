@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Problem of representation"
-permalink: "/program/research-agenda/problem-ledger/life/problem-of-representation/"
+permalink: "/agenda/problem-ledger/life/problem-of-representation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -232,7 +232,7 @@ tags:
   - "wikipedia-neuroscience"
   - "problem-of-representation"
   - "consciousness"
-url: "/program/research-agenda/problem-ledger/life/problem-of-representation/"
+url: "/agenda/problem-ledger/life/problem-of-representation/"
 results_mirror:
   exists: false
   result_id: ""

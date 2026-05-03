@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Proton decay and spin crisis"
-permalink: "/program/research-agenda/problem-ledger/physics/proton-decay-and-spin-crisis/"
+permalink: "/agenda/problem-ledger/physics/proton-decay-and-spin-crisis/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "proton-decay-and-spin-crisis"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/proton-decay-and-spin-crisis/"
+url: "/agenda/problem-ledger/physics/proton-decay-and-spin-crisis/"
 results_mirror:
   exists: false
   result_id: ""

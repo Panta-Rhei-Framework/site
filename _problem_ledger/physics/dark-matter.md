@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Dark Matter"
-permalink: "/program/research-agenda/problem-ledger/physics/dark-matter/"
+permalink: "/agenda/problem-ledger/physics/dark-matter/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -179,7 +179,7 @@ tags:
   - "cosmology"
   - "dark-matter"
   - "particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/dark-matter/"
+url: "/agenda/problem-ledger/physics/dark-matter/"
 results_mirror:
   exists: true
   result_id: "result-015"

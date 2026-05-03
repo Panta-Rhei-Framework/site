@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Threshold problem"
-permalink: "/program/research-agenda/problem-ledger/physics/threshold-problem/"
+permalink: "/agenda/problem-ledger/physics/threshold-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -144,7 +144,7 @@ tags:
   - "wikipedia-physics"
   - "threshold-problem"
   - "quantum-computing-and-quantum-information"
-url: "/program/research-agenda/problem-ledger/physics/threshold-problem/"
+url: "/agenda/problem-ledger/physics/threshold-problem/"
 results_mirror:
   exists: false
   result_id: ""

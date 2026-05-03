@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Existence of the Grafenberg spot (G-spot)"
-permalink: "/program/research-agenda/problem-ledger/life/existence-of-the-grafenberg-spot-g-spot/"
+permalink: "/agenda/problem-ledger/life/existence-of-the-grafenberg-spot-g-spot/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "existence-of-the-grafenberg-spot-g-spot"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/existence-of-the-grafenberg-spot-g-spot/"
+url: "/agenda/problem-ledger/life/existence-of-the-grafenberg-spot-g-spot/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the quantitative properties of immune responses? What are the basic building blocks of immune system networks?
 
-- Program Problem Ledger item: [phys-quantitative-study-of-the-immune-system](/program/research-agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/)
+- Program Problem Ledger item: [phys-quantitative-study-of-the-immune-system](/agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantitative-study-of-the-immune-system.md`
 

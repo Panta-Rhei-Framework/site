@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "High-temperature superconductivity"
-permalink: "/program/research-agenda/problem-ledger/physics/high-temperature-superconductivity/"
+permalink: "/agenda/problem-ledger/physics/high-temperature-superconductivity/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -128,7 +128,7 @@ tags:
   - "wikipedia-physics"
   - "high-temperature-superconductivity"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/high-temperature-superconductivity/"
+url: "/agenda/problem-ledger/physics/high-temperature-superconductivity/"
 results_mirror:
   exists: false
   result_id: ""

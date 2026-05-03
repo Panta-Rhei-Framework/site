@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Free will, particularly the neuroscience of free will"
-permalink: "/program/research-agenda/problem-ledger/life/free-will-particularly-the-neuroscience-of-free-will/"
+permalink: "/agenda/problem-ledger/life/free-will-particularly-the-neuroscience-of-free-will/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -121,7 +121,7 @@ tags:
   - "wikipedia-neuroscience"
   - "free-will-particularly-the-neuroscience-of-free-will"
   - "mind-body-connection"
-url: "/program/research-agenda/problem-ledger/life/free-will-particularly-the-neuroscience-of-free-will/"
+url: "/agenda/problem-ledger/life/free-will-particularly-the-neuroscience-of-free-will/"
 results_mirror:
   exists: false
   result_id: ""

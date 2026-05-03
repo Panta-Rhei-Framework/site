@@ -22,7 +22,7 @@ do_not_edit: true
 
 Observations reveal that magnetic fields are present throughout the universe, from galaxies to galaxy clusters. However, the mechanisms that generated these large-scale cosmic magnetic fields remain unclear. Understanding their origin is a significant unsolved problem in astrophysics
 
-- Program Problem Ledger item: [phys-origin-of-cosmic-magnetic-fields](/program/research-agenda/problem-ledger/physics/origin-of-cosmic-magnetic-fields/)
+- Program Problem Ledger item: [phys-origin-of-cosmic-magnetic-fields](/agenda/problem-ledger/physics/origin-of-cosmic-magnetic-fields/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-origin-of-cosmic-magnetic-fields.md`
 

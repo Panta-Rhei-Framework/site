@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Protein folding"
-permalink: "/program/research-agenda/problem-ledger/life/protein-folding/"
+permalink: "/agenda/problem-ledger/life/protein-folding/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -207,7 +207,7 @@ tags:
   - "protein-folding"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/protein-folding/"
+url: "/agenda/problem-ledger/life/protein-folding/"
 results_mirror:
   exists: false
   result_id: ""

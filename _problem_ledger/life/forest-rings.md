@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Forest rings"
-permalink: "/program/research-agenda/problem-ledger/life/forest-rings/"
+permalink: "/agenda/problem-ledger/life/forest-rings/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "forest-rings"
   - "general-biology"
   - "other"
-url: "/program/research-agenda/problem-ledger/life/forest-rings/"
+url: "/agenda/problem-ledger/life/forest-rings/"
 results_mirror:
   exists: false
   result_id: ""

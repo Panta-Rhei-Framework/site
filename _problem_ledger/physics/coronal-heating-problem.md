@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Coronal heating problem"
-permalink: "/program/research-agenda/problem-ledger/physics/coronal-heating-problem/"
+permalink: "/agenda/problem-ledger/physics/coronal-heating-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "coronal-heating-problem"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/coronal-heating-problem/"
+url: "/agenda/problem-ledger/physics/coronal-heating-problem/"
 results_mirror:
   exists: false
   result_id: ""

@@ -51,10 +51,10 @@ collections:
     permalink: /falsifications/:name/
   problem_ledger:
     output: true
-    permalink: /program/research-agenda/problem-ledger/:path/
+    permalink: /agenda/problem-ledger/:path/
   recovery_requirements:
     output: true
-    permalink: /program/research-agenda/recovery-requirements/:path/
+    permalink: /agenda/recovery-requirements/:path/
 
 collections_dir: .
 

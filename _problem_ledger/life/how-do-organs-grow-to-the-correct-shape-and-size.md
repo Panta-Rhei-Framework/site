@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "How do organs grow to the correct shape and size?"
-permalink: "/program/research-agenda/problem-ledger/life/how-do-organs-grow-to-the-correct-shape-and-size/"
+permalink: "/agenda/problem-ledger/life/how-do-organs-grow-to-the-correct-shape-and-size/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "how-do-organs-grow-to-the-correct-shape-and-size"
   - "general-biology"
   - "other"
-url: "/program/research-agenda/problem-ledger/life/how-do-organs-grow-to-the-correct-shape-and-size/"
+url: "/agenda/problem-ledger/life/how-do-organs-grow-to-the-correct-shape-and-size/"
 results_mirror:
   exists: false
   result_id: ""

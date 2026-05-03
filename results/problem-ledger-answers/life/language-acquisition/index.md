@@ -22,7 +22,7 @@ do_not_edit: true
 
 Language acquisition
 
-- Program Problem Ledger item: [life-neuroscience-language-acquisition](/program/research-agenda/problem-ledger/life/language-acquisition/)
+- Program Problem Ledger item: [life-neuroscience-language-acquisition](/agenda/problem-ledger/life/language-acquisition/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-neuroscience-language-acquisition.md`
 

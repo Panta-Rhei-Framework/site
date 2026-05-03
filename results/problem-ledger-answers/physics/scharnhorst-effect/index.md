@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can light signals travel slightly faster than c between two closely spaced conducting plates, exploiting the Casimir effect?
 
-- Program Problem Ledger item: [phys-scharnhorst-effect](/program/research-agenda/problem-ledger/physics/scharnhorst-effect/)
+- Program Problem Ledger item: [phys-scharnhorst-effect](/agenda/problem-ledger/physics/scharnhorst-effect/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-scharnhorst-effect.md`
 

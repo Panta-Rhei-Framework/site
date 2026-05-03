@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origins of viruses (Virus World)"
-permalink: "/program/research-agenda/problem-ledger/life/origins-of-viruses-virus-world/"
+permalink: "/agenda/problem-ledger/life/origins-of-viruses-virus-world/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -115,7 +115,7 @@ tags:
   - "origins-of-viruses-virus-world"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/origins-of-viruses-virus-world/"
+url: "/agenda/problem-ledger/life/origins-of-viruses-virus-world/"
 results_mirror:
   exists: false
   result_id: ""

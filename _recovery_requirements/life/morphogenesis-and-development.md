@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Morphogenesis and Development"
-permalink: "/program/research-agenda/recovery-requirements/life/morphogenesis-and-development/"
+permalink: "/agenda/recovery-requirements/life/morphogenesis-and-development/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l6"
-url: "/program/research-agenda/recovery-requirements/life/morphogenesis-and-development/"
+url: "/agenda/recovery-requirements/life/morphogenesis-and-development/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

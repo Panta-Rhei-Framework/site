@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Handedness"
-permalink: "/program/research-agenda/problem-ledger/life/handedness/"
+permalink: "/agenda/problem-ledger/life/handedness/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-biology"
   - "handedness"
   - "human-biology"
-url: "/program/research-agenda/problem-ledger/life/handedness/"
+url: "/agenda/problem-ledger/life/handedness/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Also known as the ship of Theseus, this is a classical paradox on the first branch of metaphysics, ontology (philosophy of existence and identity). The paradox runs thus: There used to be the great ship of Theseus which was made out of, say, 100 parts. Each part has a single corresponding replacement part in the ship's port. Over the centuries, each part is replaced individually as it breaks, and eventually, not a single original part of the ship remains. Is this new ship the ship of Theseus or not? If yes, consider this: the broken original parts are repaired and re-assembled. Is this the ship of Theseus or not? If not, let us name the new ship "The Argo". At what point did the crew of the Theseus become the crew of the Argo? And what ship is sailing when 50 of the parts have been replaced? If both the ships trade a single piece, are they still the same ships? This paradox is a minor variation of the Sorites Paradox above, and has many variations itself. Both sides of the paradox have convincing arguments and counter-arguments, though no one is close to proving it completely
 
-- Program Problem Ledger item: [meta-theseus-paradox](/program/research-agenda/problem-ledger/metaphysics-philosophy/theseus-paradox/)
+- Program Problem Ledger item: [meta-theseus-paradox](/agenda/problem-ledger/metaphysics-philosophy/theseus-paradox/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-theseus-paradox.md`
 

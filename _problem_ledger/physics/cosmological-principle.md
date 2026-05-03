@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cosmological principle"
-permalink: "/program/research-agenda/problem-ledger/physics/cosmological-principle/"
+permalink: "/agenda/problem-ledger/physics/cosmological-principle/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-physics"
   - "cosmological-principle"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/cosmological-principle/"
+url: "/agenda/problem-ledger/physics/cosmological-principle/"
 results_mirror:
   exists: false
   result_id: ""

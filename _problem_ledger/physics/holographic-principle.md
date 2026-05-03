@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Holographic principle"
-permalink: "/program/research-agenda/problem-ledger/physics/holographic-principle/"
+permalink: "/agenda/problem-ledger/physics/holographic-principle/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -144,7 +144,7 @@ tags:
   - "wikipedia-physics"
   - "holographic-principle"
   - "quantum-gravity"
-url: "/program/research-agenda/problem-ledger/physics/holographic-principle/"
+url: "/agenda/problem-ledger/physics/holographic-principle/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the origin of this trace fossil and its modern counterparts? Despite many theories proposed, no evidence has been found to confirm any of them
 
-- Program Problem Ledger item: [life-biology-paleodictyon](/program/research-agenda/problem-ledger/life/paleodictyon/)
+- Program Problem Ledger item: [life-biology-paleodictyon](/agenda/problem-ledger/life/paleodictyon/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-paleodictyon.md`
 

@@ -10,7 +10,7 @@ summary_short: "The status and type grammar used to classify Panta Rhei result p
 right_rail:
   related:
     - title: "Program Result Criteria"
-      url: /program/research-agenda/result-criteria/
+      url: /agenda/result-criteria/
     - title: "Problem Answers"
       url: /results/problem-ledger-answers/
     - title: "Status and Claim Typing"
@@ -76,4 +76,4 @@ The current Results surface makes those differences explicit through frontmatter
 
 ## Why this matters
 
-The same catalogue contains internal formal claims, bridge claims, empirical mappings, predictions, and interpretive readouts. A reader should not have to infer which burden a page carries. “Internally addressed” means the program currently has an internal answer route; it does not mean external verification or scientific acceptance. The classification layer names that burden explicitly and links back to the [Program result criteria]({{ '/program/research-agenda/result-criteria/' | relative_url }}).
+The same catalogue contains internal formal claims, bridge claims, empirical mappings, predictions, and interpretive readouts. A reader should not have to infer which burden a page carries. “Internally addressed” means the program currently has an internal answer route; it does not mean external verification or scientific acceptance. The classification layer names that burden explicitly and links back to the [Program result criteria]({{ '/agenda/result-criteria/' | relative_url }}).

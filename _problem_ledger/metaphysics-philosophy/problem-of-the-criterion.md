@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Problem of the criterion"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-the-criterion/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/problem-of-the-criterion/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -160,7 +160,7 @@ tags:
   - "wikipedia-philosophy"
   - "problem-of-the-criterion"
   - "epistemology"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-the-criterion/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/problem-of-the-criterion/"
 results_mirror:
   exists: false
   result_id: ""

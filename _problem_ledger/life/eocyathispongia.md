@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Eocyathispongia"
-permalink: "/program/research-agenda/problem-ledger/life/eocyathispongia/"
+permalink: "/agenda/problem-ledger/life/eocyathispongia/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "eocyathispongia"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-url: "/program/research-agenda/problem-ledger/life/eocyathispongia/"
+url: "/agenda/problem-ledger/life/eocyathispongia/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 why does a granular material subjected to shaking or vibration exhibit circulation patterns similar to types of fluid convection? Why do the largest particles end up on the surface of a granular material containing a mixture of variously sized objects when subjected to a vibration/shaking?
 
-- Program Problem Ledger item: [phys-granular-convection](/program/research-agenda/problem-ledger/physics/granular-convection/)
+- Program Problem Ledger item: [phys-granular-convection](/agenda/problem-ledger/physics/granular-convection/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-granular-convection.md`
 

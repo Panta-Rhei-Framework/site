@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is the theory of cosmic inflation in the very early universe correct, and, if so, what are the details of this epoch? What is the hypothetical scalar field that gave rise to this cosmic inflation? If inflation happened at one point, is it self-sustaining through inflation of quantum-mechanical fluctuations, and thus ongoing in some extremely distant place?
 
-- Program Problem Ledger item: [phys-cosmic-inflation](/program/research-agenda/problem-ledger/physics/cosmic-inflation/)
+- Program Problem Ledger item: [phys-cosmic-inflation](/agenda/problem-ledger/physics/cosmic-inflation/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-cosmic-inflation.md`
 

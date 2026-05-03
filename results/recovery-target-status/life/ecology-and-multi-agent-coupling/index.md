@@ -26,7 +26,7 @@ Ecology and Multi-Agent Coupling
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L8](/program/research-agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/)
+- Program ledger item: [LREC-L8](/agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

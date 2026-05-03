@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the exact mechanism by which an implosion of a dying star becomes an explosion?
 
-- Program Problem Ledger item: [phys-supernovae](/program/research-agenda/problem-ledger/physics/supernovae/)
+- Program Problem Ledger item: [phys-supernovae](/agenda/problem-ledger/physics/supernovae/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-supernovae.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Sleep
 
-- Program Problem Ledger item: [life-neuroscience-sleep](/program/research-agenda/problem-ledger/life/sleep/)
+- Program Problem Ledger item: [life-neuroscience-sleep](/agenda/problem-ledger/life/sleep/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-neuroscience-sleep.md`
 

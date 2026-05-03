@@ -15,7 +15,7 @@ og_image_alt: "Scientific plate showing the Verify lane as a verification matrix
 right_rail:
   related:
     - title: "Construction Roadmap"
-      url: /program/research-agenda/construction-roadmap/
+      url: /agenda/construction-roadmap/
     - title: "Corpus Construction Spine"
       url: /corpus/construction-spine/
     - title: "Formal Verification Stack"

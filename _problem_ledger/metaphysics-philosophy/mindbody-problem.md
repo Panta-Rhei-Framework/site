@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Mind–body problem"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/mindbody-problem/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/mindbody-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -144,7 +144,7 @@ tags:
   - "wikipedia-philosophy"
   - "mindbody-problem"
   - "philosophy-of-mind"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/mindbody-problem/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/mindbody-problem/"
 results_mirror:
   exists: false
   result_id: ""

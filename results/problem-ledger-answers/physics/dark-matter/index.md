@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the identity of dark matter? Is it a particle? If so, is it a WIMP, axion, the lightest superpartner (LSP), or some other particle? Or, are the phenomena attributed to dark matter the result of an alternate theory of gravity separate from general relativity altogether? Despite extensive research, the exact composition of dark matter remains unknown. It is inferred from gravitational effects on visible matter, radiation, and the universe's large-scale structure. Understanding its properties is crucial for a comprehensive understanding of the universe
 
-- Program Problem Ledger item: [phys-dark-matter](/program/research-agenda/problem-ledger/physics/dark-matter/)
+- Program Problem Ledger item: [phys-dark-matter](/agenda/problem-ledger/physics/dark-matter/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-dark-matter.md`
 

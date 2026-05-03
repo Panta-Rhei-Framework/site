@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Dimensionless physical constants"
-permalink: "/program/research-agenda/problem-ledger/physics/dimensionless-physical-constants/"
+permalink: "/agenda/problem-ledger/physics/dimensionless-physical-constants/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "dimensionless-physical-constants"
   - "general-physics"
-url: "/program/research-agenda/problem-ledger/physics/dimensionless-physical-constants/"
+url: "/agenda/problem-ledger/physics/dimensionless-physical-constants/"
 results_mirror:
   exists: false
   result_id: ""

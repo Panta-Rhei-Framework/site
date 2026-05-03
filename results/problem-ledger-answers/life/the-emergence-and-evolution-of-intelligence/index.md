@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are the laws and mechanisms of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in ontogenesis, etc.?
 
-- Program Problem Ledger item: [life-biology-the-emergence-and-evolution-of-intelligence](/program/research-agenda/problem-ledger/life/the-emergence-and-evolution-of-intelligence/)
+- Program Problem Ledger item: [life-biology-the-emergence-and-evolution-of-intelligence](/agenda/problem-ledger/life/the-emergence-and-evolution-of-intelligence/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-the-emergence-and-evolution-of-intelligence.md`
 

@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Being, Existence, and Ontological Status"
-permalink: "/program/research-agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/"
+permalink: "/agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "metaphysics"
   - "recovery-requirements"
   - "meth-r1"
-url: "/program/research-agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/"
+url: "/agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/"
 verification:
   status: "pending_metaphysics_verification"
   mode: "metaphysical_recovery_target"

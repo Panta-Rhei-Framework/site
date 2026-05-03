@@ -39,7 +39,7 @@ Pick a route by goal. These are deliberately short; they are paths into the site
   </div>
   <div class="v2-tile">
     <h3>Serious conceptual path</h3>
-    <p><a href="{{ '/program/' | relative_url }}">Program</a> -> <a href="{{ '/program/research-agenda/' | relative_url }}">Research Agenda</a> -> <a href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">Kernel, Model &amp; Reality</a> -> <a href="{{ '/corpus/construction-spine/' | relative_url }}">Corpus Construction Spine</a> -> <a href="{{ '/results/' | relative_url }}">Results</a> -> <a href="{{ '/verify/' | relative_url }}">Verify</a></p>
+    <p><a href="{{ '/program/' | relative_url }}">Program</a> -> <a href="{{ '/agenda/' | relative_url }}">Research Agenda</a> -> <a href="{{ '/agenda/kernel-model-reality/' | relative_url }}">Kernel, Model &amp; Reality</a> -> <a href="{{ '/corpus/construction-spine/' | relative_url }}">Corpus Construction Spine</a> -> <a href="{{ '/results/' | relative_url }}">Results</a> -> <a href="{{ '/verify/' | relative_url }}">Verify</a></p>
   </div>
   <div class="v2-tile">
     <h3>Publication-first path</h3>
@@ -47,11 +47,11 @@ Pick a route by goal. These are deliberately short; they are paths into the site
   </div>
   <div class="v2-tile">
     <h3>Reviewer path</h3>
-    <p><a href="{{ '/program/research-agenda/problem-ledger-source-policy/' | relative_url }}">Problem Ledger Source Policy</a> -> <a href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">Problem Ledger</a> -> <a href="{{ '/program/research-agenda/recovery-requirements/' | relative_url }}">Recovery Requirements</a> -> <a href="{{ '/results/progress-against-agenda/' | relative_url }}">Progress Against Agenda</a> -> <a href="{{ '/verify/formal-verification-stack/' | relative_url }}">Formal Verification Stack</a> -> <a href="{{ '/verify/assessment-protocols/' | relative_url }}">Assessment Protocols</a></p>
+    <p><a href="{{ '/agenda/problem-ledger-source-policy/' | relative_url }}">Problem Ledger Source Policy</a> -> <a href="{{ '/agenda/problem-ledger/' | relative_url }}">Problem Ledger</a> -> <a href="{{ '/agenda/recovery-requirements/' | relative_url }}">Recovery Requirements</a> -> <a href="{{ '/results/progress-against-agenda/' | relative_url }}">Progress Against Agenda</a> -> <a href="{{ '/verify/formal-verification-stack/' | relative_url }}">Formal Verification Stack</a> -> <a href="{{ '/verify/assessment-protocols/' | relative_url }}">Assessment Protocols</a></p>
   </div>
   <div class="v2-tile">
     <h3>Research architecture path</h3>
-    <p><a href="{{ '/program/research-agenda/' | relative_url }}">Research Agenda</a> -> <a href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">Construction Roadmap</a> -> <a href="{{ '/corpus/construction-spine/' | relative_url }}">Corpus Construction Spine</a> -> <a href="{{ '/results/progress-against-agenda/' | relative_url }}">Results: Progress Against Agenda</a> -> <a href="{{ '/verify/' | relative_url }}">Verify</a></p>
+    <p><a href="{{ '/agenda/' | relative_url }}">Research Agenda</a> -> <a href="{{ '/agenda/construction-roadmap/' | relative_url }}">Construction Roadmap</a> -> <a href="{{ '/corpus/construction-spine/' | relative_url }}">Corpus Construction Spine</a> -> <a href="{{ '/results/progress-against-agenda/' | relative_url }}">Results: Progress Against Agenda</a> -> <a href="{{ '/verify/' | relative_url }}">Verify</a></p>
   </div>
   <div class="v2-tile">
     <h3>Ongoing follow path</h3>

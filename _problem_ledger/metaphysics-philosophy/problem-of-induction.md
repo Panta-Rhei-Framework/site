@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Problem of induction"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-induction/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/problem-of-induction/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-philosophy"
   - "problem-of-induction"
   - "epistemology"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-induction/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/problem-of-induction/"
 results_mirror:
   exists: false
   result_id: ""

@@ -30,7 +30,7 @@ right_rail:
     - title: "Coherent Theory of Reality"
       url: /program/about/coherent-theory-of-reality/
     - title: "What the Program Refuses"
-      url: /program/research-agenda/what-the-program-refuses/
+      url: /agenda/what-the-program-refuses/
     - title: "Build the τ-Kernel"
       url: /corpus/construction-spine/build-the-kernel/
   meta:
@@ -62,7 +62,7 @@ Panta Rhei shares the move from matter to structure, but it does not let structu
 ## Where to inspect next
 
 - [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}) for how reality-scope is framed.
-- [What the Program Refuses]({{ '/program/research-agenda/what-the-program-refuses/' | relative_url }}) for refusal of shortcut foundations.
+- [What the Program Refuses]({{ '/agenda/what-the-program-refuses/' | relative_url }}) for refusal of shortcut foundations.
 - [Build the τ-Kernel]({{ '/corpus/construction-spine/build-the-kernel/' | relative_url }}) for the starting construction.
 - [Recover Core Mathematics]({{ '/corpus/construction-spine/recover-core-mathematics/' | relative_url }}) for mathematical recovery.
-- [No Externalities]({{ '/program/research-agenda/kernel-model-reality/no-externalities/' | relative_url }}) for the hidden-load rule.
+- [No Externalities]({{ '/agenda/kernel-model-reality/no-externalities/' | relative_url }}) for the hidden-load rule.

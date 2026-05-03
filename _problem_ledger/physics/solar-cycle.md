@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Solar cycle"
-permalink: "/program/research-agenda/problem-ledger/physics/solar-cycle/"
+permalink: "/agenda/problem-ledger/physics/solar-cycle/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "solar-cycle"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/solar-cycle/"
+url: "/agenda/problem-ledger/physics/solar-cycle/"
 results_mirror:
   exists: false
   result_id: ""

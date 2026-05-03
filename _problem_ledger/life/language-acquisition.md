@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Language acquisition"
-permalink: "/program/research-agenda/problem-ledger/life/language-acquisition/"
+permalink: "/agenda/problem-ledger/life/language-acquisition/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -183,7 +183,7 @@ tags:
   - "wikipedia-neuroscience"
   - "language-acquisition"
   - "language"
-url: "/program/research-agenda/problem-ledger/life/language-acquisition/"
+url: "/agenda/problem-ledger/life/language-acquisition/"
 results_mirror:
   exists: false
   result_id: ""

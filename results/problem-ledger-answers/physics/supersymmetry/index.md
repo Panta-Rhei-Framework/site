@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is spacetime supersymmetry realized at TeV scale? If so, what is the mechanism of supersymmetry breaking? Does supersymmetry stabilize the electroweak scale, preventing high quantum corrections? Does the lightest supersymmetric particle (LSP) comprise dark matter?
 
-- Program Problem Ledger item: [phys-supersymmetry](/program/research-agenda/problem-ledger/physics/supersymmetry/)
+- Program Problem Ledger item: [phys-supersymmetry](/agenda/problem-ledger/physics/supersymmetry/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-supersymmetry.md`
 

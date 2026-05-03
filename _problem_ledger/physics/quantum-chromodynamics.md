@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Quantum chromodynamics"
-permalink: "/program/research-agenda/problem-ledger/physics/quantum-chromodynamics/"
+permalink: "/agenda/problem-ledger/physics/quantum-chromodynamics/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -152,7 +152,7 @@ tags:
   - "wikipedia-physics"
   - "quantum-chromodynamics"
   - "nuclear-physics"
-url: "/program/research-agenda/problem-ledger/physics/quantum-chromodynamics/"
+url: "/agenda/problem-ledger/physics/quantum-chromodynamics/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Mechanism of action of drugs"
-permalink: "/program/research-agenda/problem-ledger/life/mechanism-of-action-of-drugs/"
+permalink: "/agenda/problem-ledger/life/mechanism-of-action-of-drugs/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -131,7 +131,7 @@ tags:
   - "mechanism-of-action-of-drugs"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/mechanism-of-action-of-drugs/"
+url: "/agenda/problem-ledger/life/mechanism-of-action-of-drugs/"
 results_mirror:
   exists: false
   result_id: ""

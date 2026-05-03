@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is the proton fundamentally stable? Or does it decay with a finite lifetime as predicted by some extensions to the standard model? How do the quarks and gluons carry the spin of protons?
 
-- Program Problem Ledger item: [phys-proton-decay-and-spin-crisis](/program/research-agenda/problem-ledger/physics/proton-decay-and-spin-crisis/)
+- Program Problem Ledger item: [phys-proton-decay-and-spin-crisis](/agenda/problem-ledger/physics/proton-decay-and-spin-crisis/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-proton-decay-and-spin-crisis.md`
 

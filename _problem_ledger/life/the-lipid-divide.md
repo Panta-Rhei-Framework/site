@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "The lipid divide"
-permalink: "/program/research-agenda/problem-ledger/life/the-lipid-divide/"
+permalink: "/agenda/problem-ledger/life/the-lipid-divide/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -123,7 +123,7 @@ tags:
   - "the-lipid-divide"
   - "general-biology"
   - "evolution-and-origins-of-life"
-url: "/program/research-agenda/problem-ledger/life/the-lipid-divide/"
+url: "/agenda/problem-ledger/life/the-lipid-divide/"
 results_mirror:
   exists: false
   result_id: ""

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the absolute mass of neutrinos? Are they Dirac or Majorana fermions? Is the mass hierarchy normal or inverted? Is the CP violating phase equal to 0?
 
-- Program Problem Ledger item: [phys-neutrino-mass](/program/research-agenda/problem-ledger/physics/neutrino-mass/)
+- Program Problem Ledger item: [phys-neutrino-mass](/agenda/problem-ledger/physics/neutrino-mass/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-neutrino-mass.md`
 

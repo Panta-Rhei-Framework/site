@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Gettier problem"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/gettier-problem/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/gettier-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -168,7 +168,7 @@ tags:
   - "wikipedia-philosophy"
   - "gettier-problem"
   - "epistemology"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/gettier-problem/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/gettier-problem/"
 results_mirror:
   exists: false
   result_id: ""

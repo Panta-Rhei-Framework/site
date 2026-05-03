@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Nuclei and nuclear astrophysics"
-permalink: "/program/research-agenda/problem-ledger/physics/nuclei-and-nuclear-astrophysics/"
+permalink: "/agenda/problem-ledger/physics/nuclei-and-nuclear-astrophysics/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -192,7 +192,7 @@ tags:
   - "wikipedia-physics"
   - "nuclei-and-nuclear-astrophysics"
   - "nuclear-physics"
-url: "/program/research-agenda/problem-ledger/physics/nuclei-and-nuclear-astrophysics/"
+url: "/agenda/problem-ledger/physics/nuclei-and-nuclear-astrophysics/"
 results_mirror:
   exists: false
   result_id: ""

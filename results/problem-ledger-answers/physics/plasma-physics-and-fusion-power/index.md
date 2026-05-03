@@ -22,7 +22,7 @@ do_not_edit: true
 
 Fusion energy may potentially provide power from an abundant resource (e.g. hydrogen) without the type of radioactive waste that fission energy currently produces. However, can ionized gases (plasma) be confined long enough and at a high enough temperature to create fusion power? What is the physical origin of H-mode?
 
-- Program Problem Ledger item: [phys-plasma-physics-and-fusion-power](/program/research-agenda/problem-ledger/physics/plasma-physics-and-fusion-power/)
+- Program Problem Ledger item: [phys-plasma-physics-and-fusion-power](/agenda/problem-ledger/physics/plasma-physics-and-fusion-power/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-plasma-physics-and-fusion-power.md`
 

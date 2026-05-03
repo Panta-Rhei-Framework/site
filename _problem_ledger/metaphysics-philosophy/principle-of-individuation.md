@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Principle of individuation"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/principle-of-individuation/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/principle-of-individuation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -96,7 +96,7 @@ tags:
   - "wikipedia-philosophy"
   - "principle-of-individuation"
   - "metaphysics"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/principle-of-individuation/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/principle-of-individuation/"
 results_mirror:
   exists: false
   result_id: ""

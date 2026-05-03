@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "How is life related to mind, machines, and culture?"
-permalink: "/program/research-agenda/problem-ledger/life/how-is-life-related-to-mind-machines-and-culture/"
+permalink: "/agenda/problem-ledger/life/how-is-life-related-to-mind-machines-and-culture/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -96,7 +96,7 @@ tags:
   - "wikipedia-biology"
   - "how-is-life-related-to-mind-machines-and-culture"
   - "artificial-life"
-url: "/program/research-agenda/problem-ledger/life/how-is-life-related-to-mind-machines-and-culture/"
+url: "/agenda/problem-ledger/life/how-is-life-related-to-mind-machines-and-culture/"
 results_mirror:
   exists: false
   result_id: ""

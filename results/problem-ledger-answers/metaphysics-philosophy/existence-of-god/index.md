@@ -22,7 +22,7 @@ do_not_edit: true
 
 A variety of arguments including forms of the contingency argument, ontological argument, and moral argument have been proposed by philosophers like Aristotle, Descartes, Leibniz, Gödel, and Aquinas for the existence of God throughout history. Arguments for God usually refer to some form of metaphysically or logically necessary maximally great being distinct from individual deities, although philosophers have also proposed different concepts of God. Wittgenstein and Kant, on the other hand, defended religious belief while doubting that rational arguments could prove God's existence. Philosophers have also considered objections to the existence of God like the problem of evil and divine hiddenness
 
-- Program Problem Ledger item: [meta-existence-of-god](/program/research-agenda/problem-ledger/metaphysics-philosophy/existence-of-god/)
+- Program Problem Ledger item: [meta-existence-of-god](/agenda/problem-ledger/metaphysics-philosophy/existence-of-god/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-existence-of-god.md`
 

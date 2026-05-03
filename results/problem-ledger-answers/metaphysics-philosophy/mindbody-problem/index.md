@@ -22,7 +22,7 @@ do_not_edit: true
 
 The mind–body problem is the problem of determining the relationship between the human body and the human mind. Philosophical positions on this question are generally predicated on either a reduction of one to the other, or a belief in the discrete coexistence of both. This problem is usually exemplified by Descartes, who championed a dualistic picture. The problem therein is to establish how the mind and body communicate in a dualistic framework, and how causality occurs between the two. Neurobiology and emergence have further complicated the problem by allowing the material functions of the mind to be a representation of some further aspect emerging from the mechanistic properties of the brain. The brain essentially stops generating conscious thought during deep sleep; the ability to restore such a pattern remains a mystery to science and is a subject of current research (see also neurophilosophy)
 
-- Program Problem Ledger item: [meta-mindbody-problem](/program/research-agenda/problem-ledger/metaphysics-philosophy/mindbody-problem/)
+- Program Problem Ledger item: [meta-mindbody-problem](/agenda/problem-ledger/metaphysics-philosophy/mindbody-problem/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-mindbody-problem.md`
 

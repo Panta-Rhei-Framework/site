@@ -22,7 +22,7 @@ do_not_edit: true
 
 why does the evolution of novel species almost never lead to the extinction of resident species?
 
-- Program Problem Ledger item: [life-biology-persistence-paradox](/program/research-agenda/problem-ledger/life/persistence-paradox/)
+- Program Problem Ledger item: [life-biology-persistence-paradox](/agenda/problem-ledger/life/persistence-paradox/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-persistence-paradox.md`
 

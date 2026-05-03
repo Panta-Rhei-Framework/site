@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Determinants of cell size"
-permalink: "/program/research-agenda/problem-ledger/life/determinants-of-cell-size/"
+permalink: "/agenda/problem-ledger/life/determinants-of-cell-size/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "determinants-of-cell-size"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-url: "/program/research-agenda/problem-ledger/life/determinants-of-cell-size/"
+url: "/agenda/problem-ledger/life/determinants-of-cell-size/"
 results_mirror:
   exists: false
   result_id: ""

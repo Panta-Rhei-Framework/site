@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Shape of the universe"
-permalink: "/program/research-agenda/problem-ledger/physics/shape-of-the-universe/"
+permalink: "/agenda/problem-ledger/physics/shape-of-the-universe/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "shape-of-the-universe"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/shape-of-the-universe/"
+url: "/agenda/problem-ledger/physics/shape-of-the-universe/"
 results_mirror:
   exists: false
   result_id: ""

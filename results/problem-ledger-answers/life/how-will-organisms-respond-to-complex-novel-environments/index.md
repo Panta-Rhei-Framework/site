@@ -22,7 +22,7 @@ do_not_edit: true
 
 Climate change is of significant relevance
 
-- Program Problem Ledger item: [life-biology-how-will-organisms-respond-to-complex-novel-environments](/program/research-agenda/problem-ledger/life/how-will-organisms-respond-to-complex-novel-environments/)
+- Program Problem Ledger item: [life-biology-how-will-organisms-respond-to-complex-novel-environments](/agenda/problem-ledger/life/how-will-organisms-respond-to-complex-novel-environments/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-how-will-organisms-respond-to-complex-novel-environments.md`
 

@@ -20,9 +20,9 @@ hero_ctas:
     url: /program/
     primary: true
   - label: "Agenda"
-    url: /program/research-agenda/
+    url: /agenda/
   - label: "Kernel, Model & Reality"
-    url: /program/research-agenda/kernel-model-reality/
+    url: /agenda/kernel-model-reality/
   - label: "Related Approaches"
     url: /program/about/related-approaches/
 right_rail:
@@ -40,7 +40,7 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Kernel, Model & Reality"
-      url: /program/research-agenda/kernel-model-reality/
+      url: /agenda/kernel-model-reality/
   meta:
     type: "Program Doctrine"
     status: "Canonical"

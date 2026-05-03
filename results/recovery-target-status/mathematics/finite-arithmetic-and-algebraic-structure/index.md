@@ -26,7 +26,7 @@ Finite Arithmetic and Algebraic Structure
 
 - Recovery status: **Partial**
 - Verification status: **Pending bridge verification**
-- Program ledger item: [MREC-M2](/program/research-agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/)
+- Program ledger item: [MREC-M2](/agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/)
 - Verification mode: `foundational_recovery_target`
 
 ## Result Summary

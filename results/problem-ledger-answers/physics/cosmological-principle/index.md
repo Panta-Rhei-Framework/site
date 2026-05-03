@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is the universe homogeneous and isotropic at large enough scales, as claimed by the cosmological principle and assumed by all models that use the Friedmann–Lemaître–Robertson–Walker metric, including the current version of the ΛCDM model, or is the universe inhomogeneous or anisotropic? Is the CMB dipole purely kinematic, or does it signal anisotropy of the universe, resulting in the breakdown of the FLRW metric and the cosmological principle? Is the Hubble tension evidence that the cosmological principle is false? Even if the cosmological principle is correct, is the Friedmann–Lemaître–Robertson–Walker metric the right metric to use for our universe? Are the observations usually interpreted as the accelerating expansion of the universe rightly interpreted, or are they instead evidence that the cosmological principle is false?
 
-- Program Problem Ledger item: [phys-cosmological-principle](/program/research-agenda/problem-ledger/physics/cosmological-principle/)
+- Program Problem Ledger item: [phys-cosmological-principle](/agenda/problem-ledger/physics/cosmological-principle/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-cosmological-principle.md`
 

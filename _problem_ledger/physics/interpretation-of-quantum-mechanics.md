@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Interpretation of quantum mechanics"
-permalink: "/program/research-agenda/problem-ledger/physics/interpretation-of-quantum-mechanics/"
+permalink: "/agenda/problem-ledger/physics/interpretation-of-quantum-mechanics/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -168,7 +168,7 @@ tags:
   - "wikipedia-physics"
   - "interpretation-of-quantum-mechanics"
   - "foundations-of-physics"
-url: "/program/research-agenda/problem-ledger/physics/interpretation-of-quantum-mechanics/"
+url: "/agenda/problem-ledger/physics/interpretation-of-quantum-mechanics/"
 results_mirror:
   exists: false
   result_id: ""

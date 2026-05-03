@@ -22,7 +22,7 @@ do_not_edit: true
 
 How plastic is the mature brain?
 
-- Program Problem Ledger item: [life-biology-neuroplasticity](/program/research-agenda/problem-ledger/life/neuroplasticity/)
+- Program Problem Ledger item: [life-biology-neuroplasticity](/agenda/problem-ledger/life/neuroplasticity/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-neuroplasticity.md`
 

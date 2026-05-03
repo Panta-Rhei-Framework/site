@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why is the distant universe so homogeneous when the Big Bang theory seems to predict larger measurable anisotropies of the night sky than those observed? Cosmological inflation is generally accepted as the solution, but are other possible explanations such as a variable speed of light more appropriate?
 
-- Program Problem Ledger item: [phys-horizon-problem](/program/research-agenda/problem-ledger/physics/horizon-problem/)
+- Program Problem Ledger item: [phys-horizon-problem](/agenda/problem-ledger/physics/horizon-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-horizon-problem.md`
 

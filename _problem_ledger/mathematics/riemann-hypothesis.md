@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Riemann Hypothesis"
-permalink: "/program/research-agenda/problem-ledger/mathematics/riemann-hypothesis/"
+permalink: "/agenda/problem-ledger/mathematics/riemann-hypothesis/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -102,7 +102,7 @@ tags:
   - "number-theory"
   - "millennium-problem"
   - "spectral"
-url: "/program/research-agenda/problem-ledger/mathematics/riemann-hypothesis/"
+url: "/agenda/problem-ledger/mathematics/riemann-hypothesis/"
 results_mirror:
   exists: true
   result_id: "result-091"

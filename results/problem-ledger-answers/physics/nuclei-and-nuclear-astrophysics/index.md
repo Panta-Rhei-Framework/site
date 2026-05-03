@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the nature of the nuclear force that binds protons and neutrons into stable nuclei and rare isotopes? What is the explanation for the EMC effect? What is the nature of exotic excitations in nuclei at the frontiers of stability and their role in stellar processes? What is the nature of neutron stars and dense nuclear matter? What is the origin of the elements in the cosmos? What are the nuclear reactions that drive stars and stellar explosions? What is the heaviest possible chemical element?
 
-- Program Problem Ledger item: [phys-nuclei-and-nuclear-astrophysics](/program/research-agenda/problem-ledger/physics/nuclei-and-nuclear-astrophysics/)
+- Program Problem Ledger item: [phys-nuclei-and-nuclear-astrophysics](/agenda/problem-ledger/physics/nuclei-and-nuclear-astrophysics/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-nuclei-and-nuclear-astrophysics.md`
 

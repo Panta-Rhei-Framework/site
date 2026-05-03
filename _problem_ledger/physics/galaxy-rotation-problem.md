@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Galaxy rotation problem"
-permalink: "/program/research-agenda/problem-ledger/physics/galaxy-rotation-problem/"
+permalink: "/agenda/problem-ledger/physics/galaxy-rotation-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -112,7 +112,7 @@ tags:
   - "wikipedia-physics"
   - "galaxy-rotation-problem"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/galaxy-rotation-problem/"
+url: "/agenda/problem-ledger/physics/galaxy-rotation-problem/"
 results_mirror:
   exists: false
   result_id: ""

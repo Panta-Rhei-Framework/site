@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Ball lightning"
-permalink: "/program/research-agenda/problem-ledger/physics/ball-lightning/"
+permalink: "/agenda/problem-ledger/physics/ball-lightning/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "ball-lightning"
   - "plasma-physics"
-url: "/program/research-agenda/problem-ledger/physics/ball-lightning/"
+url: "/agenda/problem-ledger/physics/ball-lightning/"
 results_mirror:
   exists: false
   result_id: ""

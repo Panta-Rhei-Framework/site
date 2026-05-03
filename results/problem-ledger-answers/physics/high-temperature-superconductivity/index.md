@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the mechanism that causes certain materials to exhibit superconductivity at temperatures much higher than around 25 kelvins? Is it possible to make a material that is a superconductor at room temperature and atmospheric pressure?
 
-- Program Problem Ledger item: [phys-high-temperature-superconductivity](/program/research-agenda/problem-ledger/physics/high-temperature-superconductivity/)
+- Program Problem Ledger item: [phys-high-temperature-superconductivity](/agenda/problem-ledger/physics/high-temperature-superconductivity/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-high-temperature-superconductivity.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can coherence be maintained in biological systems at timeframes long enough to be functionally important? Are there non-trivial aspects of biology or biochemistry that can only be explained by the persistence of coherence as a mechanism?
 
-- Program Problem Ledger item: [phys-quantum-biology](/program/research-agenda/problem-ledger/physics/quantum-biology/)
+- Program Problem Ledger item: [phys-quantum-biology](/agenda/problem-ledger/physics/quantum-biology/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-biology.md`
 

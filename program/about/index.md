@@ -21,9 +21,9 @@ right_rail:
   - title: Why This Program Exists
     url: /program/about/why-this-program-exists/
   - title: Research Aim & Desiderata
-    url: /program/research-agenda/research-aim-and-desiderata/
+    url: /agenda/research-aim-and-desiderata/
   - title: Research Agenda
-    url: /program/research-agenda/
+    url: /agenda/
   - title: Scope, Status & Scrutiny
     url: /program/about/scope-status-and-scrutiny/
   - title: Independence, Scope & Scrutiny
@@ -143,7 +143,7 @@ The Program lane answers the identity and doctrine questions first:
 - **Red-team FAQ** answers the hardest first-pass objections without asking for premature trust.
 - **Founders** makes the current stewardship and provenance visible.
 
-The companion [Agenda]({{ '/program/research-agenda/' | relative_url }}) lane states the aim, desiderata, technical discipline, refusals, problem ledger, result criteria, and roadmap.
+The companion [Agenda]({{ '/agenda/' | relative_url }}) lane states the aim, desiderata, technical discipline, refusals, problem ledger, result criteria, and roadmap.
 
 For the current press-facing articulation of this doctrine, see the white papers [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) and [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}).
 

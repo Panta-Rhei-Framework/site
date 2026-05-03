@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Homochirality"
-permalink: "/program/research-agenda/problem-ledger/physics/homochirality/"
+permalink: "/agenda/problem-ledger/physics/homochirality/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "homochirality"
   - "biophysics"
-url: "/program/research-agenda/problem-ledger/physics/homochirality/"
+url: "/agenda/problem-ledger/physics/homochirality/"
 results_mirror:
   exists: false
   result_id: ""

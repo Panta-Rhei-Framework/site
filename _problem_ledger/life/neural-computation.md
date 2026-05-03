@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Neural computation"
-permalink: "/program/research-agenda/problem-ledger/life/neural-computation/"
+permalink: "/agenda/problem-ledger/life/neural-computation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -109,7 +109,7 @@ tags:
   - "neural-computation"
   - "neuroscience-and-cognition"
   - "neurophysiology"
-url: "/program/research-agenda/problem-ledger/life/neural-computation/"
+url: "/agenda/problem-ledger/life/neural-computation/"
 results_mirror:
   exists: false
   result_id: ""

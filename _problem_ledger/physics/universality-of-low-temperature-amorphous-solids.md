@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Universality of low-temperature amorphous solids"
-permalink: "/program/research-agenda/problem-ledger/physics/universality-of-low-temperature-amorphous-solids/"
+permalink: "/agenda/problem-ledger/physics/universality-of-low-temperature-amorphous-solids/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "universality-of-low-temperature-amorphous-solids"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/universality-of-low-temperature-amorphous-solids/"
+url: "/agenda/problem-ledger/physics/universality-of-low-temperature-amorphous-solids/"
 results_mirror:
   exists: false
   result_id: ""

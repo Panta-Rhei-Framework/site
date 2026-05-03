@@ -91,7 +91,7 @@ For a physicist willing to invest two hours:
 
 - **Read the Falsification Pack** (N1–N30) with attention to timeline and σ threshold per entry. Are the thresholds fair (consistent with published experimental sensitivity projections)? Are the timelines realistic?
 - **Follow three claim pages** from the Cosmology briefing, each into its detailed derivation: Hubble tension (h formula), CMB first peak (+69 ppm), and Cosmological Constant Problem (V.T139 vacuum energy = 0). Evaluate whether the mechanisms are independent of each other or share a common calibration step.
-- **Read the [Prior-Art Comparison: No Dark Sectors vs MOND/Verlinde]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})**. The page's "what a specialist would want to see" section names specific comparisons that should decide the relabeling question.
+- **Read the [Prior-Art Comparison: No Dark Sectors vs MOND/Verlinde]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})**. The page's "what a specialist would want to see" section names specific comparisons that should decide the relabeling question.
 - **Check the CMB peak structure beyond the first peak.** The site documents the first peak at +69 ppm; does the framework predict the full peak structure (peaks 2, 3, 4...) with zero free continuous parameters, or only peak 1? This is a concrete fact-check.
 - **Check the Bullet Cluster account.** No-dark-sectors programs must account for the weak-lensing / X-ray separation. If the site does not document a specific account of this observation, that is a gap to report.
 

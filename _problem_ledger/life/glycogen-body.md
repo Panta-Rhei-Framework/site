@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Glycogen body"
-permalink: "/program/research-agenda/problem-ledger/life/glycogen-body/"
+permalink: "/agenda/problem-ledger/life/glycogen-body/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "glycogen-body"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/glycogen-body/"
+url: "/agenda/problem-ledger/life/glycogen-body/"
 results_mirror:
   exists: false
   result_id: ""

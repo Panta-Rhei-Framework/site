@@ -104,7 +104,7 @@ The safe angle is: “What should a serious theory of reality have to expose bef
 
 ### What should I link first?
 
-Use the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) for newsroom framing and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) for the citable Package 2 artifact. Then route readers to [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), [Agenda]({{ '/program/research-agenda/' | relative_url }}), and [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}).
+Use the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) for newsroom framing and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) for the citable Package 2 artifact. Then route readers to [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), [Agenda]({{ '/agenda/' | relative_url }}), and [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}).
 
 ### Do the external sources cited by Package 2 endorse Panta Rhei?
 

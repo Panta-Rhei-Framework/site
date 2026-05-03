@@ -22,7 +22,7 @@ do_not_edit: true
 
 How does the Sun generate its periodically reversing large-scale magnetic field? How do other solar-like stars generate their magnetic fields, and what are the similarities and differences between stellar activity cycles and that of the Sun? What caused the Maunder Minimum and other grand minima, and how does the solar cycle recover from a minima state?
 
-- Program Problem Ledger item: [phys-solar-cycle](/program/research-agenda/problem-ledger/physics/solar-cycle/)
+- Program Problem Ledger item: [phys-solar-cycle](/agenda/problem-ledger/physics/solar-cycle/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-solar-cycle.md`
 

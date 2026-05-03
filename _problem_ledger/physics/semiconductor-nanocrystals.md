@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Semiconductor nanocrystals"
-permalink: "/program/research-agenda/problem-ledger/physics/semiconductor-nanocrystals/"
+permalink: "/agenda/problem-ledger/physics/semiconductor-nanocrystals/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "semiconductor-nanocrystals"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/semiconductor-nanocrystals/"
+url: "/agenda/problem-ledger/physics/semiconductor-nanocrystals/"
 results_mirror:
   exists: false
   result_id: ""

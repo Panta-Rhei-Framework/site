@@ -26,7 +26,7 @@ Impredicative Large-Universe Assumptions
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R7](/program/research-agenda/recovery-requirements/mathematics/refusals/impredicative-large-universe-assumptions/)
+- Program ledger item: [MREF-R7](/agenda/recovery-requirements/mathematics/refusals/impredicative-large-universe-assumptions/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

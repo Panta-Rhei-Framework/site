@@ -22,7 +22,7 @@ do_not_edit: true
 
 It is unclear how handedness develops, what purpose it serves, why right-handedness is far more common, and why left-handedness exists
 
-- Program Problem Ledger item: [life-biology-handedness](/program/research-agenda/problem-ledger/life/handedness/)
+- Program Problem Ledger item: [life-biology-handedness](/agenda/problem-ledger/life/handedness/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-handedness.md`
 

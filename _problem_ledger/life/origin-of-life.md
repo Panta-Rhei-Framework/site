@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Origin of Life"
-permalink: "/program/research-agenda/problem-ledger/life/origin-of-life/"
+permalink: "/agenda/problem-ledger/life/origin-of-life/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -148,7 +148,7 @@ tags:
   - "origin-of-life"
   - "abiogenesis"
   - "biology"
-url: "/program/research-agenda/problem-ledger/life/origin-of-life/"
+url: "/agenda/problem-ledger/life/origin-of-life/"
 results_mirror:
   exists: true
   result_id: "result-019"

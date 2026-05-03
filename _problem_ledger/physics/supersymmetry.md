@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Supersymmetry"
-permalink: "/program/research-agenda/problem-ledger/physics/supersymmetry/"
+permalink: "/agenda/problem-ledger/physics/supersymmetry/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "supersymmetry"
   - "high-energy-particle-physics"
-url: "/program/research-agenda/problem-ledger/physics/supersymmetry/"
+url: "/agenda/problem-ledger/physics/supersymmetry/"
 results_mirror:
   exists: false
   result_id: ""

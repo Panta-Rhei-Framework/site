@@ -22,7 +22,7 @@ do_not_edit: true
 
 What are numbers, sets, groups, points, etc.? Are they real objects or are they simply relationships that necessarily exist in all structures? Although many disparate views exist regarding what a mathematical object is, the discussion may be roughly partitioned into two opposing schools of thought: platonism, which asserts that mathematical objects are real, and formalism, which asserts that mathematical objects are merely formal constructions. This dispute may be better understood when considering specific examples, such as the "continuum hypothesis". The continuum hypothesis has been proven independent of the ZF axioms of set theory, so within that system, the proposition can neither be proven true nor proven false. A formalist would therefore say that the continuum hypothesis is neither true nor false, unless you further refine the context of the question. A platonist, however, would assert that there either does or does not exist a transfinite set with a cardinality less than the continuum but greater than any countable set. So, regardless of whether it has been proven unprovable, the platonist would argue that an answer nonetheless does exist
 
-- Program Problem Ledger item: [meta-mathematical-objects](/program/research-agenda/problem-ledger/metaphysics-philosophy/mathematical-objects/)
+- Program Problem Ledger item: [meta-mathematical-objects](/agenda/problem-ledger/metaphysics-philosophy/mathematical-objects/)
 - Domain: **Metaphysics / Philosophy**
 - Source item path: `problem-ledger/items/metaphysics-philosophy/meta-mathematical-objects.md`
 

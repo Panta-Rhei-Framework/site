@@ -22,7 +22,7 @@ do_not_edit: true
 
 What is the origin of magnetar magnetic fields?
 
-- Program Problem Ledger item: [phys-origin-of-magnetar-magnetic-field](/program/research-agenda/problem-ledger/physics/origin-of-magnetar-magnetic-field/)
+- Program Problem Ledger item: [phys-origin-of-magnetar-magnetic-field](/agenda/problem-ledger/physics/origin-of-magnetar-magnetic-field/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-origin-of-magnetar-magnetic-field.md`
 

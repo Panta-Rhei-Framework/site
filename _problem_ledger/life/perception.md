@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Perception"
-permalink: "/program/research-agenda/problem-ledger/life/perception/"
+permalink: "/agenda/problem-ledger/life/perception/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -207,7 +207,7 @@ tags:
   - "perception"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-url: "/program/research-agenda/problem-ledger/life/perception/"
+url: "/agenda/problem-ledger/life/perception/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Relationship between science and religion"
-permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/relationship-between-science-and-religion/"
+permalink: "/agenda/problem-ledger/metaphysics-philosophy/relationship-between-science-and-religion/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-philosophy"
   - "relationship-between-science-and-religion"
   - "philosophy-of-science"
-url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/relationship-between-science-and-religion/"
+url: "/agenda/problem-ledger/metaphysics-philosophy/relationship-between-science-and-religion/"
 results_mirror:
   exists: false
   result_id: ""

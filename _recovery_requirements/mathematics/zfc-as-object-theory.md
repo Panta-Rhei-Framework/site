@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "ZFC as Object Theory"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/zfc-as-object-theory/"
+permalink: "/agenda/recovery-requirements/mathematics/zfc-as-object-theory/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -45,7 +45,7 @@ tags:
   - "mathematics"
   - "recovery-requirements"
   - "mrec-m4"
-url: "/program/research-agenda/recovery-requirements/mathematics/zfc-as-object-theory/"
+url: "/agenda/recovery-requirements/mathematics/zfc-as-object-theory/"
 verification:
   status: "pending_bridge_verification"
   mode: "foundational_recovery_target"

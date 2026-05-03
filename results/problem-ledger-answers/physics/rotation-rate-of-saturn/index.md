@@ -22,7 +22,7 @@ do_not_edit: true
 
 Why does the magnetosphere of Saturn exhibit a (slowly changing) periodicity close to that at which the planet's clouds rotate? What is the true rotation rate of Saturn's deep interior?
 
-- Program Problem Ledger item: [phys-rotation-rate-of-saturn](/program/research-agenda/problem-ledger/physics/rotation-rate-of-saturn/)
+- Program Problem Ledger item: [phys-rotation-rate-of-saturn](/agenda/problem-ledger/physics/rotation-rate-of-saturn/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-rotation-rate-of-saturn.md`
 

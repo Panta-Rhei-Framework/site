@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is it true that quantum gravity admits a lower-dimensional description that does not contain gravity? A well-understood example of holography is the AdS/CFT correspondence in string theory. Similarly, can quantum gravity in a de Sitter space be understood using dS/CFT correspondence? Can the AdS/CFT correspondence be vastly generalized to the gauge–gravity duality for arbitrary asymptotic spacetime backgrounds? Are there other theories of quantum gravity other than string theory that admit a holographic description?
 
-- Program Problem Ledger item: [phys-holographic-principle](/program/research-agenda/problem-ledger/physics/holographic-principle/)
+- Program Problem Ledger item: [phys-holographic-principle](/agenda/problem-ledger/physics/holographic-principle/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-holographic-principle.md`
 

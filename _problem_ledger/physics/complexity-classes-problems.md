@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Complexity classes problems"
-permalink: "/program/research-agenda/problem-ledger/physics/complexity-classes-problems/"
+permalink: "/agenda/problem-ledger/physics/complexity-classes-problems/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "complexity-classes-problems"
   - "quantum-computing-and-quantum-information"
-url: "/program/research-agenda/problem-ledger/physics/complexity-classes-problems/"
+url: "/agenda/problem-ledger/physics/complexity-classes-problems/"
 results_mirror:
   exists: false
   result_id: ""

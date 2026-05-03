@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Tree-of-Life and Classification Structure"
-permalink: "/program/research-agenda/recovery-requirements/life/tree-of-life-and-classification-structure/"
+permalink: "/agenda/recovery-requirements/life/tree-of-life-and-classification-structure/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l7"
-url: "/program/research-agenda/recovery-requirements/life/tree-of-life-and-classification-structure/"
+url: "/agenda/recovery-requirements/life/tree-of-life-and-classification-structure/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

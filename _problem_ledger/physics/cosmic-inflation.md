@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Cosmic inflation"
-permalink: "/program/research-agenda/problem-ledger/physics/cosmic-inflation/"
+permalink: "/agenda/problem-ledger/physics/cosmic-inflation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "cosmic-inflation"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/cosmic-inflation/"
+url: "/agenda/problem-ledger/physics/cosmic-inflation/"
 results_mirror:
   exists: false
   result_id: ""

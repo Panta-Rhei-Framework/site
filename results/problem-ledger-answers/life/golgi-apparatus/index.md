@@ -22,7 +22,7 @@ do_not_edit: true
 
 In cell theory, what is the exact transport mechanism by which proteins travel through the Golgi apparatus?
 
-- Program Problem Ledger item: [life-biology-golgi-apparatus](/program/research-agenda/problem-ledger/life/golgi-apparatus/)
+- Program Problem Ledger item: [life-biology-golgi-apparatus](/agenda/problem-ledger/life/golgi-apparatus/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-golgi-apparatus.md`
 

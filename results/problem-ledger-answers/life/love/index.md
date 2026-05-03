@@ -22,7 +22,7 @@ do_not_edit: true
 
 When did pair bonding evolve? Is pair bonding an antecedent to romantic love, or have there been other steps in the evolution of pair bonds in humans (e.g. a seasonal bond)? A theory exists that romantic love evolved by co-opting the systems for mother-infant bonding, but this does not explain when or why (under what selection pressure) romantic love evolved
 
-- Program Problem Ledger item: [life-biology-love](/program/research-agenda/problem-ledger/life/love/)
+- Program Problem Ledger item: [life-biology-love](/agenda/problem-ledger/life/love/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-love.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 What causes the emission of short bursts of light from imploding bubbles in a liquid when excited by sound?
 
-- Program Problem Ledger item: [phys-sonoluminescence](/program/research-agenda/problem-ledger/physics/sonoluminescence/)
+- Program Problem Ledger item: [phys-sonoluminescence](/agenda/problem-ledger/physics/sonoluminescence/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-sonoluminescence.md`
 

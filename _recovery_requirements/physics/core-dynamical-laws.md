@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Core Dynamical Laws"
-permalink: "/program/research-agenda/recovery-requirements/physics/core-dynamical-laws/"
+permalink: "/agenda/recovery-requirements/physics/core-dynamical-laws/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "physics"
   - "recovery-requirements"
   - "prec-p5"
-url: "/program/research-agenda/recovery-requirements/physics/core-dynamical-laws/"
+url: "/agenda/recovery-requirements/physics/core-dynamical-laws/"
 verification:
   status: "pending_physics_verification"
   mode: "law_family_recovery"

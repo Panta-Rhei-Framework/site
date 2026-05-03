@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Ultra-high-energy cosmic ray"
-permalink: "/program/research-agenda/problem-ledger/physics/ultra-high-energy-cosmic-ray/"
+permalink: "/agenda/problem-ledger/physics/ultra-high-energy-cosmic-ray/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "ultra-high-energy-cosmic-ray"
   - "astronomy-and-astrophysics"
-url: "/program/research-agenda/problem-ledger/physics/ultra-high-energy-cosmic-ray/"
+url: "/agenda/problem-ledger/physics/ultra-high-energy-cosmic-ray/"
 results_mirror:
   exists: false
   result_id: ""

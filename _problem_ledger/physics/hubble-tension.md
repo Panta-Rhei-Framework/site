@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Hubble tension"
-permalink: "/program/research-agenda/problem-ledger/physics/hubble-tension/"
+permalink: "/agenda/problem-ledger/physics/hubble-tension/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -120,7 +120,7 @@ tags:
   - "wikipedia-physics"
   - "hubble-tension"
   - "cosmology-and-general-relativity"
-url: "/program/research-agenda/problem-ledger/physics/hubble-tension/"
+url: "/agenda/problem-ledger/physics/hubble-tension/"
 results_mirror:
   exists: false
   result_id: ""

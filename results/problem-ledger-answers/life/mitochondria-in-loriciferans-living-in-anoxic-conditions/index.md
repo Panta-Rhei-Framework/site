@@ -22,7 +22,7 @@ do_not_edit: true
 
 It is unknown whether members of the phylum Loricifera adapted to life in anoxic conditions in the L'Atalante basin, like Spinoloricus cinziae, have mitochondria
 
-- Program Problem Ledger item: [life-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions](/program/research-agenda/problem-ledger/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/)
+- Program Problem Ledger item: [life-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions](/agenda/problem-ledger/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions.md`
 

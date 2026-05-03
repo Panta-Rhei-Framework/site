@@ -26,7 +26,7 @@ SI / Empirical Calibration Bridge
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P3](/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/)
+- Program ledger item: [PREC-P3](/agenda/recovery-requirements/physics/si-empirical-calibration-bridge/)
 - Verification mode: `si_bridge_and_calibration`
 
 ## Result Summary

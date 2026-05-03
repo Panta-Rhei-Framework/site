@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Superfluid transition in helium-4"
-permalink: "/program/research-agenda/problem-ledger/physics/superfluid-transition-in-helium-4/"
+permalink: "/agenda/problem-ledger/physics/superfluid-transition-in-helium-4/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -104,7 +104,7 @@ tags:
   - "wikipedia-physics"
   - "superfluid-transition-in-helium-4"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/superfluid-transition-in-helium-4/"
+url: "/agenda/problem-ledger/physics/superfluid-transition-in-helium-4/"
 results_mirror:
   exists: false
   result_id: ""

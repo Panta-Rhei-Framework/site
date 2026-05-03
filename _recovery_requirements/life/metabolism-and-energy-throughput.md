@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Metabolism and Energy Throughput"
-permalink: "/program/research-agenda/recovery-requirements/life/metabolism-and-energy-throughput/"
+permalink: "/agenda/recovery-requirements/life/metabolism-and-energy-throughput/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "life"
   - "recovery-requirements"
   - "lrec-l2"
-url: "/program/research-agenda/recovery-requirements/life/metabolism-and-energy-throughput/"
+url: "/agenda/recovery-requirements/life/metabolism-and-energy-throughput/"
 verification:
   status: "pending_life_verification"
   mode: "life_structural_recovery_target"

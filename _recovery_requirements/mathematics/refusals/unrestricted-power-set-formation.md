@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Unrestricted Power Set Formation"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-power-set-formation/"
+permalink: "/agenda/recovery-requirements/mathematics/refusals/unrestricted-power-set-formation/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -48,7 +48,7 @@ tags:
   - "mathematics"
   - "mathematical-refusals"
   - "mref-r1"
-url: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-power-set-formation/"
+url: "/agenda/recovery-requirements/mathematics/refusals/unrestricted-power-set-formation/"
 verification:
   status: "not_yet_verified"
   mode: "coherence_constraint"

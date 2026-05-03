@@ -22,7 +22,7 @@ do_not_edit: true
 
 At the present time, the values of various dimensionless physical constants cannot be calculated; they can be determined only by physical measurement. What is the minimum number of dimensionless physical constants from which all other dimensionless physical constants can be derived? Are dimensional physical constants necessary at all?
 
-- Program Problem Ledger item: [phys-dimensionless-physical-constants](/program/research-agenda/problem-ledger/physics/dimensionless-physical-constants/)
+- Program Problem Ledger item: [phys-dimensionless-physical-constants](/agenda/problem-ledger/physics/dimensionless-physical-constants/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-dimensionless-physical-constants.md`
 

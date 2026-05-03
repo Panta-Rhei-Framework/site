@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Arthropod head problem"
-permalink: "/program/research-agenda/problem-ledger/life/arthropod-head-problem/"
+permalink: "/agenda/problem-ledger/life/arthropod-head-problem/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -107,7 +107,7 @@ tags:
   - "arthropod-head-problem"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-url: "/program/research-agenda/problem-ledger/life/arthropod-head-problem/"
+url: "/agenda/problem-ledger/life/arthropod-head-problem/"
 results_mirror:
   exists: false
   result_id: ""

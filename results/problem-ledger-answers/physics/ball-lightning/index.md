@@ -22,7 +22,7 @@ do_not_edit: true
 
 the exact physical nature of this mystery in atmospheric electricity
 
-- Program Problem Ledger item: [phys-ball-lightning](/program/research-agenda/problem-ledger/physics/ball-lightning/)
+- Program Problem Ledger item: [phys-ball-lightning](/agenda/problem-ledger/physics/ball-lightning/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-ball-lightning.md`
 

@@ -22,7 +22,7 @@ do_not_edit: true
 
 A long-standing zoological dispute concerning the segmental composition of the heads of the various arthropod groups, and how they are evolutionarily related to each other
 
-- Program Problem Ledger item: [life-biology-arthropod-head-problem](/program/research-agenda/problem-ledger/life/arthropod-head-problem/)
+- Program Problem Ledger item: [life-biology-arthropod-head-problem](/agenda/problem-ledger/life/arthropod-head-problem/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-arthropod-head-problem.md`
 

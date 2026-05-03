@@ -22,7 +22,7 @@ do_not_edit: true
 
 Does the G-spot actually exist? If so is it present in all women? What exactly is it?
 
-- Program Problem Ledger item: [life-biology-existence-of-the-grafenberg-spot-g-spot](/program/research-agenda/problem-ledger/life/existence-of-the-grafenberg-spot-g-spot/)
+- Program Problem Ledger item: [life-biology-existence-of-the-grafenberg-spot-g-spot](/agenda/problem-ledger/life/existence-of-the-grafenberg-spot-g-spot/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-existence-of-the-grafenberg-spot-g-spot.md`
 

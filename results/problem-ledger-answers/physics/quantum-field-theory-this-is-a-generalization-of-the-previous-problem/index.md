@@ -22,7 +22,7 @@ do_not_edit: true
 
 Is it possible to construct, in a mathematically rigorous way, a quantum field theory in 4-dimensional spacetime that includes interactions and does not resort to perturbative methods?
 
-- Program Problem Ledger item: [phys-quantum-field-theory-this-is-a-generalization-of-the-previous-problem](/program/research-agenda/problem-ledger/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/)
+- Program Problem Ledger item: [phys-quantum-field-theory-this-is-a-generalization-of-the-previous-problem](/agenda/problem-ledger/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-quantum-field-theory-this-is-a-generalization-of-the-previous-problem.md`
 

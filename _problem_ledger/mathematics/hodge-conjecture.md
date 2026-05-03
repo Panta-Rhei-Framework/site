@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Hodge Conjecture"
-permalink: "/program/research-agenda/problem-ledger/mathematics/hodge-conjecture/"
+permalink: "/agenda/problem-ledger/mathematics/hodge-conjecture/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -100,7 +100,7 @@ tags:
   - "geometry"
   - "topology"
   - "millennium-problem"
-url: "/program/research-agenda/problem-ledger/mathematics/hodge-conjecture/"
+url: "/agenda/problem-ledger/mathematics/hodge-conjecture/"
 results_mirror:
   exists: false
   result_id: ""

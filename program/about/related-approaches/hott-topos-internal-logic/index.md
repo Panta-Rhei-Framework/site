@@ -28,7 +28,7 @@ right_rail:
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Foundational Discipline"
-      url: /program/research-agenda/foundational-discipline/
+      url: /agenda/foundational-discipline/
     - title: "Formal Verification Stack"
       url: /verify/formal-verification-stack/
     - title: "TauLib"
@@ -61,7 +61,7 @@ HoTT and topos theory ask how mathematics and logic can be internally structured
 
 ## Where to inspect next
 
-- [Foundational Discipline]({{ '/program/research-agenda/foundational-discipline/' | relative_url }}) for constructive and typed demands.
+- [Foundational Discipline]({{ '/agenda/foundational-discipline/' | relative_url }}) for constructive and typed demands.
 - [Recover Core Mathematics]({{ '/corpus/construction-spine/recover-core-mathematics/' | relative_url }}) for the mathematics construction step.
 - [Internalize Self-Enrichment]({{ '/corpus/construction-spine/internalize-self-enrichment/' | relative_url }}) for self-enrichment.
 - [Formal Verification Stack]({{ '/verify/formal-verification-stack/' | relative_url }}) for proof and bridge levels.

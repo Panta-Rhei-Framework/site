@@ -22,7 +22,7 @@ do_not_edit: true
 
 The origin of forest rings is not known, despite several mechanisms for their creation having been proposed. Such hypotheses include radially growing fungus, buried kimberlite pipes, trapped gas pockets, and meteorite impact craters
 
-- Program Problem Ledger item: [life-biology-forest-rings](/program/research-agenda/problem-ledger/life/forest-rings/)
+- Program Problem Ledger item: [life-biology-forest-rings](/agenda/problem-ledger/life/forest-rings/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-forest-rings.md`
 

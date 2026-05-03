@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Temperature"
-permalink: "/program/research-agenda/problem-ledger/physics/temperature/"
+permalink: "/agenda/problem-ledger/physics/temperature/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -96,7 +96,7 @@ tags:
   - "wikipedia-physics"
   - "temperature"
   - "quantum-computing-and-quantum-information"
-url: "/program/research-agenda/problem-ledger/physics/temperature/"
+url: "/agenda/problem-ledger/physics/temperature/"
 results_mirror:
   exists: false
   result_id: ""

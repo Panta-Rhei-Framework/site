@@ -1,7 +1,7 @@
 ---
 layout: "problem-ledger-item"
 title: "Amorphous solids"
-permalink: "/program/research-agenda/problem-ledger/physics/amorphous-solids/"
+permalink: "/agenda/problem-ledger/physics/amorphous-solids/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -136,7 +136,7 @@ tags:
   - "wikipedia-physics"
   - "amorphous-solids"
   - "condensed-matter-physics"
-url: "/program/research-agenda/problem-ledger/physics/amorphous-solids/"
+url: "/agenda/problem-ledger/physics/amorphous-solids/"
 results_mirror:
   exists: false
   result_id: ""

@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Finite Syntax, Terms, and Proof Objects"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/"
+permalink: "/agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "mathematics"
   - "recovery-requirements"
   - "mrec-m1"
-url: "/program/research-agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/"
+url: "/agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/"
 verification:
   status: "pending_formal_verification"
   mode: "foundational_recovery_target"

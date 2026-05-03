@@ -15,7 +15,7 @@ right_rail:
     - title: "Foundational Hinges"
       url: /corpus/foundational-hinges/
     - title: "Prior-Art Comparisons"
-      url: /program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/
+      url: /agenda/kernel-model-reality/related-approaches/deep-comparison/
     - title: "Foundations briefing"
       url: /results/fields/foundations-logic/
     - title: "Millennium briefing"
@@ -73,7 +73,7 @@ This route separates those construction burdens from later result claims. The hi
 **Where to look:**
 - Claim page: [Central Theorem]({{ '/results/problem/central-theorem/' | relative_url }})
 - Claim page: [Holographic Principle]({{ '/results/problem/holographic-principle/' | relative_url }})
-- Prior-art comparison: [τ-Holomorphy vs Fueter-Regular]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+- Prior-art comparison: [τ-Holomorphy vs Fueter-Regular]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 - `TauLib/Book2/CentralTheorem.lean`
 
 **What to check first:**
@@ -93,7 +93,7 @@ This route separates those construction burdens from later result claims. The hi
 **Where to look:**
 - Claim page: [Riemann Hypothesis (τ-internal)]({{ '/results/problem/riemann-hypothesis/' | relative_url }})
 - Claim page: [Riemann Hypothesis (Spectral Approach)]({{ '/results/problem/riemann-hypothesis-spectral-approach/' | relative_url }})
-- Prior-art comparison: [Spectral ζ vs Hilbert-Pólya / Connes / Berry-Keating]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
+- Prior-art comparison: [Spectral ζ vs Hilbert-Pólya / Connes / Berry-Keating]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }})
 - `TauLib/Book3/CriticalLine.lean`
 
 **What to check first:**
@@ -124,6 +124,6 @@ If the audit is positive — all three clusters survive specialist scrutiny — 
 
 - [Foundations, Logic & CS briefing]({{ '/results/fields/foundations-logic/' | relative_url }}) — full foundations claim set
 - [Millennium & Langlands briefing]({{ '/results/fields/millennium-langlands/' | relative_url }}) — all seven Millennium problems + Grand GRH + Langlands
-- [Prior-Art Comparisons]({{ '/program/research-agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — specialist-level prior-art pages
+- [Prior-Art Comparisons]({{ '/agenda/kernel-model-reality/related-approaches/deep-comparison/' | relative_url }}) — specialist-level prior-art pages
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [How to Audit (Hub)]({{ '/verify/how-to-audit/' | relative_url }}) — all six reviewer routes

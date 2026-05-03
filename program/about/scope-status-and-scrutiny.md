@@ -23,7 +23,7 @@ right_rail:
   - title: Independence, Scope & Scrutiny
     url: /program/about/independence-scope-and-scrutiny/
   - title: Core Design Principles
-    url: /program/research-agenda/core-design-principles/
+    url: /agenda/core-design-principles/
   meta:
     type: Assessment
     scope: Program-wide
@@ -89,7 +89,7 @@ The aim is to state the scope truthfully and the status carefully.
 A serious outsider is already able to inspect the program through multiple public surfaces:
 
 - the [seven-book canonical release]({{ '/publications/research-monographs/' | relative_url }})
-- the [Research Agenda]({{ '/program/research-agenda/' | relative_url }}), [Corpus]({{ '/corpus/' | relative_url }}), and [Results]({{ '/results/' | relative_url }}) lanes
+- the [Research Agenda]({{ '/agenda/' | relative_url }}), [Corpus]({{ '/corpus/' | relative_url }}), and [Results]({{ '/results/' | relative_url }}) lanes
 - [guided tours]({{ '/publications/guided-tours/' | relative_url }})
 - public verification companions
 - [TauLib]({{ '/verify/taulib/' | relative_url }})

@@ -22,7 +22,7 @@ do_not_edit: true
 
 is this fossil organism an early bilaterian?
 
-- Program Problem Ledger item: [life-biology-vernanimalcula-guizhouena](/program/research-agenda/problem-ledger/life/vernanimalcula-guizhouena/)
+- Program Problem Ledger item: [life-biology-vernanimalcula-guizhouena](/agenda/problem-ledger/life/vernanimalcula-guizhouena/)
 - Domain: **Life**
 - Source item path: `problem-ledger/items/life/life-biology-vernanimalcula-guizhouena.md`
 

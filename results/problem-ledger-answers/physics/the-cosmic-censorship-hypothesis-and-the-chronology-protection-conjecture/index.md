@@ -22,7 +22,7 @@ do_not_edit: true
 
 Can singularities not hidden behind an event horizon, known as "naked singularities", arise from realistic initial conditions, or is it possible to prove some version of the "cosmic censorship hypothesis" of Roger Penrose which proposes that this is impossible? Similarly, will the closed timelike curves which arise in some solutions to the equations of general relativity (and which imply the possibility of backwards time travel) be ruled out by a theory of quantum gravity which unites general relativity with quantum mechanics, as suggested by the "chronology protection conjecture" of Stephen Hawking?
 
-- Program Problem Ledger item: [phys-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture](/program/research-agenda/problem-ledger/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/)
+- Program Problem Ledger item: [phys-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture](/agenda/problem-ledger/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/)
 - Domain: **Physics**
 - Source item path: `problem-ledger/items/physics/phys-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture.md`
 

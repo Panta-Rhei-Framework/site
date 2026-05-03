@@ -1,7 +1,7 @@
 ---
 layout: "recovery-requirement-item"
 title: "Finite Arithmetic and Algebraic Structure"
-permalink: "/program/research-agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/"
+permalink: "/agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/"
 lane: "program"
 v2_lane: "program"
 section: "research-agenda"
@@ -44,7 +44,7 @@ tags:
   - "mathematics"
   - "recovery-requirements"
   - "mrec-m2"
-url: "/program/research-agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/"
+url: "/agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/"
 verification:
   status: "pending_bridge_verification"
   mode: "foundational_recovery_target"

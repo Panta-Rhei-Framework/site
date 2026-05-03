@@ -76,6 +76,6 @@ Panta Rhei has proven its theory, solved its ledgers, or received external scien
 - [Media Kit]({{ '/media/' | relative_url }})
 - [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
 - [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
-- [Agenda]({{ '/program/research-agenda/' | relative_url }})
+- [Agenda]({{ '/agenda/' | relative_url }})
 - [Corpus]({{ '/corpus/' | relative_url }})
 - [Verify]({{ '/verify/' | relative_url }})
