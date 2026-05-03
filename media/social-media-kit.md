@@ -32,6 +32,10 @@ right_rail:
     url: /media/theory-of-reality-brief/
   - title: "Theory of Reality White Paper"
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
+  - title: "Public Research Observatory Brief"
+    url: /media/public-research-observatory-brief/
+  - title: "Public Research Observatory White Paper"
+    url: /publications/white-papers/building-a-public-research-observatory/
   - title: "Scientific Plates"
     url: /media/posters/
   - title: "Brand"
@@ -111,6 +115,32 @@ Use these for Package 2, where the story is the intellectual category: coherent 
 >
 > Package 2: The Shape of a Theory of Reality.
 > {{ site.url }}{{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}
+
+## Public Research Observatory launch snippets
+
+Use these for Package 3, where the story is the technical blueprint: how the website and GitHub organization make high-scope open research inspectable.
+
+### X / Bluesky
+
+> Package 3 asks a practical question: how should high-scope open research build the public interface that lets outsiders inspect it?
+> Program -> Agenda -> Corpus -> Results -> Verify, with Publications, Impact, Engage, search, and correction routes around the chain.
+> {{ site.url }}{{ '/media/public-research-observatory-brief/' | relative_url }}
+
+### LinkedIn
+
+> A public research observatory is not a claim that a theory is true. It is the architecture that lets readers trace a claim through obligation, construction, status, verification, artifacts, and correction paths.
+>
+> Package 3 documents how panta-rhei.site and the Panta Rhei GitHub organization implement that architecture for high-scope open research.
+>
+> Brief: {{ site.url }}{{ '/media/public-research-observatory-brief/' | relative_url }}
+> White paper: {{ site.url }}{{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}
+
+### Mastodon
+
+> Inspection architecture is not validation. It is the public structure that makes validation, challenge, correction, review, and refusal easier to begin.
+>
+> Package 3: Building a Public Research Observatory.
+> {{ site.url }}{{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}
 
 ## X (Twitter) — under 280 characters
 

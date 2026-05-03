@@ -29,6 +29,9 @@ Publications are exposed as the stable artifact and release layer.
 
 The program is published as a canonical monograph series with a free **Numerical Physics Ledger** companion and manifest-pinned Corpus, Results, and Verify surfaces. Current release-changing numbers are generated from the Atlas release manifest below rather than hand-owned in README prose.
 
+For the technical blueprint behind this repository's role as the public observatory source, see **Building a Public Research Observatory for High-Scope Open Research**:
+https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/
+
 ## Research content note
 
 The site presents the program's current public corpus, including the Category τ kernel, Construction Spine, Registry, TauLib projection, Results, Verify surfaces, Publications, and ongoing Research Notes.

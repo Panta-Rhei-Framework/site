@@ -55,6 +55,8 @@ right_rail:
       url: /verify/taulib/
     - title: "Versioning · Filter Rules"
       url: /verify/filter-rules/
+    - title: "Public Observatory Blueprint"
+      url: /publications/white-papers/building-a-public-research-observatory/
   meta:
     type: "Lane Root"
     status: "Canonical"
@@ -73,6 +75,8 @@ It is not a summary, not a set of claims, and not a collection of papers. It is 
 The Corpus is the research body itself. It is materialized through several public projections: the Construction Spine, Construction Map, Bi-Square Spine, Foundational Hinges, Monograph Corpus, Registry, TauLib, Corpus Graph, Results, Verify, Publications, and release/versioning surfaces. These are not competing locations; they are different ways of inspecting the same build.
 
 Publications remain the citation and distribution shelf. The Corpus owns the construction-level drilldown: what was built, where it sits, what it depends on, how it is formalized, and which review route applies.
+
+For the implementation view of how Corpus, Results, Verify, Publications, and Engage are connected as public surfaces, see [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}).
 
 <p class="eyebrow">The build-order at a glance</p>
 

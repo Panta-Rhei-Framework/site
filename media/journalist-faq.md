@@ -34,6 +34,10 @@ right_rail:
     url: /media/theory-of-reality-brief/
   - title: "Theory of Reality White Paper"
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
+  - title: "Public Research Observatory Brief"
+    url: /media/public-research-observatory-brief/
+  - title: "Public Research Observatory White Paper"
+    url: /publications/white-papers/building-a-public-research-observatory/
   - title: "Engage · Media"
     url: /engage/media/
   - title: "Independence, Scope & Scrutiny"
@@ -102,6 +106,24 @@ Use the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relativ
 ### Do the external sources cited by Package 2 endorse Panta Rhei?
 
 No. Britannica, Stanford Encyclopedia of Philosophy entries, UNESCO Open Science, UKRI impact-language sources, and responsible-innovation sources are cited as context only. Citation is not endorsement, validation, review, or external acceptance.
+
+## Package 3: Technical Blueprint / Public Research Observatory
+
+### What is the public research observatory?
+
+It is the public architecture that lets readers trace Panta Rhei through Program identity, Agenda obligations, Corpus construction, Results consequences, Verify inspection, Publications artifacts, and Engage correction routes. The observatory is a review interface, not a proof of the theory.
+
+### Does Package 3 claim the website validates the theory?
+
+No. Package 3 explicitly says that inspection architecture is not validation. Jekyll, Pagefind, GitHub, Zenodo, and static publishing make the program easier to inspect; they do not certify scientific truth, bridge adequacy, peer review, or external acceptance.
+
+### What is the safest Package 3 headline angle?
+
+The safe angle is: “How should high-scope open research build the public interface that lets outsiders inspect it?” The story is technical and architectural: source paths, status routes, verification links, publication manifests, search, correction, and engagement.
+
+### What should I link first for Package 3?
+
+Use the [Public Research Observatory Brief]({{ '/media/public-research-observatory-brief/' | relative_url }}) for newsroom framing and the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) for the citable artifact. Then route readers to [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }}), [Discover]({{ '/discover/' | relative_url }}), and [Review Kit]({{ '/media/review-kit/' | relative_url }}).
 
 ## What kind of research is this?
 

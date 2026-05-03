@@ -30,6 +30,8 @@ right_rail:
     url: /media/open-research-brief/
   - title: Theory of Reality Brief
     url: /media/theory-of-reality-brief/
+  - title: Public Research Observatory Brief
+    url: /media/public-research-observatory-brief/
   - title: Related Approaches
     url: /program/about/related-approaches/
   - title: Scientific Plates
@@ -48,6 +50,8 @@ right_rail:
     url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   - title: Theory of Reality White Paper
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
+  - title: Public Research Observatory White Paper
+    url: /publications/white-papers/building-a-public-research-observatory/
   meta:
     type: "Support page"
     scope: "Media kit"
@@ -88,6 +92,18 @@ Suggested framing:
 > If a research program wants to speak about reality as a whole, what must it expose before the phrase becomes more than a slogan?
 
 For the full Package 2 framing, read the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}).
+
+## Suggested third story angle
+
+The third safe story is the technical blueprint.
+
+Panta Rhei is not only publishing claims or PDFs. Package 3 explains how the public site and GitHub organization implement a public research observatory: a route system where a reader can move from Program identity to Agenda obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, and Engage correction paths.
+
+Suggested framing:
+
+> How should a high-scope open research program build the public interface that lets outsiders inspect it?
+
+For the full Package 3 framing, read the [Public Research Observatory Brief]({{ '/media/public-research-observatory-brief/' | relative_url }}) and the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}).
 
 ## What journalists can responsibly say
 
@@ -145,6 +161,10 @@ This media kit is not a peer-review certificate, not a claim that every result i
     <h3>Theory of Reality Brief</h3>
     <p>A one-page newsroom brief for the second story: why Panta Rhei says coherent theory of reality, not theory of everything.</p>
   </a>
+  <a class="v2-tile" href="{{ '/media/public-research-observatory-brief/' | relative_url }}">
+    <h3>Public Research Observatory Brief</h3>
+    <p>A one-page newsroom brief for the third story: the technical blueprint behind the inspectable public research system.</p>
+  </a>
   <a class="v2-tile" href="{{ '/media/journalist-faq/' | relative_url }}">
     <h3>Journalist FAQ</h3>
     <p>Common press questions: peer-review status, funding, citation, interview windows, embargo policy, headshots, and what to avoid writing.</p>
@@ -163,7 +183,7 @@ This media kit is not a peer-review certificate, not a claim that every result i
   </a>
   <a class="v2-tile" href="{{ '/publications/white-papers/' | relative_url }}">
     <h3>White Papers</h3>
-    <p>Concise documents for specific claims, falsification routes, interpretive bridges, and the TauLib v2.0 self-contained library.</p>
+    <p>Citable explanatory documents for inspection architecture, theory-of-reality framing, public observatory architecture, and formalization context.</p>
   </a>
 </div>
 
