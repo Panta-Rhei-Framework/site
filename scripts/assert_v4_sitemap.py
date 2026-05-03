@@ -112,8 +112,8 @@ def main() -> None:
             fail(f"{lane} card does not use the mini-card link grid")
         if len(re.findall(r'class="sitemap-mini-card"', card_html)) < 4:
             fail(f"{lane} card does not expose useful second-level links")
-        if re.search(r'<li class="sitemap-mini-card">\s*<a href="[^"]+">[^<]+</a>\s*</li>', card_html) is None:
-            fail(f"{lane} card mini-card links must render as li > a")
+        if re.search(r'<li class="sitemap-mini-card">\s*<a href="[^"]+">\s*<span>[^<]+</span>\s*</a>\s*</li>', card_html) is None:
+            fail(f"{lane} card mini-card links must render as li > a > span")
 
     support_match = re.search(
         r'<article class="sitemap-card sitemap-card-support" data-sitemap-lane="support".*?</article>',
