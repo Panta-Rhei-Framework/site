@@ -1,20 +1,41 @@
-# panta-rhei.site — Jekyll source
+# panta-rhei.site -- Jekyll source
 
-This repository is the public source for **[panta-rhei.site](https://panta-rhei.site)**, the web presence of the **Panta Rhei Research Program**.
+This repository contains the Jekyll source for **[panta-rhei.site](https://panta-rhei.site)**, the public research observatory of the **Panta Rhei Research Program**.
 
-The program develops **Category τ**, a constrained formal kernel (5 generators, 7 axioms, 1 operator ρ) that aims to derive results across mathematics, physics, life, and metaphysics from one foundation. Master constant ι<sub>τ</sub> = 2/(π+e).
+The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality.
+
+The website materializes the public research spine:
+
+- **Discover** -- first-contact orientation.
+- **Program** -- identity, doctrine, scope, status, and scrutiny posture.
+- **Agenda** -- obligations: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
+- **Corpus** -- construction body: Construction Spine, Registry, TauLib projection, books, and dependency graph.
+- **Results** -- consequence layer: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
+- **Verify** -- inspection routes: formalization, construction-step verification, bridge checks, predictions, falsification, release manifest, and assessment protocols.
+- **Impact** -- conditional public relevance if the work survives inspection.
+- **Engage** -- structured scrutiny, correction, contribution, communication, and participation without requiring endorsement.
+
+Publications are exposed as the stable artifact and release layer.
 
 ## What's in the program
 
 | Surface | Repo | Purpose |
 |---|---|---|
 | **Public website** | [`Panta-Rhei-Research/site`](https://github.com/Panta-Rhei-Research/site) (this repo) | Jekyll source for `panta-rhei.site` — the program hub |
-| **Publications** | [`Panta-Rhei-Research/publications`](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artefacts and source files |
+| **Publications** | [`Panta-Rhei-Research/publications`](https://github.com/Panta-Rhei-Research/publications) | Open-access publication artifacts and source files |
 | **TauLib** | [`Panta-Rhei-Research/taulib`](https://github.com/Panta-Rhei-Research/taulib) | Lean 4 formalization source. Current metrics and trusted-base details are published in the [Release Manifest](https://panta-rhei.site/verify/release-manifest/); dedicated Lean documentation is hosted at [`taulib.site`](https://taulib.site). |
 | **Research** | [`Panta-Rhei-Research/research`](https://github.com/Panta-Rhei-Research/research) | Public workspace for open notebooks, scripts, and supplementary analyses |
 | **Community** | [`Panta-Rhei-Research/community`](https://github.com/Panta-Rhei-Research/community) | Public discussion and onboarding surface |
 
 The program is published as a canonical monograph series with a free **Numerical Physics Ledger** companion and manifest-pinned Corpus, Results, and Verify surfaces. Current release-changing numbers are generated from the Atlas release manifest below rather than hand-owned in README prose.
+
+## Research content note
+
+The site presents the program's current public corpus, including the Category τ kernel, Construction Spine, Registry, TauLib projection, Results, Verify surfaces, Publications, and ongoing Research Notes.
+
+Repository README prose should not be treated as the authority for release-changing metrics or scientific status. Current metrics and boundaries are generated from the Release Manifest.
+
+Do not hand-update headline metrics in this README except from the Release Manifest generation step.
 
 ## Current Release Metrics
 
@@ -75,6 +96,21 @@ See [`/credits/`](https://panta-rhei.site/credits/) for the full attribution lis
 - **Private, institutional, media, or sensitive contact:** use the typed routes on [`/engage/contact/`](https://panta-rhei.site/engage/contact/).
 - **Specialist review routes:** [`/verify/assessment-protocols/`](https://panta-rhei.site/verify/assessment-protocols/) and [`/verify/how-to-audit/`](https://panta-rhei.site/verify/how-to-audit/)
 - **Legal:** [`/impressum/`](https://panta-rhei.site/impressum/) · [`/datenschutz/`](https://panta-rhei.site/datenschutz/)
+
+## Engagement without endorsement
+
+We do not ask first for agreement.
+
+We ask for structured open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, and responsible communication.
+
+Participation does not imply endorsement of the framework. A reader may ask a question without accepting the theory. A reviewer may challenge a result without joining the program. A contributor may improve documentation, metadata, tooling, packaging, or formalization without endorsing any conclusion.
+
+## Verification note
+
+Website source, release manifests, generated artifacts, and repository integrity checks make parts of the program inspectable. They do not by themselves establish empirical truth, bridge adequacy, semantic correspondence, peer review, or external scientific acceptance.
+
+For current formalization metrics, trusted-base details, and verification boundaries, see the Release Manifest:
+https://panta-rhei.site/verify/release-manifest/
 
 ## How to cite
 
