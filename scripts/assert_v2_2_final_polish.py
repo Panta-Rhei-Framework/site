@@ -136,7 +136,8 @@ def main() -> int:
     require_card_list(parser, "/program/")
     for needle in [
         "Panta Rhei is currently:",
-        "organized through Program, Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
+        "organized through the v4 public spine",
+        "with Publications preserved as the stable artifact and release layer",
         "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
         "open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email",
         "not socially settled and not a substitute for expert peer review",

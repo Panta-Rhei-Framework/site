@@ -49,6 +49,45 @@ right_rail:
 
 The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality. It is published as an inspectable research observatory: Program for identity, Agenda for obligations, Corpus for construction, Results for consequences, Verify for inspection, Impact for conditional relevance, and Engage for open scrutiny.
 
+## Suggested first story angle
+
+The safest first story is not whether the Panta Rhei framework is true.
+
+The first story is the inspection standard.
+
+Open science makes research more accessible and shareable, but it raises a hard question: how should journalists, researchers, and readers assess high-scope claims from outside ordinary institutional channels?
+
+Panta Rhei can be covered as a case study in inspection architecture: a public research observatory exposing its Program doctrine, Agenda, source-pinned Problem Ledger, Recovery Requirements, Construction Spine, Corpus, TauLib formalization, Results, status markers, prediction/falsification surfaces, errata, and assessment protocols.
+
+Suggested framing:
+
+> If independent open research is allowed to ask large questions, what public burden should it accept before asking anyone to care?
+
+## What journalists can responsibly say
+
+- Panta Rhei has built an unusually structured public interface for inspecting a high-scope research program.
+- The site exposes Program, Agenda, Corpus, Results, Verify, Impact, and Engage surfaces.
+- It distinguishes internal program results from external verification or acceptance.
+- It provides source-pinned problem ledgers, recovery requirements, formalization surfaces, predictions, falsification paths, and correction routes.
+- Its inspection architecture is itself a public-facing artifact.
+
+## What should not be said without further review
+
+- The framework is proven.
+- The claims are accepted by the scientific community.
+- Panta Rhei has solved all listed problems.
+- The Lean formalization proves the physical results.
+- The inspection architecture validates the scientific truth of the framework.
+
+## Possible headlines
+
+- Open Science Needs Inspection Architecture
+- How Should Radical Open Research Be Published Before It Is Believed?
+- A Public Research Observatory for High-Scope Science
+- Beyond the Preprint: Making Ambitious Research Inspectable
+- Big Claims Are Cheap. Inspection Architecture Is Not.
+- A Case Study in How High-Scope Research Can Ask to Be Checked, Not Believed
+
 ## What this is
 
 This page gathers public materials for journalists, podcast hosts, public communicators, reviewers, and institutional readers. It is an entry surface into the current public site, not a replacement for the canonical lanes.
@@ -171,6 +210,8 @@ The program publishes its research papers as standalone PDFs under [`/publicatio
 - [Homepage]({{ '/' | relative_url }}) — high-level orientation.
 - [Discover]({{ '/discover/' | relative_url }}) — guided entry routes.
 - [Program]({{ '/program/' | relative_url }}) — identity, doctrine, scope, status, and inspection-observatory rationale.
+- [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}) — the short public doctrine behind the canonical v4 statement.
+- [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }}) — why the site asks first for structured inspection.
 - [Agenda]({{ '/program/research-agenda/' | relative_url }}) — obligations, problem ledgers, recovery requirements, and construction roadmap.
 - [Corpus]({{ '/corpus/' | relative_url }}) — central research artifact and registry projection.
 - [Results]({{ '/results/' | relative_url }}) — typed answer surfaces and world readouts.

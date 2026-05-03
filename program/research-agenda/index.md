@@ -135,7 +135,7 @@ The Research Agenda is the obligation layer. It states the burdens the program a
 
 ## Why a Problem Ledger?
 
-The program aims to construct a coherent kernel-based model of reality. Such a model cannot be judged only by whether it can rephrase already established theories in a new language.
+The program asks whether a constrained kernel can support a coherent theory of reality. Such a theory cannot be judged only by whether it can rephrase already established theories in a new language.
 
 A serious candidate kernel must also be held against open problems: places where current knowledge does not yet close.
 
@@ -186,7 +186,7 @@ Both ledgers belong to the same burden of proof. They should not be collapsed in
 
 The ledgers name what the program must face. Kernel, Model & Reality names the deeper burden behind that confrontation: what would make a kernel more than a useful organizing model?
 
-The program is therefore not satisfied with a model that merely organizes observations; it asks what formal shape a model would need in order to qualify as an ontically serious candidate.
+The program is therefore not satisfied with a model that merely organizes observations; it asks what formal shape an admissible theory of reality would need in order to qualify as an ontically serious candidate.
 
 This section treats ontic status as a burden, not a premise. It takes the phenomena/noumena boundary seriously, distinguishes pointing access from diagrammatic access, and applies a strict no-externalities rule: no hidden runtime, substrate, bridge, semantic load, or residual boundary may be treated as solved by silence.
 

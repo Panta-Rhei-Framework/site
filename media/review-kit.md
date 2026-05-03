@@ -48,6 +48,37 @@ The Panta Rhei Research Program is an **independent open research program dedica
 
 The [books]({{ '/publications/research-monographs/' | relative_url }}) are the canonical monograph release. The site provides navigable access in understanding-order. [TauLib]({{ '/verify/taulib/' | relative_url }}) provides machine-checked verification. The guided tours and Research Briefings lower the threshold for structured engagement.
 
+## Start with the inspection architecture
+
+Before reviewing any individual claim, start with the inspection architecture.
+
+Panta Rhei is organized so that reviewers can move from:
+
+Program -> Agenda -> Corpus -> Results -> Verify
+
+This means:
+
+- first inspect the identity, status, and doctrine;
+- then inspect the obligations;
+- then inspect the construction;
+- then inspect the current result stance;
+- then inspect the verification route.
+
+## First-pass reviewer checklist
+
+1. Is the scope and burden of proof explicit?
+2. Are the Problem Ledger and source-policy rules visible?
+3. Are Recovery Requirements stated separately from open problems?
+4. Is there a Construction Roadmap / Construction Spine?
+5. Is there a Corpus with stable IDs and dependency routes?
+6. Is there a formalization surface, and are its limits stated?
+7. Are Results status-marked?
+8. Are bridge claims explicit?
+9. Are falsification or failure paths visible?
+10. Are errata and correction routes public?
+11. Are remaining externalities disclosed?
+12. Is there a route to ask questions or report errors?
+
 ## Research-form legitimacy
 
 Start with [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}), [What We Mean by a Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), and the [Agenda]({{ '/program/research-agenda/' | relative_url }}). These pages state what kind of research object this is, what it refuses, what obligations it accepts, and how its claims should be challenged.

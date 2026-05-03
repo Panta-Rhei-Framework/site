@@ -145,7 +145,8 @@ def main() -> int:
     _, visible, parser = read_page(site, "/program/")
     require_card_list(parser, "/program/")
     for needle in [
-        "organized through Program, Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
+        "organized through the v4 public spine",
+        "with Publications preserved as the stable artifact and release layer",
         "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
         "GitHub Discussions, Issues, Pull Requests, and email",
         "Agenda states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.",
