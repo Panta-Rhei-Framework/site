@@ -193,7 +193,6 @@ def main() -> int:
         "/program/research-agenda/core-design-principles/",
         "/corpus/construction-spine/",
         "/media/",
-        "/media/review-kit/",
     ]:
         html, _visible = assert_one_h1(site, route)
         if f'href="{HUB}"' not in html:

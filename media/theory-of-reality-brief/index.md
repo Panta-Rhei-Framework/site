@@ -16,8 +16,8 @@ right_rail:
     url: /media/journalist-faq/
   - title: Social Media Kit
     url: /media/social-media-kit/
-  - title: Review Kit
-    url: /media/review-kit/
+  - title: How to Verify
+    url: /verify/how-to-verify/
   - title: White Paper
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   - title: Coherent Theory of Reality
@@ -66,4 +66,5 @@ Large theoretical programs often enter public language through slogans. This bri
 2. [What We Mean by a Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }})
 3. [Agenda]({{ '/program/research-agenda/' | relative_url }})
 4. [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }})
-5. [Review Kit]({{ '/media/review-kit/' | relative_url }})
+5. [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+6. [Review the Work]({{ '/engage/review-the-work/' | relative_url }})

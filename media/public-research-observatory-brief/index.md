@@ -16,8 +16,8 @@ right_rail:
     url: /media/journalist-faq/
   - title: Social Media Kit
     url: /media/social-media-kit/
-  - title: Review Kit
-    url: /media/review-kit/
+  - title: How to Verify
+    url: /verify/how-to-verify/
   - title: White Paper
     url: /publications/white-papers/building-a-public-research-observatory/
   - title: Inspection Observatory
@@ -63,7 +63,8 @@ The observatory is a review interface, not a proof of the theory.
 1. [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }})
 2. [Why We Built an Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }})
 3. [Discover]({{ '/discover/' | relative_url }})
-4. [Review Kit]({{ '/media/review-kit/' | relative_url }})
+4. [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+5. [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 5. [Engage]({{ '/engage/' | relative_url }})
 
 ## Suggested headline angle

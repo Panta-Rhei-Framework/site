@@ -23,8 +23,10 @@ right_rail:
       url: "/program/research-agenda/construction-roadmap/"
     - title: "Related Approaches"
       url: "/program/about/related-approaches/"
-    - title: "Review Kit"
-      url: "/media/review-kit/"
+    - title: "How to Verify"
+      url: "/verify/how-to-verify/"
+    - title: "Assessment Protocols"
+      url: "/verify/assessment-protocols/"
   meta:
     type: "White Paper"
     scope: "Program doctrine / theory of reality"
@@ -99,7 +101,8 @@ The core line is:
 - [Answer-Shape Requirements]({{ '/program/research-agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }})
 - [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }})
 - [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }})
-- [Review Kit]({{ '/media/review-kit/' | relative_url }})
+- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 
 ## For journalists
 

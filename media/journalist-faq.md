@@ -24,8 +24,10 @@ right_rail:
     url: /media/story-angles/
   - title: "Social Media Kit"
     url: /media/social-media-kit/
-  - title: "Review Kit"
-    url: /media/review-kit/
+  - title: "How to Verify"
+    url: /verify/how-to-verify/
+  - title: "Assessment Protocols"
+    url: /verify/assessment-protocols/
   - title: "Open Research Brief"
     url: /media/open-research-brief/
   - title: "Inspection Architecture White Paper"
@@ -53,7 +55,7 @@ right_rail:
 
 This FAQ is written for **journalists, podcast hosts, editors, and public communicators** writing about the Panta Rhei Research Program. The questions and answers are short by design — each one is a paragraph or two with links into the canonical lanes for deeper context. If you cannot find an answer here, write to [press@panta-rhei.site](mailto:press@panta-rhei.site) and we will route the question.
 
-For specialist-level questions (formal-methods reviewers, domain experts), see the separate [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) and [Review Kit]({{ '/media/review-kit/' | relative_url }}).
+For specialist-level questions (formal-methods reviewers, domain experts), see the separate [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}), [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}), and [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}).
 
 ## Package 1: Open Research / Inspection Architecture
 
@@ -101,7 +103,7 @@ The safe angle is: “What should a serious theory of reality have to expose bef
 
 ### What should I link first?
 
-Use the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) for newsroom framing and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) for the citable Package 2 artifact. Then route readers to [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), [Agenda]({{ '/program/research-agenda/' | relative_url }}), and [Review Kit]({{ '/media/review-kit/' | relative_url }}).
+Use the [Theory of Reality Brief]({{ '/media/theory-of-reality-brief/' | relative_url }}) for newsroom framing and the white paper [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) for the citable Package 2 artifact. Then route readers to [Coherent Theory of Reality]({{ '/program/about/coherent-theory-of-reality/' | relative_url }}), [Agenda]({{ '/program/research-agenda/' | relative_url }}), and [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}).
 
 ### Do the external sources cited by Package 2 endorse Panta Rhei?
 
@@ -123,7 +125,7 @@ The safe angle is: “How should high-scope open research build the public inter
 
 ### What should I link first for Package 3?
 
-Use the [Public Research Observatory Brief]({{ '/media/public-research-observatory-brief/' | relative_url }}) for newsroom framing and the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) for the citable artifact. Then route readers to [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }}), [Discover]({{ '/discover/' | relative_url }}), and [Review Kit]({{ '/media/review-kit/' | relative_url }}).
+Use the [Public Research Observatory Brief]({{ '/media/public-research-observatory-brief/' | relative_url }}) for newsroom framing and the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) for the citable artifact. Then route readers to [Inspection Observatory]({{ '/program/about/inspection-observatory/' | relative_url }}), [Discover]({{ '/discover/' | relative_url }}), and [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}).
 
 ## What kind of research is this?
 
@@ -228,5 +230,5 @@ Please tell us. Email [errata@panta-rhei.site](mailto:errata@panta-rhei.site) or
 - **Media inquiries**: [press@panta-rhei.site](mailto:press@panta-rhei.site)
 - **Technical inquiries**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject: "Technical Inquiry"
 - **Institutional contact**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site)
-- **Peer review**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
+- **Structured review / technical inspection**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
 - **Errata & corrections**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)

@@ -6,7 +6,7 @@ v2_lane: engage
 type: "Contact"
 status: "Active"
 permalink: /engage/contact/
-summary_short: "Typed contact routes for media, technical inquiry, institutions, corrections, peer review, and general correspondence."
+summary_short: "Typed contact routes for media, technical inquiry, institutions, corrections, structured review, and general correspondence."
 summary_cards:
   - title: "Typed routing"
     body: "Please indicate your inquiry type so the message reaches the right queue."
@@ -29,8 +29,10 @@ right_rail:
   artifacts:
     - title: "Media Kit"
       url: /media/
-    - title: "Review Kit"
-      url: /media/review-kit/
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
+    - title: "Review the Work"
+      url: /engage/review-the-work/
     - title: "Errata"
       url: /publications/errata/
   meta:
@@ -121,9 +123,9 @@ Factual errors, computational mistakes, scope-label issues, broken proofs, or su
 
 **Email**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
 
-### Peer Review & Academic Review
+### Structured Review / Technical Inspection
 
-For reviewers evaluating the program formally, institutional review committees, and scholarly peer-review coordination.
+For reviewers evaluating a bounded part of the program, institutional review committees, domain specialists, and technical inspection reports.
 
 **Email**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
 

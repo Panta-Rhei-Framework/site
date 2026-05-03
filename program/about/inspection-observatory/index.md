@@ -39,8 +39,10 @@ right_rail:
       url: /media/
     - title: "Open Research Brief"
       url: /media/open-research-brief/
-    - title: "Review Kit"
-      url: /media/review-kit/
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
+    - title: "Assessment Protocols"
+      url: /verify/assessment-protocols/
     - title: "Inspection Architecture White Paper"
       url: /publications/white-papers/inspection-architecture-high-scope-open-research/
     - title: "Public Research Observatory Brief"
@@ -97,7 +99,8 @@ That architecture does not validate the theory. It makes the public inspection p
 If you are covering or reviewing the program, start with the inspection standard before evaluating individual claims.
 
 - [Media Kit]({{ '/media/' | relative_url }})
-- [Review Kit]({{ '/media/review-kit/' | relative_url }})
+- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 - [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) -- white paper, DOI forthcoming
 - [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) -- technical blueprint, DOI forthcoming
 

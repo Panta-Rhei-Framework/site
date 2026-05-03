@@ -137,7 +137,7 @@ primary_lanes:
 
   - title: "Results"
     role: "Consequences"
-    description: "Where the built Corpus becomes a world: landmark results, world readouts, ledger answers, recovery status, predictions, and result browsing."
+    description: "Where the built Corpus becomes a world: readouts, mirrors, predictions, and result browse surfaces."
     root_label: "Open Results"
     root_url: "/results/"
     links:
@@ -302,8 +302,12 @@ support:
       url: "/bibliography/browse/"
     - title: "Media Kit"
       url: "/media/"
-    - title: "Review Kit"
-      url: "/media/review-kit/"
+    - title: "How to Verify"
+      url: "/verify/how-to-verify/"
+    - title: "Assessment Protocols"
+      url: "/verify/assessment-protocols/"
+    - title: "Review the Work"
+      url: "/engage/review-the-work/"
     - title: "Changelog"
       url: "/changelog/"
     - title: "Credits"

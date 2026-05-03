@@ -13,8 +13,8 @@ right_rail:
   related:
   - title: Media Kit
     url: /media/
-  - title: Review Kit
-    url: /media/review-kit/
+  - title: How to Verify
+    url: /verify/how-to-verify/
   - title: Brand
     url: /brand/
   - title: Cite

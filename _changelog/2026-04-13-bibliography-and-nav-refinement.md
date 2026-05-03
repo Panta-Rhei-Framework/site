@@ -23,5 +23,5 @@ right_rail:
 
 - **Bibliography slice**: New `/bibliography/` surface with 1,124 entries parsed from the shared `references.bib`, grouped into 8 domain categories, each with per-entry pages and editorial notes
 - **Impact in top nav**: Added Impact as the sixth top-level navigation item
-- **Utility shell mode**: Introduced a "Reference" left-rail for trust/utility pages (Cite, Bibliography, Impressum, Datenschutz, Media Kit, Review Kit)
+- **Utility shell mode**: Introduced a "Reference" left-rail for trust/utility pages (Cite, Bibliography, Impressum, Datenschutz, Media Kit, and the historical reviewer support page)
 - **Footer reorder**: Added Founders and reordered footer links per the navigation refinement spec

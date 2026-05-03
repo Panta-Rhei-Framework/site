@@ -40,6 +40,32 @@ right_rail:
 
 The matrix is not a single checklist. It is a routing layer that helps a reader choose which inspection mode fits the claim under review.
 
+## Review routes
+
+The former standalone reviewer kit has been folded into Verify and Engage.
+
+Use this page to choose an inspection route. Use [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) for structured workflows. Use [Engage → Review the Work]({{ '/engage/review-the-work/' | relative_url }}) to offer bounded review, critique, correction, or contribution.
+
+Review is a routed activity, not a standalone kit. Panta Rhei is inspected through bounded routes across Verify and Engage.
+
+## Start with the inspection architecture
+
+Before inspecting any individual claim, start with the inspection architecture.
+
+Panta Rhei is organized so that reviewers can move from:
+
+Program -> Agenda -> Corpus -> Results -> Verify
+
+This means:
+
+- first inspect the identity, status, and doctrine;
+- then inspect the obligations;
+- then inspect the construction;
+- then inspect the current result stance;
+- then inspect the verification route.
+
+This route does not replace expert review. It orients bounded inspection.
+
 ## Choose Your Entry Route
 
 <div class="v2-grid">
@@ -75,3 +101,26 @@ The matrix is not a single checklist. It is a routing layer that helps a reader 
 2. Use the [Verification Framework]({{ '/verify/verification-framework/' | relative_url }}) to identify the kind of verification your question needs.
 3. If the question is construction-facing, use [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) to map the relevant step to its inspection modes.
 4. Inspect the operational surface: [TauLib]({{ '/verify/taulib/' | relative_url }}), [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}), [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}), or [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}).
+
+## First-pass inspection checklist
+
+1. Is the scope and burden of proof explicit?
+2. Are the Problem Ledger and source-policy rules visible?
+3. Are Core Semantics and answer-shape obligations stated separately from open problems?
+4. Is there a Construction Roadmap / Construction Spine?
+5. Is there a Corpus with stable IDs and dependency routes?
+6. Is there a formalization surface, and are its limits stated?
+7. Are Results status-marked?
+8. Are bridge claims explicit?
+9. Are falsification or failure paths visible?
+10. Are errata and correction routes public?
+11. Are remaining externalities disclosed?
+12. Is there a route to ask questions or report errors?
+
+## Domain entry routes
+
+- **Mathematics** — [Core Semantics]({{ '/program/research-agenda/kernel-model-reality/answer-shape-requirements/' | relative_url }}), [Foundational Hinges]({{ '/corpus/foundational-hinges/' | relative_url }}), [TauLib]({{ '/verify/taulib/' | relative_url }}), and [Mathematics results]({{ '/results/topic/mathematics/' | relative_url }}).
+- **Physics** — [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}), [Recovery Requirements: Physics]({{ '/program/research-agenda/recovery-requirements/physics/' | relative_url }}), [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}), and [Physics results]({{ '/results/topic/physics/' | relative_url }}).
+- **Life** — [Recovery Requirements: Life]({{ '/program/research-agenda/recovery-requirements/life/' | relative_url }}), [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}), and [Life-facing results]({{ '/results/topic/biology/' | relative_url }}).
+- **Metaphysics** — [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}), [Recovery Requirements: Metaphysics]({{ '/program/research-agenda/recovery-requirements/metaphysics/' | relative_url }}), [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}), and [Metaphysics / Philosophy-facing results]({{ '/results/topic/philosophy/' | relative_url }}).
+- **Formalization** — [TauLib]({{ '/verify/taulib/' | relative_url }}), [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}), and [Formal Verification Stack]({{ '/verify/formal-verification-stack/' | relative_url }}).

@@ -18,7 +18,8 @@ NEW_ROUTES = [
 
 LINKED_ROUTES = [
     "/media/",
-    "/media/review-kit/",
+    "/verify/assessment-protocols/",
+    "/engage/review-the-work/",
     "/media/journalist-faq/",
     "/media/social-media-kit/",
     "/program/about/",
@@ -157,10 +158,10 @@ def assert_media_surfaces(site: Path) -> None:
     require(media.visible, "Theory of Reality Brief", "/media/")
     require(media.visible, "The Shape of a Theory of Reality", "/media/")
 
-    _, review = read_page(site, "/media/review-kit/")
-    require(review.visible, "Reviewing the theory-of-reality claim", "/media/review-kit/")
+    _, review = read_page(site, "/verify/assessment-protocols/")
+    require(review.visible, "Package 2 — Theory of Reality", "/verify/assessment-protocols/")
     for item in CHECKLIST_ITEMS:
-        require(review.visible, item, "/media/review-kit/")
+        require(review.visible, item, "/verify/assessment-protocols/")
 
     _, faq = read_page(site, "/media/journalist-faq/")
     require(faq.visible, "Package 2: Theory of Reality", "/media/journalist-faq/")
