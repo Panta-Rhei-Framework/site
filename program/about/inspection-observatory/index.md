@@ -37,8 +37,12 @@ right_rail:
       url: /program/about/scope-status-and-scrutiny/
     - title: "Media Kit"
       url: /media/
+    - title: "Open Research Brief"
+      url: /media/open-research-brief/
     - title: "Review Kit"
       url: /media/review-kit/
+    - title: "Inspection Architecture White Paper"
+      url: /publications/white-papers/inspection-architecture-high-scope-open-research/
     - title: "Engage"
       url: /engage/
   meta:
@@ -84,7 +88,7 @@ If you are covering or reviewing the program, start with the inspection standard
 
 - [Media Kit]({{ '/media/' | relative_url }})
 - [Review Kit]({{ '/media/review-kit/' | relative_url }})
-- Inspection Architecture for High-Scope Open Research -- white paper forthcoming
+- [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) -- white paper, DOI forthcoming
 
 ## What this page does not claim
 

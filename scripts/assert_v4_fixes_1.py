@@ -225,7 +225,7 @@ def main() -> int:
         "Media Kit",
         "Review Kit",
         "Inspection Architecture for High-Scope Open Research",
-        "white paper forthcoming",
+        "white paper, DOI forthcoming",
     ]:
         require(observatory_visible, needle, "/program/about/inspection-observatory/")
 

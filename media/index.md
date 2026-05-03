@@ -26,6 +26,8 @@ right_rail:
     url: /media/social-media-kit/
   - title: Review Kit
     url: /media/review-kit/
+  - title: Open Research Brief
+    url: /media/open-research-brief/
   - title: Related Approaches
     url: /program/about/related-approaches/
   - title: Scientific Plates
@@ -40,6 +42,8 @@ right_rail:
     url: /engage/contact/
   - title: White Papers
     url: /publications/white-papers/
+  - title: Inspection Architecture White Paper
+    url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   meta:
     type: "Support page"
     scope: "Media kit"
@@ -59,7 +63,7 @@ The first story is the inspection standard.
 
 Open science makes research more accessible and shareable, but it raises a hard question: how should journalists, researchers, and readers assess high-scope claims from outside ordinary institutional channels?
 
-Panta Rhei can be covered as a case study in inspection architecture: a public research observatory exposing its Program doctrine, Agenda, source-pinned Problem Ledger, Recovery Requirements, Construction Spine, Corpus, TauLib formalization, Results, status markers, prediction/falsification surfaces, errata, and assessment protocols.
+Panta Rhei can be covered as a case study in inspection architecture: a public research observatory exposing its Program doctrine, Agenda, source-pinned Problem Ledger, Core Semantics, Construction Spine, Corpus, TauLib formalization, Results, status markers, prediction/falsification surfaces, errata, and assessment protocols.
 
 For comparisons with neighboring structural, computational, geometric, life, consciousness, and metaphysical programs, use [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}). It is a positioning map, not a takedown.
 
@@ -67,12 +71,14 @@ Suggested framing:
 
 > If independent open research is allowed to ask large questions, what public burden should it accept before asking anyone to care?
 
+For the full Package 1 framing, read the [Open Research Brief]({{ '/media/open-research-brief/' | relative_url }}) and the white paper [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}).
+
 ## What journalists can responsibly say
 
 - Panta Rhei has built an unusually structured public interface for inspecting a high-scope research program.
 - The site exposes Program, Agenda, Corpus, Results, Verify, Impact, and Engage surfaces.
 - It distinguishes internal program results from external verification or acceptance.
-- It provides source-pinned problem ledgers, recovery requirements, formalization surfaces, predictions, falsification paths, and correction routes.
+- It provides source-pinned problem ledgers, core-semantics obligations, formalization surfaces, predictions, falsification paths, and correction routes.
 - Its inspection architecture is itself a public-facing artifact.
 
 ## What should not be said without further review
@@ -114,6 +120,10 @@ This media kit is not a peer-review certificate, not a claim that every result i
   <a class="v2-tile" href="{{ '/media/story-angles/' | relative_url }}">
     <h3>Story Angles</h3>
     <p>Five framings for journalists — independence, zero free parameters, falsification on day one, cross-domain scope, open verification. Each with a headline, 30-second pitch, and key-fact anchor.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/media/open-research-brief/' | relative_url }}">
+    <h3>Open Research Brief</h3>
+    <p>A one-page newsroom brief for the safest first story: the inspection standard, not endorsement of the theory.</p>
   </a>
   <a class="v2-tile" href="{{ '/media/journalist-faq/' | relative_url }}">
     <h3>Journalist FAQ</h3>

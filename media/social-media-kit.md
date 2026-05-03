@@ -24,6 +24,10 @@ right_rail:
     url: /media/story-angles/
   - title: "Journalist FAQ"
     url: /media/journalist-faq/
+  - title: "Open Research Brief"
+    url: /media/open-research-brief/
+  - title: "Inspection Architecture White Paper"
+    url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   - title: "Scientific Plates"
     url: /media/posters/
   - title: "Brand"
@@ -53,6 +57,31 @@ For domain-specific posts, add one of:
 - Mathematics: `#CategoryTheory`, `#Foundations`, `#TypeTheory`
 - Physics: `#Cosmology`, `#StandardModel`, `#FineStructureConstant`
 - Biology / philosophy: `#TheoreticalBiology`, `#PhilosophyOfScience`
+
+## Open Research / Inspection Architecture launch snippets
+
+Use these for Package 1, where the first story is the inspection standard, not endorsement of the theory.
+
+### X / Bluesky
+
+> High-scope open research should not ask for belief before it has made itself inspectable. Our first press package asks: what public inspection burden should ambitious independent research accept before asking anyone to care?
+> {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
+> #OpenResearch #ResearchTransparency
+
+### LinkedIn
+
+> Open science creates a hard question: what should journalists, reviewers, and readers do with ambitious independent research before external acceptance exists?
+>
+> Panta Rhei's first press package is not a request to endorse the theory. It is a public inspection standard: Program, Agenda, Corpus, Results, Verify, Impact, and Engage made inspectable before belief is requested.
+>
+> Read the brief: {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
+> White paper: {{ site.url }}{{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}
+
+### Mastodon
+
+> The first story is not whether a high-scope theory is true. The first story is whether it exposes enough obligation, construction, status, verification, failure paths, and correction routes to be responsibly inspected.
+>
+> {{ site.url }}{{ '/media/open-research-brief/' | relative_url }}
 
 ## X (Twitter) — under 280 characters
 

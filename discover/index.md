@@ -43,6 +43,10 @@ right_rail:
       url: /discover/what-to-read-first/
     - title: "Follow the Research"
       url: /discover/follow-the-research/
+    - title: "Open Research Brief"
+      url: /media/open-research-brief/
+    - title: "Inspection Architecture White Paper"
+      url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   meta:
     type: "Lane Root"
     status: "Canonical"
@@ -71,10 +75,12 @@ Use this chain to read the site: obligations first, construction second, consequ
 
 ## Before Results, there is obligation
 
-{% capture discover_plate_03_caption %}Before Results, there is obligation: the Research Agenda records the external problems, recovery requirements, answer-shape discipline, and logical build-order of the program.{% endcapture %}
+{% capture discover_plate_03_caption %}Before Results, there is obligation: the Agenda records external problems, core-semantics obligations, answer-shape discipline, and the logical build-order of the program.{% endcapture %}
 {% include scientific-plate.html id="plate-03-public-obligation-layer" variant="thumb" class="scientific-plate--compact" caption=discover_plate_03_caption loading="lazy" %}
 
 The Research Agenda states the burden: what must be kept visible, what must be recovered, what kind of answer could count, and what must be built first.
+
+For journalists and public readers, the current [Open Research Brief]({{ '/media/open-research-brief/' | relative_url }}) explains the safest first story: the inspection standard, not endorsement of the theory.
 
 ## Choose your entry
 
@@ -117,6 +123,8 @@ Publications remains the stable artifact and release layer: Research Monographs,
 
 - [Start Here]({{ '/discover/start-here/' | relative_url }}) for the fastest general entry.
 - [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}) for where Panta Rhei sits among serious neighboring programs.
+- [Open Research Brief]({{ '/media/open-research-brief/' | relative_url }}) for the press-facing inspection-architecture story.
+- [Inspection Architecture White Paper]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) for the Package 1 white paper.
 - [Key Results]({{ '/discover/key-results/' | relative_url }}) for a curated first set of claims.
 - [How the System Works]({{ '/discover/how-the-system-works/' | relative_url }}) for the architecture.
 - [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) for the logical build-order.

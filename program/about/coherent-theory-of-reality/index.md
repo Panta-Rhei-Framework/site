@@ -33,6 +33,8 @@ right_rail:
       url: /program/about/
     - title: "Inspection Observatory"
       url: /program/about/inspection-observatory/
+    - title: "Inspection Architecture White Paper"
+      url: /publications/white-papers/inspection-architecture-high-scope-open-research/
     - title: "Related Approaches"
       url: /program/about/related-approaches/
     - title: "Kernel, Model & Reality"
@@ -80,6 +82,8 @@ This page is the short public definition. The full doctrine expands the terms co
 - boundary disclosure.
 
 **Read the full doctrine -- forthcoming.**
+
+For the open-research press package that translates this doctrine into an inspection standard, see [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}).
 
 For comparison with serious neighboring approaches, see [Related Approaches]({{ '/program/about/related-approaches/' | relative_url }}). It explains how Panta Rhei shares pressures with structural, computational, geometric, life, consciousness, and metaphysical programs while placing the construction burden differently.
 

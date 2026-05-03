@@ -20,6 +20,10 @@ right_rail:
   related:
   - title: Media Kit
     url: /media/
+  - title: Open Research Brief
+    url: /media/open-research-brief/
+  - title: Inspection Architecture White Paper
+    url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   - title: Verify
     url: /verify/
   - title: Assessment Protocols
@@ -54,6 +58,8 @@ The [books]({{ '/publications/research-monographs/' | relative_url }}) are the c
 
 Before reviewing any individual claim, start with the inspection architecture.
 
+Package 1 publishes this standard explicitly in the white paper [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}). The paper cites open-science, review, reporting, and repository standards as context only; none of those organizations endorses Panta Rhei's scientific claims.
+
 Panta Rhei is organized so that reviewers can move from:
 
 Program -> Agenda -> Corpus -> Results -> Verify
@@ -68,9 +74,11 @@ This means:
 
 ## First-pass reviewer checklist
 
+This is the inspection-architecture checklist for Package 1.
+
 1. Is the scope and burden of proof explicit?
 2. Are the Problem Ledger and source-policy rules visible?
-3. Are Recovery Requirements stated separately from open problems?
+3. Are Core Semantics and answer-shape obligations stated separately from open problems?
 4. Is there a Construction Roadmap / Construction Spine?
 5. Is there a Corpus with stable IDs and dependency routes?
 6. Is there a formalization surface, and are its limits stated?

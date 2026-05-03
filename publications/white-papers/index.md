@@ -41,6 +41,7 @@ White Papers belong to Publications because they are stable citable artifacts. T
 
 ## Released
 
+- [**Inspection Architecture for High-Scope Open Research**]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) — *A practical blueprint for publishing ambitious independent research before asking for belief.* v0.1, May 2026. Architecture / Methodology White Paper. DOI forthcoming.
 - [**TauLib: A Self-Contained Lean 4 Library for Category τ**]({{ '/publications/white-papers/taulib/' | relative_url }}) — *Kernel + Mathlib Bridges + Registry-Driven Correspondence.* v2.0, May 2026. Technical / Formalization White Paper. DOI: [10.5281/zenodo.19976503](https://doi.org/10.5281/zenodo.19976503).
 
 ## Initial examples (other categories)

@@ -26,6 +26,10 @@ right_rail:
     url: /media/social-media-kit/
   - title: "Review Kit"
     url: /media/review-kit/
+  - title: "Open Research Brief"
+    url: /media/open-research-brief/
+  - title: "Inspection Architecture White Paper"
+    url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   - title: "Engage · Media"
     url: /engage/media/
   - title: "Independence, Scope & Scrutiny"
@@ -42,6 +46,36 @@ right_rail:
 This FAQ is written for **journalists, podcast hosts, editors, and public communicators** writing about the Panta Rhei Research Program. The questions and answers are short by design — each one is a paragraph or two with links into the canonical lanes for deeper context. If you cannot find an answer here, write to [press@panta-rhei.site](mailto:press@panta-rhei.site) and we will route the question.
 
 For specialist-level questions (formal-methods reviewers, domain experts), see the separate [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) and [Review Kit]({{ '/media/review-kit/' | relative_url }}).
+
+## Package 1: Open Research / Inspection Architecture
+
+### Is Panta Rhei claiming its theory is proven?
+
+No. Package 1 is deliberately about the inspection standard, not endorsement of the theory. The public claim is that high-scope independent research should expose obligations, construction, result status, verification routes, failure paths, correction channels, and publication artifacts before asking for belief.
+
+### Why is the first story not the scientific claim?
+
+Because the safer and more public-relevant first story is architectural: what burden should ambitious open research accept before journalists, reviewers, or readers give it attention? Individual scientific claims still require domain review, formal inspection where applicable, empirical testing, and external assessment.
+
+### What is the inspection architecture?
+
+It is the site-wide chain that lets readers move from Program identity and Agenda obligations to Corpus construction, Results consequences, Verify inspection, Impact conditional relevance, and Engage routes for questions, corrections, and scrutiny.
+
+### Does TauLib prove the theory?
+
+No. TauLib can check formalized internal claims where those claims have been encoded. It does not by itself prove empirical truth, bridge adequacy, semantic interpretation, public-good relevance, or external scientific acceptance.
+
+### Can a journalist write before expert review?
+
+Yes, if the article is framed as a story about inspectability, open-research infrastructure, and the public burden accepted by a high-scope independent program. It should not state or imply that external institutions have validated the scientific claims.
+
+### Do UNESCO, The Turing Way, TOP/COS, EQUATOR, COPE, or Zenodo endorse this package?
+
+No. They are cited as official reference points for open science, reproducible research, transparency, reporting, peer-review ethics, and repository metadata. Citation is context, not endorsement.
+
+### How should errors be reported?
+
+Send corrections to [errata@panta-rhei.site](mailto:errata@panta-rhei.site), use the [Engage]({{ '/engage/' | relative_url }}) routes, or open a GitHub issue where the relevant public source allows it.
 
 ## What kind of research is this?
 
