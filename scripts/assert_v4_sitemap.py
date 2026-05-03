@@ -66,8 +66,14 @@ def main() -> None:
         fail("stale 'Core lanes' copy remains visible")
     if "Human-readable map of the Panta Rhei public research observatory" not in visible:
         fail("locked v4 sitemap intro is missing")
+    if "Where the built Corpus becomes a world" not in visible:
+        fail("Results card does not use the v4 built-Corpus-becomes-a-world description")
     if "/sitemap.xml" not in html:
         fail("machine-readable /sitemap.xml link is missing")
+    if "sitemap-chip" in html:
+        fail("sitemap still renders pill/chip link classes instead of mini-card tiles")
+    if "sitemap-link-grid" not in html or "sitemap-mini-card" not in html:
+        fail("sitemap mini-card grid classes are missing")
 
     card_lanes = re.findall(r'data-sitemap-lane="([^"]+)"', html)
     for lane in PRIMARY_LANES:
@@ -102,8 +108,12 @@ def main() -> None:
         card_html = card_match.group(0)
         if 'class="sitemap-card-cta"' not in card_html:
             fail(f"{lane} card has no root CTA")
-        if len(re.findall(r'class="sitemap-chip"', card_html)) < 4:
+        if 'class="sitemap-link-grid"' not in card_html:
+            fail(f"{lane} card does not use the mini-card link grid")
+        if len(re.findall(r'class="sitemap-mini-card"', card_html)) < 4:
             fail(f"{lane} card does not expose useful second-level links")
+        if re.search(r'<li class="sitemap-mini-card">\s*<a href="[^"]+">[^<]+</a>\s*</li>', card_html) is None:
+            fail(f"{lane} card mini-card links must render as li > a")
 
     support_match = re.search(
         r'<article class="sitemap-card sitemap-card-support" data-sitemap-lane="support".*?</article>',
@@ -113,6 +123,8 @@ def main() -> None:
     if not support_match:
         fail("support card markup missing")
     support_text = strip_tags(support_match.group(0))
+    if "Support layer" not in support_text:
+        fail("support card eyebrow should read 'Support layer'")
     for required in ["Publications", "Release Artifacts", "Errata", "Media Kit", "XML Sitemap"]:
         if required not in support_text:
             fail(f"support card missing {required}")
