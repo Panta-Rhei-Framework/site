@@ -44,7 +44,7 @@ right_rail:
       </div>
       <ul class="sitemap-link-grid" aria-label="{{ lane.title }} pages">
         {% for link in lane.links %}
-        <li class="sitemap-mini-card"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+        <li class="sitemap-mini-card"><a href="{{ link.url | relative_url }}"><span>{{ link.title }}</span></a></li>
         {% endfor %}
       </ul>
       <a class="sitemap-card-cta" href="{{ lane.root_url | relative_url }}">{{ lane.root_label }}</a>
@@ -64,7 +64,7 @@ right_rail:
     </div>
     <ul class="sitemap-link-grid" aria-label="{{ support.title }} pages">
       {% for link in support.links %}
-      <li class="sitemap-mini-card"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+      <li class="sitemap-mini-card"><a href="{{ link.url | relative_url }}"><span>{{ link.title }}</span></a></li>
       {% endfor %}
     </ul>
     <a class="sitemap-card-cta" href="{{ support.root_url | relative_url }}">{{ support.root_label }}</a>
