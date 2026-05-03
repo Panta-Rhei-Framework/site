@@ -28,6 +28,8 @@ right_rail:
       url: /corpus/construction-spine/
     - title: "Progress Against Agenda"
       url: /results/progress-against-agenda/
+    - title: "Theory of Reality White Paper"
+      url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   meta:
     type: "Agenda Page"
     scope: "Logical construction order"
@@ -42,6 +44,8 @@ right_rail:
 The Construction Roadmap is not a calendar, sprint plan, or publication schedule. It is the logical build-order implied by the program's own burden of proof.
 
 If the program seeks a no-externalities kernel of reality, it cannot begin by assuming mathematics, physics, life, mind, meaning, or lawfulness as finished inputs. These layers must be recovered in order.
+
+This is the construction-side counterpart to Package 2’s doctrine: [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }}) frames “coherent theory of reality” as a build burden, not a completion claim or theory-of-everything slogan.
 
 ## Agenda roadmap and Corpus spine
 
