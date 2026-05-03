@@ -163,7 +163,7 @@ The single most leverageable falsification surface: the framework predicts the *
 
 CMB-S4 — the next-generation cosmic-microwave-background experiment, operational around 2030 — will measure r at a precision that **distinguishes this prediction from competing inflationary models**. The framework is committed in advance: if the measured value is materially different, the framework is in serious trouble.
 
-This is what scientific accountability looks like when a program treats falsifiability as a structural feature rather than a defensive afterthought. The full prediction-timing ledger (30 named falsification paths through ~2035) lives at [`/verify/predictions-and-falsification/`]({{ '/verify/predictions-and-falsification/' | relative_url }}).
+This is what scientific accountability looks like when a program treats falsifiability as a structural feature rather than a defensive afterthought. The full prediction-timing ledger ({% include release-metric.html id="falsifications.records" %} falsification paths through ~2035) lives at [`/verify/predictions-and-falsification/`]({{ '/verify/predictions-and-falsification/' | relative_url }}).
 
 ### Falsification ledger — the verify-lane partner
 
