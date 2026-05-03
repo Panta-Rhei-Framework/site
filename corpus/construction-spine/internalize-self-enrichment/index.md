@@ -311,6 +311,8 @@ The geometric bi-square is the visual hinge of CS-03. It crystallizes how the ke
 - What exactly stabilizes, if later saturation claims are invoked?
 - Does the Central Theorem hold uniformly across the τ³ structure, or only at the rank-(3, 15) check that the categoricity proof verifies?
 - Is the moduli-space-is-a-point claim of categoricity (II.T42) genuinely τ-internal, or does its proof leak into an external metalanguage?
+- Which parts are formalized, which are τ-effective, and which remain bridge or meta-verification frontiers?
+- Does this step clearly distinguish formal self-enrichment from final ontic closure?
 
 ## 4. Why this matches the required answer-shape
 
@@ -344,8 +346,6 @@ Step 3 reduces the meta-language externality and closes the boundary↔interior 
 - Empirical adequacy of the holographic principle. The Central Theorem is *internal* mathematics; whether it lifts to an empirical claim about physical reality is CS-04 onward.
 
 **This is an internal construction claim, not external acceptance.** Step 3 internalizes self-enrichment under τ-discipline and proves the Central Theorem + Categoricity as τ-internal results; reviewer scrutiny is invited via Hinge 6 (τ-topos), Hinge 8 (kernel architecture), the registry, the TauLib formalization, and the Trust Budget Disclosure for the rank-(3, 15) `native_decide` check that underwrites the Central Theorem. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
-- Which parts are formalized, which are τ-effective, and which remain bridge or meta-verification frontiers?
-- Does this step clearly distinguish formal self-enrichment from final ontic closure?
 
 ## Registry spine
 

@@ -240,8 +240,6 @@ Step 5 develops internal physical grammar at the carrier identified in CS-04. It
 These are explicit handoffs, not concealed gaps.
 
 **This is an internal construction claim, not external acceptance.** Step 5 develops τ-physics as a closed-form internal grammar; reviewer scrutiny is invited via Books IV–V manuscripts, the Joint Core's α derivation, the gravitational closing identity, and the No Knobs Ledger from CS-04. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
-- Dynamical lawfulness.
-- Internal physical regimes.
 
 ## Registry spine
 

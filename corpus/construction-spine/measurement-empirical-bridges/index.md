@@ -209,8 +209,6 @@ Step 6 builds the bridge from τ-internal physics to measured reality. Its admis
 These are explicit handoffs. The empirical-pending status of falsification claims is published, not concealed.
 
 **This is an internal construction claim, not external acceptance.** Step 6 builds the bridge layer between τ-internal physics and measurement; reviewer scrutiny is invited via the Numerical Physics Ledger, the Falsification Pack, the prediction-timing surface, and the registry. The construction is claimed to be admissible relative to the required answer-shape; empirical adequacy is a separate accountability question, owned by the experiments named in the falsification ledger.
-- Falsification paths.
-- Observational comparison.
 
 ## Registry spine
 
