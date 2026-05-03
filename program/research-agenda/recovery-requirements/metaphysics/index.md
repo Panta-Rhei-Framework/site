@@ -1,8 +1,8 @@
 ---
 layout: program-doc
 title: "Metaphysics Recovery Requirements"
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 type: "Recovery Domain"
 status: "Canonical"

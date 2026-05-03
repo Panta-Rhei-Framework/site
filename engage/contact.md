@@ -131,11 +131,9 @@ For reviewers evaluating a bounded part of the program, institutional review com
 
 ### General Contact
 
-First-time readers, friendly inbound, and anything that does not fit the routes above.
+First-time readers, warm introductions, and anything that does not fit the routes above.
 
-**Email**: [hello@panta-rhei.site](mailto:hello@panta-rhei.site) for warm introductions
-
-**Email**: [hello@panta-rhei.site](mailto:hello@panta-rhei.site) for general fallback
+**Email**: [hello@panta-rhei.site](mailto:hello@panta-rhei.site)
 
 ### Founders
 

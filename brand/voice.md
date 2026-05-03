@@ -118,7 +118,7 @@ Mastodon convention: hashtag at end of post, no more than 2–3. X convention: 0
 | Primary "about me" link in any bio | `https://panta-rhei.site` (never deep-link to a lane — the homepage is the lobby) |
 | GitHub mention | `github.com/Panta-Rhei-Research/taulib` (not the `formalization` archive) |
 | Amazon mention in copy | Series prospectus page, not individual book pages |
-| Email in bios | `contact@panta-rhei.site` for program surfaces; do not show `thorsten.fuchs@` in public bios (it's Impressum-only) |
+| Email in bios | `contact@panta-rhei.site` for program surfaces; do not show personal-form addresses in public bios — route via functional aliases (`legal@`, `press@`, `hello@`, etc.) |
 
 ## Cross-linking discipline (for launch)
 

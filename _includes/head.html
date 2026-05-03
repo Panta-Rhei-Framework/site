@@ -143,9 +143,10 @@ a{color:#163e64;text-decoration:none}
 <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ cache_bust }}"></noscript>
 
 <!-- Pagefind search (CSS deferred — only needed when search overlay opens; JS already deferred) -->
+<!-- data-cfasync="false" opts the Pagefind UI script out of Cloudflare Rocket Loader, which on mobile delays/breaks PagefindUI definition + onclick handlers. -->
 <link rel="preload" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}?v={{ cache_bust }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}?v={{ cache_bust }}"></noscript>
-<script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}?v={{ cache_bust }}" defer></script>
+<script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}?v={{ cache_bust }}" defer data-cfasync="false"></script>
 
 <!-- Google Scholar + Dublin Core citation metadata -->
 {%- include scholar-citation-meta.html -%}

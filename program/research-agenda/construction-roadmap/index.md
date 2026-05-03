@@ -2,8 +2,8 @@
 layout: program-doc
 title: "Construction Roadmap"
 permalink: /program/research-agenda/construction-roadmap/
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 type: "Agenda Page"
 status: "Canonical"

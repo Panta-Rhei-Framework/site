@@ -2,8 +2,8 @@
 layout: program-doc
 title: Foundational Discipline
 nav_order: 4
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: 'Why the program binds itself to an unusually strict foundational discipline:
   constructive, finitistically disciplined, typed, and resistant to unrestricted diagonal

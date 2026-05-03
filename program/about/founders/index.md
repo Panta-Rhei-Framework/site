@@ -37,6 +37,7 @@ The program should be read through its public artifacts and arguments: the books
 
 <a href="https://orcid.org/0009-0007-0718-1042" target="_blank" rel="noopener" class="orcid-link">ORCID 0009-0007-0718-1042</a>
 <a href="https://www.linkedin.com/in/thorfuchs/" target="_blank" rel="noopener" class="profile-link">LinkedIn</a>
+<a href="https://mastodon.social/@thorfuchs" target="_blank" rel="me noopener" class="profile-link">Mastodon</a>
 
 **Dr. Thorsten Fuchs** studied pure mathematics before spending many years in business and technology leadership. After graduate work in algebraic structures, he worked at McKinsey & Company and later led the Office Business Group at Microsoft Germany. Mathematics did not disappear during those years; it moved into the background and waited.
 

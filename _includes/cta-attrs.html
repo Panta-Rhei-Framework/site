@@ -1,28 +1,83 @@
 {%- comment -%}
-Emits Umami event-tracking attributes for a CTA button. Invoke as:
+Emits Umami event-tracking attributes for a CTA / link button. Invoke as:
 
   {% include cta-attrs.html location="hero" label="Get the Books" href="/publications/" %}
   {% include cta-attrs.html location="hero" event="hero-get-books" href=cta.url %}
+  {% include cta-attrs.html location="hero" lane="discover" label=cta.label href=cta.url %}
 
 Parameters:
-  location  — required. Context prefix: hero | nav | section | publication | subscribe | copy
+  location  — required. Context prefix: hero | nav | section | publication | subscribe | copy | hinges | outbound | download
   label     — button text; used to auto-derive event name if `event` is not given
   href      — anchor href; used to set data-umami-event-type (internal | external)
-  event     — optional. Explicit event name (bypasses label auto-derivation). Stable against label edits.
+              and to detect outbound vendors (amazon / github / zenodo / scholar / orcid).
+  event     — optional. Explicit event name (bypasses label / lane auto-derivation).
+  lane      — optional. When set with location="hero", emits dotted event "cta.hero.{lane-slug}"
+              (canonical lane-root hero CTA event per atlas/website/doctrine/umami-events.md).
+              The first hero CTA per lane root should be primary; lane is taken from page.lane.
   variant   — optional. Extra custom property (e.g., "inline" vs "footer" for subscribe).
 
 Output attributes:
-  data-umami-event         — kebab-case, ≤50 chars
+  data-umami-event          — kebab-case or dotted, ≤50 chars
   data-umami-event-location — the location prefix
   data-umami-event-type     — "external" if href contains "://", else "internal"
+  data-umami-event-outbound — vendor slug (amazon | github | zenodo | scholar | orcid) when outbound vendor detected
   data-umami-event-variant  — only if `variant` was provided
+
+Outbound-vendor precedence:
+  When the helper detects a known outbound vendor in the href, it OVERRIDES the
+  event name with "outbound.{vendor}" (e.g. "outbound.amazon", "outbound.github").
+  This makes outbound-vendor counts the canonical analytics surface for those clicks.
+  Any descriptive label-derived name is preserved as data-umami-event-variant when
+  no explicit `variant` was given.
+
+Event taxonomy reference: atlas/website/doctrine/umami-events.md
 {%- endcomment -%}
+{%- assign _href = include.href | default: "" -%}
+
+{%- comment -%} 1. Detect outbound vendor from href substring. {%- endcomment -%}
+{%- assign _outbound = "" -%}
+{%- if _href contains "amazon.de" or _href contains "amazon.com" or _href contains "amazon.co" or _href contains "amzn." -%}
+  {%- assign _outbound = "amazon" -%}
+{%- elsif _href contains "github.com" or _href contains "github.io" -%}
+  {%- assign _outbound = "github" -%}
+{%- elsif _href contains "zenodo.org" or _href contains "doi.org/10.5281" -%}
+  {%- assign _outbound = "zenodo" -%}
+{%- elsif _href contains "scholar.google" -%}
+  {%- assign _outbound = "scholar" -%}
+{%- elsif _href contains "orcid.org" -%}
+  {%- assign _outbound = "orcid" -%}
+{%- endif -%}
+
+{%- comment -%} 2. Detect PDF download. {%- endcomment -%}
+{%- assign _is_pdf = false -%}
+{%- if _href contains ".pdf" -%}{%- assign _is_pdf = true -%}{%- endif -%}
+
+{%- comment -%} 3. Resolve event name (precedence: explicit event > outbound vendor > pdf > lane-aware hero > label/location auto). {%- endcomment -%}
 {%- assign _event = include.event -%}
 {%- if _event == nil or _event == "" -%}
-  {%- assign _slug = include.label | default: "cta" | downcase | replace: " ", "-" | replace: "&", "and" | replace: ",", "" | replace: ".", "" | replace: "'", "" | replace: ":", "" | replace: "/", "-" | replace: "(", "" | replace: ")", "" | replace: "—", "-" | replace: "–", "-" -%}
-  {%- assign _event = include.location | append: "-" | append: _slug -%}
+  {%- if _outbound != "" -%}
+    {%- assign _event = "outbound." | append: _outbound -%}
+  {%- elsif _is_pdf -%}
+    {%- assign _event = "download.pdf" -%}
+  {%- elsif include.location == "hero" and include.lane and include.lane != "" -%}
+    {%- assign _event = "cta.hero." | append: include.lane -%}
+  {%- elsif include.location == "hinges" -%}
+    {%- assign _event = "cta.hinges" -%}
+  {%- else -%}
+    {%- assign _slug = include.label | default: "cta" | downcase | replace: " ", "-" | replace: "&", "and" | replace: ",", "" | replace: ".", "" | replace: "'", "" | replace: ":", "" | replace: "/", "-" | replace: "(", "" | replace: ")", "" | replace: "—", "-" | replace: "–", "-" -%}
+    {%- assign _event = include.location | append: "-" | append: _slug -%}
+  {%- endif -%}
 {%- endif -%}
-{%- assign _href = include.href | default: "" -%}
+
 {%- assign _type = "internal" -%}
 {%- if _href contains "://" -%}{%- assign _type = "external" -%}{%- endif -%}
-data-umami-event="{{ _event | slice: 0, 50 }}" data-umami-event-location="{{ include.location }}" data-umami-event-type="{{ _type }}"{% if include.variant %} data-umami-event-variant="{{ include.variant }}"{% endif %}
+
+{%- comment -%} 4. If outbound vendor was detected and an explicit variant was not given, surface
+                  the descriptive label slug as the variant — preserves human-readable context
+                  (e.g. "ebook-amazon-de") without colliding with the canonical "outbound.amazon" event. {%- endcomment -%}
+{%- assign _variant = include.variant -%}
+{%- if _outbound != "" and (_variant == nil or _variant == "") and include.label -%}
+  {%- assign _variant = include.label | downcase | replace: " ", "-" | replace: ".", "" | replace: ",", "" | replace: "'", "" -%}
+{%- endif -%}
+
+data-umami-event="{{ _event | slice: 0, 50 }}" data-umami-event-location="{{ include.location }}" data-umami-event-type="{{ _type }}"{% if _outbound != "" %} data-umami-event-outbound="{{ _outbound }}"{% endif %}{% if _variant %} data-umami-event-variant="{{ _variant | slice: 0, 50 }}"{% endif %}

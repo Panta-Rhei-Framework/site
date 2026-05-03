@@ -2,8 +2,8 @@
 layout: program-doc
 title: Historical Context
 nav_order: 9
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: A selective intellectual lineage for the coherence-seeking orientation
   in which the Panta Rhei Research Program places itself.

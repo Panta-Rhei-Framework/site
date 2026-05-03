@@ -35,45 +35,37 @@
   </div>
   {% endif %}
 
-  {% if page.right_rail.meta %}
+  {%- comment -%}
+    Position 2 — Page versioning (minimal).
+    Doctrine: atlas/website/doctrine/right-rail.md §3 / §4.
+    Render only `Last updated:` — no `type`, `scope`, `status`, `domain`,
+    `publication_type`, `note_type`. Those fields stay available to layouts /
+    JSON-LD via `page.*` but do not surface on the rail.
+
+    Source priority (highest first):
+      1. page.last_updated          (canonical date-granular ISO)
+      2. page.right_rail.meta.updated (legacy, may be month-granular)
+      3. page.updated               (legacy, may be month-granular)
+    Mass conversion to date-granular happens in Cluster 3.
+  {%- endcomment -%}
+  {%- assign _last_updated = page.last_updated | default: page.right_rail.meta.updated | default: page.updated -%}
+  {% if _last_updated %}
   <div class="rail-section">
-    <div class="rail-section-title">Page metadata</div>
+    <div class="rail-section-title">Page versioning</div>
     <div class="meta-list">
-      {% if page.right_rail.meta.type %}
-      <div class="meta-item"><span>Type</span><span class="meta-value">{{ page.right_rail.meta.type }}</span></div>
-      {% endif %}
-      {% if page.right_rail.meta.scope %}
-      <div class="meta-item"><span>Scope</span><span class="meta-value">{{ page.right_rail.meta.scope }}</span></div>
-      {% endif %}
-      {% if page.right_rail.meta.status %}
-      <div class="meta-item"><span>Status</span><span class="meta-value">{{ page.right_rail.meta.status }}</span></div>
-      {% endif %}
-      {% if page.right_rail.meta.updated %}
-      <div class="meta-item"><span>Updated</span><span class="meta-value">{{ page.right_rail.meta.updated }}</span></div>
-      {% endif %}
+      <div class="meta-item"><span>Last updated</span><span class="meta-value">{{ _last_updated }}</span></div>
     </div>
   </div>
   {% endif %}
 
-  {% assign has_frontmatter_meta = false %}
-  {% if page.type or page.status or page.domain or page.publication_type or page.note_type or page.updated %}
-    {% assign has_frontmatter_meta = true %}
-  {% endif %}
-  {% if has_frontmatter_meta and page.right_rail.meta == nil %}
-  <div class="rail-section">
-    <div class="rail-section-title">Page metadata</div>
-    <div class="meta-list">
-      {% if page.type %}<div class="meta-item"><span>Type</span><span class="meta-value">{{ page.type }}</span></div>{% endif %}
-      {% if page.status %}<div class="meta-item"><span>Status</span><span class="meta-value">{{ page.status }}</span></div>{% endif %}
-      {% if page.domain %}<div class="meta-item"><span>Domain</span><span class="meta-value">{{ page.domain }}</span></div>{% endif %}
-      {% if page.publication_type %}<div class="meta-item"><span>Publication</span><span class="meta-value">{{ page.publication_type }}</span></div>{% endif %}
-      {% if page.note_type %}<div class="meta-item"><span>Note type</span><span class="meta-value">{{ page.note_type }}</span></div>{% endif %}
-      {% if page.updated %}<div class="meta-item"><span>Updated</span><span class="meta-value">{{ page.updated }}</span></div>{% endif %}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if page.right_rail.feedback %}
+  {%- comment -%}
+    Position 6 — Page actions (Share + Feedback).
+    Gate: `page.right_rail.actions` (canonical, per doctrine).
+    Legacy alias: `page.right_rail.feedback` continues to gate the same
+    affordances during the migration sweep so Cluster 1 wiring (e.g.
+    corpus/construction-spine/index.md with `feedback: true`) keeps rendering.
+  {%- endcomment -%}
+  {% if page.right_rail.actions or page.right_rail.feedback %}
   {% include right-rail-feedback.html %}
   {% endif %}
 </aside>

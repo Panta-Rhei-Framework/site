@@ -33,7 +33,6 @@ Postfach 3670
 Deutschland
 
 E-Mail (Datenschutz-Anfragen): [legal@panta-rhei.site](mailto:legal@panta-rhei.site)
-E-Mail (Verantwortlicher persönlich): [thorsten.fuchs@panta-rhei.site](mailto:thorsten.fuchs@panta-rhei.site)
 
 ## 2. Allgemeine Hinweise zur Datenverarbeitung
 

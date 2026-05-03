@@ -46,7 +46,7 @@ layout: default
   {% endif %}
   {% if note_pdf %}
   <div class="btn-group" style="margin-top: 16px;">
-    <a class="btn-primary" href="{{ note_pdf | relative_url }}">Download PDF</a>
+    <a class="btn-primary" href="{{ note_pdf | relative_url }}" data-umami-event="download.pdf" data-umami-event-location="research-note" data-umami-event-type="internal" data-umami-event-slug="{{ page.slug | default: page.url }}">Download PDF</a>
     <a class="btn-secondary" href="{{ '/publications/research-notes/' | relative_url }}">All Research Notes</a>
   </div>
   {% endif %}
@@ -180,7 +180,7 @@ layout: default
     <p>Fuchs, Thorsten, and Anna-Sophie Fuchs. "{{ page.title }}." <em>Panta Rhei Research Notes</em>, {{ citation_date }}{% if page.pdf_available or page.pdf or page.pdf_url %}. PDF{% endif %}.</p>
     {% if page.pdf or page.pdf_url %}
     {% assign citation_pdf = page.pdf_url | default: page.pdf %}
-    <p><a href="{{ citation_pdf | relative_url }}">PDF artifact</a></p>
+    <p><a href="{{ citation_pdf | relative_url }}" data-umami-event="download.pdf" data-umami-event-location="citation" data-umami-event-type="internal" data-umami-event-slug="{{ page.slug | default: page.url }}">PDF artifact</a></p>
     {% endif %}
     {% if page.editorial.citation_note %}<p>{{ page.editorial.citation_note }}</p>{% endif %}
     {% if page.editorial.peer_review_status %}<p>{{ page.editorial.peer_review_status }}</p>{% endif %}

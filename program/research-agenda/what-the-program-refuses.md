@@ -2,8 +2,8 @@
 layout: program-doc
 title: What the Program Refuses
 nav_order: 6
-lane: program
-v2_lane: program
+lane: agenda
+v2_lane: agenda
 section: research-agenda
 summary_short: The explanatory patterns, foundational shortcuts, and compartmentalized
   settlements that the research program explicitly refuses to treat as final.
