@@ -45,7 +45,7 @@ The site has two different public update streams.
 
 For email delivery of new Research Notes, use [Engage: Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}).
 
-Research Notes may later comment on new developments in the Problem Ledger, Recovery Requirements, Construction Spine, or Results.
+Research Notes may comment on new developments in Core Semantics, the Problem Ledger, Construction Spine, Results, or Verify. White papers and media briefs are released under Publications; Research Notes are the ongoing dated scholarly stream.
 
 ## Recent Research Notes
 
