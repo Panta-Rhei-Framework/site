@@ -30,7 +30,7 @@ right_rail:
     type: "Verification Surface"
     scope: "Construction Spine"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 {% assign steps = site.data.construction_spine["construction-spine-data"] %}
@@ -84,42 +84,22 @@ Construction-step verification asks what each step builds, what supports it, and
 
 ## End-to-end verification view
 
-The step-by-step table above lists each step's verification modes individually. The same ten steps also form three manuscript-grounded arcs, each with its own characteristic verification burden — read here as a single inspection chain.
+The ten construction steps are not isolated inspection targets. They form one verification chain.
 
-### Arc I — Mathematics (CS-01 → CS-03)
+Each step inherits what earlier steps have earned and hands forward what later steps need:
 
-Predominantly **formal-proof** burden:
+1. **Build the τ-Kernel** — axiom inventory, primitive signature, trusted-base disclosure, kernel consistency, and foundational hinge review.
+2. **Recover Core Mathematics** — formal proof checking, mathematical bridge verification, refusal discipline, and foundational hinge review.
+3. **Internalize Self-Enrichment** — internal-logic checks, categorical consistency, semantic correspondence, and meta-language internalization.
+4. **Identify Physical Carrier** — carrier identification, semantic adequacy, local/global gluing, and bridge plausibility.
+5. **Internal Physical Grammar** — internal law-structure checks, dimensional consistency, observables, and physics bridge preparation.
+6. **Measurement Bridges** — bridge verification, empirical accountability, prediction timing, falsification paths, and measurement calibration.
+7. **Recover Life** — Core Semantics alignment for life, structural biology mapping, boundary/encoding/evolution checks, and scope discipline.
+8. **Reflective Structure** — answer-shape checks, conceptual consistency, life/mind bridge verification, and meaning/value/normativity status.
+9. **Self-Host Formal Systems** — meta-verification, object-theory hosting checks, proof-as-act analysis, and formal-system internalization.
+10. **Test Ontic Closure** — no-externalities audit, substrate non-deferral, residual-boundary disclosure, proof/commitment boundary, and ontic-status burden.
 
-- **CS-01** is verified by axiom inventory, kernel consistency, foundational hinge review, and TCB disclosure — formal proof checking on the K0–K6 axioms and primitive signature.
-- **CS-02** carries a mixed formal-proof + mathematical-bridge burden: refusal discipline (which classical results are *refused* under K5 diagonal discipline) joins formal proof checking on the recovered number tower, Tarski theorems, and earned transcendentals.
-- **CS-03** adds internal-logic checks, categorical consistency, and semantic correspondence — Yoneda-as-theorem and Categoricity require category-theoretic auditing as well as Lean evidence.
-
-Bridge to standard mathematics is *explicit* across Arc I (Fork modes Same / Parallel / Refused / Gained / Earned). Empirical checks are not applicable.
-
-### Arc II — Physics (CS-04 → CS-06)
-
-The arc where formal-proof discipline meets the **falsification ledger**:
-
-- **CS-04** is verified through carrier identification, semantic adequacy, and bridge plausibility — the Hinge Theorem (III.T20) and Eight Guarantees are the inspection targets.
-- **CS-05** adds internal law-structure checks, dimensional consistency, and physics bridge preparation — the closed-form constants (α, G, gravitational closing identity) are formal claims awaiting CS-06's empirical confrontation.
-- **CS-06** is the arc's empirical pivot: bridge verification, empirical verification, prediction timing, and falsification become the *primary* modes. The CMB-S4 r ≈ ι_τ⁴ ≈ 0.0136 prediction (~2030) is the decisive surface.
-
-By the end of Arc II, the falsification ledger has committed the framework in advance to specific experimental outcomes.
-
-### Arc III — Life and Metaphysics (CS-07 → CS-10)
-
-The arc where **answer-shape** and **meta-verification** become primary:
-
-- **CS-07** verifies through life-recovery checks, structural biology mapping, and scope discipline — Predictions by Absence (virus / neutron / neutron star) carry the falsifiable structural commitment.
-- **CS-08** introduces answer-shape checks, conceptual consistency, and life-metaphysics bridge verification — the Saturation Theorem (Enrich⁴ = Enrich³) and four-register architecture are inspected for completeness.
-- **CS-09** is verified through meta-verification, object-theory hosting checks, and proof-as-act analysis — ZFC and Lean as object theories, the τ-kernel as a represented object inside τ.
-- **CS-10** is the closure-level surface: no-externalities audit, substrate non-deferral, residual-boundary disclosure, and the ontic-status burden. The Inevitability Argument (VII.T55) and the closing question to the reader's commitment register are the rhetorical and structural terminus.
-
-Beyond the structural burden, Arc III's open commitments are honestly disclosed — the ω-germ science–faith boundary (CS-07), the residual ~17 metaphysical problems classified as resolved / reframed / open (CS-10), and the empirical adequacy of CS-06's predictions (still pending experiment).
-
-### The verification chain
-
-Just as the construction chain runs *kernel → mathematics → physics → measurement → life → reflection → self-hosting → ontic closure*, the verification chain runs *axiom inventory → bridge discipline → falsification ledger → predictions-by-absence → answer-shape audit → no-externalities discipline*. Each arc inherits the inspection routes the prior arc earned, and adds the next layer the next arc requires.
+The verification chain therefore runs from kernel integrity to mathematical bridge discipline, physical semantic adequacy, empirical falsification, life and reflective structure, self-hosting, and ontic-closure scrutiny.
 
 ## Verification-status legend
 

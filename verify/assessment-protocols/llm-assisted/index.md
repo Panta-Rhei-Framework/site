@@ -16,17 +16,23 @@ right_rail:
       url: /verify/assessments/methodology/
     - title: "Three-Gate Rubric"
       url: /verify/assessments/three-gate-rubric/
-    - title: "Reviewer Workflow"
-      url: /verify/assessments/reviewer-workflow/
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
+    - title: "AI-Assisted Discovery"
+      url: /discover/ai-assisted-discovery/
   meta:
     type: "LLM-Assisted Assessment Protocol"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Purpose
 
 These protocols allow external users to use frontier language models to inspect structural derivations, test result support, compare stated standards against exposed artifacts, and identify gaps or unsupported transitions.
+
+LLM-assisted assessment must cite public pages and route findings back into Verify. Model output is not peer review, proof checking, empirical validation, or final adjudication.
+
+For lighter first-contact orientation prompts (program overview, agenda summary, lane navigation), use [Discover → AI-Assisted Discovery]({{ '/discover/ai-assisted-discovery/' | relative_url }}). For deeper assessment workflows that produce typed dossiers and three-gate rubric output, stay here.
 
 ## Protocol Families
 
@@ -46,4 +52,4 @@ Use the existing public templates:
 - [Dossier Output Schema]({{ '/verify/assessments/dossier-schema/' | relative_url }})
 - [Assessment Scorecard]({{ '/verify/assessments/scorecard/' | relative_url }})
 
-Do not treat model output as peer review, proof checking, or final adjudication. It is a structured first-pass signal.
+Do not treat model output as peer review, proof checking, empirical validation, or final adjudication. It is a structured first-pass signal that must be cited and traced back into the Verify, Corpus, and Results surfaces.

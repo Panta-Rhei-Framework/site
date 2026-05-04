@@ -8,7 +8,7 @@ type: "Verification Surface"
 verify_type: verification_framework
 status: "Canonical"
 summary_short: "What verification means in this program, and why it is not the same across all layers of the work."
-plain_language_summary: "'Verified' means different things in different domains. A mathematical theorem is verified by a machine-checked proof. A physical prediction is verified when an experiment matches it. A biological claim is verified by a biomarker measurement. A metaphysical claim is verified by living-experience instantiation. This framework page names those four verification modes, explains why the program refuses to collapse them into a single criterion, and lays out the shared discipline (explicitness, traceability, derivability, domain-appropriate validation) that holds the whole structure together."
+plain_language_summary: "'Verified' means different things in different domains. A formal theorem may be checked by a machine proof where formalized. A physical prediction requires a measurement bridge and empirical accountability. A biological claim requires structural, comparative, observational, or experimental support. A metaphysical claim requires explicit epistemic posture, conceptual coherence, phenomenological adequacy where relevant, and disclosed commitment boundaries. This framework page names those four verification modes, explains why the program refuses to collapse them into a single criterion, and lays out the shared discipline (explicitness, traceability, derivability, semantic earnedness, domain-appropriate validation) that holds the whole structure together."
 summary_cards:
   - title: "Many modes"
     body: "Formal proof, bridge adequacy, empirical accountability, and interpretive coherence are separate burdens."
@@ -29,7 +29,7 @@ right_rail:
   meta:
     type: "Verification Framework"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## What Verification Means Here
@@ -45,6 +45,7 @@ This program does not flatten verification into a single notion of proof. A Lean
 - **Inspectability:** critical artifacts should be public and stable enough to audit.
 - **Accountability:** standards and failure modes must be stated before the result is defended.
 - **Domain-appropriate validation:** physics, life, and metaphysics cannot be verified by proof syntax alone.
+- **Semantic earnedness:** the terms used in a verification claim must be earned or explicitly bridged through Core Semantics.
 
 ## Why Verification Differs by Layer
 

@@ -24,15 +24,23 @@ right_rail:
       url: /verify/tcb/
     - title: "TauLib"
       url: /verify/taulib/
+    - title: "Kernel, Model & Reality"
+      url: /agenda/kernel-model-reality/
+    - title: "No Externalities"
+      url: /agenda/kernel-model-reality/no-externalities/
+    - title: "Test Ontic Closure"
+      url: /corpus/construction-spine/test-ontic-closure/
   meta:
     type: "Meta-Verification Frontier"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Core Issue
 
 Current formal certification is relative to the Lean kernel. That is already meaningful and strong, but it remains formally external to the kernel being studied.
+
+Meta-verification asks how far the theory can internalize or disclose the verification conditions it relies on. It does not claim that the verifier externality is already eliminated.
 
 ## Why This Is Not an Ordinary Defect
 

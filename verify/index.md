@@ -30,12 +30,22 @@ summary_cards:
     body: "Start from an obligation, a construction step, or a result. Then trace it to Corpus support, Verify surfaces, and any available formalization."
 right_rail:
   related:
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
+    - title: "Assessment Protocols"
+      url: /verify/assessment-protocols/
     - title: "Verify the Construction Spine"
       url: /verify/construction-spine-verification/
     - title: "Verification Framework"
       url: /verify/verification-framework/
     - title: "Domain Verification"
       url: /verify/domain-verification/
+    - title: "Release Manifest"
+      url: /verify/release-manifest/
+    - title: "Review the Work"
+      url: /engage/review-the-work/
+    - title: "AI-Assisted Discovery"
+      url: /discover/ai-assisted-discovery/
     - title: "Construction Roadmap"
       url: /agenda/construction-roadmap/
     - title: "Corpus Construction Spine"
@@ -70,7 +80,7 @@ right_rail:
     type: "Lane Root"
     scope: "All verification"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## What Verify Means Here
@@ -216,4 +226,4 @@ Found an error, a broken proof, a mis-stated numerical value, or a scope-label i
 
 **Email**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
 
-For formal peer-review coordination or institutional review inquiries: [review@panta-rhei.site](mailto:review@panta-rhei.site)
+For structured review, technical inspection, or institutional review inquiries: [review@panta-rhei.site](mailto:review@panta-rhei.site)

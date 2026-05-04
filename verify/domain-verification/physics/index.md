@@ -17,7 +17,7 @@ right_rail:
       url: /verify/predictions-and-falsification/
     - title: "Numerical Physics Ledger"
       url: /publications/monograph-supplements/numerical-physics-ledger/
-    - title: "Physics Recovery Requirements"
+    - title: "Physics Core Semantics"
       url: /agenda/recovery-requirements/physics/
     - title: "Physics Results"
       url: /results/physics/
@@ -27,7 +27,7 @@ right_rail:
     type: "Domain Verification"
     domain: "Physics"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 glossary_term_ids:
   - PG-P01-neutron
   - PG-C02-iota-tau

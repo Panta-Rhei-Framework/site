@@ -12,6 +12,14 @@ right_rail:
   related:
     - title: "Verification Framework"
       url: /verify/verification-framework/
+    - title: "Core Semantics"
+      url: /agenda/recovery-requirements/
+    - title: "Result Criteria"
+      url: /agenda/result-criteria/
+    - title: "How to Verify"
+      url: /verify/how-to-verify/
+    - title: "Assessment Protocols"
+      url: /verify/assessment-protocols/
     - title: "Results"
       url: /results/
     - title: "World Readout"
@@ -19,12 +27,14 @@ right_rail:
   meta:
     type: "Domain Verification"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Shared Discipline, Different Standards
 
 The program uses one discipline of seriousness, but it does not pretend that a single flat notion of proof applies equally to every layer.
+
+Domain verification is downstream of Core Semantics: before a domain claim can be verified, the domain language must be earned or explicitly bridged.
 
 <ol class="v2-grid v2-card-list">
   <li>
@@ -42,7 +52,7 @@ The program uses one discipline of seriousness, but it does not pretend that a s
   <li>
     <a class="v2-tile" href="{{ '/verify/domain-verification/life/' | relative_url }}">
       <strong>Life</strong>
-      <span>Explanatory adequacy, biological constraint checks, recovery-target alignment, and claim-boundary discipline.</span>
+      <span>Explanatory adequacy, biological constraint checks, Core Semantics alignment, and claim-boundary discipline.</span>
     </a>
   </li>
   <li>
