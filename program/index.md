@@ -23,7 +23,7 @@ hero_ctas:
   - label: "About the Program"
     url: /program/about/
     primary: true
-  - label: "What We Mean by Coherence"
+  - label: "What We Mean by a Coherent Theory of Reality"
     url: /program/about/coherent-theory-of-reality/
   - label: "Why an Inspection Observatory"
     url: /program/about/inspection-observatory/
@@ -50,7 +50,7 @@ right_rail:
   meta:
     type: "Lane Root"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## What Program owns
@@ -75,7 +75,7 @@ Agenda states the obligations. Corpus shows the construction. Results presents c
   <a href="{{ '/verify/' | relative_url }}">Verify</a>
 </div>
 
-The claim is deliberately ambitious: a constrained formal kernel is used to construct a research corpus with projections into mathematics, physics, life, and metaphysics. That scope is only meaningful if the program also exposes its constraints, methods, verification routes, and correction surfaces.
+The claim is deliberately ambitious: a constrained kernel is used to build a coherent theory of reality through Agenda, Corpus, Results, and Verify. That scope is only meaningful if the program also exposes its constraints, methods, verification routes, and correction surfaces.
 
 ## Doctrine routes
 
@@ -87,6 +87,16 @@ The claim is deliberately ambitious: a constrained formal kernel is used to cons
   <li><article><a class="v2-tile" href="{{ '/program/about/scope-status-and-scrutiny/' | relative_url }}"><strong>Scope, Status & Scrutiny</strong><span>How to read ambition, current public status, peer review boundaries, and external scrutiny.</span></a></article></li>
 </ul>
 
+## Public doctrine packages
+
+For public readers, the Program doctrine is summarized through three public packages:
+
+- **[Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }})** -- why high-scope open research needs inspection architecture before belief.
+- **[Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }})** -- what Panta Rhei means by a coherent theory of reality.
+- **[Technical Blueprint]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }})** -- how the public observatory is implemented across the site and GitHub organization.
+
+These packages are not proof of the theory. They are orientation and inspection artifacts.
+
 ## Current status snapshot
 
 Panta Rhei is currently:
@@ -95,7 +105,7 @@ Panta Rhei is currently:
 - a public canonical release;
 - organized through the v4 public spine -- Discover, Program, Agenda, Corpus, Results, Verify, Impact, and Engage -- with Publications preserved as the stable artifact and release layer;
 - partially formalized through TauLib;
-- publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces;
+- publicly inspectable through Core Semantics / Recovery, the Problem Ledger, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces;
 - open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email;
 - open to correction, challenge, and external review;
 - not socially settled and not a substitute for expert peer review.
@@ -104,11 +114,11 @@ Panta Rhei is currently:
 
 - **[About the Program]({{ '/program/about/' | relative_url }})** gives the identity, stewardship, current public status, founders' statement, and scrutiny posture of the research object.
 - **[Related Approaches]({{ '/program/about/related-approaches/' | relative_url }})** positions the program among serious neighboring approaches without turning comparison into a takedown or priority claim.
-- **[Agenda]({{ '/agenda/' | relative_url }})** states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
-- **[Corpus]({{ '/corpus/' | relative_url }})** shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.
+- **[Agenda]({{ '/agenda/' | relative_url }})** states the burden of proof: Core Semantics, Problem Ledger, Kernel/Model/Reality, and Construction Roadmap.
+- **[Corpus]({{ '/corpus/' | relative_url }})** shows how the structure is built through the Construction Spine, Monograph Corpus, Registry, TauLib projection, and dependency graph.
 - **[Results]({{ '/results/' | relative_url }})** reports current program stances, landmark results, world readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
 - **[Verify]({{ '/verify/' | relative_url }})** explains how obligations, construction steps, and results can be checked, challenged, formalized, bridged, or falsified.
-- **[Publications]({{ '/publications/' | relative_url }})** provides stable artifacts: Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.
+- **[Publications]({{ '/publications/' | relative_url }})** preserves the stable artifact and release shelf: research monographs, papers, notes, briefings, white papers, and release artifacts.
 - **[Impact]({{ '/impact/' | relative_url }})** maps conditional consequences if Results survive verification, translation, and domain uptake.
 - **[Engage]({{ '/engage/' | relative_url }})** gives structured engagement routes without requiring endorsement.
 

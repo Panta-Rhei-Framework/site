@@ -22,12 +22,14 @@ right_rail:
     type: "FAQ"
     scope: "Program-wide"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 Three frontier-LLM first-pass assessments were run on the public Panta Rhei Research surface in April 2026. Their red-team question lists converged on roughly the same ten questions. This page answers them directly, with pointers to the load-bearing evidence. No question has been softened or reframed; where the honest answer is "partial" or "not yet," that is what this page says.
 
-The assessment workflow itself is inspectable through [Assessment Protocols]({{ '/verify/assessments/' | relative_url }}), the [reviewer workflow]({{ '/verify/assessments/reviewer-workflow/' | relative_url }}), the [dossier schema]({{ '/verify/assessments/dossier-schema/' | relative_url }}), the [three-gate rubric]({{ '/verify/assessments/three-gate-rubric/' | relative_url }}), and the pinned [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}). These links document the current public evidence surface; they are not a substitute for external expert review.
+The assessment workflow itself is inspectable through [Assessment Protocols]({{ '/verify/assessments/' | relative_url }}), the [dossier schema]({{ '/verify/assessments/dossier-schema/' | relative_url }}), the [three-gate rubric]({{ '/verify/assessments/three-gate-rubric/' | relative_url }}), and the pinned [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}). These links document the current public evidence surface; they are not a substitute for external expert review.
+
+For current claim counts and status distribution, see the [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) and [Results catalogue]({{ '/results/' | relative_url }}). This FAQ answers the structural risk, not mutable count totals.
 
 The accountability posture behind this FAQ is stated in [Independence, Scope, and Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}): independence increases the duty to expose evidence, status, and failure surfaces.
 
@@ -71,9 +73,11 @@ Book VII proves a meta-theorem: **τ cannot force a stance on the ω-germ questi
 
 ## 7. Are there topological or set-theoretic paradoxes at scale?
 
-**Answer: addressed through five named mechanisms; Gödel, Cantor, and continuum issues are structurally avoided, not hand-waved.**
+**Answer: addressed through five named mechanisms, but the claim itself is part of the review burden.**
 
-Book I proves **Gödel Avoidance** via five named mechanisms (Hyperfactorization, Tower Separation, Boundary Constraint, Orbit Directedness, Carrier Closure). The claim is not that Gödel's theorems are false in τ — it is that τ does not meet the conditions under which they apply. Similarly, **Cantor's diagonal argument is inapplicable** in τ because the framework refuses the unrestricted self-application the argument requires, and **ω is the unique infinity** in τ (no cardinal hierarchy). These are theorems, not evasions. The framework also contains an explicit **Contradicted-status claim** on ZFC Identity Slippage — τ rejects ZFC's treatment of identity under the Axiom of Choice as structurally unstable. See the [Foundations, Logic & CS briefing]({{ '/results/fields/foundations-logic/' | relative_url }}) for the full set.
+The framework is Gödel-aware, not Gödel-dogmatic. It claims to avoid certain hypotheses under which standard incompleteness or continuum problems arise, but that claim itself is part of the review burden. The relevant question is whether the formal core has the arithmetic strength and proof-theoretic properties required for Gödel-style limits to apply, and if so what follows. The program may not ignore the issue either way.
+
+Book I proves a **Gödel-avoidance result** via five named mechanisms (Hyperfactorization, Tower Separation, Boundary Constraint, Orbit Directedness, Carrier Closure). The claim is not that Gödel's theorems are false in τ — it is that τ does not meet the conditions under which they apply. Similarly, the framework treats **Cantor's diagonal argument as inapplicable** in τ because it refuses the unrestricted self-application the argument requires, and **ω is the unique infinity** in τ (no cardinal hierarchy). These are stated as theorems inside τ; whether they discharge the meta-logical burden is a question for external review. The framework also contains an explicit **Contradicted-status claim** on ZFC Identity Slippage — τ rejects ZFC's treatment of identity under the Axiom of Choice as structurally unstable. See the [Foundations, Logic & CS briefing]({{ '/results/fields/foundations-logic/' | relative_url }}) for the full set.
 
 ## 8. Is there a semantic gap between the prose in the books and the Lean formalization?
 
@@ -81,17 +85,17 @@ Book I proves **Gödel Avoidance** via five named mechanisms (Hyperfactorization
 
 Every claim page on the site carries a **registry ID** (e.g., `II.T40`, `VI.D44`) that points to a specific entry in the Lean-structured registry. Every Lean theorem that is formalized has a docstring naming the registry ID it proves, and every registry entry with formalization status "formalized" has a corresponding Lean theorem. This is the **traceability chain** that closes the prose↔Lean gap for formalized claims. For claims with formalization status "planned" (notably most of Book VI and Book VII methodological claims), the prose stands and the Lean theorem does not yet exist. The **Release Manifest** makes this per-book status explicit. An auditor opening any three headline claim IDs and following them to their Lean theorem is the diagnostic check that validates the chain end-to-end.
 
-## 9. Is the 234-claim count inflated by relabeling or redefinition?
+## 9. Is the claim catalogue inflated by relabeling or redefinition?
 
 **Answer: no. The typing discipline exposes rather than hides.**
 
-As of the April 2026 public release manifest, the current catalogue is 234 claim pages (exact count, per `_data/results/results.json`). Grouped by bridge status:
+The catalogue is enumerated in the [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) and the [Results catalogue]({{ '/results/' | relative_url }}); for current totals and per-status breakdowns, follow those routes rather than relying on prose figures here. Claims are grouped by bridge status:
 
-- **130 are status Internally addressed (R)** — full τ-internal theorem with formal proof chain closed to the orthodox public formulation
-- **72 are status Internal** — τ-internal structural readout (no external bridge target; most metaphysics + many biology entries)
-- **17 are status Partial (P)** — τ-internal result with explicit conjectural bridge gap
-- **10 are status Qualitative or Not Addressed (Q/N)** — non-quantitative or unresolved
-- **5 are status Contradicted (C)** — framework takes a falsifiable opposing position (No Hawking Radiation, No Axion Needed, Not MOND, Panpsychism Excluded, ZFC Identity Slippage)
+- **Internally addressed (R)** — full τ-internal theorem with formal proof chain closed to the orthodox public formulation
+- **Internal** — τ-internal structural readout (no external bridge target; most metaphysics + many biology entries)
+- **Partial (P)** — τ-internal result with explicit conjectural bridge gap
+- **Qualitative or Not Addressed (Q/N)** — non-quantitative or unresolved
+- **Contradicted (C)** — framework takes a falsifiable opposing position (No Hawking Radiation, No Axion Needed, Not MOND, Panpsychism Excluded, ZFC Identity Slippage)
 
 The typing discipline *surfaces* Partial, Qualitative, Contradicted, and Not-Addressed claims rather than reclassifying them as internally addressed. **A framework that hides failures compresses its catalogue; the τ framework deliberately expands its catalogue to include claims where it concedes ground.** Redefinition risk is non-zero on metaphysics-adjacent claims (e.g., life predicate, consciousness) — those are flagged as "bridge-claim" status on their detail pages.
 
@@ -126,3 +130,9 @@ A reader who finds an answer insufficient is exactly the reader this FAQ is writ
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit, build status, axiom inventory, drift reconciliation
 - [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}) — a-priori vs post-diction breakdown for the {% include release-metric.html id="predictions.records" %} predictions
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} named experimental tests
+
+For broader context, see:
+
+- [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }})
+- [The Shape of a Theory of Reality]({{ '/publications/white-papers/the-shape-of-a-theory-of-reality/' | relative_url }})
+- [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }})
