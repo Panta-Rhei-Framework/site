@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Wigner's 1960 <em>The Unreasonable Effectiveness of Mathematics in the Natural Sciences</em>, published in *Communications on Pure and Applied Mathematics*, is one of the program's working technical references. Cited across Book IV (*Categorical Microcosm*), Part 8, Chapter *Laws as Structure*; Book IV (*Categorical Microcosm*), Part 8, Chapter *The Self-Describing Universe* — the central framing is “The effectiveness problem: Why is mathematics so unreasonably effective in describing physics ?”.

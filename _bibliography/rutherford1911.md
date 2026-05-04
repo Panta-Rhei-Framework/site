@@ -54,6 +54,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Rutherford's 1911 <em>The Scattering of α and β Particles by Matter and the Structure of the Atom</em>, published in *Philosophical Magazine*, is one of the program's working technical references. Cited across Book IV (*Categorical Microcosm*), Part 1, Chapter *The Proton and the Electron: β-Decay Products*; Book IV (*Categorical Microcosm*), Part 5, Chapter *The Alpha Particle* — the central framing is “Historically, the proton was identified first (Rutherford, 1919 ), the electron even earlier (Thomson, 1897 ), and the neutron last (Chadwick, 1932 )”.

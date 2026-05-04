@@ -48,6 +48,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Hückel's 1931 <em>Quantentheoretische Beiträge zum Benzolproblem</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 6, Chapter *Organic Chemistry and Aromatic Systems*, where the program draws on it in the context of “H\"uckel's Rule A cyclic, planar, fully conjugated molecule is aromatic (anomalously stable) if and only if it contains 4n + 2 π electrons, where n is a non-negative integer: N_π….”

@@ -48,6 +48,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Gamow's 1928 <em>Zur Quantentheorie des Atomkernes</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 5, Chapter *The Alpha Particle*, where the program draws on it in the context of “ionα-Decay and Gamow Tunneling Heavy nuclei shed α-particles: ^A_Z X → ^A-4_Z-2Y + ^4_2He The α escapes via quantum tunneling through the Coulomb barrier: T ≈ (-2π Z_1 Z_2 e^2 v)….”

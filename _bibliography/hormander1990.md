@@ -60,6 +60,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Hörmander's <em>An introduction to complex analysis in several variables</em> (1990), published by North-Holland, sits in the program's reference corpus as a standing technical source. Cited across Book II (*Categorical Holomorphy*), Part 6, Chapter *Sheaf Coherence from ω-Germ Compatibility*; Book II (*Categorical Holomorphy*), Part 9, Chapter *Hartogs Extension in H_τ*; Book II (*Categorical Holomorphy*), Part 11, Chapter *Why τ³ Has No Dimensional Ladder* — the central framing is “A sheaf is a presheaf with two additional properties: local data that agrees on overlaps can be glued into global data (the gluing axiom), and a global section that vanishes…”.

@@ -48,6 +48,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Feferman and Strahm's chapter <em>Unfolding Finitist Arithmetic</em> (2010) in *Foundational Theories of Classical and Constructive Mathematics* sits in the program's reference corpus. Cited in Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*, where the program draws on it in the context of “Feferman and Feferman–Strahm developed the concept of reflective closure and unfolding of formal systems.”

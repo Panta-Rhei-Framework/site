@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Mayer's 1949 <em>On Closed Shells in Nuclei. II</em>, published in *Physical Review*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 5, Chapter *Light Nuclei: Helium to Iron*, where the program draws on it in the context of “The Nuclear Shell Model With spin-orbit coupling (Mayer, Jensen 1949) : 1s_1/2, 1p_3/2, 1p_1/2, 1d_5/2, 2s_1/2, 1d_3/2, … Shell closures at cumulative occupancies 2, 8, 20, 28,….”

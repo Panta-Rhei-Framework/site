@@ -54,6 +54,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 the collaboration's 2022 <em>First Sagittarius A&#42; Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way</em>, published in *The Astrophysical Journal Letters*, is one of the program's working technical references. Cited across Book V (*Categorical Macrocosm*), Part 5, Chapter *The EHT Re-Read: The Ring Is the Donut*; Book V (*Categorical Macrocosm*), Part 7, Chapter *Black Hole Topology — T² Signatures and Gravitational Waves* — the central framing is “In 2022, the EHT released a second shadow image: Sgr A*, the 4.3 × 10^6 M_ object at the center of the Milky Way”.

@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Kobayashi and Nomizu's <em>Foundations of Differential Geometry, Volume I</em> (1963), published by Interscience Publishers, sits in the program's reference corpus as a standing technical source. Cited 2 times in Book II (*Categorical Holomorphy*), Part 10, Chapter *τ-Manifold Structure from Holomorphic Atlas*, where the program draws on it in the context of “With (M, A_τ) and d_τ : Ω^k_τ → Ω^k+1_τ in hand, Book III can define: τ-connections _τ on vector bundles over τ-manifolds, with curvature F_ = _τ^2.”

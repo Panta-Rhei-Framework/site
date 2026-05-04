@@ -60,6 +60,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Kerr's 1963 <em>Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics</em>, published in *Physical Review Letters*, is one of the program's working technical references. Cited across Book V (*Categorical Macrocosm*), Part 7, Chapter *The Correspondence Map: τ³ leftrightarrow Orthodox Physics*; Book V (*Categorical Macrocosm*), Part 7, Chapter *General Relativity as Emergent Geometry*; Book V (*Categorical Macrocosm*), Part 7, Chapter *The Dark Sector Dissolved* — the central framing is “Gravitational dynamics (Schwarzschild , Kerr , gravitational waves ), since the τ-Einstein identity reduces to the Einstein field equation in the chart limit”.

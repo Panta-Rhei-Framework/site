@@ -54,6 +54,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Kobayashi and Maskawa's 1973 <em>CP-Violation in the Renormalizable Theory of Weak Interaction</em>, published in *Progress of Theoretical Physics*, is one of the program's working technical references. Cited across Book IV (*Categorical Microcosm*), Part 4, Chapter *Strong Coupling and Quarks*; Book IV (*Categorical Microcosm*), Part 5, Chapter *Three Generations* — the central framing is “CP violation requires at least three generations (Kobayashi–Maskawa, 1973 )”.

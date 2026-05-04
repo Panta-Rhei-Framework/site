@@ -54,6 +54,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Yang and Mills' 1954 <em>Conservation of Isotopic Spin and Isotopic Gauge Invariance</em>, published in *Physical Review*, is one of the program's working technical references. Cited across Book IV (*Categorical Microcosm*), Part 1, Chapter *The Neutron: Minimal Stable Defect Bundle*; Book IV (*Categorical Microcosm*), Part 3, Chapter *Gauge Invariance and the τ-Maxwell Equations* — the central framing is “The mass-gap guarantee (Book III, III.T27) ensures that the strong interaction confines quarks into colorless hadrons , forbidding the neutron from dissolving into massless…”.

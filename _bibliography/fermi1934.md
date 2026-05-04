@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Fermi's 1934 <em>Versuch einer Theorie der β-Strahlen. I</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited across Book IV (*Categorical Microcosm*), Part 1, Chapter *β-Decay: The Rosetta Stone*; Book IV (*Categorical Microcosm*), Part 3, Chapter *The Weak Force and Chirality* — the central framing is “Chapter will derive the neutron lifetime from Fermi's golden rule , with all eight ingredients (R, α, ^2θ_W, |V_ud|^2, g_A, Δ_A, Δ_r, phase space integral f) expressed as…”.

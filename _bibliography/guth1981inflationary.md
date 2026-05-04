@@ -54,6 +54,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Guth's 1981 <em>Inflationary Universe: A Possible Solution to the Horizon and Flatness Problems</em>, published in *Physical Review D*, is one of the program's working technical references. Cited across Book V (*Categorical Macrocosm*), Part 6, Chapter *Inflation-as-Regime: No Inflaton Sector*; Book V (*Categorical Macrocosm*), Part 7, Chapter *Inflation, the CMB, and Primordial Nucleosynthesis* — the central framing is “The Orthodox Inflation Paradigm The inflationary paradigm, developed by Guth , Linde , Albrecht, and Steinhardt in the early 1980s , postulates a scalar field φ (the inflaton)…”.

@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Jaffe and Witten's <em>Quantum Yang–Mills Theory</em> (2006) sits in the program's reference corpus. Cited in Book III (*Categorical Spectrum*), Part 5, Chapter *The Yang–Mills Mass Gap*, where the program draws on it in the context of “The Clay problem asks: does four-dimensional SU(3) Yang–Mills gauge theory on ℝ^4 have a mass gap m > 0 ?.”

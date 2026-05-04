@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Penrose's 1967 <em>Twistor Algebra</em>, published in *Journal of Mathematical Physics*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 2, Chapter *The CR Address Space*, where the program draws on it in the context of “Remarkably, CR-geometry also appears in Penrose's twistor theory , where the correspondence between twistor space and spacetime is mediated by CR-structures.”

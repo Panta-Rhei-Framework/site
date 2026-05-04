@@ -60,6 +60,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Reed and Simon's <em>Methods of Modern Mathematical Physics I: Functional Analysis</em> (1980), published by Academic Press, sits in the program's reference corpus as a standing technical source. Cited 3 times in Book III (*Categorical Spectrum*), Part 4, Chapter *The Lemniscate Operator*, where the program draws on it in the context of “For the reverse inclusion, standard von Neumann theory shows that the Kirchhoff condition is maximal among boundary conditions yielding symmetric operators on L.”

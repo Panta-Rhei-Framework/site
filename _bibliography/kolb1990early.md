@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Kolb and Turner's <em>The Early Universe</em> (1990), published by Addison-Wesley, sits in the program's reference corpus as a standing technical source. Cited across Book V (*Categorical Macrocosm*), Part 1, Chapter *High Energy and High Entropy at the Beginning*; Book V (*Categorical Macrocosm*), Part 7, Chapter *Inflation, the CMB, and Primordial Nucleosynthesis* — the central framing is “The τ-Einstein equation (V.D06) applies at all depths, but in the opening regime its readout is extreme: boundary characters carry maximal energy, the coupling constant κ_τ = 1 -…”.

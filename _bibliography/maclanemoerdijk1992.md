@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Mac Lane and Moerdijk's <em>Sheaves in Geometry and Logic: A First Introduction to Topos Theory</em> (1992), published by Springer, sits in the program's reference corpus as a standing technical source. Cited in Book I (*Categorical Foundations*), Part 14, Chapter *Limits, Sites, and the Presheaf Topos*, where the program draws on it in the context of “By Giraud's theorem , the presheaf category [C^op, Set] on any small category C is a Grothendieck topos.”

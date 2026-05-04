@@ -78,6 +78,34 @@ right_rail:
     role: "Foundational Source"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Mac Lane's <em>Categories for the Working Mathematician</em> (1998), published by Springer, sits in the program's reference corpus as a standing technical source. Cited 6 times across Book II (*Categorical Holomorphy*), Part 7, Chapter *Pre-Yoneda Embedding*; Book II (*Categorical Holomorphy*), Part 8, Chapter *Yoneda Embedding as Theorem*; Book II (*Categorical Holomorphy*), Part 8, Chapter *2-Categories from Iterated Enrichment*, and in 3 further chapters.

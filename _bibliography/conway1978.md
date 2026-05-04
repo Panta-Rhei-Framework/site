@@ -48,6 +48,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Conway's <em>Functions of One Complex Variable I</em> (1978), published by Springer-Verlag, sits in the program's reference corpus as a standing technical source. Cited in Book II (*Categorical Holomorphy*), Part 6, Chapter *Laurent Series and Residues*, where the program draws on it in the context of “Laurent Series and Residues Classical Laurent theory expands a holomorphic function in an annulus r_1 < |z| < r_2 as a doubly-infinite power series _n=-∞^∞ a_n z^n, with the….”

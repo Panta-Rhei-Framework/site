@@ -48,6 +48,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Deligne's <em>Hodge Theory</em> sits in the program's reference corpus. Cited in Book III (*Categorical Spectrum*), Part 5, Chapter *σ-Fixed Characters and Sector Addressability*, where the program draws on it in the context of “It asserts that every rational (p,p)-class in H^2p(X, ℚ) is a ℚ-linear combination of classes of algebraic subvarieties.”

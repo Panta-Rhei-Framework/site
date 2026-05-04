@@ -48,6 +48,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Kekulé's 1865 <em>Sur la constitution des substances aromatiques</em>, published in *Bulletin de la Société Chimique de Paris*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 6, Chapter *Organic Chemistry and Aromatic Systems*, where the program draws on it in the context of “Kekulé's proposal (1865) of alternating single and double bonds (C_6H_6 as a hexagonal ring) was a breakthrough, but it predicted two distinct C–C bond lengths.”

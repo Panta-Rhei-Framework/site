@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Lawvere's <em>An Elementary Theory of the Category of Sets (ETCS)</em> (1964) is a key conference paper that the program draws on as a technical source. Cited across Book VII (*Categorical Metaphysics*), Part 1, Chapter *Archetypes as Minimal j-Closed Fixed Points*; Book VII (*Categorical Metaphysics*), Part 7, Chapter *Dignity as Meta-Ethical Foundation* — the central framing is “The operator j : Ω Ω satisfies the Lawvere–Tierney axioms : (LT1): j ∘ true = true (truth is closed)”.

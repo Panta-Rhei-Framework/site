@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Sloterdijk's <em>Sphären III: Schäume</em> (2004), published by Suhrkamp, sits in the program's reference corpus as a standing technical source. Cited across Book VII (*Categorical Metaphysics*), Part 8, Chapter *Objects with Dignity and Worlds with Structure*; Book VII (*Categorical Metaphysics*), Part 8, Chapter *Spheres, Bubbles, and Foams: Sloterdijk* — the central framing is “Social Spheres The language of spheres and dwelling, developed by Sloterdijk , can be formalized by treating social spheres as open sets with varying density of recognition and…”.
