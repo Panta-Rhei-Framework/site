@@ -8,8 +8,8 @@ status: canonical
 last_updated: 2026-04-30
 updated: "April 2026"
 permalink: /bibliography/
-summary: "Reference infrastructure for the public release surfaces of the Panta Rhei Research Program."
-summary_short: "Reference infrastructure for the public release surfaces of the Panta Rhei Research Program across mathematics, physics, life sciences, and philosophy."
+summary: "Reference infrastructure and prior-art evidence catalog for the Panta Rhei Research Program."
+summary_short: "Reference infrastructure and prior-art evidence catalog for the Panta Rhei Research Program across mathematics, physics, life sciences, and philosophy."
 summary_cards:
   - title: "Manifest-pinned references"
     body: "Every entry has an editorial note; cited and standing references are tracked as part of the bibliography projection."
@@ -41,11 +41,20 @@ right_rail:
 
 ## What this bibliography is
 
-The bibliography is the reference infrastructure supporting the public release surfaces of the Panta Rhei Research Program.
+The Bibliography is the reference infrastructure and prior-art evidence catalog of the Panta Rhei Research Program.
 
-It connects source literature, research influences, book references, result contexts, and verification-facing materials into a browsable reference corpus. It supports Publications, Program, Corpus, and Results surfaces without pretending to be a complete literature review.
+It connects source literature, research influences, book references, result contexts, construction-step prior art, related approaches, and verification-facing materials into a browsable reference corpus.
 
-The bibliography is not a casual footer page. It is a working public record of the scholarly horizon from which the program operates.
+It is not a complete literature review. It is the public evidence catalog for the scholarly horizon against which the program situates its construction and novelty claims.
+
+## How this supports prior-art and novelty review
+
+The bibliography supports two kinds of inspection:
+
+1. **Citation inspection** — which sources are cited in books, papers, notes, briefings, and white papers?
+2. **Prior-art inspection** — which sources define the scholarly horizon for a construction step, result, domain, related approach, or Core Semantics target?
+
+Construction Spine step pages link back to curated prior-art clusters in this bibliography.
 
 ## Browse bibliography
 

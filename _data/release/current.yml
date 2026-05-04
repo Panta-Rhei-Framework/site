@@ -51,9 +51,9 @@ metrics:
   public_safe: true
   notes: ''
 - id: bibliography.references
-  value: 1148
+  value: 1124
   unit: references
-  display_value: 1,148
+  display_value: 1,124
   public_label: Bibliography references
   scope: Bibliography
   source_repo: Panta-Rhei-Research/corpus
