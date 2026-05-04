@@ -19,7 +19,7 @@ right_rail:
   meta:
     type: "Manual Assessment Protocol"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Protocol Types
@@ -32,6 +32,8 @@ Manual verification can begin with one of five review procedures:
 4. **Prediction / falsification review:** inspect formula, timing, empirical target, and stated failure condition.
 5. **Corpus / Result alignment check:** verify that a public result is backed by the IDs, dependencies, and status labels it cites.
 
-## Existing Reviewer Routes
+## Detailed Manual Inspection Routes
 
-The older [How to Audit]({{ '/verify/how-to-audit/' | relative_url }}) pages remain the deepest manual reviewer routes for formal-methods experts, mathematicians, physicists, philosophers, prior-art specialists, and journalist/skeptic readers.
+Detailed manual routes live under [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}), [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}), [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}), and [Engage → Review the Work]({{ '/engage/review-the-work/' | relative_url }}).
+
+Reader-archetype walkthroughs (formal-methods experts, mathematicians, physicists, philosophers, prior-art specialists, journalist/skeptic readers) are gathered under [How to Verify by reviewer role]({{ '/verify/how-to-audit/' | relative_url }}).

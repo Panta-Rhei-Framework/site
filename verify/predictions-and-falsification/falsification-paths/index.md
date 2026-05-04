@@ -19,12 +19,20 @@ right_rail:
   meta:
     type: "Falsification Surface"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## What Counts as a Falsification Path
 
 A falsification path names where and how the system could fail. It should say what evidence, contradiction, failed bridge, or failed derivation would count against the current claim.
+
+## Possible Failure Modes
+
+- **Empirical failure** — a measurement contradicts the predicted value or range, or the predicted observable is not detected within the stated test horizon.
+- **Bridge failure** — the bridge between an internal construction and a standard mathematical, physical, empirical, or interpretive claim does not hold under scrutiny.
+- **Formal failure** — a derivation does not close, or a TauLib proof obligation cannot be discharged within the stated formalization scope.
+- **Core Semantics failure** — the claimed domain language, structure, or bridge was not earned.
+- **Scope failure** — a claim exceeds the construction step or domain that earns it.
 
 ## Required Metadata for a Path
 

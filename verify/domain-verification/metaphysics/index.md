@@ -17,7 +17,7 @@ right_rail:
       url: /results/metaphysics/
     - title: "Kernel, Model & Reality"
       url: /agenda/kernel-model-reality/
-    - title: "Metaphysics Recovery Requirements"
+    - title: "Metaphysics Core Semantics"
       url: /agenda/core-semantics/metaphysics/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
@@ -27,7 +27,7 @@ right_rail:
     type: "Domain Verification"
     domain: "Metaphysics"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 glossary_term_ids:
   - MG-R01-empirical-register
   - MG-A01-ci-operator-graph
@@ -93,8 +93,8 @@ glossary_term_ids:
   </a>
   <a class="v2-tile v2-tile-metaphysics" href="{{ '/agenda/core-semantics/metaphysics/' | relative_url }}">
     <span class="eyebrow">Recovery</span>
-    <h3>Metaphysics Recovery Requirements</h3>
-    <p>Categorical structures the kernel must rederive (recovery targets + status).</p>
+    <h3>Metaphysics Core Semantics</h3>
+    <p>The language the theory must earn before it can answer metaphysical questions — categorical recovery targets and status.</p>
   </a>
   <a class="v2-tile v2-tile-metaphysics" href="{{ '/verify/how-to-audit/philosopher/' | relative_url }}">
     <span class="eyebrow">Audit</span>

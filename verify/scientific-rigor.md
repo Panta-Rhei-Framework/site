@@ -7,7 +7,7 @@ type: "Verification Surface"
 status: "Canonical"
 permalink: /verify/scientific-rigor/
 summary_short: "The standards by which the program holds itself accountable as a serious, inspectable research program."
-plain_language_summary: "Most research programs ask you to take their claims at face value. This one asks the opposite — every claim is typed by what kind of thing it is (mathematical theorem, physical prediction, biological correlate, metaphysical commitment), and each type is held to the standard appropriate to it. A theorem must compile in Lean. A physical prediction must match measurement. A biological claim must point to a measurable biomarker. A metaphysical claim must instantiate categorically. The page below names those standards and the routes by which an outside reviewer can check that the program is actually following them."
+plain_language_summary: "Most research programs ask you to take their claims at face value. This one asks the opposite — every claim is typed by what kind of thing it is (mathematical theorem, physical prediction, biological correlate, metaphysical commitment), and each type is held to the standard appropriate to it. A formal theorem must expose its formalization status. A physical prediction must expose its measurement bridge and possible failure condition. A biological claim must state its observable, comparative, or structural support. A metaphysical claim must state its ontic, structural, phenomenological, or commitment-level status. The page below names those standards and the routes by which an outside reviewer can check that the program is actually following them."
 summary_cards:
   - title: "Typed claims"
     body: "Mathematical, physical, life, and metaphysical claims are not granted the same epistemic status."
@@ -26,7 +26,7 @@ right_rail:
   meta:
     type: "Verification Surface"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Core Question
@@ -49,7 +49,7 @@ Before asking whether a specific result is true, a reviewer can ask whether the 
 <div class="v2-grid v2-grid-2">
   <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <h3>Agenda accountability</h3>
-    <p>Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap name the obligations before results are defended.</p>
+    <p>Core Semantics, Problem Ledger, Kernel/Model/Reality, and Construction Roadmap name the obligations before results are defended.</p>
   </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <h3>Corpus traceability</h3>
@@ -64,8 +64,8 @@ Before asking whether a specific result is true, a reviewer can ask whether the 
     <p>TauLib checks formal proof obligations where formalized; bridge and empirical claims require their own Verify surfaces.</p>
   </a>
   <a class="v2-tile" href="{{ '/verify/how-to-verify/' | relative_url }}">
-    <h3>Independent audit</h3>
-    <p>Reviewers can enter through domain-specific audit routes and assessment protocols instead of relying on summaries.</p>
+    <h3>Structured assessment</h3>
+    <p>Reviewers can enter through domain-specific inspection routes, assessment protocols, and bounded review workflows.</p>
   </a>
 </div>
 

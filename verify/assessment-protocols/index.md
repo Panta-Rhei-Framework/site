@@ -39,12 +39,14 @@ right_rail:
   meta:
     type: "Assessment Protocol"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## What These Protocols Do
 
 These protocols are designed for reviewers, readers, and external evaluators. They provide explicit checklists and prompts for structured scrutiny.
+
+For human bounded review offers, critique, correction, or contribution, use [Engage → Review the Work]({{ '/engage/review-the-work/' | relative_url }}). For lighter first-contact prompts, use [Discover → AI-Assisted Discovery]({{ '/discover/ai-assisted-discovery/' | relative_url }}). For assessment workflows, stay here.
 
 ## Assessment inside the verification matrix
 
@@ -68,7 +70,7 @@ Protocols help reviewers decide where to inspect next: Agenda obligations, Corpu
 
 ## Existing Detailed Library
 
-The earlier detailed assessment library remains available at [AI-Assisted First-Pass Assessment]({{ '/verify/assessments/' | relative_url }}), including methodology, rubric, scorecard, dossier schema, reviewer workflow, and prompt templates.
+The detailed assessment library remains available at [AI-Assisted First-Pass Assessment]({{ '/verify/assessments/' | relative_url }}), including methodology, rubric, scorecard, dossier schema, structured inspection workflow, and prompt templates.
 
 ## Package inspection checklists
 

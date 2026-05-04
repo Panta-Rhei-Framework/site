@@ -7,7 +7,7 @@ type: "Verification Surface"
 status: "Canonical"
 permalink: /verify/formal-verification-stack/
 summary_short: "The layered structure by which the formal core of the program is checked."
-plain_language_summary: "The framework's mathematical claims aren't just argued in prose — every theorem is written in Lean 4, a programming language that machine-checks proofs. There are 4,857 such theorems across 512 modules, all compiling with zero `sorry` placeholders. This page lays out the four layers of formal checking: kernel integrity (does Lean's own type-checker accept the proof?), standard-foundation alignment (does the proof use only Mathlib axioms plus three explicit custom ones?), bridge verification (do the formal claims correspond to the empirical predictions?), and external assessment (do specialists outside the program see the same picture?). Each layer is independently inspectable; nothing relies on a single black box."
+plain_language_summary: "Where theorem and lemma claims are represented in TauLib, they are written in Lean 4 — a programming language that machine-checks proofs — and checked against the pinned Lean environment. The Release Manifest is authoritative for current counts: at the current public release, TauLib reports 512 modules, 4,863 theorem/lemma declarations, 0 `sorry` assignments, and 3 custom axiom declarations. This page lays out the four layers of formal checking: kernel integrity (does Lean's own type-checker accept the proof?), standard-foundation alignment (does the proof use only Mathlib axioms plus the disclosed custom ones?), bridge verification (do the formal claims legitimately support standard mathematical, physical, empirical, or interpretive claims?), and external assessment (do specialists outside the program see the same picture?). Bridge verification is adjacent to formal verification, not identical to it. Each layer is independently inspectable; nothing relies on a single black box."
 summary_cards:
   - title: "Lean layer"
     body: "TauLib is the machine-checkable formalization surface."
@@ -28,7 +28,7 @@ right_rail:
   meta:
     type: "Verification Surface"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Stack Overview
@@ -36,11 +36,12 @@ right_rail:
 Formal verification in this program has multiple levels. They must not be collapsed into one confidence label.
 
 <div class="v2-system-strip" aria-label="Formal verification stack">
-  <a class="v2-system-node" href="{{ '/publications/research-monographs/' | relative_url }}">Publications</a>
-  <a class="v2-system-node" href="{{ '/corpus/registry/' | relative_url }}">Corpus Registry</a>
   <a class="v2-system-node" href="{{ '/verify/taulib/' | relative_url }}">TauLib</a>
   <a class="v2-system-node" href="{{ '/verify/release-manifest/' | relative_url }}">Release Manifest</a>
-  <a class="v2-system-node" href="{{ '/verify/how-to-audit/' | relative_url }}">Independent Audit</a>
+  <a class="v2-system-node" href="{{ '/corpus/registry/' | relative_url }}">Corpus Registry</a>
+  <a class="v2-system-node" href="{{ '/corpus/monograph-corpus/' | relative_url }}">Monograph Corpus</a>
+  <a class="v2-system-node" href="{{ '/verify/how-to-verify/' | relative_url }}">Verify routes</a>
+  <a class="v2-system-node" href="{{ '/publications/' | relative_url }}">Publications</a>
 </div>
 
 ## Level 1 — Kernel Integrity Verification
@@ -57,17 +58,18 @@ This asks whether selected hinge theorems can also be re-established in standard
 
 ## Level 3 — Bridge Verification
 
-This asks whether bridge constructions from the kernel into standard mathematics genuinely support the transfer claims being made. Internal analogues are not enough; the bridge must be adequate for the transfer burden.
+Bridge verification is adjacent to formal verification, not identical to it. Formal verification checks internal proof obligations where formalized. Bridge verification asks whether formal or internal constructions legitimately support standard mathematical, physical, empirical, or interpretive claims. Internal analogues are not enough; the bridge must be adequate for the transfer burden.
 
 **Result:** bridge-verified recovery and transfer claims where established.
 
 ## Current Surfaces
 
-- **Publications** provide the narrative and mathematical exposition.
-- **Corpus Registry** gives the structured spine: IDs, types, dependencies, and source locations.
-- **TauLib** exposes the Lean 4 formalization and documentation surface.
-- **Release Manifest** pins the inspected public state so counts and provenance can be reconciled.
-- **Audit Pages** explain the remaining trust budget, bridge assumptions, and reviewer routes.
+- **TauLib** — Lean 4 formalization surface.
+- **Release Manifest** — authoritative release counts, pinned commit, trusted-base and filter disclosures.
+- **Corpus Registry** — object IDs, types, dependencies, and source locations.
+- **Monograph Corpus** — narrative construction projection where relevant.
+- **Verify routes** — bridge, domain, prediction, falsification, and assessment surfaces.
+- **Publications** — citable artifact and release shelf.
 
 ## Meta-Verification Boundary
 

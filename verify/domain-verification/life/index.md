@@ -15,7 +15,7 @@ right_rail:
   related:
     - title: "Life Results"
       url: /results/life/
-    - title: "Life Recovery Requirements"
+    - title: "Life Core Semantics"
       url: /agenda/core-semantics/life/
     - title: "Origin of Life Problem Answer"
       url: /results/problem-ledger-answers/life/origin-of-life/
@@ -27,7 +27,7 @@ right_rail:
     type: "Domain Verification"
     domain: "Life"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 glossary_term_ids:
   - LG-Y02-kinetic-pseudoscalar-channel
   - LG-E01-atp
@@ -93,8 +93,8 @@ glossary_term_ids:
   </a>
   <a class="v2-tile v2-tile-life" href="{{ '/agenda/core-semantics/life/' | relative_url }}">
     <span class="eyebrow">Recovery</span>
-    <h3>Life Recovery Requirements</h3>
-    <p>Known biological structures the kernel must rederive (recovery targets + status).</p>
+    <h3>Life Core Semantics</h3>
+    <p>The language the theory must earn before it can answer life-domain questions — recovery targets and status.</p>
   </a>
   <a class="v2-tile v2-tile-life" href="{{ '/verify/how-to-audit/philosopher/' | relative_url }}">
     <span class="eyebrow">Audit</span>

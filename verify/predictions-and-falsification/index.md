@@ -29,7 +29,7 @@ right_rail:
   meta:
     type: "Predictions & Falsification"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 ## Accountability, Not Decoration
@@ -81,7 +81,9 @@ Every public prediction now carries an auto-derived **Lean-modules linkage**: th
 
 {% include scientific-plate.html id="plate-13-kernel-to-measurement" class="scientific-plate--measurement-bridge" loading="lazy" %}
 
-The framework distinguishes internal construction from empirical exposure. Formal derivation becomes physics only through measurement bridges, observable translation, predictions, and falsification pressure.
+The theory distinguishes internal construction from empirical exposure. Formal derivation becomes physics only through measurement bridges, observable translation, predictions, and falsification pressure.
+
+Prediction and falsification surfaces are downstream of the Construction Spine's [Measurement Bridges]({{ '/corpus/construction-spine/measurement-empirical-bridges/' | relative_url }}) step. Internal physical grammar is not empirical accountability until the bridge and failure condition are exposed.
 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/verify/predictions-and-falsification/predictions/' | relative_url }}">
