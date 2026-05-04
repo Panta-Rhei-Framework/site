@@ -60,7 +60,7 @@ relations:
       url: /verify/taulib/
   recovery:
     - title: "Life Recovery Requirements"
-      url: /agenda/recovery-requirements/life/
+      url: /agenda/core-semantics/life/
   publications:
     - title: "Books"
       url: /publications/books/
@@ -95,7 +95,7 @@ right_rail:
     - title: "Research Notes"
       url: /publications/research-notes/
     - title: "Life Recovery"
-      url: /agenda/recovery-requirements/life/
+      url: /agenda/core-semantics/life/
     - title: "Verify"
       url: /verify/
   meta:

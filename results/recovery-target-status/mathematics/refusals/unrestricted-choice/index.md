@@ -26,7 +26,7 @@ Choice-like principles may be studied and bridged, but they cannot enter the ker
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R3](/agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/)
+- Program ledger item: [MREF-R3](/agenda/core-semantics/mathematics/refusals/unrestricted-choice/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

@@ -29,7 +29,7 @@ right_rail:
     - title: "No Externalities"
       url: /agenda/kernel-model-reality/no-externalities/
     - title: "Metaphysics Recovery Requirements"
-      url: /agenda/recovery-requirements/metaphysics/
+      url: /agenda/core-semantics/metaphysics/
   meta:
     type: "Kernel Boundary"
     scope: "Research Agenda"

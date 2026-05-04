@@ -26,7 +26,7 @@ Value, Normativity, and Ethics
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R10](/agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/)
+- Program ledger item: [METH-R10](/agenda/core-semantics/metaphysics/value-normativity-and-ethics/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

@@ -52,9 +52,9 @@ collections:
   problem_ledger:
     output: true
     permalink: /agenda/problem-ledger/:path/
-  recovery_requirements:
+  core_semantics:
     output: true
-    permalink: /agenda/recovery-requirements/:path/
+    permalink: /agenda/core-semantics/:path/
 
 collections_dir: .
 
@@ -163,7 +163,7 @@ defaults:
       lane: "program"
       v2_lane: "program"
   - scope:
-      type: "recovery_requirements"
+      type: "core_semantics"
     values:
       layout: "recovery-requirement-item"
       lane: "program"

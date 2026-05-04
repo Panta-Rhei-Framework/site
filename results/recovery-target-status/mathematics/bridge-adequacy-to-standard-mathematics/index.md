@@ -26,7 +26,7 @@ Bridge Adequacy to Standard Mathematics
 
 - Recovery status: **Partial**
 - Verification status: **Pending bridge verification**
-- Program ledger item: [MREC-M5](/agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/)
+- Program ledger item: [MREC-M5](/agenda/core-semantics/mathematics/bridge-adequacy-to-standard-mathematics/)
 - Verification mode: `foundational_recovery_target`
 
 ## Result Summary

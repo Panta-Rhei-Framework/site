@@ -29,7 +29,7 @@ right_rail:
     - title: "Diagrammatic Access"
       url: /agenda/kernel-model-reality/diagrammatic-access/
     - title: "Physics Recovery Requirements"
-      url: /agenda/recovery-requirements/physics/
+      url: /agenda/core-semantics/physics/
     - title: "Formal Verification Stack"
       url: /verify/formal-verification-stack/
   meta:

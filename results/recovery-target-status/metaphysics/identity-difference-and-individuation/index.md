@@ -26,7 +26,7 @@ Identity, Difference, and Individuation
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R2](/agenda/recovery-requirements/metaphysics/identity-difference-and-individuation/)
+- Program ledger item: [METH-R2](/agenda/core-semantics/metaphysics/identity-difference-and-individuation/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

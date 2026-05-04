@@ -27,7 +27,7 @@ right_rail:
     - title: "Kant, Phenomena & Noumena"
       url: /agenda/kernel-model-reality/kant-phenomena-noumena/
     - title: "Recovery Requirements"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Problem Ledger"
       url: /agenda/problem-ledger/
     - title: "How to Verify"

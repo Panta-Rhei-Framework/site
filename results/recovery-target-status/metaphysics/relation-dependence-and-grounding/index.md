@@ -26,7 +26,7 @@ Relation, Dependence, and Grounding
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R3](/agenda/recovery-requirements/metaphysics/relation-dependence-and-grounding/)
+- Program ledger item: [METH-R3](/agenda/core-semantics/metaphysics/relation-dependence-and-grounding/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

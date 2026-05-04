@@ -26,7 +26,7 @@ Fundamental Constants
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P4](/agenda/recovery-requirements/physics/fundamental-constants/)
+- Program ledger item: [PREC-P4](/agenda/core-semantics/physics/fundamental-constants/)
 - Verification mode: `constants_and_calibration_review`
 
 ## Result Summary

@@ -32,7 +32,7 @@ right_rail:
     - title: "What the Program Refuses"
       url: /agenda/what-the-program-refuses/
     - title: "Recovery Requirements"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Meta-Verification Frontier"
       url: /verify/meta-verification-frontier/
   meta:
