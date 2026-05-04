@@ -11,14 +11,12 @@ scope: related_approaches
 summary_short: "Where Panta Rhei sits among serious structural, computational, geometric, relational, constructive, biological, consciousness, and metaphysical programs."
 tags:
   - related-approaches
-  - coherent-theory-of-reality
-  - inspection-architecture
+  - prior-art
   - wolfram-ruliad
   - twistor-theory
   - absorber-theory
   - structural-realism
-  - quantum-foundations
-  - homotopy-type-theory
+  - hott
   - free-energy-principle
   - integrated-information-theory
 summary_cards:
@@ -60,9 +58,11 @@ right_rail:
 
 Panta Rhei is not built in isolation. It belongs near several serious traditions in mathematics, physics, foundations, computation, life theory, consciousness studies, and metaphysics.
 
-**Related Approaches is not a takedown of other theories. It is a positioning map.**
+**Related Approaches is a positioning map, not a takedown, literature survey, or priority claim.**
 
-This page explains what Panta Rhei shares with related approaches, where it differs, and which construction burden it takes on instead. It is not a literature survey, not a priority claim, and not a declaration that neighboring programs should be read only through Panta Rhei.
+This page explains what Panta Rhei shares with related approaches, where it differs, and which construction burden it takes on instead. It is not a declaration that neighboring programs should be read only through Panta Rhei.
+
+This page is not an exhaustive literature survey. It is an evolving comparison surface for approaches most useful in understanding Panta Rhei's own burden.
 
 ## The comparison standard
 
@@ -93,6 +93,8 @@ For the public doctrine behind that comparison standard, read [The Shape of a Th
   <li><article><a class="v2-tile" href="{{ '/program/about/related-approaches/life-mind-self-organization/' | relative_url }}"><strong>Autopoiesis, Free Energy, and IIT</strong><span>Self-maintenance, Markov blankets, intrinsic existence, and the burden of recovering life and mind.</span></a></article></li>
   <li><article><a class="v2-tile" href="{{ '/program/about/related-approaches/neutral-russellian-monism/' | relative_url }}"><strong>Neutral and Russellian Monism</strong><span>Non-dual metaphysics, intrinsic nature, and the difference between positing and constructing.</span></a></article></li>
 </ul>
+
+Related Approaches is a positioning map. The [Bibliography & Prior-Art Catalog]({{ '/bibliography/' | relative_url }}) provides the reference infrastructure for detailed prior-art and novelty review.
 
 ## What Panta Rhei adds
 

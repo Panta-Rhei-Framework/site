@@ -12,9 +12,10 @@ tags:
   - inspection-observatory
   - inspection-before-belief
   - open-research
+  - assessment-protocols
+  - bounded-review
   - media
-  - review
-  - public-research-observatory
+  - verify
 hero_ctas:
   - label: "Program"
     url: /program/
@@ -90,19 +91,20 @@ The same discipline applies to comparisons with neighboring programs. [Related A
 
 ## Technical blueprint
 
-Package 3 documents the implementation side of this doctrine. The white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) explains how the public site and GitHub organization materialize the observatory as source paths, lane routes, generated projections, release manifests, search, publications, review kits, and correction channels.
+Package 3 documents the implementation side of this doctrine. The white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) explains how the public site and GitHub organization materialize the observatory as source paths, lane routes, generated projections, release manifests, search, publications, assessment protocols, bounded review routes, and correction channels.
 
 That architecture does not validate the theory. It makes the public inspection path visible enough for validation, challenge, correction, review, and refusal to begin.
 
-## For journalists and reviewers
+## For journalists, reviewers, and critical visitors
 
-If you are covering or reviewing the program, start with the inspection standard before evaluating individual claims.
+If you are covering or inspecting the program, start with the inspection standard before evaluating individual claims.
 
-- [Media Kit]({{ '/media/' | relative_url }})
-- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }})
-- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
-- [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) -- white paper, DOI forthcoming
-- [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) -- technical blueprint, DOI forthcoming
+- [Media Kit]({{ '/media/' | relative_url }}) -- responsible public communication routes.
+- [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}) -- first-pass inspection pathways.
+- [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) -- structured manual and LLM-assisted workflows.
+- [Review the Work]({{ '/engage/review-the-work/' | relative_url }}) -- how to offer bounded review without implying endorsement.
+- [Inspection Architecture for High-Scope Open Research]({{ '/publications/white-papers/inspection-architecture-high-scope-open-research/' | relative_url }}) -- open-research white paper.
+- [Building a Public Research Observatory]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) -- technical blueprint.
 
 ## What this page does not claim
 

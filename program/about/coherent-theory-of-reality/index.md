@@ -7,14 +7,15 @@ section: about-the-program
 permalink: /program/about/coherent-theory-of-reality/
 type: "Program Doctrine"
 status: "Canonical"
-summary_short: "The Program definition behind v4: coherent means no hidden externalities, theory means constructive account, and reality means the full domain the program claims to address."
+summary_short: "The Program definition behind v4: coherent means globally glued, theory means an inspectable formal-semantic corpus, and reality means the layered field the program claims to address."
 tags:
   - coherent-theory-of-reality
   - theory
   - reality
   - coherence
+  - core-semantics
+  - earned-language
   - doctrine
-  - research-program
 hero_ctas:
   - label: "Program"
     url: /program/
@@ -61,7 +62,9 @@ A coherent account must make its assumptions, objects, dependencies, bridge rule
 
 ## Theory
 
-Theory does not mean a loose interpretation. In this program, a theory must be constructive enough to expose a build order.
+Theory does not mean a loose interpretation. In this program, a theory means an inspectable formal-semantic corpus generated from a common kernel.
+
+It must be constructive enough to expose a build order and explicit enough to separate Agenda, Corpus, Results, and Verify.
 
 That is why the site separates Agenda, Corpus, Results, and Verify. The Agenda states what must be answered. The Corpus carries the construction. Results reports what the built Corpus currently implies. Verify exposes how the construction and its consequences can be checked or challenged.
 
@@ -70,6 +73,12 @@ That is why the site separates Agenda, Corpus, Results, and Verify. The Agenda s
 Reality names the full domain of the program's ambition: mathematics, physics, life, mind, and metaphysics.
 
 The program does not treat this ambition as already earned. It treats it as a burden. A claim about reality must survive the obligations named in the Agenda, the construction discipline of the Corpus, the status grammar of Results, and the inspection routes of Verify.
+
+## Core Semantics
+
+In Agenda, the burden of earned language becomes Core Semantics: the language, structures, laws, and grammars the theory must be able to carry, retype, or explicitly challenge before it can answer.
+
+Core Semantics is not a promise to reproduce established semantics unchanged. It is the obligation to earn the language of the domains the theory addresses.
 
 ## Full doctrine
 

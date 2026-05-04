@@ -32,17 +32,19 @@ right_rail:
     url: /program/about/coherent-theory-of-reality/
   - title: Inspection Observatory
     url: /program/about/inspection-observatory/
-  - title: Inspection Architecture White Paper
+  - title: Related Approaches
+    url: /program/about/related-approaches/
+  - title: Open Research White Paper
     url: /publications/white-papers/inspection-architecture-high-scope-open-research/
   - title: Theory of Reality White Paper
     url: /publications/white-papers/the-shape-of-a-theory-of-reality/
-  - title: Related Approaches
-    url: /program/about/related-approaches/
+  - title: Technical Blueprint White Paper
+    url: /publications/white-papers/building-a-public-research-observatory/
   meta:
     type: Overview
     scope: Program-wide
     status: Canonical
-    updated: April 2026
+    updated: May 2026
 og_image: /assets/images/plates/plate-01-public-research-observatory-og.jpg
 twitter_image: /assets/images/plates/plate-01-public-research-observatory-og.jpg
 og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a public research observatory — Discover, Program, Corpus, Results, Verify, Publications, Impact, Engage."
@@ -52,7 +54,7 @@ The **Panta Rhei Research Program** is an independent open research program dedi
 
 It is centered on one demanding question:
 
-**Can one build a coherent model of reality that is not merely useful, but structurally capable of answering why reality has the form it has?**
+**Can one build a coherent theory of reality that is not merely useful, but structurally capable of answering why reality has the form it has?**
 
 > **Arriving as a skeptic?** The [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) answers the ten hardest questions a first-pass reviewer should ask first — synthesized from three independent frontier-LLM first-pass assessments — with honest answers and pointers to load-bearing evidence.
 
@@ -77,15 +79,19 @@ These are not separate projects. They are different public surfaces of the same 
 
 Panta Rhei should not be understood primarily as "seven books" or "a framework" in isolation. The seven books are the current **canonical monograph release** of the program. TauLib is the current **formal verification substrate** of the program. This site is the current **public navigation and inspection surface** of the program.
 
-The research program itself is the larger object. It is the continuing attempt to develop, articulate, formalize, test, and expose a coherence-first model of reality to public scrutiny.
+The research program itself is the larger object. It is the continuing attempt to develop, articulate, formalize, test, and expose a coherent theory of reality to public scrutiny.
 
 That distinction matters. It allows the books to remain canonical without making them carry the entire ontological burden alone. It also allows the public site to be organized as a research interface rather than as a promotional microsite for the monographs.
 
 ## The central idea
 
-The simplest sentence that unifies the whole program is:
+The defining sentence of the program is:
 
-**the unfolding of coherence**
+> The Panta Rhei Research Program is an independent open research program dedicated to building a coherent theory of reality.
+
+This means the program is not primarily a book series, software project, claim catalogue, or website. It is a research program that attempts to make theory, reality, and coherence explicit enough to be inspected.
+
+Coherence remains the guiding discipline, but the public category is stricter: a coherent theory of reality.
 
 The program asks whether one can begin from a radically constrained, inspectable foundation and then earn — rather than merely postulate — a coherent ascent through mathematics, physics, life, and metaphysics.
 
@@ -97,12 +103,12 @@ The program is already public enough to be engaged seriously. That is one of the
 
 What is public now includes:
 
-- canonical prose articulation in the books
-- a public website organized around Program identity, Agenda obligations, Corpus construction, Results status, Verify inspection, Publications artifacts, Impact scenarios, and Engage routes
-- a public formalization substrate in TauLib
-- public guided tours designed to surface the load-bearing hinges of each book
-- public verification companions that lower the threshold for formal inspection
-- public assessment protocols that help outsiders produce first-pass dossiers without pretending to replace expert scrutiny
+- the seven-book monograph series;
+- this public website, organized as a research observatory;
+- the public TauLib formalization in Lean 4;
+- Agenda, Corpus, Results, Verify, Impact, and Engage surfaces;
+- public assessment protocols and correction routes;
+- white papers, research notes, briefings, and release artifacts.
 
 In other words: the program is no longer only an internal build. It is now an inspectable object in the world.
 
@@ -121,7 +127,7 @@ The first serious question is:
 That engagement may take many forms:
 
 - reading the canonical books
-- entering through the Agenda, Corpus Construction Spine, a Results mirror, a Verify route, or a citable Publication artifact
+- entering through Agenda, the Corpus Construction Spine, Results, Verify, Engage, or a citable artifact in Publications
 - inspecting the formalization
 - attacking the strongest hinges
 - checking the bridge claims

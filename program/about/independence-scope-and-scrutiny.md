@@ -29,7 +29,7 @@ right_rail:
     type: "Founders' Statement"
     scope: "Program-wide"
     status: "Canonical"
-    updated: "April 2026"
+    updated: "May 2026"
 ---
 
 The Panta Rhei Research Program is an independent research program. That independence is a strength only if it is paired with unusual exposure to scrutiny.
@@ -56,6 +56,8 @@ The program is aligned with open-research norms in a practical, restrained sense
 
 Panta Rhei is not claiming that every artifact is already open, complete, or externally certified. It is claiming a direction of travel and an obligation: wherever possible, the program should expose public artifacts, source paths, release manifests, validation reports, and verification routes rather than asking readers to accept a black box.
 
+For the public inspection-standard argument behind this posture, see [Inspection Architecture for High-Scope Open Research](/publications/white-papers/inspection-architecture-high-scope-open-research/).
+
 ## Scope
 
 The scope is deliberately large: mathematics, physics, life, metaphysics, and the relation between scientific intelligibility and existential inhabitation.
@@ -64,11 +66,13 @@ Large scope does not mean completed status. It means the program has chosen a ha
 
 The public website therefore distinguishes the major surfaces:
 
-- [Research Agenda]({{ '/agenda/' | relative_url }}) states the obligations.
-- [Corpus]({{ '/corpus/' | relative_url }}) shows the construction.
-- [Results]({{ '/results/' | relative_url }}) records consequences and status.
-- [Verify]({{ '/verify/' | relative_url }}) exposes inspection routes.
-- [Publications]({{ '/publications/' | relative_url }}) preserves stable artifacts.
+- **[Agenda]({{ '/agenda/' | relative_url }})** states the obligations.
+- **[Corpus]({{ '/corpus/' | relative_url }})** shows the construction.
+- **[Results]({{ '/results/' | relative_url }})** records consequences and status.
+- **[Verify]({{ '/verify/' | relative_url }})** exposes inspection routes.
+- **[Impact]({{ '/impact/' | relative_url }})** maps conditional public relevance.
+- **[Engage]({{ '/engage/' | relative_url }})** makes open scrutiny operational.
+- **[Publications]({{ '/publications/' | relative_url }})** preserves the stable artifact and release shelf.
 
 ## Scrutiny
 

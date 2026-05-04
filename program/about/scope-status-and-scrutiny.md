@@ -28,7 +28,7 @@ right_rail:
     type: Assessment
     scope: Program-wide
     status: Canonical
-    updated: April 2026
+    updated: May 2026
 ---
 
 The scope of the Panta Rhei Research Program is large. That should be stated plainly.
@@ -49,7 +49,7 @@ For the founders' statement on independent governance, open-research posture, an
 
 ## Scope
 
-The program's scope is large because its object is large. The central wager is not that one can solve one local puzzle, but that one coherent framework might support a full-stack model of reality.
+The program's scope is large because its object is large. The central wager is not that one can solve one local puzzle, but that one coherent theory of reality might carry mathematics, physics, life, mind, and metaphysics as layers of one structured world.
 
 That means the public release necessarily touches many domains and many questions. This should not be hidden.
 
@@ -88,13 +88,12 @@ The aim is to state the scope truthfully and the status carefully.
 
 A serious outsider is already able to inspect the program through multiple public surfaces:
 
-- the [seven-book canonical release]({{ '/publications/research-monographs/' | relative_url }})
-- the [Research Agenda]({{ '/agenda/' | relative_url }}), [Corpus]({{ '/corpus/' | relative_url }}), and [Results]({{ '/results/' | relative_url }}) lanes
-- [guided tours]({{ '/publications/guided-tours/' | relative_url }})
-- public verification companions
-- [TauLib]({{ '/verify/taulib/' | relative_url }})
-- the [registry]({{ '/corpus/registry/' | relative_url }}) and dashboard surfaces
-- public assessment protocols
+- the [seven-book monograph series]({{ '/publications/research-monographs/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}) artifacts;
+- [Program doctrine]({{ '/program/' | relative_url }}) and [Agenda]({{ '/agenda/' | relative_url }}) obligations;
+- [Corpus Construction Spine]({{ '/corpus/' | relative_url }}), Monograph Corpus, [Registry]({{ '/corpus/registry/' | relative_url }}), and [TauLib]({{ '/verify/taulib/' | relative_url }}) projection;
+- [Results]({{ '/results/' | relative_url }}) mirrors and Progress Against Agenda;
+- [Verify]({{ '/verify/' | relative_url }}), Assessment Protocols, and falsification surfaces;
+- [Engage]({{ '/engage/' | relative_url }}), correction routes, and public discussion surfaces.
 
 This means the work is not waiting in total opacity for later institutional validation. It is already visible and answerable in public.
 
@@ -105,7 +104,8 @@ At the same time, several things remain open:
 - whether the strongest mathematical derivations hold
 - whether the strongest bridge claims are fully justified
 - whether the physical mappings are valid in the strongest sense claimed
-- whether the novelty and significance judgments survive expert comparison at scale
+- whether novelty and prior-art positioning survive expert comparison at scale
+- whether the Core Semantics survive expert comparison at scale
 - how long the social uptake will take, and in what form
 
 These are not embarrassments. They are part of the status of a living research program placed into public contact.
