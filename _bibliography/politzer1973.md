@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Politzer's 1973 <em>Reliable Perturbative Results for Strong Interactions?</em>, published in *Physical Review Letters*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 4, Chapter *Strong Coupling and Quarks*, where the program draws on it in the context of “Gross, Wilczek, and Politzer showed in 1973 that the SU(3) beta function is negative: β(g_s) = -g_s^316π^2(11 - 2N_f3) giving the running coupling: α_s(Q^2) = 12π(33 -….”

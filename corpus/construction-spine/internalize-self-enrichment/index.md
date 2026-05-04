@@ -136,6 +136,34 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Moves from an externally described kernel toward self-enrichment: hom-objects as τ-objects, Yoneda as theorem, iterated enrichment, and the first formal reduction of metalanguage externality."
 construction_step_id: "CS-03"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - "Enriched category theory"
+    - "Topos theory and internal language"
+    - "Yoneda lemma and presheaf internalization"
+    - "Homotopy type theory and univalent foundations"
+    - "Higher toposes and synthetic ∞-category theory"
+    - "Sconing and metatheory of type theory"
+    - "Self-reference in category theory (Lawvere fixed-point lineage)"
+  key_references:
+    - "kelly1982"
+    - "maclanemoerdijk1992"
+    - "johnstone2002"
+    - "lambekscott1986"
+    - "yoneda1954"
+    - "lawvere1969"
+    - "hottbook2013"
+    - "shulman2019"
+    - "caramello2017"
+    - "bocquetkaposisattler2023"
+    - "altenkirchkaposi2016"
+    - "schreiber2013"
+    - "riehl2016"
+    - "riehl2017category"
+  novelty_summary: "To the program's current knowledge, CS-03's distinctive contribution is to promote self-enrichment from a categorical convenience to a required construction step, frame the enrichment ladder E₀ → E₁ → E₂ → E₃ as a staged internalization of standpoint targeting a physical carrier, and read its finiteness as a Lawvere fixed-point–style avoidance theorem yoked to the categoricity result II.T42 (moduli {pt})."
+  novelty_status: internal_claim
 right_rail:
   actions: true
   metadata_links:
@@ -407,6 +435,123 @@ Step 3 reduces the meta-language externality and closes the boundary↔interior 
 - Empirical adequacy of the holographic principle. The Central Theorem is *internal* mathematics; whether it lifts to an empirical claim about physical reality is CS-04 onward.
 
 **This is an internal construction claim, not external acceptance.** Step 3 internalizes self-enrichment under τ-discipline and proves the Central Theorem + Categoricity as τ-internal results; reviewer scrutiny is invited via Hinge 6 (τ-topos), Hinge 8 (kernel architecture), the registry, the TauLib formalization, and the Trust Budget Disclosure for the rank-(3, 15) `native_decide` check that underwrites the Central Theorem. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+### Cluster — Enriched category theory
+Relevant references:
+- kelly1982 — Kelly, *Basic Concepts of Enriched Category Theory* (1982)
+- maclane1998 — Mac Lane, *Categories for the Working Mathematician* (2nd ed., 1998)
+- riehl2016 — Riehl, *Categorical Homotopy Theory* (2016)
+- lawvere1969 — Lawvere, *Adjointness in Foundations* (1969)
+
+What this prior art provides:
+- The standard machinery for hom-objects in a structured base V (monoidal/closed/symmetric), V-functors, weighted limits, and the enriched Yoneda lemma. Defines what self-enrichment can mean classically (a closed monoidal category enriches over itself).
+
+Where Panta Rhei differs:
+- CS-03 takes the self-enrichment configuration not as a technique among others but as a required construction step. The enrichment ladder E₀ → E₁ → E₂ → E₃ is treated as a structural prerequisite for the carrier identification handled in CS-04 and the Central Theorem `O(τ³) ≅ A_spec(L)` (II.T40), rather than a categorical convenience.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in promoting self-enrichment from a categorical option to a step the no-externalities discipline must traverse before physics can be located.
+
+### Cluster — Topos theory and internal language
+Relevant references:
+- maclanemoerdijk1992 — Mac Lane–Moerdijk, *Sheaves in Geometry and Logic* (1992)
+- johnstone2002 — Johnstone, *Sketches of an Elephant* (2002)
+- lambekscott1986 — Lambek–Scott, *Higher Order Categorical Logic* (1986)
+- caramello2017 — Caramello, *Theories, Sites, Toposes* (2017)
+
+What this prior art provides:
+- A topos has an internal language (Mitchell–Bénabou; Kripke–Joyal semantics). Categorical objects can be spoken about from inside; the internal language is the established route by which a category becomes its own metatheory.
+
+Where Panta Rhei differs:
+- CS-03 reuses the internal-language move but does not stop there. The enrichment ladder is read as a staged internalization of standpoint, not only of language: the internal logic is treated as a step toward identifying where physics can live (handed to CS-04).
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in framing the ladder as standpoint-internalization with a physical target rather than a purely logical or semantic device.
+
+### Cluster — Yoneda lemma and presheaf internalization
+Relevant references:
+- yoneda1954 — Yoneda, *On the homology theory of modules* (1954)
+- maclane1998 — Mac Lane, *Categories for the Working Mathematician* (2nd ed.)
+- riehl2017category — Riehl, *Category Theory in Context* (2017)
+- kelly1982 — Kelly, *Basic Concepts of Enriched Category Theory* (enriched Yoneda)
+
+What this prior art provides:
+- Yoneda's universal embedding C ↪ Set^{C^op} (and its V-enriched analogue). Internalization promotes Yoneda from a meta-statement to a theorem inside the category; in type theory this surfaces as the Yoneda-as-equivalence statement.
+
+Where Panta Rhei differs:
+- II.T36 internalizes Yoneda for τ via probe naturality. The internal Yoneda is read as the assertion that τ-objects faithfully represent themselves to themselves with no external observer slot, coupling directly to the no-externalities discipline of CS-01.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in tying internal Yoneda to the absence of an observer slot and using it as the engine for the boundary↔interior closure rather than as a stand-alone representational lemma.
+
+### Cluster — Homotopy type theory and univalent foundations
+Relevant references:
+- hottbook2013 — *Homotopy Type Theory: Univalent Foundations of Mathematics* (2013)
+- shulman2019 — Shulman, *All (∞,1)-toposes have strict univalent universes* (2019)
+
+What this prior art provides:
+- A type theory whose internal structure is itself an (∞,1)-topos; univalence makes equivalent types equal; identity types model path-spaces; universes are univalent.
+
+Where Panta Rhei differs:
+- CS-03 shares HoTT's instinct that the foundation should speak about its own structure, but does not adopt univalence as a foundational axiom. The categoricity result II.T42 (moduli `{pt}`, zero parameters) is offered as a different route to "no spurious choices": rigidity of the τ-structure rather than higher-dimensional identification of equivalents. This cluster is treated as a comparative foil rather than a parent framework.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in achieving "no spurious choices" via rigidity (categoricity) rather than via a univalence axiom on a higher universe.
+
+### Cluster — Higher toposes and synthetic ∞-category theory
+Relevant references:
+- shulman2019 — Shulman, *Strict univalent universes in (∞,1)-toposes* (2019)
+- schreiber2013 — Schreiber, *Differential cohomology in a cohesive ∞-topos* (2013)
+
+What this prior art provides:
+- The modern setting in which internal logic, Yoneda, and enrichment lift coherently to the (∞,1)-level. Cohesive (∞,1)-toposes attempt to encode physical structure synthetically.
+
+Where Panta Rhei differs:
+- CS-03 is staged at the 1-categorical (or weakly 2-categorical) level under kernel discipline; it does not assume an ambient (∞,1)-topos. The enrichment ladder reaches the central-theorem identification `O(τ³) ≅ A_spec(L)` without first paying the cost of an ambient higher-categorical universe.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in reaching a holographic identification at lower categorical cost than cohesive-HoTT routes that embed physics into ∞-toposes from the start.
+
+### Cluster — Sconing and metatheory of type theory
+Relevant references:
+- bocquetkaposisattler2023 — Bocquet–Kaposi–Sattler, *For the metatheory of type theory* (2023)
+- altenkirchkaposi2016 — Altenkirch–Kaposi, *Type theory in type theory using QITs* (2016)
+
+What this prior art provides:
+- Sconing (Artin gluing along a global-section functor) and synthetic Tait computability give a categorical handle on metatheoretic properties (canonicity, normalization, parametricity) by working inside a category combining the object theory with a layer of meta-information.
+
+Where Panta Rhei differs:
+- CS-03 is not a sconing construction per se but shares the intuition that the metatheoretic standpoint can be internalized rather than imposed externally. The target differs: sconing internalizes properties of a fixed type theory; CS-03 internalizes the standpoint of τ as carrier of physics. This cluster is therefore a methodological bridge, not a parent.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in redirecting the "internalize the metatheoretic standpoint" intuition toward a physical-carrier target rather than toward proof-theoretic adequacy.
+
+### Cluster — Self-reference in category theory (Lawvere fixed-point lineage)
+Relevant references:
+- lawvere1969 — Lawvere, *Adjointness in Foundations* (diagonal argument, 1969)
+- lambekscott1986 — Lambek–Scott, *Higher Order Categorical Logic* (intensional aspects)
+
+What this prior art provides:
+- Lawvere's fixed-point theorem unifies Cantor, Russell, Tarski, Gödel, and Turing as instances of a single diagonal. This is the categorical theory of when self-reference fails to produce a fixed point.
+
+Where Panta Rhei differs:
+- CS-03's self-enrichment is an upward self-reference (τ refers to its own hom-structure) and must avoid the Lawvere obstructions. The current claim: the enrichment ladder is finite (E₀ → E₁ → E₂ → E₃) and stabilizes at E₃ precisely because the categoricity of II.T42 collapses the moduli to a point.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in framing the finiteness of the enrichment ladder as a Lawvere-style avoidance result yoked to a categoricity (Saturation-style) theorem, rather than as a separate stabilization argument.
+
+### Inspection route
+- Bibliography cluster: [Bibliography](/bibliography/browse/)
+- Registry / TauLib / Verify: see right-rail metadata
+
+### Status
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
 
 ## Verification Modes
 

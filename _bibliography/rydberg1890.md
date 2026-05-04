@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Rydberg's 1890 <em>On the Structure of the Line-Spectra of the Chemical Elements</em>, published in *Philosophical Magazine*, is one of the program's working technical references. Cited across Book IV (*Categorical Microcosm*), Part 1, Chapter *Hydrogen: The First Atom*; Book IV (*Categorical Microcosm*), Part 6, Chapter *The Hydrogen Spectrum* — the central framing is “pectrum The excited states of hydrogen form a series: The energy levels of hydrogen are: E_n = -m_e α^2 c^22n^2 = -13.6n^2 eV, n = 1, 2, 3, … Transitions between levels produce…”.

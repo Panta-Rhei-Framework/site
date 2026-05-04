@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Yukawa's 1935 <em>On the Interaction of Elementary Particles</em>, published in *Proceedings of the Physico-Mathematical Society of Japan*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 5, Chapter *Hadrons and Nuclei*, where the program draws on it in the context of “The pion mediates the residual strong force between nucleons: V_Yukawa(r) = -g^2 e^-m_π rr This Yukawa potential governs nuclear binding at inter-nucleon distances r 1 fm.”

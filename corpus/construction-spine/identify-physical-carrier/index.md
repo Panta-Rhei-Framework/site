@@ -66,6 +66,35 @@ verification:
       url: "/verify/how-to-verify/"
 what_not_establish: "This step identifies the carrier for physics. It does not yet complete internal physical grammar or empirical measurement bridge."
 next_step_id: "CS-05"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - causal-sets
+    - twistor-theory
+    - wolfram-physics-project
+    - tensor-networks-emergent-geometry
+    - topos-quantum-theory-categorical-foundations
+    - background-independence
+  key_references:
+    - bombelli1987
+    - penrose1967
+    - penrosetwistor1967
+    - penroserindler1984
+    - bastoneastwood1989
+    - baez2010
+    - baez2010physics
+    - baezstay2011
+    - atiyahbott1983
+  novelty_summary: >
+    Prior-art programs for emergent or pre-geometric carriers (causal sets, twistor
+    theory, Wolfram Physics Project, tensor networks, topos quantum theory) all posit
+    a substrate and then derive geometry from it. To the program's current knowledge,
+    Panta Rhei differs in identifying the carrier as the structural layer E_1 induced
+    by Langlands_0 functoriality on the kernel's five generators, with the 4+1 sector
+    template, Hinge Theorem (III.T20), Global Cartesian Gluing (III.T21), and 3+1
+    signature derived as theorems rather than assumed.
+  novelty_status: internal_claim
 tags:
   - "construction-spine"
   - "physics"
@@ -251,6 +280,145 @@ Step 4 identifies the physical carrier as a τ-internal derivation, not a presum
 These are explicit handoffs, not concealed gaps.
 
 **This is an internal construction claim, not external acceptance.** Step 4 derives the physical carrier under τ-discipline; reviewer scrutiny is invited via Book III's full dependency chain, the No Knobs Ledger, the registry, and the TauLib formalization.
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+A unifying observation across the clusters below: prior-art programs all *posit* a pre-geometric carrier — a poset, a complex 3-fold, a hypergraph, a tensor network, a presheaf topos — and then derive geometry from it. To the program's current knowledge, Panta Rhei differs in *identifying* the carrier as the structural layer E<sub>1</sub> induced by Langlands<sub>0</sub> functoriality, with 3+1 signature derived as a theorem of the gluing structure rather than postulated.
+
+### Cluster — Causal sets (Bombelli–Lee–Meyer–Sorkin lineage)
+
+Relevant references:
+- bombelli1987 — Bombelli, Lee, Meyer, Sorkin, "Space-time as a causal set" (PRL 59, 1987)
+- Sorkin, "Causal Sets: Discrete Gravity" (gr-qc/0309009)
+- Surya, "The causal set approach to quantum gravity" (Living Rev. Rel. 22, 2019)
+- Carlip, "Causal Sets and an Emerging Continuum" (arXiv:2405.14059, 2024)
+
+What this prior art provides:
+- Treats spacetime as a locally finite partial order; geometry is "Order + Number".
+- Uses sequential growth dynamics (Rideout–Sorkin) to generate causal sets.
+- Recent results suppress non-manifold-like causal sets in the path integral.
+
+Where Panta Rhei differs:
+- The carrier is not posited as a combinatorial poset whose dynamics must then suppress non-manifold sectors.
+- The Hinge Theorem (III.T20) and Global Cartesian Gluing (III.T21) play a role analogous to manifoldlikeness results, but as theorems internal to the kernel rather than emergent suppression statements.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in identifying the carrier as E<sub>1</sub> induced by Langlands<sub>0</sub> functoriality, with the 3+1 signature derived from the `τ¹ × T²` fibered product rather than recovered as a manifoldlike phase of a posited dynamics.
+
+### Cluster — Twistor theory (Penrose / Atiyah–Dunajski–Mason lineage)
+
+Relevant references:
+- penrose1967 — Penrose, "Twistor algebra" (1967)
+- penroserindler1984 — Penrose, Rindler, *Spinors and Space-Time* (1984)
+- bastoneastwood1989 — Baston, Eastwood, *The Penrose Transform* (1989)
+- Atiyah, Dunajski, Mason, "Twistor theory at fifty" (Proc. R. Soc. A, 2017)
+- Adamo, "Lectures on twistor theory" (arXiv:1712.02196)
+
+What this prior art provides:
+- Spacetime points are derived from compact holomorphic curves in twistor space.
+- Conformally invariant field theory on spacetime maps to geometry on twistor space.
+- Modern incarnation: scattering amplitudes via BCFW / Grassmannian / amplituhedron.
+
+Where Panta Rhei differs:
+- The "more primitive" structure is not a complex 3-fold but the kernel's E<sub>1</sub> sector template induced by boundary functoriality.
+- Conformal / holomorphic structure is not assumed; where present, it is expected to surface as a guarantee (Spatial / Harmonic) of the layer.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in deriving the carrier without committing to a specific complex-geometric pre-image, while preserving the methodological move of treating spacetime as derivative.
+
+### Cluster — Wolfram Physics Project (Wolfram / Gorard)
+
+Relevant references:
+- Wolfram, *A Project to Find the Fundamental Theory of Physics* (Wolfram Media, 2020)
+- Gorard, "Some relativistic and gravitational properties of the Wolfram Model" (Complex Systems, 2020)
+- Wolfram Institute, hypergraph-rewriting and causal-invariance technical notes (2024–2025)
+
+What this prior art provides:
+- Spacetime is generated by hypergraph rewriting under causal invariance.
+- Multiway evolution under broken causal invariance is presented as geometry converging to projective Hilbert space.
+- An active causal-set / Wolfram correspondence line exists.
+
+Where Panta Rhei differs:
+- No rewriting rule and no rule-space are posited; the carrier is fixed by the kernel's functorial induction.
+- The Eight Guarantees (Spatial / Harmonic / Regular / Discrete / Legible / Codable / Coherent / Predictive) are stated as theorems of the layer rather than as observed regularities of a particular rule.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in replacing rule-space search with functorial induction from a finite generator set, with sector decomposition and signature derived rather than discovered empirically across rules.
+
+### Cluster — Tensor networks and emergent geometry (Swingle / Van Raamsdonk / Vidal)
+
+Relevant references:
+- Vidal, "Class of quantum many-body states..." (MERA, PRL 101, 2008)
+- Swingle, "Entanglement renormalization and holography" (PRD 86, 2012)
+- Van Raamsdonk, "Building up spacetime with quantum entanglement" (GRG 42, 2010)
+- Hayden, Nezami, Qi, Thomas, Walter, Yang, "Holographic duality from random tensor networks" (JHEP 11, 2016)
+
+What this prior art provides:
+- Hyperbolic AdS slices appear as MERA-like networks; entanglement structure is dual to bulk geometry.
+- Removing entanglement disconnects spacetime (Van Raamsdonk).
+- Spacetime as compiled circuit / tensor network rather than primitive manifold.
+
+Where Panta Rhei differs:
+- No holographic CFT or AdS background is assumed; the carrier is identified inside the kernel before any specific entanglement structure is named.
+- The Discrete / Codable / Coherent guarantees are theorem-level commitments of the layer rather than reconstruction-level statements about a specific dual.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in identifying the carrier prior to any duality choice, so that informational / relational readings can later be expressed as instantiations of E<sub>1</sub> rather than as competing foundational pictures.
+
+### Cluster — Topos quantum theory and categorical foundations of physics
+
+Relevant references:
+- Isham, Döring, "A topos foundation for theories of physics" I–IV (J. Math. Phys. 49, 2008)
+- Heunen, Landsman, Spitters, "A topos for algebraic quantum theory" (CMP 291, 2009)
+- baez2010, baez2010physics, baezstay2011 — Baez line on n-categorical physics, gauge fields, Rosetta Stone (1994–2011)
+- atiyahbott1983 — Atiyah–Bott methodological work
+- Coecke, Kissinger, *Picturing Quantum Processes* (CUP, 2017)
+- Schreiber, *Differential cohomology in a cohesive ∞-topos* (arXiv:1310.7930)
+
+What this prior art provides:
+- Replaces Hilbert-space orthomodular logic with a presheaf / spectral-presheaf topos and intuitionistic internal logic.
+- Functorial / cobordism-categorical axiomatisation of QFT (Atiyah–Segal, Baez–Dolan, Lurie).
+- Cohesive (∞,1)-topos as ambient stage for the differential geometry of physics.
+
+Where Panta Rhei differs:
+- The categorical structure is not chosen as a foundation for physics; it is induced from the kernel's self-enrichment (CS-03).
+- Topos / cohesive structure, where it surfaces, is a property of the carrier rather than a postulate.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in deriving categorical / topos-theoretic structure as a consequence of self-enrichment rather than adopting it as a foundational axiom for physics.
+
+### Cluster — Background independence and the philosophy of carriers
+
+Relevant references:
+- Read, *Background Independence in Classical and Quantum Gravity* (OUP, 2023)
+- Rovelli, *Quantum Gravity* (CUP, 2004)
+- Ashtekar, Lewandowski, "Background independent quantum gravity: a status report" (CQG 21, 2004)
+- SEP, "Quantum Gravity" (Weinstein, Rickles)
+
+What this prior art provides:
+- Diagnoses what counts as "carrier" vs "stage" in classical and quantum gravity.
+- Loop quantum gravity and spin-foam approaches preserve diffeomorphism invariance but assume a smooth manifold a priori.
+- The stage-vs-actor distinction sets the conceptual benchmark.
+
+Where Panta Rhei differs:
+- Identifies the carrier as a structural layer E<sub>1</sub> of the kernel, rather than as a quantised metric, hypergraph, causal set, twistor space, or tensor network.
+- The 3+1 signature is derived (not assumed), and the Eight Guarantees take the place of the usual axiomatic input choices.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in answering the "where does physics live" question with an identification rather than a posit, with the standard background-independence desiderata recovered as theorem-level properties of E<sub>1</sub>.
+
+### Inspection route
+
+- Bibliography cluster — see logbook `atlas/website/v4/prior-art-logbooks/CS-04-identify-physical-carrier.md` and Bibliography & Prior-Art Catalog.
+- Registry / TauLib / Verify — see right-rail metadata.
+
+### Status
+
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
 
 ## Verification Modes
 

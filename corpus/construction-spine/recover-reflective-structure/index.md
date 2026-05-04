@@ -85,6 +85,36 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity."
 construction_step_id: "CS-08"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - "Self-model theory and minimal self"
+    - "Predictive processing and active inference"
+    - "Theories of consciousness (IIT, GNW, HOT, hard problem)"
+    - "Phenomenology and embodied / enactive cognition"
+    - "Normativity, inferentialism, and the Categorical Imperative as fixed point"
+    - "Self-reference, internal logic, and theoryhood"
+  key_references:
+    - metzinger2003
+    - metzinger2009
+    - chalmers1995
+    - chalmers1996
+    - dennett1991
+    - dehaene2014
+    - baars1988
+    - tononi2004
+    - tononi2006
+    - tononi2016
+    - block1995
+    - husserl1900
+    - husserl1913
+    - merleau-ponty1945
+    - sellars1956
+    - korsgaard1996
+    - varela1991
+  novelty_summary: "To the program's current knowledge, CS-08 derives reflective structure as a structural consequence of Enrich-3 saturation rather than positing it as an anthropic add-on, and formalises the Categorical Imperative as a fixed point on the commitment lattice within a four-register topos-internal model. Panta Rhei is not offered as a fifth competing theory of consciousness but as a categorical scaffolding inside which IIT-, GNW-, HOT-, and predictive-processing-style features can be located."
+  novelty_status: internal_claim
 right_rail:
   actions: true
   metadata_links:
@@ -252,6 +282,147 @@ Step 8 builds reflective structure as a τ-categorical layer at E<sub>3</sub>. I
 **Unresolved boundaries.** Empirical adequacy of mind-as-topos formalization at the cognitive-science level; full ethics formalization beyond the Kantian bridge; specific archetype-instantiation patterns in cultural data.
 
 **This is an internal construction claim, not external acceptance.** Step 8 builds reflective structure under τ-discipline; reviewer scrutiny is invited via Book VII's Saturation proof, the four-register architecture, and the mind-as-topos formalization.
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+### Cluster — Self-model theory and minimal self
+
+Relevant references:
+
+- metzinger2003 — *Being No One* (self-model theory, PSM/PMIR)
+- metzinger2009 — *The Ego Tunnel*
+- Zahavi 2005 — *Subjectivity and Selfhood* (candidate)
+- Gallagher & Zahavi 2012 — *The Phenomenological Mind* (candidate)
+
+What this prior art provides:
+
+- A treatment of selfhood as a representational and phenomenological structure rather than a Cartesian substance, with phenomenal transparency as the mode of givenness and first-person constraints supplied by phenomenology.
+
+Where Panta Rhei differs:
+
+- This step locates the self-model as a global section of an internal-topos structure (VII.D90), with story functors carrying narrative identity, and derives reflective structure as required at Enrich-3 of the saturation tower rather than introducing it as a special-purpose representational format.
+
+Claimed novelty:
+
+- To the program's current knowledge, the novelty of this construction lies in recovering phenomenological invariants (intentionality, horizon, embodiment) as features of the four-register model (S_E / S_D / S_P / S_C / S_L) rather than importing them as primitives.
+
+### Cluster — Predictive processing and active inference
+
+Relevant references:
+
+- Friston 2010 — free-energy principle (candidate)
+- Clark 2016 — *Surfing Uncertainty* (candidate)
+- Hohwy 2013 — *The Predictive Mind* (candidate)
+- Parr, Pezzulo & Friston 2022 — *Active Inference* (candidate)
+
+What this prior art provides:
+
+- The dominant contemporary mechanistic story for how reflective structure could arise: cognition, perception, and action cast as variational inference under a generative model, with active inference unifying the empirical and practical registers under a single Bayesian functional.
+
+Where Panta Rhei differs:
+
+- This step treats Empirical and Practical as two registers among four, with Diagrammatic and Commitment registers irreducible to free-energy minimisation. The Saturation Theorem `Enrich⁴ = Enrich³` is read as a categorical statement that no further register appears beyond the commitment lattice.
+
+Claimed novelty:
+
+- To the program's current knowledge, the novelty of this construction lies in identifying a Commitment register as a normative-fixed-point register without an analogue in active-inference accounts, and in flagging this as the gap that lets variational accounts describe minds without grounding theoryhood.
+
+### Cluster — Theories of consciousness (IIT, GNW, HOT, hard problem)
+
+Relevant references:
+
+- tononi2016 — IIT 3.0
+- Albantakis et al. 2023 — IIT 4.0 (candidate)
+- Mashour et al. 2020 — GNW review (candidate)
+- Lau & Rosenthal 2011 — HOT review (candidate)
+- chalmers1995 / chalmers1996 — hard problem
+- block1995 — access vs phenomenal
+
+What this prior art provides:
+
+- The contemporary horizon of what it would mean to "have" reflective or conscious structure: integrated information (IIT), global broadcast (GNW), higher-order representation (HOT), and the explanatory gap between functional and phenomenal aspects.
+
+Where Panta Rhei differs:
+
+- This step does not propose a fifth competing theory of consciousness. It proposes a categorical scaffolding (internal topoi, story functors, global sections) within which IIT-style integration, GNW-style broadcast, and HOT-style meta-representation can be located as different observable features of the same Enrich-3 structure.
+
+Claimed novelty:
+
+- To the program's current knowledge, the novelty of this construction lies in reinterpreting the hard-problem framing as a question about which register supplies givenness, with phenomenal character living in the global section rather than in any single register.
+
+### Cluster — Phenomenology and embodied / enactive cognition
+
+Relevant references:
+
+- husserl1900 / husserl1913 — *Logical Investigations*; *Ideas I*
+- merleau-ponty1945 — *Phenomenology of Perception*
+- varela1991 — *The Embodied Mind*
+
+What this prior art provides:
+
+- First-person constraints (intentionality, horizon, embodiment, intersubjectivity, time-consciousness) that any account of reflective structure must respect, and the enactivist commitment that life and cognition share structure.
+
+Where Panta Rhei differs:
+
+- This step treats phenomenological invariants as predictions of the four-register model rather than as starting data: intentionality as the directionality of the story functor, horizon-structure as a feature of Diagrammatic-register sheaves, embodiment as the carrier-coupling between CS-07 (life) and CS-08 (reflective).
+
+Claimed novelty:
+
+- To the program's current knowledge, the novelty of this construction lies in grounding the life-to-cognition continuity in the saturation tower rather than in autopoietic dynamics, while preserving the enactivist refusal to bolt cognition onto life from outside.
+
+### Cluster — Normativity, inferentialism, and the Categorical Imperative as fixed point
+
+Relevant references:
+
+- sellars1956 — *Empiricism and the Philosophy of Mind*
+- Brandom 1994 — *Making It Explicit* (candidate)
+- korsgaard1996 — *The Sources of Normativity*
+- Korsgaard 2009 — *Self-Constitution* (candidate)
+
+What this prior art provides:
+
+- The articulation that reflective structure is not just a representational achievement but a normative one: agents are subjects of commitments and entitlements within a space of reasons. Korsgaard's reflective-endorsement reading approaches a fixed-point reading of the Categorical Imperative.
+
+Where Panta Rhei differs:
+
+- This step's Commitment register and its identification of the Categorical Imperative as a fixed point on the commitment lattice provides an explicit categorical and lattice-theoretic formalisation of what Korsgaard articulates philosophically and Brandom articulates inferentially.
+
+Claimed novelty:
+
+- To the program's current knowledge, the novelty of this construction lies in the claim that the commitment-lattice fixed point is forced by Enrich-3 saturation, with normativity derived as a structural requirement for theoryhood rather than added as an ethical layer.
+
+### Cluster — Self-reference, internal logic, and theoryhood
+
+Relevant references:
+
+- Lawvere 1969 — diagonal arguments and Cartesian closed categories (candidate)
+- Yanofsky 2003 — universal approach to self-referential paradoxes (candidate)
+- sellars1956 — space of reasons as internal standpoint (cross-listed)
+
+What this prior art provides:
+
+- The categorical and logical machinery for taking self-reference, fixed points, and internal standpoints seriously as mathematical structure rather than as paradox, with Lawvere's fixed-point theorem and Yanofsky's universal generalisation as standard tools.
+
+Where Panta Rhei differs:
+
+- This step combines Lawvere/Yanofsky-style self-reference, topos-internal logic, the four-register model of mind, and the Saturation Theorem at Enrich-3 into a single derivation that treats reflective structure as required by theoryhood.
+
+Claimed novelty:
+
+- To the program's current knowledge, the novelty of this construction lies not in any one ingredient — each is well-attested — but in the claim that the combination is forced once one asks what it takes for a kernel to host a theory of itself, so reflective structure appears as a structural consequence of the saturation tower rather than as an optional anthropic add-on.
+
+### Inspection route
+
+- Bibliography cluster
+- Registry / TauLib / Verify: see right-rail metadata
+
+### Status
+
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
 
 ## Verification Modes
 

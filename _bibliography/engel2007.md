@@ -54,6 +54,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Engel et al.'s 2007 <em>Evidence for Wavelike Energy Transfer through Quantum Coherence in Photosynthetic Systems</em>, published in *Nature*, is one of the program's working technical references. Cited 2 times in Book VI (*Categorical Life*), Part 4, Chapter *Photosynthesis: Quantum Coherence and Carbon Fixation*, where the program draws on it in the context of “The Engel Experiment (2007) In a landmark experiment, Engel et al. used two-dimensional electronic spectroscopy (2DES) to probe the energy transfer dynamics of the….”

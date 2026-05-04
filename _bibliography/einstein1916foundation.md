@@ -66,6 +66,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Einstein's 1916 <em>Die Grundlage der allgemeinen Relativitätstheorie</em>, published in *Annalen der Physik*, is one of the program's working technical references. Cited across Book V (*Categorical Macrocosm*), Part 2, Chapter *The τ-Einstein Equation: Boundary-Character Equality*; Book V (*Categorical Macrocosm*), Part 7, Chapter *General Relativity as Emergent Geometry* — the central framing is “Chart Shadow: G_μν = (8π G/c^4) T_μνEinstein Equations Recovered The orthodox Einstein field equations are the most-tested equation of gravitational physics”.

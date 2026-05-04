@@ -74,6 +74,43 @@ tags:
   - "biology"
   - "evolution"
   - "morphogenesis"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - "Definitions of life and autopoiesis"
+    - "Origin of life: metabolism-first vs information-first"
+    - "Major transitions in evolution and units of selection"
+    - "Morphogenesis and physical-developmental constraints"
+    - "Nonequilibrium thermodynamics of life"
+    - "Free Energy Principle, IIT, and life-mind continuity"
+  key_references:
+    - "maturana1980"
+    - "varela1991"
+    - "schrodinger1944"
+    - "cleland_chyba2002"
+    - "ruiz_mirazo_pereto_moreno2004"
+    - "wachtershauser1988"
+    - "eigen1971"
+    - "gilbert1986"
+    - "joyce2002"
+    - "smith_morowitz2016"
+    - "maynard_smith_szathmary1995"
+    - "szathmary2015"
+    - "turing1952"
+    - "newman2012"
+    - "muller_newman2003"
+    - "kauffman1993"
+    - "prigogine_stengers1984"
+    - "england2013"
+    - "england2015"
+    - "friston2012"
+    - "friston2013"
+    - "kirchhoff2018"
+    - "tononi2008"
+    - "walker_davies2013"
+  novelty_summary: "To the program's current knowledge, the construction's novelty lies in defining life through the predicate pair (τ-Distinction ∧ SelfDesc) at the τ-kernel level — recovering autopoiesis, transitions, morphogenesis, and dissipative adaptation as necessary upstream conditions or downstream consequences while keeping life as a structural class rather than an Earth-biology inventory."
+  novelty_status: internal_claim
 generated_from: "corpus/construction-spine"
 projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
@@ -243,6 +280,123 @@ Step 7 builds life as a recoverable structural class. Its admissibility is evalu
 These are explicit handoffs / honest limits.
 
 **This is an internal construction claim, not external acceptance.** Step 7 builds life as a structural class under τ-discipline; reviewer scrutiny is invited via Book VI's Layer Separation proof, the kingdom-as-sector mapping, and the Predictions by Absence falsification surface.
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+### Cluster A — Definitions of life and autopoiesis
+
+Relevant references:
+- Maturana & Varela (1980) — *Autopoiesis and Cognition*
+- Varela (1991) — embodied-mind extension
+- Schrödinger (1944) — *What Is Life?* (negative entropy, aperiodic crystal)
+- Cleland & Chyba (2002) — critique of definition-by-list
+- Ruiz-Mirazo, Peretó, Moreno (2004) — autonomy + open-ended evolution
+
+What this prior art provides:
+- The canonical organizational answer (autopoiesis: life as self-producing organization), the canonical thermodynamic-information anchor (Schrödinger), and the philosophical critique that definition-by-checklist of Earth features is structurally inadequate.
+
+Where Panta Rhei differs:
+- This step retypes the autopoietic answer as a pair of structural predicates (τ-Distinction ∧ SelfDesc) defined inside the τ-kernel, so that "life" denotes a structural class accessible to any τ-stage that satisfies both predicates, rather than an Earth-biology inventory or an enaction-style phenomenology.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction lies in formalizing autopoiesis as a kernel-level predicate pair (τ-Distinction ∧ SelfDesc) rather than as a biological-organization concept or a phenomenological commitment.
+
+### Cluster B — Origin of life: metabolism-first vs information-first
+
+Relevant references:
+- Wächtershäuser (1988, 2006) — iron-sulfur world / surface metabolism
+- Eigen (1971) — hypercycles
+- Gilbert (1986); Joyce (2002) — RNA world
+- Smith & Morowitz (2016) — *The Origin and Nature of Life on Earth*
+
+What this prior art provides:
+- A long-running debate framing "becoming alive" as a chemistry-first narrative split between metabolism-first and information-first programs, with recent integrative reviews favoring continuum frames where catalysis, autocatalysis, and self-assembly co-arise.
+
+Where Panta Rhei differs:
+- This step does not adjudicate metabolism-first vs information-first as historical hypotheses about Earth. It identifies the predicate pair (τ-Distinction ∧ SelfDesc) as the structural threshold any τ-stage must cross to count as life, irrespective of which Earth-chemistry route instantiates it.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in moving the metabolism/information question from a historical-chemistry debate to a structural-predicate threshold inside the τ-kernel, so that origin-of-life programs become candidate routes to a structural threshold rather than competing definitions of life.
+
+### Cluster C — Major transitions in evolution and units of selection
+
+Relevant references:
+- Maynard Smith & Szathmáry (1995) — *The Major Transitions in Evolution*
+- Szathmáry (2015) — "Major evolutionary transitions theory 2.0"
+- Hordijk & Steel — autocatalytic / RAF formalization
+- Kauffman (1993, 2000) — *The Origins of Order* / *Investigations*
+
+What this prior art provides:
+- A canonical account of evolution as a sequence of transitions in the level at which selection operates, with hereditary information re-coded at each transition. This is the standard biological account of how layered structure is acquired.
+
+Where Panta Rhei differs:
+- This step treats the 4+1 sector template (Archaea / Bacteria / Plants / Fungi / Animals) as instantiations of a structural-class theorem (Layer Separation Lemma VI.T02 + Parity Bridge Theorem VI.T03), not as the historical sequence of Earth's lineage. The Seven Hallmarks are derived as theorems of the structural class.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in deriving sector multiplicity from a parity-violation seed at the τ-kernel level rather than from contingent Earth phylogeny — so that the 4+1 taxonomy is read as a structural readout, not a calibrated biological survey.
+
+### Cluster D — Morphogenesis and physical-developmental constraints
+
+Relevant references:
+- Turing (1952) — *The Chemical Basis of Morphogenesis*
+- Newman (2012) — physico-genetic determinants in evo-devo
+- Müller & Newman (2003) — *Origination of Organismal Form*
+- Kauffman (1993) — *The Origins of Order*
+
+What this prior art provides:
+- A program that treats biological form as constrained by physical and chemical pattern-formation laws (reaction-diffusion, viscoelasticity, phase behavior), not solely by genetic instruction.
+
+Where Panta Rhei differs:
+- This step takes morphogenesis as an instance of the "physical stabilization first, code later" ordering that CS-07 enforces. Form is recovered as a physical-grammar consequence (CS-05) before any code-biological description is licensed.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in placing morphogenetic recovery upstream of any code-biological predicate — so that genotype-phenotype talk is licensed only after physical stabilization plus τ-Distinction ∧ SelfDesc have been earned, rather than co-equal with them.
+
+### Cluster E — Nonequilibrium thermodynamics of life
+
+Relevant references:
+- Prigogine & Stengers (1984) — *Order Out of Chaos*; dissipative structures
+- England (2013) — "Statistical physics of self-replication"
+- England (2015) — "Dissipative adaptation in driven self-assembly"
+
+What this prior art provides:
+- A framing of living systems as far-from-equilibrium driven systems whose structure is selected by absorbed-work / dissipated-heat history. Dissipative adaptation generalizes Boltzmann-style reasoning to driven nonequilibrium and is the strongest extant candidate for a substrate-independent physical signature of life.
+
+Where Panta Rhei differs:
+- This step admits dissipative adaptation as a necessary physical condition — supplied by CS-04 / CS-05 — but treats it as explicitly insufficient for life: a neutron star or a driven crystal can be far-from-equilibrium without satisfying τ-Distinction ∧ SelfDesc. This is exactly the content of the program's Predictions by Absence (virus / neutron / neutron star are not life), where this cluster does the most load-bearing work for the construction.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in separating the thermodynamic prerequisite from the structural-class predicate — admitting the prerequisite as necessary while insisting it is insufficient, and using that gap to populate the falsifying-absence list.
+
+### Cluster F — Free Energy Principle, IIT, and life-mind continuity
+
+Relevant references:
+- Friston (2012, 2013) — FEP / "Life as we know it"
+- Kirchhoff et al. (2018) — autopoiesis + FEP + life-mind continuity
+- Tononi (2008) — IIT (cross-referenced; principal home CS-08)
+- Walker & Davies (2013) — algorithmic origins of life
+
+What this prior art provides:
+- Proposals that life and mind share a single inferential principle (FEP) or an information-integration principle (IIT), with associated arguments that "code" or "algorithm" is partly constitutive of life.
+
+Where Panta Rhei differs:
+- This step keeps life and code distinct: code-biological / FEP / IIT descriptions become licensed only after physical stabilization (CS-04, CS-05) and after τ-Distinction ∧ SelfDesc are satisfied. The Layer Separation Lemma (VI.T02) asserts that life is genuinely E<sub>2</sub> and non-reducible to physics, while still requiring physics as carrier.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in admitting FEP / IIT as legitimate downstream descriptions of certain life-stages without elevating them to the definition of life — preserving life-mind continuity as a derivable bridge rather than an axiom.
+
+### Inspection route
+
+- Bibliography cluster: see clusters A–F above and the `prior_art.key_references` list in this page's frontmatter.
+- Registry / TauLib / Verify: see right-rail metadata for the τ-kernel registry items, TauLib modules, and verification routes attached to this construction step.
+
+### Status
+
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
 
 ## Verification Modes
 

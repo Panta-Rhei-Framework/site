@@ -48,6 +48,34 @@ right_rail:
     role: "Domain Context"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Schwinger's 1948 <em>On Quantum-Electrodynamics and the Magnetic Moment of the Electron</em>, published in *Physical Review*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 2, Chapter *The Electron Mass Prediction*, where the program draws on it in the context of “The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι<sub>τ</sub>^42π ≈ 0.001 161….”

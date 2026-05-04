@@ -54,6 +54,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 Fuchs and Fuchs' 2026 <em>Category τ and the Conformal Primon Gas</em>, published in *In preparation*, is one of the program's working technical references. Cited across Book V (*Categorical Macrocosm*), Part 6, Chapter *Black Hole Birth as Global Topological Event*; Book V (*Categorical Macrocosm*), Part 6, Chapter *Black Hole Bipolarity and Blueprint Fusion* — the central framing is “Scope: τ-effective for chirality factorisation; conjectural for the path integral identification. For full derivations and proofs of these connections, see”.

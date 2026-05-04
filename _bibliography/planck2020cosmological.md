@@ -138,6 +138,34 @@ right_rail:
     role: "Formal Antecedent"
     cited_in_books: true
     updated: "April 2026"
+
+# v4 schema fields (Session 2 migration)
+openalex_id:
+crossref_id:
+datacite_id:
+orcid_authors: []
+domain: []
+subdomains: []
+keywords: []
+construction_steps: []
+core_semantics: []
+problem_ledger_items: []
+related_results: []
+related_verify: []
+related_approaches: []
+prior_art_role: []
+source_quality: []
+novelty_position:
+  relation_type: unknown
+  summary: ""
+citation_status: cited
+status:
+  reviewed: false
+  needs_metadata_review: true
+  needs_source_check: false
+  needs_prior_art_review: true
+last_reviewed: null
+review_notes: ""
 ---
 
 the Planck Collaboration's 2020 <em>Planck 2018 Results. VI. Cosmological Parameters</em>, published in *Astronomy & Astrophysics*, is one of the program's working technical references. Cited 16 times across Book V (*Categorical Macrocosm*), Part 1, Chapter *The Distance Ladder Re-Read*; Book V (*Categorical Macrocosm*), Part 1, Chapter *Boundary Data: CMB and CνB as Constraint Surfaces*; Book V (*Categorical Macrocosm*), Part 3, Chapter *Dark Energy as Readout Artifact*, and in 6 further chapters.
