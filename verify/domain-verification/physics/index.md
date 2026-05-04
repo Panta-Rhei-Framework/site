@@ -21,8 +21,8 @@ right_rail:
       url: /agenda/core-semantics/physics/
     - title: "Physics Results"
       url: /results/physics/
-    - title: "How to Audit (Physicist)"
-      url: /verify/how-to-audit/physicist/
+    - title: "How to Verify (Physicist)"
+      url: /verify/how-to-verify-by-role/physicist/
   meta:
     type: "Domain Verification"
     domain: "Physics"
@@ -97,9 +97,9 @@ glossary_term_ids:
     <h3>Custom Axiom Inventory</h3>
     <p>The {{ stats.axiom_count | default: 0 }} custom axioms in this domain (none in physics; all 3 are in Book III).</p>
   </a>
-  <a class="v2-tile v2-tile-physics" href="{{ '/verify/how-to-audit/physicist/' | relative_url }}">
+  <a class="v2-tile v2-tile-physics" href="{{ '/verify/how-to-verify-by-role/physicist/' | relative_url }}">
     <span class="eyebrow">Audit</span>
-    <h3>How to Audit (Physicist)</h3>
+    <h3>How to Verify (Physicist)</h3>
     <p>Reviewer route for particle physics, cosmology, quantum foundations, GR specialists.</p>
   </a>
   <a class="v2-tile v2-tile-physics" href="{{ '/results/physics/' | relative_url }}">

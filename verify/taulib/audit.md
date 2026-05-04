@@ -8,8 +8,8 @@ type: "Verification Audit"
 status: "Canonical"
 summary_short: "Concrete audit routes for inspecting the TauLib formalization claims yourself: build the library, count axioms, count sorries, verify the claimed scope coverage, and check the trust budget."
 hero_ctas:
-  - label: "How to Audit"
-    url: /verify/how-to-audit/
+  - label: "How to Verify by Reviewer Role"
+    url: /verify/how-to-verify-by-role/
     primary: true
   - label: "Trust Budget (TCB)"
     url: /verify/tcb/
@@ -17,8 +17,8 @@ hero_ctas:
     url: /verify/taulib/status/
 right_rail:
   related:
-    - title: "How to Audit"
-      url: /verify/how-to-audit/
+    - title: "How to Verify by Reviewer Role"
+      url: /verify/how-to-verify-by-role/
     - title: "How to Verify"
       url: /verify/how-to-verify/
     - title: "Trust Budget Disclosure"
@@ -55,7 +55,7 @@ This page is a hub for the **concrete, hands-on routes** by which an external re
 | **`native_decide` trust-budget cost** | [`/verify/tcb/`](/verify/tcb/) — explicit disclosure of `Lean.ofReduceBool` and `Lean.trustCompiler` extension; ~1,824 use sites | `#print axioms` at REPL |
 | **Each scope label is honest** | [`/verify/taulib/scope-labels/`](/verify/taulib/scope-labels/) and [`/verify/filter-rules/`](/verify/filter-rules/) | review |
 | **Each registry-ID claim has a Lean witness** | [`/verify/taulib/docs/`](/verify/taulib/docs/) — Corpus-native browser; per-result page links to the Lean module | site cross-reference |
-| **Build the library yourself** | [`/verify/how-to-audit/`](/verify/how-to-audit/) — `lake build` from a fresh clone | `lake` |
+| **Build the library yourself** | [`/verify/how-to-verify-by-role/`](/verify/how-to-verify-by-role/) — `lake build` from a fresh clone | `lake` |
 
 ## Two-minute audit
 

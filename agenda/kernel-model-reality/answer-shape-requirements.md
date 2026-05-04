@@ -30,8 +30,8 @@ right_rail:
       url: /agenda/core-semantics/
     - title: "Result Criteria"
       url: /agenda/result-criteria/
-    - title: "Assessment Protocols / How to Audit"
-      url: /verify/how-to-audit/
+    - title: "Assessment Protocols / How to Verify"
+      url: /verify/how-to-verify-by-role/
     - title: "Theory of Reality White Paper"
       url: /publications/white-papers/the-shape-of-a-theory-of-reality/
   meta:

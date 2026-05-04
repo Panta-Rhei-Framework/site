@@ -76,7 +76,7 @@ related_verify:
     url: "/verify/formal-verification-stack/"
   -
     title: "Mathematician Audit Route"
-    url: "/verify/how-to-audit/mathematician/"
+    url: "/verify/how-to-verify-by-role/mathematician/"
 related_publications:
   -
     title: "The τ-Kernel as Foundational Architecture"
@@ -219,7 +219,7 @@ right_rail:
       - title: "Formal Verification Stack"
         url: "/verify/formal-verification-stack/"
       - title: "Mathematician Audit Route"
-        url: "/verify/how-to-audit/mathematician/"
+        url: "/verify/how-to-verify-by-role/mathematician/"
     publications:
       - title: "The τ-Kernel as Foundational Architecture"
         url: "/publications/research-papers/tau-kernel-foundational-architecture/"

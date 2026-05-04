@@ -14,8 +14,8 @@ right_rail:
       url: /verify/assessment-protocols/
     - title: "How to Verify"
       url: /verify/how-to-verify/
-    - title: "How to Audit"
-      url: /verify/how-to-audit/
+    - title: "How to Verify by Reviewer Role"
+      url: /verify/how-to-verify-by-role/
   meta:
     type: "Manual Assessment Protocol"
     status: "Canonical"
@@ -36,4 +36,4 @@ Manual verification can begin with one of five review procedures:
 
 Detailed manual routes live under [How to Verify]({{ '/verify/how-to-verify/' | relative_url }}), [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}), [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}), and [Engage → Review the Work]({{ '/engage/review-the-work/' | relative_url }}).
 
-Reader-archetype walkthroughs (formal-methods experts, mathematicians, physicists, philosophers, prior-art specialists, journalist/skeptic readers) are gathered under [How to Verify by reviewer role]({{ '/verify/how-to-audit/' | relative_url }}).
+Reader-archetype walkthroughs (formal-methods experts, mathematicians, physicists, philosophers, prior-art specialists, journalist/skeptic readers) are gathered under [How to Verify by reviewer role]({{ '/verify/how-to-verify-by-role/' | relative_url }}).

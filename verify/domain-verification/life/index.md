@@ -21,8 +21,8 @@ right_rail:
       url: /results/problem-ledger-answers/life/origin-of-life/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
-    - title: "How to Audit (Philosopher)"
-      url: /verify/how-to-audit/philosopher/
+    - title: "How to Verify (Philosopher)"
+      url: /verify/how-to-verify-by-role/philosopher/
   meta:
     type: "Domain Verification"
     domain: "Life"
@@ -96,9 +96,9 @@ glossary_term_ids:
     <h3>Life Core Semantics</h3>
     <p>The language the theory must earn before it can answer life-domain questions — recovery targets and status.</p>
   </a>
-  <a class="v2-tile v2-tile-life" href="{{ '/verify/how-to-audit/philosopher/' | relative_url }}">
+  <a class="v2-tile v2-tile-life" href="{{ '/verify/how-to-verify-by-role/philosopher/' | relative_url }}">
     <span class="eyebrow">Audit</span>
-    <h3>How to Audit (Philosopher)</h3>
+    <h3>How to Verify (Philosopher)</h3>
     <p>Reviewer route for philosophy of biology, autopoiesis / IIT / FEP comparison, and the derivation-vs-redefinition test.</p>
   </a>
   <a class="v2-tile v2-tile-life" href="{{ '/results/life/' | relative_url }}">

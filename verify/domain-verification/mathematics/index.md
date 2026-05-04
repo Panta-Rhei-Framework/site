@@ -21,8 +21,8 @@ right_rail:
       url: /corpus/registry/
     - title: "Mathematics Results"
       url: /results/mathematics/
-    - title: "How to Audit (Mathematician)"
-      url: /verify/how-to-audit/mathematician/
+    - title: "How to Verify (Mathematician)"
+      url: /verify/how-to-verify-by-role/mathematician/
   meta:
     type: "Domain Verification"
     domain: "Mathematics"
@@ -101,9 +101,9 @@ glossary_term_ids:
     <h3>Trust Budget</h3>
     <p>What Lean's kernel trusts, where TauLib uses <code>native_decide</code>, and which theorems carry the extension.</p>
   </a>
-  <a class="v2-tile v2-tile-mathematics" href="{{ '/verify/how-to-audit/mathematician/' | relative_url }}">
+  <a class="v2-tile v2-tile-mathematics" href="{{ '/verify/how-to-verify-by-role/mathematician/' | relative_url }}">
     <span class="eyebrow">Audit</span>
-    <h3>How to Audit (Mathematician)</h3>
+    <h3>How to Verify (Mathematician)</h3>
     <p>Reviewer route for category theorists, model theorists, complex analysts, and number theorists.</p>
   </a>
   <a class="v2-tile v2-tile-mathematics" href="{{ '/results/mathematics/' | relative_url }}">
@@ -123,7 +123,7 @@ Surfaces: [TauLib]({{ '/verify/taulib/' | relative_url }}), [Formalization Statu
 ### Standard-foundation alignment
 Can selected hinge theorems be re-established in standard foundational settings (Mathlib, ZFC, classical category theory) by independent specialists?
 
-Surfaces: hinge companion pages, [Formal Methods audit route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}), and selected corpus objects.
+Surfaces: hinge companion pages, [Formal Methods audit route]({{ '/verify/how-to-verify-by-role/formal-methods/' | relative_url }}), and selected corpus objects.
 
 ### Bridge adequacy
 Do recovery and transfer claims into standard mathematics support the downstream use being made of them in physics, life, and metaphysics?
@@ -153,8 +153,8 @@ Any theorem claimed as formally certified is certified in the precise sense stat
     <strong>Formal Verification Stack</strong>
     <span>Cross-domain explanation of the four formal-verification layers.</span>
   </a>
-  <a class="v2-tile" href="{{ '/verify/how-to-audit/' | relative_url }}">
-    <strong>How to Audit (all roles)</strong>
+  <a class="v2-tile" href="{{ '/verify/how-to-verify-by-role/' | relative_url }}">
+    <strong>How to Verify (all roles)</strong>
     <span>Pick your reviewer route — formal methods, mathematician, physicist, philosopher, prior-art, or generalist.</span>
   </a>
 </div>

@@ -86,7 +86,7 @@ related_verify:
     url: "/verify/verification-framework/"
   -
     title: "Mathematician Audit Route"
-    url: "/verify/how-to-audit/mathematician/"
+    url: "/verify/how-to-verify-by-role/mathematician/"
 related_publications:
   -
     title: "Address Resolution, Not Calculation"
@@ -247,7 +247,7 @@ right_rail:
       - title: "Bridge Verification"
         url: "/verify/verification-framework/"
       - title: "Mathematician Audit Route"
-        url: "/verify/how-to-audit/mathematician/"
+        url: "/verify/how-to-verify-by-role/mathematician/"
     publications:
       - title: "Address Resolution, Not Calculation"
         url: "/publications/research-papers/address-resolution-not-calculation/"

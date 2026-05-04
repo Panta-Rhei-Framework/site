@@ -24,8 +24,8 @@ right_rail:
       url: /results/status-and-claim-typing/
     - title: "Classifications"
       url: /results/classifications/
-    - title: "Assessment Protocols / How to Audit"
-      url: /verify/how-to-audit/
+    - title: "Assessment Protocols / How to Verify"
+      url: /verify/how-to-verify-by-role/
   meta:
     type: "Criteria"
     scope: "Program-wide"

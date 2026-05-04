@@ -15,7 +15,7 @@ right_rail:
     - title: "Formalization Status"
       url: /verify/taulib/status/
     - title: "Formal Methods Audit"
-      url: /verify/how-to-audit/formal-methods/
+      url: /verify/how-to-verify-by-role/formal-methods/
     - title: "Red-team FAQ"
       url: /program/about/red-team-faq/
   meta:
@@ -69,7 +69,7 @@ Expected output lists:
 - Mathlib's trusted base (`Classical.choice`, `propext`, `Quot.sound`)
 - **Plus, if T transitively depends on a custom axiom**, the custom axiom's name.
 
-This is the diagnostic. A theorem claimed as "Internally addressed" that transitively depends on one of the three custom axioms should carry a scope label reflecting that dependency. The [Formal Methods audit route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) names this as one of the fail-fast checks.
+This is the diagnostic. A theorem claimed as "Internally addressed" that transitively depends on one of the three custom axioms should carry a scope label reflecting that dependency. The [Formal Methods audit route]({{ '/verify/how-to-verify-by-role/formal-methods/' | relative_url }}) names this as one of the fail-fast checks.
 
 <details class="deep-dive" markdown="1">
 <summary>Per-axiom technical detail — universal claim, finite-envelope check, what would close it (technical reviewer detail)</summary>
@@ -150,13 +150,13 @@ Any finding that violates (1)–(5) should be reported to the program — this w
 
 - It does not claim the three axioms will be proved in the near term. They are research-open.
 - It does not claim the finite-check bounds are adequate to persuade a number-theorist that the universal extension is plausible. The finite checks are *Lean-decidable* evidence; they are not *mathematical* proofs of the universal case.
-- It does not replace the [Formal Methods Audit route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) — that is the concrete verification protocol for the claims on this page.
+- It does not replace the [Formal Methods Audit route]({{ '/verify/how-to-verify-by-role/formal-methods/' | relative_url }}) — that is the concrete verification protocol for the claims on this page.
 - It does not claim that the compute-then-axiomatize pattern is superior to direct proof. It is a transitional form: proofs-in-progress surfaced honestly.
 
 ## Cross-links
 
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — headline axiom and `sorry` counts at pinned commit
 - [Formalization Status]({{ '/verify/taulib/status/' | relative_url }}) — per-book formalization dashboard
-- [Formal Methods Audit Route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) — step-by-step verification protocol
+- [Formal Methods Audit Route]({{ '/verify/how-to-verify-by-role/formal-methods/' | relative_url }}) — step-by-step verification protocol
 - [Red-team FAQ #3]({{ '/program/about/red-team-faq/' | relative_url }}#does-taulib-introduce-custom-axiom-declarations-beyond-mathlibs-trusted-base) — short-form answer
 - [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}) — the 4-tier scope discipline that propagates through axiom dependencies

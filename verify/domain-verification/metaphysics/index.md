@@ -21,8 +21,8 @@ right_rail:
       url: /agenda/core-semantics/metaphysics/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
-    - title: "How to Audit (Philosopher)"
-      url: /verify/how-to-audit/philosopher/
+    - title: "How to Verify (Philosopher)"
+      url: /verify/how-to-verify-by-role/philosopher/
   meta:
     type: "Domain Verification"
     domain: "Metaphysics"
@@ -96,9 +96,9 @@ glossary_term_ids:
     <h3>Metaphysics Core Semantics</h3>
     <p>The language the theory must earn before it can answer metaphysical questions — categorical recovery targets and status.</p>
   </a>
-  <a class="v2-tile v2-tile-metaphysics" href="{{ '/verify/how-to-audit/philosopher/' | relative_url }}">
+  <a class="v2-tile v2-tile-metaphysics" href="{{ '/verify/how-to-verify-by-role/philosopher/' | relative_url }}">
     <span class="eyebrow">Audit</span>
-    <h3>How to Audit (Philosopher)</h3>
+    <h3>How to Verify (Philosopher)</h3>
     <p>Reviewer route for philosophers of mind, science, ethics, and metaphysics — the derivation-vs-redefinition test.</p>
   </a>
   <a class="v2-tile v2-tile-metaphysics" href="{{ '/results/metaphysics/' | relative_url }}">

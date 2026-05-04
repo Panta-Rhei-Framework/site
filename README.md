@@ -104,7 +104,7 @@ For current formalization metrics, trusted-base details, and verification bounda
 - 🐛 **Concrete defects:** open an Issue in the relevant public repo — for example [site issues](https://github.com/Panta-Rhei-Research/site/issues), [TauLib issues](https://github.com/Panta-Rhei-Research/taulib/issues), or [publications issues](https://github.com/Panta-Rhei-Research/publications/issues).
 - 🔁 **Concrete changes:** open a Pull Request against the relevant public repo.
 - 📬 **Private, institutional, media, or sensitive contact:** use the typed routes on [`/engage/contact/`](https://panta-rhei.site/engage/contact/).
-- 🪞 **Specialist review routes:** [`/verify/assessment-protocols/`](https://panta-rhei.site/verify/assessment-protocols/) and [`/verify/how-to-audit/`](https://panta-rhei.site/verify/how-to-audit/).
+- 🪞 **Specialist review routes:** [`/verify/assessment-protocols/`](https://panta-rhei.site/verify/assessment-protocols/) and [`/verify/how-to-verify-by-role/`](https://panta-rhei.site/verify/how-to-verify-by-role/).
 - 📜 **Legal:** [`/impressum/`](https://panta-rhei.site/impressum/) · [`/datenschutz/`](https://panta-rhei.site/datenschutz/).
 
 ## 📐 Engagement Without Endorsement

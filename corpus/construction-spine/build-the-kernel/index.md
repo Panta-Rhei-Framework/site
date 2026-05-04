@@ -138,7 +138,7 @@ verification:
       url: "/verify/tcb/"
     -
       title: "Mathematician Audit Route"
-      url: "/verify/how-to-audit/mathematician/"
+      url: "/verify/how-to-verify-by-role/mathematician/"
 what_not_establish: "Step 1 builds the kernel machinery. It does not by itself establish empirical physics, biological classification, consciousness, ethics, metaphysics, final ontic closure, or every bridge to standard mathematics."
 next_step_id: "CS-02"
 tags:
@@ -236,7 +236,7 @@ right_rail:
       - title: "TCB Disclosure"
         url: "/verify/tcb/"
       - title: "Mathematician Audit Route"
-        url: "/verify/how-to-audit/mathematician/"
+        url: "/verify/how-to-verify-by-role/mathematician/"
     publications:
       - title: "The Panta Rhei Foundational Bundle"
         url: "/publications/research-papers/panta-rhei-foundational-bundle/"

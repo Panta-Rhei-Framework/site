@@ -111,7 +111,7 @@ The first three construction steps now have a dedicated reviewer route: eight fo
 <div class="btn-group section-ctas">
   <a class="btn-secondary" href="{{ '/corpus/foundational-hinges/' | relative_url }}" data-umami-event="cta.hinges" data-umami-event-location="section" data-umami-event-type="internal">Open the Foundational Hinges</a>
   <a class="btn-ghost" href="{{ '/publications/research-papers/' | relative_url }}">Research Papers</a>
-  <a class="btn-ghost" href="{{ '/verify/how-to-audit/mathematician/' | relative_url }}">Mathematician Audit Route</a>
+  <a class="btn-ghost" href="{{ '/verify/how-to-verify-by-role/mathematician/' | relative_url }}">Mathematician Audit Route</a>
 </div>
 
 ## Corpus projections

@@ -175,7 +175,7 @@
         },
         {
           "title": "Mathematician Audit Route",
-          "url": "/verify/how-to-audit/mathematician/"
+          "url": "/verify/how-to-verify-by-role/mathematician/"
         }
       ]
     },
@@ -301,7 +301,7 @@
       },
       {
         "title": "Mathematician Audit Route",
-        "url": "/verify/how-to-audit/mathematician/"
+        "url": "/verify/how-to-verify-by-role/mathematician/"
       }
     ],
     "related_publications": [
@@ -479,7 +479,7 @@
       },
       {
         "title": "Mathematician Audit Route",
-        "url": "/verify/how-to-audit/mathematician/"
+        "url": "/verify/how-to-verify-by-role/mathematician/"
       }
     ],
     "related_publications": [

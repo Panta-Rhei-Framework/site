@@ -21,7 +21,7 @@ right_rail:
       url: "/registry/dashboards/book-i/"
     -
       title: "Mathematician Audit Route"
-      url: "/verify/how-to-audit/mathematician/"
+      url: "/verify/how-to-verify-by-role/mathematician/"
   meta:
     type: "Corpus Route"
     scope: "8 foundational hinges"

@@ -17,7 +17,7 @@ right_rail:
     - title: "Formalization Status"
       url: /verify/taulib/status/
     - title: "Formal Methods Audit"
-      url: /verify/how-to-audit/formal-methods/
+      url: /verify/how-to-verify-by-role/formal-methods/
   meta:
     type: "Trust Disclosure"
     scope: "TauLib TCB extensions"
@@ -133,5 +133,5 @@ As of peer-review-fixes-v2 (2026-04-19) the per-theorem `#print axioms` output i
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit, overall axiom and `sorry` inventory
 - [Custom Axiom Inventory]({{ '/verify/custom-axioms/' | relative_url }}) — the three Book III axioms in detail
 - [Formalization Status]({{ '/verify/taulib/status/' | relative_url }}) — per-book statistics
-- [Formal Methods Audit Route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) — step-by-step verification protocol
+- [Formal Methods Audit Route]({{ '/verify/how-to-verify-by-role/formal-methods/' | relative_url }}) — step-by-step verification protocol
 - [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}) — how conjectural-axiom dependencies propagate through the registry
