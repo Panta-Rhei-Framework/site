@@ -89,6 +89,39 @@ type: "Construction Step"
 status: "Canonical"
 summary_short: "Builds internally meaningful physical semantics before empirical calibration."
 construction_step_id: "CS-05"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - ultrametric-continuum
+    - categorical-quantum-mechanics
+    - dimensional-constants-taxonomy
+    - continuum-from-discrete
+    - noncommutative-geometry
+    - internal-natural-units
+  key_references:
+    - dragovich2017padic30
+    - volovich1987padicstring
+    - khrennikov1997nonarch
+    - abramskycoecke2004
+    - coeckekissinger2017
+    - heunenvicary2019
+    - vandewetering2020zx
+    - levyleblond1977constants
+    - duffokunveneziano2002
+    - carlip2024causalsets
+    - oriti2024quantumgravity
+    - pohlmann2024mereological
+    - ishamdoering2008topos
+    - connes1994
+    - connes1999
+    - connesmoscovici1995
+    - connesmarcolli2008
+    - koblitz1977
+    - schikhof1984
+    - robertam2000
+  novelty_summary: "To the program's current knowledge, the closest external horizon for CS-05 is the Lévy-Leblond → Duff-Okun-Veneziano line on dimensionless constants combined with the p-adic mathematical-physics programme; Panta Rhei differs by deriving α = (121/225)·ι_τ⁴ at 9.8 ppm, G = (c³/ℏ)·ι_τ², and the gravitational closing identity α_G = α¹⁸·√3·(1 − (3/π)·α) from internal τ-grammar before any laboratory calibration."
+  novelty_status: internal_claim
 right_rail:
   actions: true
   metadata_links:
@@ -265,6 +298,123 @@ Step 5 develops internal physical grammar at the carrier identified in CS-04. It
 These are explicit handoffs, not concealed gaps.
 
 **This is an internal construction claim, not external acceptance.** Step 5 develops τ-physics as a closed-form internal grammar; reviewer scrutiny is invited via Books IV–V manuscripts, the Joint Core's α derivation, the gravitational closing identity, and the No Knobs Ledger from CS-04. The construction is claimed to be admissible relative to the required answer-shape; it is not claimed to be externally settled.
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+### Cluster — p-adic / ultrametric / solenoidal physics
+Relevant references:
+- volovich1987padicstring — Volovich, *p-Adic String* (1987)
+- khrennikov1997nonarch — Khrennikov, *Non-Archimedean Analysis: Quantum Paradoxes, Dynamical Systems and Biological Models* (1997)
+- dragovich2017padic30 — Dragovich, Khrennikov, Kozyrev, Volovich, Zelenov, *p-Adic Mathematical Physics: The First 30 Years* (2017)
+- koblitz1977 / schikhof1984 / robertam2000 — analytic infrastructure for non-Archimedean fields
+
+What this prior art provides:
+- The most developed external programme that takes ultrametric / non-Archimedean structure as a candidate foundation for spacetime, strings, and observables at sub-Planck scales.
+- Vocabulary for ultrametric distance, solenoidal / inverse-limit objects, and adelic completions that any internal grammar recovering τ-space must engage with.
+
+Where Panta Rhei differs:
+- This cluster typically *posits* a non-Archimedean base field at the Planck scale and quantises on it. CS-05 claims to *recover* τ-space, including the analytic-vs-discrete continuum, from the kernel without choosing a base field empirically.
+- The Joint Core (vacuum → neutron → β-decay → hydrogen) and the Hermetic Principle are not features of the standard p-adic programme.
+
+Claimed novelty:
+- To the program's current knowledge, no external p-adic / ultrametric construction derives α to ~10 ppm as `(121/225)·ι_τ⁴` from internal structure.
+
+### Cluster — Categorical quantum mechanics & process-theoretic semantics
+Relevant references:
+- abramskycoecke2004 — Abramsky & Coecke, *A Categorical Semantics of Quantum Protocols* (2004)
+- coeckekissinger2017 — Coecke & Kissinger, *Picturing Quantum Processes* (2017)
+- heunenvicary2019 — Heunen & Vicary, *Categories for Quantum Theory* (2019)
+- vandewetering2020zx — van de Wetering, *ZX-calculus for the Working Quantum Computer Scientist* (2020)
+- ishamdoering2008topos — Isham & Döring, topos-theoretic quantum theory series
+
+What this prior art provides:
+- Internal, structural semantics for quantum observables and processes — observables as morphisms in a dagger-compact or topos-internal category, rather than as operators on a chosen Hilbert space.
+- Demonstrates that non-trivial physics can be done inside an internal language without first calibrating against laboratory units.
+
+Where Panta Rhei differs:
+- CS-05's "QM as address obstruction" is not equivalent to the dagger-compact or topos-internal stance: address obstruction frames quantum behaviour as a structural feature of internal labelling, not as a choice of categorical setting.
+- τ-fields and τ-observables are claimed to inherit semantics from the τ-kernel (CS-01–CS-03) rather than from a separately chosen process category.
+
+Claimed novelty:
+- To the program's current knowledge, categorical QM has not produced a closed identity for α at ~10 ppm from internal data alone, nor a closing identity tying gravitational coupling to the fine-structure constant.
+
+### Cluster — Dimensional analysis & the conceptual status of constants
+Relevant references:
+- levyleblond1977constants — Lévy-Leblond, *On the Conceptual Nature of the Physical Constants* (1977)
+- duffokunveneziano2002 — Duff, Okun, Veneziano, *Trialogue on the Number of Fundamental Constants* (2002)
+- Sonin, *Physical Basis of Dimensional Analysis* — textbook reference
+
+What this prior art provides:
+- The threefold classification of constants (object / phenomenon / universal) and the open question of how many genuinely independent dimensional constants a complete physics needs.
+- The canonical horizon for any pre-calibration grammar that wishes to talk about c, ℏ, G without first choosing a unit system.
+
+Where Panta Rhei differs:
+- CS-05 treats c, ℏ, G as *internally constructed boundary characters* (e.g. `G = (c³/ℏ)·ι_τ²`) rather than as Lévy-Leblond Type-A or Type-B constants chosen by convention.
+- The split between internal grammar (CS-05) and measurement bridges (CS-06) is sharper than in the standard literature, which mixes conceptual and metrological constants.
+
+Claimed novelty:
+- To the program's current knowledge, the closing identity `α_G = α¹⁸·√3·(1 − (3/π)·α)` is not an outcome any standard dimensional-analysis classification predicts; it is offered as an internal claim pending external review.
+
+### Cluster — Continuum recovery from a discrete substrate
+Relevant references:
+- carlip2024causalsets — Carlip, *Causal Sets and an Emerging Continuum* (2024)
+- oriti2024quantumgravity — Oriti et al., *Quantum Gravity, Hydrodynamics and Emergent Cosmology* (2024)
+- pohlmann2024mereological — Pohlmann, *Mereological Models of Spacetime Emergence* (2024)
+
+What this prior art provides:
+- The active 2024–2026 horizon for "can a continuum be recovered from discrete data, and if so by what mechanism?"
+- Causal sets, group field theory, tensor models, and quantum lattice models all attempt this; controlling the continuum limit is the central open problem.
+
+Where Panta Rhei differs:
+- CS-05 claims continuum recovery via the analytic-vs-discrete distinction internal to the kernel and via solenoidal / ultrametric structures, with `τ¹` proper-time = geodesic arc length emerging as part of the recovery.
+- This differs from causal-set sprinkling, GFT condensate, or lattice-spacing limits in that no *external* limit parameter is tuned; the continuum is read off from internal completion data.
+
+Claimed novelty:
+- To the program's current knowledge, no external programme in this cluster has produced a closed-form identity for α at ~10 ppm or a closing identity for `α_G` as part of continuum recovery.
+
+### Cluster — Noncommutative geometry & spectral triples
+Relevant references:
+- connes1994 — Connes, *Noncommutative Geometry* (1994)
+- connes1999 / connesmoscovici1995 — local index machinery
+- connesmarcolli2008 — Connes & Marcolli, *NCG, Quantum Fields and Motives* (2008)
+
+What this prior art provides:
+- The most developed existing route from "geometry as algebra of observables" to recognisable physics: spectral triples encode metric data; the spectral-action principle recovers the Standard Model up to phenomenological inputs.
+- The natural comparative foil for any claim that fields, observables, and laws can be read off from internal algebraic structure.
+
+Where Panta Rhei differs:
+- Panta Rhei does not encode physics in a spectral triple over a chosen almost-commutative manifold; τ-fields and τ-observables are claimed to be inherited from kernel-internal addressing rather than chosen as a Dirac operator.
+- The τ-Einstein equation is presented as a *boundary-character identity* — a structural assertion about τ-grammar — rather than as a least-action stationary point of a spectral action.
+
+Claimed novelty:
+- To the program's current knowledge, the "Lorentz Without Minkowski" theorem and the Gravity-Earned holonomy-sector reading are not equivalents of Connes' derivations; they sit alongside spectral-triple work as a different carrier of internal physical structure.
+
+### Cluster — Internal / natural units and the "before-calibration" stance
+Relevant references:
+- levyleblond1977constants / duffokunveneziano2002 — also anchor Cluster C
+- Wilczek, *Absolute Units I–IV* (Physics Today, 2005–06) — secondary
+- Trinhammer & Bohr, *Beyond Planck* (2024 preprint) — relevance to verify
+
+What this prior art provides:
+- The long-running discussion of whether natural / Planck units have intrinsic meaning or are conventional, and the recurrent finding that there is no unique natural system of units — with G in particular sitting awkwardly across the constant taxonomy.
+
+Where Panta Rhei differs:
+- CS-05 claims a stronger position than "Planck units are convention": τ-time, τ-space, τ-mass, τ-energy are *constructed* internally and only *then* mapped to laboratory units in CS-06.
+- The closing identities (α, α_G, G expressed via `ι_τ²`) are presented as boundary characters of τ-grammar, not as choices of unit system.
+
+Claimed novelty:
+- To the program's current knowledge, the closest external horizon is the Lévy-Leblond → Duff-Okun-Veneziano line on dimensionless constants, but no external natural-units treatment provides a closed-form ledger of dimensionless ratios as rational functions of a single internal constant `ι_τ = 2/(π+e)`.
+
+### Inspection route
+- Bibliography clusters: ultrametric-continuum, categorical-quantum-mechanics, dimensional-constants-taxonomy, continuum-from-discrete, noncommutative-geometry, internal-natural-units.
+- Registry / TauLib / Verify: see right-rail metadata (I.D34, I.D95, I.D99; TauLib.BookI.Measure; Domain Verification: Physics; Predictions and Falsification).
+
+### Status
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
 
 ## Verification Modes
 

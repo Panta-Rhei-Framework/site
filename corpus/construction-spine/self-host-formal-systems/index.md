@@ -116,6 +116,36 @@ right_rail:
     publications:
       - title: "Publications"
         url: "/publications/"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - "Gödel coding and arithmetization of syntax"
+    - "Reflection principles and proof theory"
+    - "Metatheory in type theory (TT-in-TT, internal sconing, two-level)"
+    - "Computational reflection and proof assistants (Lean / Coq / Agda / Isabelle)"
+    - "Proof-as-act vs proof-as-static-relation (Brouwer / Heyting / Sundholm / Martin-Löf)"
+    - "Self-reference, diagonal lemma, fixed-point structure (Lawvere / Yanofsky / Smullyan)"
+  key_references:
+    - "godel1931"
+    - "tarski1936"
+    - "feferman1991"
+    - "fefermanstrahm2010"
+    - "martinlof1984"
+    - "coquandhuet1988"
+    - "altenkirchkaposi2016"
+    - "bocquetkaposisattler2023"
+    - "annenkov2023"
+    - "hottbook2013"
+    - "coq2021"
+    - "avigad2018"
+    - "demourakong2021"
+    - "lawvere1969fp"
+    - "yanofsky2003"
+    - "girard2001"
+    - "girard2016ts"
+  novelty_summary: "To the program's current knowledge, CS-09 differs from existing self-hosting work by adapting the TT-in-TT pattern to a four-valued earned-topos setting and by routing proof-validity through the Logos sector S_L (VII.D80) where it coincides with stance-stability (D ↔ C bridge VII.T80; boundary collapse VII.T81), tying proof-as-act to a reflective-structure mediator rather than to a free-standing intuitionistic ontology."
+  novelty_status: internal_claim
 ---
 
 > Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects.
@@ -224,6 +254,130 @@ Step 9 builds self-hosting under τ-discipline. Its admissibility is evaluated a
 **Unresolved boundaries.** Self-hosting is bounded; beyond Gödel/halting, the framework operates in the C-register (commitment) rather than the D-register (proof). This is structural, not a gap.
 
 **This is an internal construction claim, not external acceptance.** Step 9 builds self-hosting under τ-discipline; reviewer scrutiny is invited via the Proof-Theoretic Mirror, the Logos sector apparatus, and the TauLib representation of formal systems.
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+### Cluster — Gödel coding and arithmetization of syntax
+
+Relevant references:
+- godel1931 — arithmetization of syntax; first and second incompleteness theorems.
+- tarski1936 — undefinability of truth; metalanguage hierarchy.
+
+What this prior art provides:
+- The foundational technique by which a formal system can talk about its own syntax: encode formulas and proofs as numerals so that "is a proof of φ" becomes a primitive-recursive arithmetic predicate.
+- The standard limit theorems (incompleteness, undefinability of truth) that any self-hosting attempt must accommodate.
+- The standard distinction between object theory and metatheory and the standard hierarchy of metalanguages.
+
+Where Panta Rhei differs:
+- Self-hosting in CS-09 is not Gödel numbering. Gödel numbering encodes syntax as numerals; CS-09 hosts an object theory (ZFC, Lean kernel, τ-kernel) as a τ-internal mathematical object after CS-08 reflective structure is in place.
+- The host site is the Logos sector S_L (VII.D80) rather than a raw arithmetic stratum.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction with respect to this cluster lies in treating Gödel/Tarski limits as constraints on what self-hosting can claim — not as obstacles to self-hosting per se — and in locating the host site at S_L, where stance-stability supplies the discipline that raw-arithmetic limits prohibit.
+
+### Cluster — Reflection principles and proof theory
+
+Relevant references:
+- feferman1991 — reflection on incompleteness; reflective closure.
+- fefermanstrahm2010 — unfolding of finitist arithmetic.
+
+What this prior art provides:
+- Formalisation of the move from "S proves φ" to "φ is true" inside a richer system; reflection principles let a formal system internalise its own soundness statement without violating Gödel's second theorem outright.
+- Feferman–Strahm unfolding: a constructive route to "what S itself would endorse if it endorsed its own schemas".
+- A constructive measure of strength against which any self-hosting scheme must be calibrated.
+
+Where Panta Rhei differs:
+- Reflection-principle and unfolding work climbs a Gödel-bounded ladder from inside an arithmetic theory. The τ-kernel is a categorical/operator-theoretic primitive (CS-01), not an arithmetic theory.
+- Reflection is routed through the Logos sector S_L rather than through syntactic schema-extension.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction with respect to this cluster lies in tying reflection to a reflective-structure layer (CS-08) where proof-validity and stance-stability coincide, rather than to syntactic unfolding of an arithmetic base.
+
+### Cluster — Metatheory in type theory (TT-in-TT, internal sconing, two-level)
+
+Relevant references:
+- altenkirchkaposi2016 — type theory in type theory via quotient inductive types.
+- bocquetkaposisattler2023 — internal sconing for type-theoretic metatheorems.
+- annenkov2023 — two-level type theory (inner HoTT plus outer strict metatheory).
+- martinlof1984 — Intuitionistic Type Theory (judgmental basis).
+- coquandhuet1988 — Calculus of Constructions.
+- hottbook2013 — Homotopy Type Theory: Univalent Foundations.
+
+What this prior art provides:
+- The closest existing technical precedent for τ-self-hosting at the categorical / type-theoretic level. TT-in-TT internalises dependent type theory inside CIC; internal sconing proves metatheorems by gluing inside a presheaf category; two-level type theory cleanly separates an inner type theory from an outer strict metatheory.
+- The modern reference standard for "object theory inside the host theory".
+
+Where Panta Rhei differs:
+- The bare TT-in-TT pattern is already achieved by Altenkirch–Kaposi and Bocquet–Kaposi–Sattler; CS-09 adapts the pattern to a non-Boolean, four-valued earned-topos setting (E_τ, I.D59) rather than to standard HoTT.
+- The inner/outer separation is treated as a route through the Logos sector rather than as a purely syntactic separation.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction with respect to this cluster lies in the four-valued internal logic of the host topos and in routing the inner/outer separation through reflective-structure mediation (CS-08) rather than presenting it as a free-standing two-level construction.
+
+### Cluster — Computational reflection and proof assistants (Lean / Coq / Agda / Isabelle)
+
+Relevant references:
+- coq2021 — Coq Proof Assistant Reference Manual.
+- avigad2018 — The Lean Theorem Prover and Its Mathematics Library.
+- demourakong2021 — Lean Theorem Prover system description.
+
+What this prior art provides:
+- Working self-hosting at industrial scale: each kernel encodes an object theory (CIC for Coq/Lean; HOL for Isabelle/HOL; ITT-style for Agda) and supports computational reflection — running verified meta-procedures on internally represented formulas to discharge proof obligations.
+- The contemporary engineering benchmark (Mathlib) for "what a self-hosted formal system can carry" and the standard reference vocabulary for object theory / metatheory / kernel correctness.
+
+Where Panta Rhei differs:
+- The τ-kernel is not a Lean / Coq / Agda / Isabelle kernel; it is an operator-theoretic categorical primitive (CS-01) under four-valued internal logic.
+- ZFC is hosted as one object theory among others rather than as the ambient meta-foundation.
+- The standard kernels host themselves at construction time; the τ-kernel hosts itself only after Logos-sector mediation is available (CS-08 → CS-09).
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction with respect to this cluster lies in (a) ZFC-as-object-theory framing rather than as ambient meta-foundation, and (b) deferring kernel-self-host to a post-reflective-structure stage rather than placing it at raw kernel level.
+
+### Cluster — Proof-as-act vs proof-as-static-relation (Brouwer / Heyting / Sundholm / Martin-Löf)
+
+Relevant references:
+- martinlof1984 — Intuitionistic Type Theory (judgmental account).
+- girard2001 — Locus Solum (ludics).
+- girard2016ts — Transcendental Syntax.
+
+What this prior art provides:
+- The philosophical and technical lineage of "proof as act" against the more common "proof as static relation between premises and conclusion": Brouwer's creating subject, Heyting's BHK interpretation, Martin-Löf's judgmental meaning explanations, Sundholm's explicit articulation, and Girard's ludics / transcendental syntax.
+- The Curry–Howard correspondence as the formal bridge between proofs-as-acts and computation-as-process.
+
+Where Panta Rhei differs:
+- CS-09 commits to proof-as-act and computation-as-process and ties them to the Logos sector S_L via the D ↔ C bridge VII.T80, where proof-validity (a property of formal artefacts) and stance-stability (a property of doxastic-functional stance, CS-08) are made to coincide.
+- The boundary collapse lemma VII.T81 states that at S_L the boundary between syntactic proof-validity and semantic stance-stability collapses in a controlled way — a statement no standard proof-as-act account makes.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction with respect to this cluster lies in the D ↔ C bridge and the boundary collapse lemma: proof-as-act is tied to a reflective-structure mediator rather than to a free-standing intuitionistic ontology. This cluster is the prior-art horizon that the present step most directly engages.
+
+### Cluster — Self-reference, diagonal lemma, fixed-point structure
+
+Relevant references:
+- lawvere1969fp — Diagonal Arguments and Cartesian Closed Categories.
+- yanofsky2003 — A Universal Approach to Self-Referential Paradoxes (Lawvere unification of Cantor / Russell / Gödel / Tarski / Turing).
+
+What this prior art provides:
+- The result that the diagonal phenomenon is not an arithmetic accident but a categorical feature of any sufficiently expressive Cartesian closed setting: any kernel supporting self-reference must accommodate Lawvere fixed-point obligations.
+- A unifying framework against which any self-hosting attempt must be assessed: which diagonal phenomena does the kernel admit, which does it block, and on what structural grounds?
+
+Where Panta Rhei differs:
+- The τ-kernel admits Lawvere-style fixed-point obligations; CS-01's K-axiom cluster, the τ-topos's four-valued internal logic, and the boundary algebra together determine which diagonal phenomena are admitted.
+- The relevant point-surjection at the kernel-self-host level is licensed only at the Logos sector S_L, where stance-stability disciplines which endomorphisms can be reflected.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty of this construction with respect to this cluster lies in routing self-reference through reflective structure: self-hosting is positioned after CS-08 rather than at raw kernel level (CS-01).
+
+### Inspection route
+- Bibliography cluster
+- Registry / TauLib / Verify: see right-rail metadata
+
+### Status
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
 
 ## Verification Modes
 

@@ -112,6 +112,26 @@ right_rail:
     publications:
       - title: "Publications"
         url: "/publications/"
+prior_art:
+  scan_status: initial
+  last_scan: 2026-05-04
+  bibliography_clusters:
+    - "Ontic structural realism (Ladyman-Ross, French, Worrall, Esfeld)"
+    - "Mathematical universe hypothesis and modal-mathematical ontology (Tegmark, PSR)"
+    - "Ruliad and observer theory (Wolfram, Gorard)"
+    - "Neutral monism and Russellian monism (Russell, Strawson, Chalmers, Stoljar)"
+    - "Kant phenomena/noumena and the internal-standpoint tradition (Kant, Allison, Allais, Putnam, Nagel)"
+    - "Proof-versus-commitment and practical reason (Williams, Korsgaard, Kant practical philosophy)"
+  key_references:
+    - "ladyman2007"
+    - "french1989"
+    - "russell1905"
+    - "kant1781"
+    - "kant1788"
+    - "chalmers1995"
+    - "chalmers1996"
+  novelty_summary: "To the program's current knowledge, the distinctive editorial move of CS-10 is coupling a structural closure test (the inevitability argument VII.T55, ω-uniqueness VII.T60, and the boundary-collapse lemma VII.T81) with an explicit proof-vs-commitment closing question. Most ontological programmes either claim proof of their ontology (MUH, OSR) or carry it as background interpretive commitment (Russellian monism); CS-10 holds both registers at once, offering structural uniqueness arguments while naming the closure step as a livability question handed to the reader."
+  novelty_status: internal_claim
 ---
 
 > Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden.
@@ -256,6 +276,130 @@ These are not gaps. They are the discipline.
 **This is an internal construction claim, not external acceptance.** Step 10 evaluates whether ontic closure can be earned under τ-discipline. The Inevitability Argument (VII.T55) makes the strongest closure-test claim; the Metaphysical Problem Map honestly classifies what is resolved/reframed/open; the closing question hands off to the reader's commitment register. The construction is claimed to be admissible relative to the required answer-shape; ontic status is *evaluated*, not *assumed*.
 
 The spine ends not with a verdict but with the question that the discipline preserves intact: **what am I willing to live as true?**
+
+## 5. Prior Art & Novelty Positioning
+
+This section situates the construction step against the current bibliography and a dedicated prior-art scan. It does not claim exhaustive coverage. It identifies the main scholarly clusters against which this step should be evaluated.
+
+### Cluster A — Ontic structural realism
+
+Relevant references:
+- ladyman2007 — *Every Thing Must Go: Metaphysics Naturalized* (Ladyman, Ross, Spurrett & Collier).
+- french1989 — early structural-realist arguments from quantum identity and individuality.
+- (candidate) worrall1989structural, french2014structure, esfeldlam2008moderate, ladyman2020structuralrealismSEP, chakravartty2007metaphysics.
+
+What this prior art provides:
+- The closest contemporary philosophical position to a "relations precede relata" stance: physical structure (relations, symmetries, group-theoretic invariants) treated as ontologically fundamental, with objects either secondary or eliminable.
+- The ESR-vs-OSR axis (Worrall's epistemic structural realism contrasted with Ladyman-Ross's ontic version) supplies the standard reference frame for any ontic-closure debate.
+
+Where Panta Rhei differs:
+- Where Ladyman-Ross argues *that* OSR follows from physics-as-given, this step exhibits *how* a kernel without ambient set-theoretic externalities builds physical carriers in which relata are constructed positions inside relational structure.
+- OSR debates remain unresolved on whether free-standing structure ("relations all the way down") avoids paradox; the boundary-collapse lemma (VII.T81) and the τ-topos's four-valued internal logic offer a structural-mathematical answer rather than a metaphysical stance.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in deriving the categorical-ontology stance from the kernel construction itself rather than from a meta-level argument about the interpretation of physics.
+
+### Cluster B — Mathematical universe hypothesis and modal-mathematical ontology
+
+Relevant references:
+- (candidate) tegmark2008muh — *The Mathematical Universe* (Found. Phys. 2008).
+- (candidate) tegmark2014 — *Our Mathematical Universe*.
+- (candidate) pruss2006psr — *The Principle of Sufficient Reason: A Reassessment*.
+
+What this prior art provides:
+- Tegmark's MUH is the most ambitious contemporary "everything is mathematical structure" position: every consistent mathematical structure is taken to physically exist (Level IV multiverse).
+- The Pruss-style PSR literature anchors the "why does anything exist?" sub-cluster against which any closure test is positioned.
+
+Where Panta Rhei differs:
+- MUH posits mathematical structures and asserts their physical existence as a foundational stance; this step posits only the kernel and asks which downstream constructions earn ontic standing by uniqueness arguments (VII.T55 inevitability, VII.T60 ω-uniqueness).
+- The PSR sub-question is reframed: instead of asking why anything exists, the program asks what would have had to be different to block the construction at all, and finds via the inevitability argument that the six ontic requirements converge.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in treating ontic status as a *closure test* on specific objects (τ, ω, the boundary) rather than as an opening axiom about all mathematical existence.
+
+### Cluster C — Ruliad and observer theory
+
+Relevant references:
+- (candidate) wolfram2020physicsproject — *A Project to Find the Fundamental Theory of Physics*.
+- (candidate) wolfram2021ruliad — *The Concept of the Ruliad*.
+- (candidate) gorard2020wolfram — categorical-formal Wolfram-physics papers.
+
+What this prior art provides:
+- The Wolfram Physics Project derives physics from computational rewrite rules on hypergraphs, with the *ruliad* as the limit of all rules applied in all possible ways — a candidate "ontic totality" object.
+- Observer theory in this lineage holds that what an observer sees depends on a slice of the ruliad determined by the observer's own computational structure — a contemporary internal-standpoint argument.
+
+Where Panta Rhei differs:
+- The ruliad is the limit of *all* computational rules; this step's kernel is a finite axiom system (K0–K6) with specific generators. Closure here is derived from a *minimal* axiom cluster with stated uniqueness theorems, not from a maximal totality.
+- Observer theory locates the standpoint inside the ruliad as a sampling fact about computationally bounded observers; this step treats the internal standpoint as a structural requirement of theoryhood (CS-08), so the standpoint is built before the closure test rather than identified inside the totality.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in the closure being derived from a minimal axiom cluster with uniqueness arguments rather than from a maximal totality of rules.
+
+### Cluster D — Neutral monism and Russellian monism
+
+Relevant references:
+- russell1905 — Russell line (with the canonical neutral-monism source russell1927analysisofmatter listed as candidate).
+- (candidate) strawson2006realistic, chalmers2015panprotopsychism, stoljar2001twoconceptions, stubenberg2018neutralmonism.
+- chalmers1995, chalmers1996 — hard-problem framing that motivates the contemporary revival.
+
+What this prior art provides:
+- Neutral monism holds that the ultimate constituents of reality are neither mental nor physical but neutral. Russellian monism refines this: physics describes relational/structural properties but is silent on intrinsic nature; consciousness is a candidate for that intrinsic nature.
+- The cluster supplies the standard philosophical framing of the structure-vs-intrinsic-nature question that any ontic-closure test must address.
+
+Where Panta Rhei differs:
+- This step is closer to OSR than to Russellian monism, but it differs from OSR by being constructive rather than interpretive, and it differs from Russellian monism by denying that the intrinsic-nature gap survives kernel-level closure.
+- The boundary-collapse lemma operates as the structural climax that closes the residue: there is no "underneath" the τ-construction that the construction itself does not exhibit.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in a closure-test answer in which "relations precede relata" is a constructed result rather than a metaphysical posit, so the intrinsic-nature question is reframed rather than left open.
+
+### Cluster E — Kant's phenomena/noumena and the internal-standpoint tradition
+
+Relevant references:
+- kant1781 — *Critique of Pure Reason* (transcendental idealism; phenomena/noumena).
+- kant1788 — *Critique of Practical Reason*.
+- (candidate) allison2004kant, allais2015, stang2022kantSEP, putnam1981reason, nagel1986view.
+
+What this prior art provides:
+- Kant's distinction between phenomena (things as they appear under the conditions of cognition) and noumena (things in themselves) is the canonical philosophical formulation of the question this step must address: what can be claimed from inside the standpoint of a constructed system?
+- The two-aspect interpretation (Allison; refined by Allais) reads phenomena and noumena as two aspects of the same world under different cognitive conditions. Putnam's internal realism and Nagel's standpoint analysis bring the Kantian frame into contemporary form.
+
+Where Panta Rhei differs:
+- This step derives the standpoint structurally from CS-08 (Reflective Structure) rather than positing it as a transcendental condition. The Kantian frame says cognition has conditions; this step says theoryhood requires reflective structure, then asks what can be said from inside it.
+- The phenomena/noumena distinction is reframed: the boundary-collapse lemma is the structural form of the claim that, in this construction, the noumenal residue is not residual.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in a structural derivation of the internal standpoint that allows the noumenal residue to be addressed by construction rather than left as a transcendental given. This is offered as a contestable structural alternative, not a refutation of Kant.
+
+### Cluster F — Proof versus commitment / practical reason
+
+Relevant references:
+- kant1788 — *Critique of Practical Reason*.
+- kant1785 — *Groundwork* (tangential anchor).
+- (candidate) williams1985ethics — *Ethics and the Limits of Philosophy*.
+- (candidate) korsgaard1996sources — *The Sources of Normativity*.
+
+What this prior art provides:
+- The proof-vs-commitment distinction has a long lineage: Kant's separation of theoretical and practical reason, Williams's distinction between what philosophy can prove and what one is willing to live by, Korsgaard's reflective-endorsement model.
+- This cluster supplies the philosophical vocabulary for the step's closing question — *what am I willing to live as true?* — a question that asks for a stance taken from inside the construction rather than for further proof.
+
+Where Panta Rhei differs:
+- Most ontological programmes either claim proof of their ontology (MUH, OSR) or carry it as background interpretive commitment (Russellian monism). This step does both: the structural argument is offered as a uniqueness/inevitability result *and* the closure step is named as a commitment readers are invited to weigh.
+
+Claimed novelty:
+- To the program's current knowledge, the novelty lies in coupling structural uniqueness/inevitability (VII.T55, VII.T60, boundary collapse) with an explicit proof-vs-commitment closing question at the same step. This cluster does not contain prior art for treating an ontic closure test as simultaneously a structural theorem and a livability question — the most distinctive editorial move of CS-10.
+
+### Inspection route
+
+- Bibliography cluster
+- Registry / TauLib / Verify: see right-rail metadata
+
+### Status
+
+- Internal construction claim.
+- Prior-art scan: initial (2026-05-04).
+- External review pending.
+- Closing question handed to the reader's commitment register.
 
 ## Verification Modes
 
