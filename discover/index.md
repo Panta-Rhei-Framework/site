@@ -92,6 +92,14 @@ The public site is itself part of the research form. Package 3 explains the tech
 
 Read the [Public Research Observatory Brief]({{ '/media/public-research-observatory-brief/' | relative_url }}) or the white paper [Building a Public Research Observatory for High-Scope Open Research]({{ '/publications/white-papers/building-a-public-research-observatory/' | relative_url }}) if you want the implementation view before entering the research lanes.
 
+## AI-assisted discovery
+
+If you want an outside-in first-pass assessment, use the AI-Assisted Discovery prompts. They are copy-ready templates for generating structured orientation reports, seriousness checks, journalist briefs, route recommendations, and critical dossiers using a web-enabled LLM.
+
+These prompts are not verification, peer review, or endorsement. They are guided discovery aids that should route back into Program, Agenda, Corpus, Results, and Verify.
+
+Open the [AI-Assisted Discovery prompt catalog]({{ '/discover/ai-assisted-discovery/' | relative_url }}).
+
 ## Choose your entry
 
 <ul class="v2-grid v2-grid-2 v2-card-list">
@@ -108,7 +116,7 @@ Read the [Public Research Observatory Brief]({{ '/media/public-research-observat
 This is not a blog, not a monograph landing page, and not a documentation dump. It is organized around public research surfaces:
 
 - **Program** explains identity, doctrine, scope, status, and why the public release is built as an inspection observatory.
-- **Agenda** states the obligations: problem ledgers, recovery requirements, answer-shape burden, refusals, and construction roadmap.
+- **Agenda** states the obligations: Core Semantics, problem ledgers, answer-shape burden, refusals, and construction roadmap.
 - **Corpus** shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.
 - **Results** is where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Additional Derived Results.
 - **Verify** explains how claims can be checked, challenged, formalized, bridged, falsified, or audited.
@@ -145,3 +153,4 @@ Publications remains the stable artifact and release layer: Research Monographs,
 - [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) for the current public status mirror.
 - [Guided Tours]({{ '/discover/guided-tours/' | relative_url }}) for structured routes.
 - [Follow the Research]({{ '/discover/follow-the-research/' | relative_url }}) for Research Notes and Changelog, clearly separated.
+- [AI-Assisted Discovery]({{ '/discover/ai-assisted-discovery/' | relative_url }}) for copy-ready prompts that help critical visitors generate outside-in orientation and assessment reports using a web-enabled LLM.

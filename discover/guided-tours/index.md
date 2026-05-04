@@ -38,7 +38,7 @@ Guided Tours are structured reading and inspection routes for different levels o
   </a>
   <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <h3>Program Tour</h3>
-    <p>Research contract, Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.</p>
+    <p>Program doctrine, Agenda, Core Semantics, Problem Ledger, Kernel/Model/Reality, and Construction Roadmap.</p>
   </a>
   <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
     <h3>Corpus Tour</h3>
@@ -53,8 +53,12 @@ Guided Tours are structured reading and inspection routes for different levels o
     <p>How to inspect formalization, bridges, predictions, falsification paths, assessment protocols, and open frontiers.</p>
   </a>
   <a class="v2-tile" href="{{ '/publications/' | relative_url }}">
-    <h3>Publications Tour</h3>
-    <p>Books, white papers, Research Briefings, Research Notes, and errata.</p>
+    <h3>Artifacts &amp; Releases Tour</h3>
+    <p>Books, white papers, Research Briefings, Research Notes, released guided tours, and errata.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/discover/ai-assisted-discovery/' | relative_url }}">
+    <h3>AI-Assisted Discovery Tour</h3>
+    <p>Copy-ready prompts for outside-in orientation, seriousness checks, journalist briefs, and critical dossiers using web-enabled LLMs.</p>
   </a>
 </div>
 

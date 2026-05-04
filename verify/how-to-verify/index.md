@@ -27,6 +27,8 @@ right_rail:
       url: /verify/domain-verification/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
+    - title: "AI-Assisted Discovery"
+      url: /discover/ai-assisted-discovery/
   meta:
     type: "How to Verify"
     status: "Canonical"

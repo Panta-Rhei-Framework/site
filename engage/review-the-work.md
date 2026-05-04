@@ -31,6 +31,8 @@ right_rail:
       url: /verify/how-to-verify/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
+    - title: "AI-Assisted Discovery"
+      url: /discover/ai-assisted-discovery/
     - title: "Media Kit"
       url: /media/
     - title: "Contact"

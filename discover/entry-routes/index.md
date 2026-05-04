@@ -35,7 +35,7 @@ The site is large because the research system has several public projections. Ch
 <div class="v2-grid v2-grid-2">
   <a class="v2-tile" href="{{ '/agenda/' | relative_url }}">
     <h3>I want the big picture</h3>
-    <p>Start with Research Agenda, then read How the System Works and Construction Roadmap.</p>
+    <p>Start with Agenda, then read How the System Works and Construction Roadmap.</p>
   </a>
   <a class="v2-tile" href="{{ '/discover/key-results/' | relative_url }}">
     <h3>I want the landmark consequences first</h3>
@@ -54,7 +54,7 @@ The site is large because the research system has several public projections. Ch
     <p>Start with Progress Against Agenda, then move to Problem Ledger Answers and Recovery Target Status.</p>
   </a>
   <a class="v2-tile" href="{{ '/publications/' | relative_url }}">
-    <h3>I want the published artifacts</h3>
+    <h3>I want the artifacts and releases</h3>
     <p>Start with Publications, Books, White Papers, and Research Notes.</p>
   </a>
   <a class="v2-tile" href="{{ '/discover/follow-the-research/' | relative_url }}">
@@ -64,6 +64,10 @@ The site is large because the research system has several public projections. Ch
   <a class="v2-tile" href="{{ '/impact/' | relative_url }}">
     <h3>I want to see why this matters</h3>
     <p>Start with Impact for conditional public-good consequence surfaces.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/discover/ai-assisted-discovery/' | relative_url }}">
+    <h3>I want an AI-assisted first pass</h3>
+    <p>Use copy-ready prompts to ask a web-enabled LLM for an outside-in orientation report, seriousness check, journalist brief, or critical dossier. Start with AI-Assisted Discovery, then route to Program, Agenda, Corpus, Results, or Verify depending on the report.</p>
   </a>
 </div>
 

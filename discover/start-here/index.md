@@ -61,18 +61,19 @@ If you are new to the program, start with these four questions.
 
 For the deeper Results handoff, continue from [Key Results]({{ '/discover/key-results/' | relative_url }}) to [Landmark Results]({{ '/results/landmark-results/' | relative_url }}) and [World Readout]({{ '/results/world-readout/' | relative_url }}).
 
-For the deepest route, follow [Research Agenda]({{ '/agenda/' | relative_url }}) -> [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) -> [Results]({{ '/results/' | relative_url }}) -> [Verify]({{ '/verify/' | relative_url }}).
+For the deepest route, follow [Agenda]({{ '/agenda/' | relative_url }}) → [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) → [Results]({{ '/results/' | relative_url }}) → [Verify]({{ '/verify/' | relative_url }}).
 
-## Optional Fifth Step
+## Artifacts & Releases
 
 If you want the released artifacts first, go to [Publications]({{ '/publications/' | relative_url }}). That lane holds the books, white papers, Research Briefings, Research Notes, guided tours, errata, and archived releases.
 
 ## Visitor Profiles
 
 - If you want the broadest overview, start with [Program]({{ '/program/' | relative_url }}).
-- If you want the strongest claims first, start with [Key Results]({{ '/discover/key-results/' | relative_url }}).
+- If you want the landmark consequences first, start with [Key Results]({{ '/discover/key-results/' | relative_url }}).
 - If you want to test rigor, start with [Verify]({{ '/verify/' | relative_url }}).
-- If you want released artifacts, start with [Publications]({{ '/publications/' | relative_url }}).
+- If you want artifacts and releases, start with [Publications]({{ '/publications/' | relative_url }}).
+- If you want an AI-assisted first pass, start with [AI-Assisted Discovery]({{ '/discover/ai-assisted-discovery/' | relative_url }}).
 
 ## Next
 

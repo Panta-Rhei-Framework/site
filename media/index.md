@@ -21,6 +21,8 @@ right_rail:
   related:
   - title: Story Angles
     url: /media/story-angles/
+  - title: AI-Assisted Discovery
+    url: /discover/ai-assisted-discovery/
   - title: Journalist FAQ
     url: /media/journalist-faq/
   - title: Social Media Kit

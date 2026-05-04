@@ -23,6 +23,8 @@ primary_lanes:
         url: "/discover/big-questions/"
       - title: "How the System Works"
         url: "/discover/how-the-system-works/"
+      - title: "AI-Assisted Discovery"
+        url: "/discover/ai-assisted-discovery/"
       - title: "World Readout"
         url: "/results/world-readout/"
       - title: "Follow the Research"
