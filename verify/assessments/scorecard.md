@@ -12,8 +12,8 @@ right_rail:
       url: /verify/assessments/three-gate-rubric/
     - title: "Dossier Output Schema"
       url: /verify/assessments/dossier-schema/
-    - title: "Reviewer Workflow"
-      url: /verify/assessments/reviewer-workflow/
+    - title: "Structured Inspection Workflow"
+      url: /verify/assessments/structured-inspection-workflow/
   meta:
     type: "Assessment Protocol"
     scope: "Scoring table"
@@ -72,7 +72,7 @@ The CSV template includes additional header columns for `assessment_id`, `review
 
 ## How to Fill In the Scorecard
 
-1. **Run the protocol.** Complete the [Reviewer Workflow]({{ '/verify/assessments/reviewer-workflow/' | relative_url }}) through Step 4 (running the prompt on a frontier model with the appropriate materials loaded).
+1. **Run the protocol.** Complete the [Structured Inspection Workflow]({{ '/verify/assessments/structured-inspection-workflow/' | relative_url }}) through Step 4 (running the prompt on a frontier model with the appropriate materials loaded).
 
 2. **Score each criterion.** Read the model's output alongside the [Three-Gate Rubric]({{ '/verify/assessments/three-gate-rubric/' | relative_url }}). For each of the 17 criteria, assign a score from 0 to 4 based on the evidence visible in the public materials.
 

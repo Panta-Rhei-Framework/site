@@ -14,8 +14,8 @@ right_rail:
       url: /verify/assessments/dossier-schema/
     - title: "Assessment Scorecard"
       url: /verify/assessments/scorecard/
-    - title: "Reviewer Workflow"
-      url: /verify/assessments/reviewer-workflow/
+    - title: "Structured Inspection Workflow"
+      url: /verify/assessments/structured-inspection-workflow/
   meta:
     type: "Assessment Protocol"
     scope: "Scoring framework"
