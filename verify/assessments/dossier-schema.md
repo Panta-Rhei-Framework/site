@@ -12,8 +12,8 @@ right_rail:
       url: /verify/assessments/three-gate-rubric/
     - title: "Assessment Scorecard"
       url: /verify/assessments/scorecard/
-    - title: "Reviewer Workflow"
-      url: /verify/assessments/reviewer-workflow/
+    - title: "Structured Inspection Workflow"
+      url: /verify/assessments/structured-inspection-workflow/
   meta:
     type: "Assessment Protocol"
     scope: "Dossier structure"
