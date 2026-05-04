@@ -22,7 +22,7 @@ right_rail:
     - title: "Problem Ledger Source Policy"
       url: /agenda/problem-ledger-source-policy/
     - title: "Core Semantics / Recovery"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Kernel, Model & Reality"
       url: /agenda/kernel-model-reality/
     - title: "Construction Roadmap"
@@ -79,7 +79,7 @@ The questions are not left as broad prompts. They are organized through four Age
 
 Use [Agenda]({{ '/agenda/' | relative_url }}) for the full research contract:
 
-- Use Core Semantics for the language the theory must earn.
+- Use [Core Semantics]({{ '/agenda/core-semantics/' | relative_url }}) for the language the theory must earn.
 - Use [Problem Ledger]({{ '/agenda/problem-ledger/' | relative_url }}) for the stress-test questions.
 - Use [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}) for the answer-status and ontic burden.
 - Use [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }}) for the logical build-order.

@@ -26,7 +26,7 @@ Euclidean Geometry
 
 - Recovery status: **Partial**
 - Verification status: **Pending bridge verification**
-- Program ledger item: [MREC-M3](/agenda/recovery-requirements/mathematics/euclidean-geometry/)
+- Program ledger item: [MREC-M3](/agenda/core-semantics/mathematics/euclidean-geometry/)
 - Verification mode: `foundational_recovery_target`
 
 ## Result Summary

@@ -26,7 +26,7 @@ ZFC as Object Theory
 
 - Recovery status: **Partial**
 - Verification status: **Pending bridge verification**
-- Program ledger item: [MREC-M4](/agenda/recovery-requirements/mathematics/zfc-as-object-theory/)
+- Program ledger item: [MREC-M4](/agenda/core-semantics/mathematics/zfc-as-object-theory/)
 - Verification mode: `foundational_recovery_target`
 
 ## Result Summary

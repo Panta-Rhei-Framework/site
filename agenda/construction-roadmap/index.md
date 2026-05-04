@@ -21,7 +21,7 @@ right_rail:
     - title: "Problem Ledger"
       url: /agenda/problem-ledger/
     - title: "Recovery Requirements"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Verify the Construction Spine"
       url: /verify/construction-spine-verification/
     - title: "Corpus Construction Spine"

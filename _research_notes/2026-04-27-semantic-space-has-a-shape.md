@@ -60,7 +60,7 @@ relations:
       url: /verify/construction-spine-verification/
   recovery:
     - title: "Language, Symbol, and Narrative"
-      url: /agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/
+      url: /agenda/core-semantics/metaphysics/language-symbol-and-narrative/
   publications:
     - title: "Book VII: Categorical Language and Meaning"
       url: /publications/books/book-vii/part-05-categorical-language-meaning/

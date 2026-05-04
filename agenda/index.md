@@ -28,7 +28,7 @@ hero_ctas:
     url: /agenda/problem-ledger/
     primary: true
   - label: "Recovery Requirements"
-    url: /agenda/recovery-requirements/
+    url: /agenda/core-semantics/
   - label: "Kernel, Model & Reality"
     url: /agenda/kernel-model-reality/
   - label: "Construction Roadmap"
@@ -44,7 +44,7 @@ right_rail:
     - title: "Problem Ledger Source Policy"
       url: /agenda/problem-ledger-source-policy/
     - title: "Recovery Requirements"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Kernel, Model & Reality"
       url: /agenda/kernel-model-reality/
     - title: "Construction Roadmap"
@@ -85,7 +85,7 @@ Package 2 states the doctrine-level version of this burden in [The Shape of a Th
     <strong>Problem Ledger</strong>
     <span>Open and foundational problem spaces the program agrees to keep visible.</span>
   </a>
-  <a class="v2-tile" href="{{ '/agenda/recovery-requirements/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/agenda/core-semantics/' | relative_url }}">
     <strong>Recovery Requirements</strong>
     <span>Known structures the kernel must recover before answers can be taken seriously.</span>
   </a>
@@ -109,7 +109,7 @@ The Research Agenda is the program's public obligation layer. It states what the
 
 <div class="btn-group section-ctas">
   <a class="btn-secondary" href="{{ '/agenda/problem-ledger/' | relative_url }}">Open the Problem Ledger</a>
-  <a class="btn-ghost" href="{{ '/agenda/recovery-requirements/' | relative_url }}">Read Recovery Requirements</a>
+  <a class="btn-ghost" href="{{ '/agenda/core-semantics/' | relative_url }}">Read Recovery Requirements</a>
   <a class="btn-ghost" href="{{ '/agenda/kernel-model-reality/' | relative_url }}">Explore Kernel, Model & Reality</a>
   <a class="btn-ghost" href="{{ '/agenda/construction-roadmap/' | relative_url }}">Follow the Construction Roadmap</a>
 </div>
@@ -197,7 +197,7 @@ This section treats ontic status as a burden, not a premise. It takes the phenom
 Together, these four surfaces define the public research contract:
 
 - the [Problem Ledger]({{ '/agenda/problem-ledger/' | relative_url }}) asks what open questions the program accepts as stress tests
-- the [Recovery Requirements]({{ '/agenda/recovery-requirements/' | relative_url }}) ask what known structures the kernel must recover
+- the [Recovery Requirements]({{ '/agenda/core-semantics/' | relative_url }}) ask what known structures the kernel must recover
 - [Kernel, Model & Reality]({{ '/agenda/kernel-model-reality/' | relative_url }}) asks what shape of answer could earn ontic seriousness
 - the [Construction Roadmap]({{ '/agenda/construction-roadmap/' | relative_url }}) states the logical build-order implied by those obligations
 
@@ -249,7 +249,7 @@ The pillar pages provide the detailed machinery behind the Research Agenda.
     </a>
   </li>
   <li>
-    <a class="v2-tile" href="{{ '/agenda/recovery-requirements/' | relative_url }}">
+    <a class="v2-tile" href="{{ '/agenda/core-semantics/' | relative_url }}">
       <strong>Recovery Requirements</strong>
       <span>Known structures the kernel must recover without treating them as open-problem stress tests.</span>
     </a>

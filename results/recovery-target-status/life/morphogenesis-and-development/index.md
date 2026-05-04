@@ -26,7 +26,7 @@ Morphogenesis and Development
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L6](/agenda/recovery-requirements/life/morphogenesis-and-development/)
+- Program ledger item: [LREC-L6](/agenda/core-semantics/life/morphogenesis-and-development/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

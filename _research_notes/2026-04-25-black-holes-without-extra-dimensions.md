@@ -62,7 +62,7 @@ relations:
       url: /verify/taulib/
   recovery:
     - title: "Physics Recovery Requirements"
-      url: /agenda/recovery-requirements/physics/
+      url: /agenda/core-semantics/physics/
   publications:
     - title: "Books"
       url: /publications/books/

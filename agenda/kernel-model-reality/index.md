@@ -29,7 +29,7 @@ right_rail:
     - title: "Problem Ledger"
       url: /agenda/problem-ledger/
     - title: "Recovery Requirements"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Result Criteria"
       url: /agenda/result-criteria/
     - title: "Verification Framework"
@@ -109,7 +109,7 @@ The gap between these levels is not treated as a decorative philosophical caveat
 
 The [Problem Ledger]({{ '/agenda/problem-ledger/' | relative_url }}) records open questions the program accepts as public stress tests.
 
-The [Recovery Requirements]({{ '/agenda/recovery-requirements/' | relative_url }}) record known structures the kernel must not break.
+The [Recovery Requirements]({{ '/agenda/core-semantics/' | relative_url }}) record known structures the kernel must not break.
 
 Kernel, Model & Reality asks a still deeper question: what sort of answer would make either ledger matter ontologically, rather than merely as a useful classificatory exercise?
 

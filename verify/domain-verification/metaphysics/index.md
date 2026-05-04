@@ -18,7 +18,7 @@ right_rail:
     - title: "Kernel, Model & Reality"
       url: /agenda/kernel-model-reality/
     - title: "Metaphysics Recovery Requirements"
-      url: /agenda/recovery-requirements/metaphysics/
+      url: /agenda/core-semantics/metaphysics/
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
     - title: "How to Audit (Philosopher)"
@@ -91,7 +91,7 @@ glossary_term_ids:
     <h3>Metaphysics Glossary</h3>
     <p>68 entries across registers / principles / architecture / ontology / commitment / phenomenology.</p>
   </a>
-  <a class="v2-tile v2-tile-metaphysics" href="{{ '/agenda/recovery-requirements/metaphysics/' | relative_url }}">
+  <a class="v2-tile v2-tile-metaphysics" href="{{ '/agenda/core-semantics/metaphysics/' | relative_url }}">
     <span class="eyebrow">Recovery</span>
     <h3>Metaphysics Recovery Requirements</h3>
     <p>Categorical structures the kernel must rederive (recovery targets + status).</p>

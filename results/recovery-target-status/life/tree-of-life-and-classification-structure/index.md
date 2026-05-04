@@ -26,7 +26,7 @@ Tree-of-Life and Classification Structure
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L7](/agenda/recovery-requirements/life/tree-of-life-and-classification-structure/)
+- Program ledger item: [LREC-L7](/agenda/core-semantics/life/tree-of-life-and-classification-structure/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

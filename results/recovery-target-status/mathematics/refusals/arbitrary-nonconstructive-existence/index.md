@@ -26,7 +26,7 @@ Arbitrary Nonconstructive Existence
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R4](/agenda/recovery-requirements/mathematics/refusals/arbitrary-nonconstructive-existence/)
+- Program ledger item: [MREF-R4](/agenda/core-semantics/mathematics/refusals/arbitrary-nonconstructive-existence/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary
