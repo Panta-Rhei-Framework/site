@@ -26,7 +26,7 @@ Ultimate Boundary, Closure, and the Question of Why
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R11](/agenda/recovery-requirements/metaphysics/ultimate-boundary-closure-and-the-question-of-why/)
+- Program ledger item: [METH-R11](/agenda/core-semantics/metaphysics/ultimate-boundary-closure-and-the-question-of-why/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

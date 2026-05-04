@@ -26,7 +26,7 @@ Unrestricted Power Set Formation
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R1](/agenda/recovery-requirements/mathematics/refusals/unrestricted-power-set-formation/)
+- Program ledger item: [MREF-R1](/agenda/core-semantics/mathematics/refusals/unrestricted-power-set-formation/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

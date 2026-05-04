@@ -26,7 +26,7 @@ Empirical Observability and Measurement
 
 - Recovery status: **Partial**
 - Verification status: **Pending physics verification**
-- Program ledger item: [PREC-P7](/agenda/recovery-requirements/physics/empirical-observability-and-measurement/)
+- Program ledger item: [PREC-P7](/agenda/core-semantics/physics/empirical-observability-and-measurement/)
 - Verification mode: `observability_and_measurement_review`
 
 ## Result Summary

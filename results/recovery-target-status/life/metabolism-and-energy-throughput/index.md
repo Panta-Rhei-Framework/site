@@ -26,7 +26,7 @@ Metabolism and Energy Throughput
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L2](/agenda/recovery-requirements/life/metabolism-and-energy-throughput/)
+- Program ledger item: [LREC-L2](/agenda/core-semantics/life/metabolism-and-energy-throughput/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

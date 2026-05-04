@@ -26,7 +26,7 @@ Evolution and Adaptive Search
 
 - Recovery status: **Partial**
 - Verification status: **Pending life verification**
-- Program ledger item: [LREC-L5](/agenda/recovery-requirements/life/evolution-and-adaptive-search/)
+- Program ledger item: [LREC-L5](/agenda/core-semantics/life/evolution-and-adaptive-search/)
 - Verification mode: `life_structural_recovery_target`
 
 ## Result Summary

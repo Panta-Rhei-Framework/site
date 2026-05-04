@@ -26,7 +26,7 @@ Unrestricted Comprehension
 
 - Recovery status: **Not Applicable**
 - Verification status: **Not yet verified**
-- Program ledger item: [MREF-R2](/agenda/recovery-requirements/mathematics/refusals/unrestricted-comprehension/)
+- Program ledger item: [MREF-R2](/agenda/core-semantics/mathematics/refusals/unrestricted-comprehension/)
 - Verification mode: `coherence_constraint`
 
 ## Result Summary

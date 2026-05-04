@@ -27,7 +27,7 @@ right_rail:
     - title: "Problem Ledger"
       url: /agenda/problem-ledger/
     - title: "Recovery Requirements"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Result Criteria"
       url: /agenda/result-criteria/
     - title: "Assessment Protocols / How to Audit"

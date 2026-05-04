@@ -13,7 +13,7 @@ right_rail:
     - title: "Verification Framework"
       url: /verify/verification-framework/
     - title: "Core Semantics"
-      url: /agenda/recovery-requirements/
+      url: /agenda/core-semantics/
     - title: "Result Criteria"
       url: /agenda/result-criteria/
     - title: "How to Verify"

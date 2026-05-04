@@ -110,7 +110,7 @@ layout: default
     <h2>Related Recovery Targets</h2>
     <div class="dep-list">
       {% for target_id in page.related_recovery_targets %}
-      {% assign matches = site.recovery_requirements | where: "canonical_recovery_id", target_id %}
+      {% assign matches = site.core_semantics | where: "canonical_recovery_id", target_id %}
       {% assign target = matches | first %}
       {% if target %}
       <a class="dep-link" href="{{ target.url | relative_url }}">

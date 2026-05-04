@@ -26,7 +26,7 @@ Language, Symbol, and Narrative
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R9](/agenda/recovery-requirements/metaphysics/language-symbol-and-narrative/)
+- Program ledger item: [METH-R9](/agenda/core-semantics/metaphysics/language-symbol-and-narrative/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary

@@ -26,7 +26,7 @@ Causality, Explanation, and Constraint
 
 - Recovery status: **Partial**
 - Verification status: **Pending metaphysics verification**
-- Program ledger item: [METH-R4](/agenda/recovery-requirements/metaphysics/causality-explanation-and-constraint/)
+- Program ledger item: [METH-R4](/agenda/core-semantics/metaphysics/causality-explanation-and-constraint/)
 - Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary
